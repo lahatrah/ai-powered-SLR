@@ -1,0 +1,3515 @@
+vector,source_type,country,year,y,x
+Aedes aegypti,18117,Thailand,2010.0,15.1,104.58
+Aedes aegypti,18117,Thailand,2010.0,15.13,104.58
+Aedes aegypti,18118,Nigeria,2011.0,7.77,4.57
+Aedes aegypti,18119,Congo,2011.0,-4.31,15.19
+Aedes aegypti,18119,Congo,2011.0,-4.26,15.2
+Aedes aegypti,18120,Malaysia,2007.0,3.03,101.25
+Aedes aegypti,18120,Malaysia,2008.0,3.03,101.25
+Aedes aegypti,18121,India,2008.0,22.57,88.36
+Aedes aegypti,18122,Malaysia,2010.0,5.37,100.31
+Aedes aegypti,18123,C?te d'Ivoire,2010.0,5.27,-4.01
+Aedes aegypti,18124,Brazil,2008.0,-3.05,-59.94
+Aedes aegypti,18124,Brazil,2009.0,-3.05,-59.94
+Aedes aegypti,18124,Brazil,2010.0,-3.05,-59.94
+Aedes aegypti,18124,Brazil,2011.0,-3.05,-59.94
+Aedes aegypti,18125,Philippines,2008.0,10.42,123.89
+Aedes aegypti,18125,Philippines,2008.0,10.42,123.9
+Aedes aegypti,18125,Philippines,2008.0,10.43,123.87
+Aedes aegypti,18125,Philippines,2008.0,10.43,123.89
+Aedes aegypti,18125,Philippines,2008.0,10.43,123.88
+Aedes aegypti,18126,Malaysia,0.0,3.14,101.69
+Aedes aegypti,18128,Tonga,2011.0,-21.15,-175.22
+Aedes aegypti,18129,India,2010.0,22.57,88.36
+Aedes aegypti,18130,Malaysia,2007.0,3.04,101.5
+Aedes aegypti,18130,Malaysia,2007.0,3.04,101.51
+Aedes aegypti,18130,Malaysia,2008.0,3.04,101.5
+Aedes aegypti,18130,Malaysia,2008.0,3.04,101.51
+Aedes aegypti,18131,Central African Republic,2010.0,4.37,18.55
+Aedes aegypti,18131,Central African Republic,2010.0,5.05,21.2
+Aedes aegypti,18131,Central African Republic,2010.0,5.27,17.65
+Aedes aegypti,18131,Central African Republic,2010.0,5.64,18.91
+Aedes aegypti,18132,Mexico,2007.0,14.84,-92.19
+Aedes aegypti,18133,Thailand,2010.0,14.34,98.99
+Aedes aegypti,18133,Thailand,2010.0,16.41,102.85
+Aedes aegypti,18133,Thailand,2010.0,17.85,102.58
+Aedes aegypti,18134,Cameroon,2009.0,3.84,11.5
+Aedes aegypti,18135,Madagascar,2007.0,-20.07,44.66
+Aedes aegypti,18135,Madagascar,2007.0,-15.7,46.33
+Aedes aegypti,18135,Madagascar,2007.0,-12.62,49.15
+Aedes aegypti,18135,Madagascar,2008.0,-20.07,44.66
+Aedes aegypti,18135,Madagascar,2008.0,-15.7,46.33
+Aedes aegypti,18135,Madagascar,2008.0,-12.62,49.15
+Aedes aegypti,18135,Madagascar,2009.0,-20.07,44.66
+Aedes aegypti,18135,Madagascar,2009.0,-15.7,46.33
+Aedes aegypti,18135,Madagascar,2009.0,-12.62,49.15
+Aedes aegypti,18136,India,2005.0,15.4,74.02
+Aedes aegypti,18136,India,2006.0,15.4,74.02
+Aedes aegypti,18137,Mexico,2011.0,21.15,-86.89
+Aedes aegypti,18138,Gabon,2010.0,-0.5,13.1
+Aedes aegypti,18139,Sri Lanka,2008.0,7.73,81.7
+Aedes aegypti,18139,Sri Lanka,2008.0,9.68,80.02
+Aedes aegypti,18139,Sri Lanka,2010.0,7.77,81.61
+Aedes aegypti,18139,Sri Lanka,2010.0,9.68,80.02
+Aedes aegypti,18139,Sri Lanka,2011.0,9.67,80.03
+Aedes aegypti,18140,Malaysia,0.0,5.35,100.3
+Aedes aegypti,18141,India,2010.0,24.47,85.6
+Aedes aegypti,18142,Mayotte,2006.0,-12.85,45.11
+Aedes aegypti,18142,Mayotte,2006.0,-12.84,45.12
+Aedes aegypti,18142,Madagascar,2007.0,-23.07,44.2
+Aedes aegypti,18142,R?union,2007.0,-21.18,55.31
+Aedes aegypti,18142,Madagascar,2007.0,-12.91,49.13
+Aedes aegypti,18142,Mayotte,2007.0,-12.78,45.21
+Aedes aegypti,18142,Mayotte,2007.0,-12.72,45.11
+Aedes aegypti,18142,Comoros,2007.0,-11.7,43.25
+Aedes aegypti,18142,Glorioso Island,2007.0,-11.57,47.29
+Aedes aegypti,18142,Comoros,2007.0,-11.55,43.39
+Aedes aegypti,18142,R?union,2008.0,-21.18,55.31
+Aedes aegypti,18143,Brazil,2007.0,-15.58,-56.08
+Aedes aegypti,18143,Brazil,2008.0,-15.58,-56.08
+Aedes aegypti,18144,India,2008.0,28.7,77.22
+Aedes aegypti,18144,India,2008.0,28.7,77.1
+Aedes aegypti,18144,India,2009.0,28.51,77.22
+Aedes aegypti,18144,India,2009.0,28.6,77.16
+Aedes aegypti,18144,India,2009.0,28.62,77.3
+Aedes aegypti,18144,India,2009.0,28.64,77.21
+Aedes aegypti,18144,India,2009.0,28.66,77.2
+Aedes aegypti,18144,India,2009.0,28.67,77.07
+Aedes aegypti,18144,India,2009.0,28.68,77.22
+Aedes aegypti,18144,India,2009.0,28.68,77.21
+Aedes aegypti,18144,India,2009.0,28.7,77.1
+Aedes aegypti,18144,India,2009.0,28.72,77.17
+Aedes aegypti,18144,India,2009.0,28.75,77.21
+Aedes aegypti,18145,Malaysia,2008.0,3.57,101.89
+Aedes aegypti,18145,Malaysia,2009.0,3.57,101.89
+Aedes aegypti,18145,Malaysia,2009.0,3.57,101.88
+Aedes aegypti,18146,Gabon,2007.0,0.39,9.45
+Aedes aegypti,18146,Cameroon,2007.0,3.87,11.52
+Aedes aegypti,18146,Cameroon,2007.0,8.25,13.82
+Aedes aegypti,18147,Singapore,2009.0,1.35,103.82
+Aedes aegypti,18148,Madagascar,2008.0,-16.34,46.85
+Aedes aegypti,18148,Madagascar,2008.0,-16.12,47.1
+Aedes aegypti,18149,Mexico,2006.0,14.87,-92.43
+Aedes aegypti,18149,Mexico,2006.0,14.88,-92.23
+Aedes aegypti,18151,Malaysia,2007.0,3.02,101.25
+Aedes aegypti,18151,Malaysia,2007.0,3.04,101.28
+Aedes aegypti,18151,Malaysia,2008.0,3.02,101.25
+Aedes aegypti,18152,Malaysia,2009.0,5.41,100.31
+Aedes aegypti,18153,Malaysia,2001.0,1.75,104.07
+Aedes aegypti,18154,Cameroon,2006.0,4.05,9.7
+Aedes aegypti,18154,Cameroon,2006.0,9.3,13.4
+Aedes aegypti,18154,Cameroon,2007.0,3.85,11.5
+Aedes aegypti,18155,Nigeria,2005.0,7.15,3.36
+Aedes aegypti,18155,Nigeria,2006.0,7.15,3.36
+Aedes aegypti,18156,Mayotte,2006.0,-12.79,45.29
+Aedes aegypti,18158,Thailand,2009.0,7.18,100.61
+Aedes aegypti,18160,Singapore,2008.0,1.31,103.85
+Aedes aegypti,18160,Singapore,2008.0,1.38,103.83
+Aedes aegypti,18160,Singapore,2008.0,1.41,103.76
+Aedes aegypti,18160,Singapore,2008.0,1.42,103.75
+Aedes aegypti,18160,Singapore,2008.0,1.43,103.76
+Aedes aegypti,18161,Gabon,2007.0,-0.83,12.72
+Aedes aegypti,18161,Gabon,2007.0,0.31,9.51
+Aedes aegypti,18161,Gabon,2007.0,0.37,9.46
+Aedes aegypti,18161,Gabon,2007.0,0.38,9.46
+Aedes aegypti,18161,Gabon,2007.0,0.39,9.48
+Aedes aegypti,18161,Gabon,2007.0,0.4,9.48
+Aedes aegypti,18161,Gabon,2007.0,0.41,9.52
+Aedes aegypti,18161,Gabon,2007.0,0.41,9.46
+Aedes aegypti,18161,Gabon,2007.0,0.41,9.44
+Aedes aegypti,18161,Gabon,2007.0,0.43,9.47
+Aedes aegypti,18161,Gabon,2007.0,0.43,9.49
+Aedes aegypti,18161,Gabon,2007.0,0.44,9.44
+Aedes aegypti,18161,Gabon,2007.0,0.44,9.5
+Aedes aegypti,18161,Gabon,2007.0,0.47,9.41
+Aedes aegypti,18161,Gabon,2007.0,0.49,9.4
+Aedes aegypti,18161,Gabon,2007.0,0.99,9.59
+Aedes aegypti,18161,Gabon,2007.0,1.6,11.58
+Aedes aegypti,18161,Cameroon,2007.0,3.8,10.13
+Aedes aegypti,18161,Cameroon,2007.0,3.85,10.52
+Aedes aegypti,18161,Cameroon,2007.0,3.87,11.52
+Aedes aegypti,18161,Cameroon,2007.0,3.91,12.53
+Aedes aegypti,18161,Cameroon,2007.0,3.98,13.17
+Aedes aegypti,18161,Cameroon,2007.0,4.05,9.7
+Aedes aegypti,18161,Cameroon,2007.0,4.17,9.23
+Aedes aegypti,18161,Cameroon,2007.0,4.58,13.68
+Aedes aegypti,18161,Cameroon,2007.0,4.75,11.22
+Aedes aegypti,18161,Cameroon,2007.0,5.14,10.52
+Aedes aegypti,18161,Cameroon,2007.0,5.47,10.42
+Aedes aegypti,18161,Cameroon,2007.0,5.89,14.55
+Aedes aegypti,18161,Cameroon,2007.0,5.96,10.16
+Aedes aegypti,18161,Cameroon,2007.0,6.52,14.29
+Aedes aegypti,18161,Cameroon,2007.0,7.32,13.58
+Aedes aegypti,18161,Cameroon,2007.0,7.86,13.6
+Aedes aegypti,18161,Cameroon,2007.0,9.3,13.4
+Aedes aegypti,18161,Cameroon,2007.0,10.58,14.33
+Aedes aegypti,18161,Cameroon,2007.0,12.08,15.03
+Aedes aegypti,18162,Indonesia,2004.0,-7.26,112.75
+Aedes aegypti,18163,India,2006.0,10.07,73.64
+Aedes aegypti,18164,Gabon,2007.0,0.44,9.43
+Aedes aegypti,18165,Thailand,2005.0,16.37,99.63
+Aedes aegypti,18165,Thailand,2005.0,16.52,99.5
+Aedes aegypti,18166,Viet Nam,2006.0,12.24,109.19
+Aedes aegypti,18166,Viet Nam,2006.0,12.27,109.19
+Aedes aegypti,18166,Viet Nam,2007.0,12.24,109.19
+Aedes aegypti,18166,Viet Nam,2007.0,12.27,109.19
+Aedes aegypti,18167,Viet Nam,2006.0,10.96,106.96
+Aedes aegypti,18167,Viet Nam,2006.0,11.22,108.43
+Aedes aegypti,18167,Viet Nam,2006.0,11.61,108.99
+Aedes aegypti,18167,Viet Nam,2006.0,11.92,109.15
+Aedes aegypti,18167,Viet Nam,2006.0,12.28,109.19
+Aedes aegypti,18167,Viet Nam,2006.0,13.56,109.25
+Aedes aegypti,18167,Viet Nam,2006.0,13.8,109.15
+Aedes aegypti,18167,Viet Nam,2006.0,13.89,109.12
+Aedes aegypti,18167,Viet Nam,2006.0,14.65,109.06
+Aedes aegypti,18167,Viet Nam,2006.0,15.33,108.74
+Aedes aegypti,18167,Viet Nam,2006.0,15.41,108.68
+Aedes aegypti,18167,Viet Nam,2006.0,16.03,108.19
+Aedes aegypti,18167,Viet Nam,2006.0,16.13,108.12
+Aedes aegypti,18167,Viet Nam,2006.0,16.27,108.02
+Aedes aegypti,18167,Viet Nam,2006.0,17.05,107.03
+Aedes aegypti,18167,Viet Nam,2006.0,17.46,106.63
+Aedes aegypti,18167,Viet Nam,2006.0,17.7,106.44
+Aedes aegypti,18167,Viet Nam,2006.0,17.92,106.47
+Aedes aegypti,18167,Viet Nam,2006.0,19.45,105.78
+Aedes aegypti,18167,Viet Nam,2006.0,19.49,105.81
+Aedes aegypti,18167,Viet Nam,2006.0,19.57,105.81
+Aedes aegypti,18167,Viet Nam,2007.0,8.94,105.01
+Aedes aegypti,18167,Viet Nam,2007.0,9.16,105.22
+Aedes aegypti,18167,Viet Nam,2007.0,9.24,105.48
+Aedes aegypti,18167,Viet Nam,2007.0,9.66,105.93
+Aedes aegypti,18167,Viet Nam,2007.0,9.81,105.82
+Aedes aegypti,18167,Viet Nam,2007.0,10.27,105.92
+Aedes aegypti,18167,Viet Nam,2007.0,10.41,106.07
+Aedes aegypti,18167,Viet Nam,2007.0,10.61,106.45
+Aedes aegypti,18167,Viet Nam,2007.0,10.66,106.56
+Aedes aegypti,18167,Viet Nam,2007.0,10.94,107.12
+Aedes aegypti,18167,Viet Nam,2007.0,10.95,106.99
+Aedes aegypti,18167,Viet Nam,2007.0,10.99,106.65
+Aedes aegypti,18167,Viet Nam,2007.0,11.22,108.5
+Aedes aegypti,18167,Viet Nam,2007.0,11.43,106.86
+Aedes aegypti,18167,Viet Nam,2007.0,11.46,106.88
+Aedes aegypti,18167,Viet Nam,2007.0,11.55,106.9
+Aedes aegypti,18167,Viet Nam,2007.0,11.59,108.95
+Aedes aegypti,18167,Viet Nam,2007.0,11.71,107.1
+Aedes aegypti,18167,Viet Nam,2007.0,11.75,108.39
+Aedes aegypti,18167,Viet Nam,2007.0,11.76,107.01
+Aedes aegypti,18167,Viet Nam,2007.0,11.8,107.19
+Aedes aegypti,18167,Viet Nam,2007.0,11.81,106.95
+Aedes aegypti,18167,Viet Nam,2007.0,11.98,107.59
+Aedes aegypti,18167,Viet Nam,2007.0,11.99,107.67
+Aedes aegypti,18167,Viet Nam,2007.0,12.18,108.14
+Aedes aegypti,18167,Viet Nam,2007.0,12.4,109.18
+Aedes aegypti,18167,Viet Nam,2007.0,12.55,109.17
+Aedes aegypti,18167,Viet Nam,2007.0,12.61,107.92
+Aedes aegypti,18167,Viet Nam,2007.0,12.69,108.11
+Aedes aegypti,18167,Viet Nam,2007.0,13.96,109.07
+Aedes aegypti,18167,Viet Nam,2007.0,15.79,108.32
+Aedes aegypti,18167,Viet Nam,2007.0,16.52,107.48
+Aedes aegypti,18167,Viet Nam,2007.0,16.7,107.23
+Aedes aegypti,18167,Viet Nam,2007.0,16.81,107.12
+Aedes aegypti,18167,Viet Nam,2007.0,18.46,105.77
+Aedes aegypti,18167,Viet Nam,2007.0,19.38,105.74
+Aedes aegypti,18167,Viet Nam,2008.0,8.78,105.0
+Aedes aegypti,18167,Viet Nam,2008.0,9.66,105.93
+Aedes aegypti,18167,Viet Nam,2008.0,10.54,106.39
+Aedes aegypti,18167,Viet Nam,2008.0,10.99,106.65
+Aedes aegypti,18167,Viet Nam,2008.0,11.54,106.91
+Aedes aegypti,18167,Viet Nam,2008.0,11.61,108.99
+Aedes aegypti,18167,Viet Nam,2008.0,11.66,106.9
+Aedes aegypti,18167,Viet Nam,2008.0,11.79,107.18
+Aedes aegypti,18167,Viet Nam,2008.0,11.81,106.95
+Aedes aegypti,18167,Viet Nam,2008.0,12.19,109.17
+Aedes aegypti,18167,Viet Nam,2008.0,12.29,109.19
+Aedes aegypti,18167,Viet Nam,2008.0,12.31,107.48
+Aedes aegypti,18167,Viet Nam,2008.0,12.4,109.18
+Aedes aegypti,18167,Viet Nam,2008.0,12.42,107.58
+Aedes aegypti,18167,Viet Nam,2008.0,12.76,108.73
+Aedes aegypti,18168,India,2007.0,29.08,79.52
+Aedes aegypti,18169,Thailand,2007.0,13.86,100.51
+Aedes aegypti,18170,Argentina,2010.0,-34.7,-58.39
+Aedes aegypti,18170,Argentina,2010.0,-34.66,-58.68
+Aedes aegypti,18171,Mexico,2010.0,20.12,-88.93
+Aedes aegypti,18171,Mexico,2010.0,20.2,-89.28
+Aedes aegypti,18171,Mexico,2010.0,20.31,-89.43
+Aedes aegypti,18171,Mexico,2010.0,20.4,-89.55
+Aedes aegypti,18171,Mexico,2010.0,20.59,-90.0
+Aedes aegypti,18171,Mexico,2010.0,20.66,-87.94
+Aedes aegypti,18171,Mexico,2010.0,20.69,-88.22
+Aedes aegypti,18171,Mexico,2010.0,20.77,-88.39
+Aedes aegypti,18171,Mexico,2010.0,20.94,-89.56
+Aedes aegypti,18171,Mexico,2010.0,21.0,-89.7
+Aedes aegypti,18171,Mexico,2010.0,21.02,-89.88
+Aedes aegypti,18171,Mexico,2010.0,21.09,-89.29
+Aedes aegypti,18171,Mexico,2010.0,21.15,-88.15
+Aedes aegypti,18171,Mexico,2010.0,21.28,-89.68
+Aedes aegypti,18171,Mexico,2011.0,20.46,-89.22
+Aedes aegypti,18171,Mexico,2011.0,20.47,-89.08
+Aedes aegypti,18171,Mexico,2011.0,20.73,-89.17
+Aedes aegypti,18171,Mexico,2011.0,20.77,-89.21
+Aedes aegypti,18171,Mexico,2011.0,20.83,-89.19
+Aedes aegypti,18171,Mexico,2011.0,20.87,-89.21
+Aedes aegypti,18171,Mexico,2011.0,20.87,-88.99
+Aedes aegypti,18171,Mexico,2011.0,20.88,-89.75
+Aedes aegypti,18171,Mexico,2011.0,20.97,-89.62
+Aedes aegypti,18171,Mexico,2011.0,21.05,-89.04
+Aedes aegypti,18171,Mexico,2011.0,21.05,-89.07
+Aedes aegypti,18171,Mexico,2011.0,21.34,-89.26
+Aedes aegypti,18172,Mayotte,2007.0,-12.96,45.17
+Aedes aegypti,18172,Mayotte,2007.0,-12.83,45.11
+Aedes aegypti,18172,Mayotte,2007.0,-12.79,45.27
+Aedes aegypti,18172,Mayotte,2007.0,-12.72,45.11
+Aedes aegypti,18172,Mayotte,2010.0,-12.96,45.17
+Aedes aegypti,18172,Mayotte,2010.0,-12.83,45.11
+Aedes aegypti,18172,Mayotte,2010.0,-12.79,45.27
+Aedes aegypti,18172,Mayotte,2010.0,-12.72,45.11
+Aedes aegypti,18174,Mexico,2009.0,20.95,-97.39
+Aedes aegypti,18174,Mexico,2009.0,20.95,-97.46
+Aedes aegypti,18174,Mexico,2009.0,20.97,-97.33
+Aedes aegypti,18174,Mexico,2009.0,20.97,-97.4
+Aedes aegypti,18175,Sri Lanka,2008.0,7.17,80.12
+Aedes aegypti,18175,Sri Lanka,2008.0,7.25,80.6
+Aedes aegypti,18175,Sri Lanka,2008.0,7.47,80.38
+Aedes aegypti,18175,Sri Lanka,2008.0,7.58,79.8
+Aedes aegypti,18175,Sri Lanka,2010.0,9.68,80.03
+Aedes aegypti,18176,Thailand,2007.0,13.1,100.92
+Aedes aegypti,18176,Thailand,2008.0,13.1,100.92
+Aedes aegypti,18177,Pakistan,2009.0,31.54,74.3
+Aedes aegypti,18177,Pakistan,2009.0,31.55,74.36
+Aedes aegypti,18177,Pakistan,2009.0,31.57,74.37
+Aedes aegypti,18178,Taiwan,2010.0,22.62,120.3
+Aedes aegypti,18179,Thailand,0.0,14.34,99.0
+Aedes aegypti,18180,India,2007.0,27.05,88.26
+Aedes aegypti,18181,Argentina,2007.0,-34.59,-58.47
+Aedes aegypti,18182,Thailand,2004.0,16.36,99.65
+Aedes aegypti,18182,Thailand,2004.0,16.4,99.37
+Aedes aegypti,18182,Thailand,2004.0,16.43,99.61
+Aedes aegypti,18182,Thailand,2005.0,16.36,99.65
+Aedes aegypti,18182,Thailand,2005.0,16.43,99.61
+Aedes aegypti,18182,Thailand,2006.0,16.36,99.65
+Aedes aegypti,18182,Thailand,2006.0,16.4,99.37
+Aedes aegypti,18182,Thailand,2006.0,16.43,99.61
+Aedes aegypti,18182,Thailand,2007.0,16.36,99.65
+Aedes aegypti,18182,Thailand,2007.0,16.4,99.37
+Aedes aegypti,18182,Thailand,2007.0,16.43,99.61
+Aedes aegypti,18183,Venezuela,0.0,9.32,-70.59
+Aedes aegypti,18183,Venezuela,0.0,9.35,-70.57
+Aedes aegypti,18183,Venezuela,0.0,9.39,-70.59
+Aedes aegypti,18183,Venezuela,0.0,9.41,-70.49
+Aedes aegypti,18183,Venezuela,0.0,9.42,-70.42
+Aedes aegypti,18183,Venezuela,0.0,9.45,-70.47
+Aedes aegypti,18183,Venezuela,0.0,9.45,-70.46
+Aedes aegypti,18183,Venezuela,0.0,9.54,-70.46
+Aedes aegypti,18184,Venezuela,2010.0,7.92,-72.44
+Aedes aegypti,18184,Venezuela,2010.0,9.41,-70.49
+Aedes aegypti,18184,Venezuela,2010.0,9.43,-70.45
+Aedes aegypti,18184,Venezuela,2010.0,10.51,-69.49
+Aedes aegypti,18185,Venezuela,2010.0,7.92,-72.44
+Aedes aegypti,18185,Venezuela,2010.0,10.06,-69.49
+Aedes aegypti,18186,Mexico,2008.0,14.94,-92.17
+Aedes aegypti,18187,Mexico,2010.0,16.89,-99.85
+Aedes aegypti,18187,Mexico,2010.0,17.22,-100.63
+Aedes aegypti,18187,Mexico,2010.0,17.54,-98.58
+Aedes aegypti,18187,Mexico,2010.0,17.56,-99.5
+Aedes aegypti,18187,Mexico,2010.0,17.64,-101.55
+Aedes aegypti,18187,Mexico,2010.0,18.34,-99.53
+Aedes aegypti,18188,Colombia,2002.0,6.34,-75.56
+Aedes aegypti,18188,Colombia,2003.0,6.34,-75.56
+Aedes aegypti,18188,Colombia,2004.0,6.34,-75.56
+Aedes aegypti,18188,Colombia,2005.0,6.34,-75.56
+Aedes aegypti,18188,Colombia,2006.0,6.34,-75.56
+Aedes aegypti,18188,Colombia,2007.0,6.34,-75.56
+Aedes aegypti,18188,Colombia,2008.0,6.34,-75.56
+Aedes aegypti,18189,India,2010.0,13.05,80.25
+Aedes aegypti,18190,Australia,2007.0,-16.92,145.76
+Aedes aegypti,18190,Australia,2008.0,-16.92,145.76
+Aedes aegypti,18190,Australia,2009.0,-16.92,145.76
+Aedes aegypti,18191,Australia,2008.0,-20.05,146.25
+Aedes aegypti,18191,Australia,2008.0,-17.52,146.03
+Aedes aegypti,18191,Australia,2008.0,-16.99,145.42
+Aedes aegypti,18191,Australia,2008.0,-16.92,145.77
+Aedes aegypti,18193,Australia,0.0,-16.85,145.75
+Aedes aegypti,18194,Cuba,2005.0,20.14,-75.21
+Aedes aegypti,18195,Philippines,0.0,9.31,123.31
+Aedes aegypti,18196,Thailand,2004.0,16.4,102.79
+Aedes aegypti,18196,Thailand,2004.0,18.79,98.99
+Aedes aegypti,18196,Thailand,2005.0,16.4,102.79
+Aedes aegypti,18196,Thailand,2005.0,18.79,98.99
+Aedes aegypti,18197,Cayman Islands,2008.0,19.32,-81.24
+Aedes aegypti,18198,Colombia,0.0,3.42,-76.52
+Aedes aegypti,18199,India,2007.0,27.37,94.89
+Aedes aegypti,18199,India,2010.0,27.37,94.89
+Aedes aegypti,18199,India,2010.0,27.41,95.1
+Aedes aegypti,18200,Australia,0.0,-26.73,150.62
+Aedes aegypti,18200,Australia,0.0,-26.57,148.78
+Aedes aegypti,18200,Australia,0.0,-26.4,146.23
+Aedes aegypti,18200,Australia,0.0,-26.19,152.07
+Aedes aegypti,18200,Australia,0.0,-25.64,149.79
+Aedes aegypti,18200,Australia,0.0,-25.62,151.6
+Aedes aegypti,18200,Australia,0.0,-24.86,151.12
+Aedes aegypti,18200,Australia,0.0,-24.42,145.47
+Aedes aegypti,18200,Australia,0.0,-24.4,150.5
+Aedes aegypti,18200,Australia,0.0,-23.65,146.63
+Aedes aegypti,18200,Australia,0.0,-23.64,150.39
+Aedes aegypti,18200,Australia,0.0,-23.57,149.07
+Aedes aegypti,18200,Australia,0.0,-23.55,145.28
+Aedes aegypti,18200,Australia,0.0,-23.44,144.24
+Aedes aegypti,18200,Australia,0.0,-23.38,150.51
+Aedes aegypti,18200,Australia,0.0,-23.12,150.74
+Aedes aegypti,18200,Australia,0.0,-23.08,148.02
+Aedes aegypti,18200,Australia,0.0,-22.82,147.63
+Aedes aegypti,18200,Australia,0.0,-19.92,138.12
+Aedes aegypti,18200,Australia,0.0,-19.55,134.23
+Aedes aegypti,18200,Australia,0.0,-13.97,136.45
+Aedes aegypti,18201,Argentina,2010.0,-34.87,-58.07
+Aedes aegypti,18201,Argentina,2010.0,-34.54,-58.69
+Aedes aegypti,18202,India,2011.0,28.55,77.28
+Aedes aegypti,18202,India,2011.0,28.67,77.18
+Aedes aegypti,18202,India,0.0,26.96,75.79
+Aedes aegypti,18203,Cuba,2006.0,22.99,-82.41
+Aedes aegypti,18203,Cuba,2006.0,23.09,-82.45
+Aedes aegypti,18203,Cuba,2006.0,23.1,-82.39
+Aedes aegypti,18203,Cuba,2008.0,22.99,-82.41
+Aedes aegypti,18203,Cuba,2008.0,23.02,-82.33
+Aedes aegypti,18203,Cuba,2008.0,23.03,-82.25
+Aedes aegypti,18203,Cuba,2008.0,23.05,-82.46
+Aedes aegypti,18203,Cuba,2008.0,23.07,-82.42
+Aedes aegypti,18203,Cuba,2008.0,23.08,-82.31
+Aedes aegypti,18203,Cuba,2008.0,23.09,-82.45
+Aedes aegypti,18203,Cuba,2008.0,23.1,-82.36
+Aedes aegypti,18203,Cuba,2008.0,23.1,-82.39
+Aedes aegypti,18203,Cuba,2008.0,23.1,-82.16
+Aedes aegypti,18203,Cuba,2008.0,23.11,-82.25
+Aedes aegypti,18203,Cuba,2008.0,23.12,-82.39
+Aedes aegypti,18203,Cuba,2008.0,23.13,-82.34
+Aedes aegypti,18203,Cuba,2008.0,23.14,-82.37
+Aedes aegypti,18203,Cuba,2008.0,23.14,-82.36
+Aedes aegypti,18205,Argentina,2006.0,-34.58,-58.5
+Aedes aegypti,18206,Costa Rica,0.0,9.98,-84.76
+Aedes aegypti,18206,Costa Rica,0.0,9.98,-84.77
+Aedes aegypti,18206,Costa Rica,0.0,9.98,-84.81
+Aedes aegypti,18206,Costa Rica,0.0,9.98,-84.78
+Aedes aegypti,18206,Costa Rica,0.0,9.99,-84.77
+Aedes aegypti,18208,Australia,2008.0,-16.92,145.77
+Aedes aegypti,18210,Colombia,0.0,7.47,-73.2
+Aedes aegypti,18210,Colombia,0.0,7.47,-73.21
+Aedes aegypti,18210,Colombia,0.0,7.48,-73.21
+Aedes aegypti,18213,Thailand,0.0,16.46,99.53
+Aedes aegypti,18214,Trinidad and Tobago,2002.0,10.64,-61.41
+Aedes aegypti,18214,Trinidad and Tobago,2003.0,10.64,-61.41
+Aedes aegypti,18214,Trinidad and Tobago,2004.0,10.64,-61.41
+Aedes aegypti,18214,Trinidad and Tobago,2005.0,10.64,-61.41
+Aedes aegypti,18214,Trinidad and Tobago,2006.0,10.64,-61.41
+Aedes aegypti,18216,Trinidad and Tobago,2010.0,10.65,-61.4
+Aedes aegypti,18217,Trinidad and Tobago,2008.0,10.64,-61.41
+Aedes aegypti,18217,Trinidad and Tobago,2009.0,10.64,-61.41
+Aedes aegypti,18217,Trinidad and Tobago,2010.0,10.64,-61.41
+Aedes aegypti,18218,Trinidad and Tobago,2008.0,10.49,-61.22
+Aedes aegypti,18218,Trinidad and Tobago,2008.0,10.65,-61.4
+Aedes aegypti,18220,Thailand,2007.0,13.53,99.81
+Aedes aegypti,18220,Thailand,2007.0,13.55,100.27
+Aedes aegypti,18220,Thailand,2007.0,13.82,100.06
+Aedes aegypti,18220,Thailand,2007.0,13.91,100.4
+Aedes aegypti,18220,Thailand,2008.0,13.53,99.81
+Aedes aegypti,18220,Thailand,2008.0,13.55,100.27
+Aedes aegypti,18220,Thailand,2008.0,13.82,100.06
+Aedes aegypti,18220,Thailand,2008.0,13.91,100.4
+Aedes aegypti,18221,Thailand,0.0,6.75,100.4
+Aedes aegypti,18221,Thailand,0.0,6.9,100.53
+Aedes aegypti,18221,Thailand,0.0,7.0,100.45
+Aedes aegypti,18221,Thailand,0.0,7.27,100.15
+Aedes aegypti,18221,Thailand,0.0,7.87,100.3
+Aedes aegypti,18221,Thailand,0.0,7.88,98.38
+Aedes aegypti,18221,Thailand,0.0,9.03,99.37
+Aedes aegypti,18221,Thailand,0.0,10.5,99.12
+Aedes aegypti,18221,Thailand,0.0,12.55,99.88
+Aedes aegypti,18221,Thailand,0.0,12.61,102.1
+Aedes aegypti,18221,Thailand,0.0,13.83,100.67
+Aedes aegypti,18221,Thailand,0.0,14.05,101.37
+Aedes aegypti,18221,Thailand,0.0,14.33,98.98
+Aedes aegypti,18221,Thailand,0.0,14.42,101.86
+Aedes aegypti,18221,Thailand,0.0,15.0,102.83
+Aedes aegypti,18221,Thailand,0.0,15.13,104.2
+Aedes aegypti,18221,Thailand,0.0,15.17,99.32
+Aedes aegypti,18221,Thailand,0.0,15.23,103.5
+Aedes aegypti,18221,Thailand,0.0,15.67,103.82
+Aedes aegypti,18221,Thailand,0.0,15.67,100.08
+Aedes aegypti,18221,Thailand,0.0,16.0,99.8
+Aedes aegypti,18221,Thailand,0.0,16.32,102.78
+Aedes aegypti,18221,Thailand,0.0,16.63,103.9
+Aedes aegypti,18221,Thailand,0.0,16.71,98.57
+Aedes aegypti,18221,Thailand,0.0,16.9,103.47
+Aedes aegypti,18221,Thailand,0.0,18.08,100.2
+Aedes aegypti,18221,Thailand,0.0,18.23,99.43
+Aedes aegypti,18221,Thailand,0.0,18.62,99.0
+Aedes aegypti,18221,Thailand,0.0,18.77,98.93
+Aedes aegypti,18221,Thailand,0.0,20.13,99.85
+Aedes aegypti,18222,Puerto Rico,2008.0,18.47,-66.11
+Aedes aegypti,18223,Argentina,2005.0,-25.62,-54.57
+Aedes aegypti,18223,Argentina,2005.0,-25.61,-54.57
+Aedes aegypti,18223,Argentina,2005.0,-25.6,-54.59
+Aedes aegypti,18223,Argentina,2005.0,-25.6,-54.57
+Aedes aegypti,18223,Argentina,2005.0,-25.6,-54.58
+Aedes aegypti,18223,Argentina,2005.0,-25.59,-54.57
+Aedes aegypti,18225,Lao People's Democratic Republic,2011.0,15.88,105.55
+Aedes aegypti,18225,Lao People's Democratic Republic,2011.0,15.92,105.52
+Aedes aegypti,18225,Thailand,2011.0,16.12,102.53
+Aedes aegypti,18225,Thailand,2011.0,16.17,102.47
+Aedes aegypti,18226,Argentina,2011.0,-26.85,-65.17
+Aedes aegypti,18227,Australia,0.0,-16.92,145.77
+Aedes aegypti,18228,Mexico,2005.0,31.74,-106.44
+Aedes aegypti,18230,Argentina,2008.0,-34.67,-58.5
+Aedes aegypti,18230,Argentina,2008.0,-34.56,-58.46
+Aedes aegypti,18230,Argentina,2009.0,-34.67,-58.5
+Aedes aegypti,18230,Argentina,2009.0,-34.56,-58.46
+Aedes aegypti,18231,New Caledonia,2009.0,-22.28,166.46
+Aedes aegypti,18232,Peru,2007.0,-3.76,-73.26
+Aedes aegypti,18233,Senegal,2009.0,14.75,-17.45
+Aedes aegypti,18234,Senegal,2010.0,12.6,-12.24
+Aedes aegypti,18234,Senegal,2010.0,12.62,-12.24
+Aedes aegypti,18234,Senegal,2010.0,12.66,-12.26
+Aedes aegypti,18234,Senegal,2010.0,12.67,-12.28
+Aedes aegypti,18235,Argentina,2011.0,-35.88,-57.9
+Aedes aegypti,18235,Argentina,2011.0,-35.58,-58.01
+Aedes aegypti,18235,Argentina,2012.0,-36.32,-57.68
+Aedes aegypti,18235,Argentina,2012.0,-36.09,-57.81
+Aedes aegypti,18235,Argentina,2012.0,-35.88,-57.9
+Aedes aegypti,18235,Argentina,2012.0,-35.58,-58.01
+Aedes aegypti,18237,Bolivia,2007.0,-17.78,-63.18
+Aedes aegypti,18239,Australia,2007.0,-16.93,145.76
+Aedes aegypti,18239,Australia,2008.0,-16.93,145.76
+Aedes aegypti,18239,Australia,2009.0,-16.93,145.76
+Aedes aegypti,18240,Philippines,2011.0,14.43,121.03
+Aedes aegypti,18241,French Guiana,0.0,3.89,-51.81
+Aedes aegypti,18241,French Guiana,0.0,4.92,-52.33
+Aedes aegypti,18241,French Guiana,0.0,5.16,-52.65
+Aedes aegypti,18241,French Guiana,0.0,5.5,-54.03
+Aedes aegypti,18242,India,2007.0,25.67,94.11
+Aedes aegypti,18242,India,2007.0,25.8,93.78
+Aedes aegypti,18242,India,2007.0,26.32,94.51
+Aedes aegypti,18242,India,0.0,25.76,93.87
+Aedes aegypti,18243,India,2002.0,20.17,85.02
+Aedes aegypti,18243,India,2002.0,20.58,86.66
+Aedes aegypti,18244,Kenya,2004.0,-3.86,39.47
+Aedes aegypti,18244,Kenya,2004.0,-1.29,36.82
+Aedes aegypti,18244,Kenya,2004.0,0.28,34.75
+Aedes aegypti,18244,Kenya,2004.0,0.64,35.61
+Aedes aegypti,18245,Australia,2006.0,-17.52,146.03
+Aedes aegypti,18245,Viet Nam,2006.0,10.1,106.43
+Aedes aegypti,18245,Viet Nam,2006.0,10.16,105.91
+Aedes aegypti,18245,Viet Nam,2006.0,12.19,109.22
+Aedes aegypti,18245,Viet Nam,2006.0,12.67,108.04
+Aedes aegypti,18245,Thailand,2006.0,13.54,101.37
+Aedes aegypti,18245,Viet Nam,2006.0,20.57,105.85
+Aedes aegypti,18245,Viet Nam,2006.0,20.78,107.03
+Aedes aegypti,18246,Australia,2006.0,-20.05,146.25
+Aedes aegypti,18246,Australia,2006.0,-19.26,146.82
+Aedes aegypti,18246,Australia,2006.0,-18.65,146.15
+Aedes aegypti,18246,Australia,2006.0,-18.27,146.03
+Aedes aegypti,18246,Australia,2006.0,-17.93,145.92
+Aedes aegypti,18246,Australia,2006.0,-17.16,144.52
+Aedes aegypti,18246,Australia,2006.0,-17.09,145.79
+Aedes aegypti,18246,Australia,2006.0,-16.99,145.42
+Aedes aegypti,18246,Australia,2006.0,-16.93,145.76
+Aedes aegypti,18246,Australia,2006.0,-16.85,145.75
+Aedes aegypti,18246,Australia,2006.0,-16.46,145.37
+Aedes aegypti,18247,Argentina,2005.0,-23.13,-64.33
+Aedes aegypti,18247,Argentina,2005.0,-22.53,-63.82
+Aedes aegypti,18248,Argentina,2006.0,-23.14,-64.32
+Aedes aegypti,18248,Argentina,2007.0,-23.14,-64.32
+Aedes aegypti,18249,Argentina,2005.0,-23.14,-64.32
+Aedes aegypti,18250,Mexico,2007.0,14.82,-92.2
+Aedes aegypti,18251,Mexico,2009.0,18.0,-94.63
+Aedes aegypti,18251,Mexico,2009.0,18.14,-94.44
+Aedes aegypti,18251,Mexico,2009.0,19.17,-96.13
+Aedes aegypti,18251,Mexico,2009.0,20.06,-97.05
+Aedes aegypti,18251,Mexico,2009.0,20.53,-97.45
+Aedes aegypti,18251,Mexico,2009.0,21.35,-98.23
+Aedes aegypti,18251,Mexico,2009.0,22.05,-98.18
+Aedes aegypti,18252,Mexico,0.0,25.55,-103.37
+Aedes aegypti,18252,Mexico,0.0,25.87,-97.5
+Aedes aegypti,18252,United States of America,0.0,26.09,-98.28
+Aedes aegypti,18252,Mexico,0.0,27.48,-99.55
+Aedes aegypti,18252,Mexico,0.0,29.07,-110.96
+Aedes aegypti,18252,Mexico,0.0,31.86,-112.85
+Aedes aegypti,18253,Colombia,2006.0,0.27,-76.85
+Aedes aegypti,18253,Colombia,2006.0,0.4,-76.78
+Aedes aegypti,18253,Colombia,2006.0,0.67,-76.87
+Aedes aegypti,18253,Colombia,2006.0,0.68,-76.58
+Aedes aegypti,18253,Colombia,2006.0,5.69,-76.65
+Aedes aegypti,18253,Colombia,2006.0,6.27,-75.61
+Aedes aegypti,18253,Colombia,2006.0,6.55,-74.33
+Aedes aegypti,18253,Colombia,2006.0,8.1,-76.73
+Aedes aegypti,18254,India,2002.0,15.85,73.62
+Aedes aegypti,18254,India,2002.0,15.87,73.78
+Aedes aegypti,18254,India,2002.0,15.91,73.82
+Aedes aegypti,18254,India,2002.0,16.06,73.47
+Aedes aegypti,18254,India,2002.0,16.37,73.38
+Aedes aegypti,18254,India,2002.0,16.55,73.34
+Aedes aegypti,18254,India,2002.0,16.64,73.36
+Aedes aegypti,18254,India,2002.0,16.66,73.52
+Aedes aegypti,18254,India,2002.0,16.75,73.32
+Aedes aegypti,18254,India,2002.0,16.99,73.31
+Aedes aegypti,18254,India,2002.0,17.02,73.41
+Aedes aegypti,18254,India,2002.0,17.04,73.27
+Aedes aegypti,18254,India,2002.0,17.19,73.55
+Aedes aegypti,18254,India,2002.0,17.29,73.22
+Aedes aegypti,18254,India,2002.0,17.47,73.2
+Aedes aegypti,18254,India,2002.0,17.53,73.52
+Aedes aegypti,18254,India,2002.0,17.72,73.4
+Aedes aegypti,18254,India,2002.0,17.76,73.19
+Aedes aegypti,18254,India,2002.0,18.08,73.42
+Aedes aegypti,18254,India,2002.0,18.33,72.96
+Aedes aegypti,18254,India,2002.0,18.54,73.22
+Aedes aegypti,18254,India,2002.0,18.66,72.87
+Aedes aegypti,18254,India,2002.0,18.71,73.03
+Aedes aegypti,18254,India,2002.0,18.73,73.1
+Aedes aegypti,18254,India,2002.0,18.74,73.09
+Aedes aegypti,18254,India,2002.0,18.79,72.93
+Aedes aegypti,18254,India,2002.0,18.8,72.9
+Aedes aegypti,18254,India,2002.0,18.82,72.95
+Aedes aegypti,18254,India,2006.0,18.95,72.95
+Aedes aegypti,18254,India,0.0,18.95,72.95
+Aedes aegypti,18254,India,0.0,18.99,73.12
+Aedes aegypti,18255,Mexico,2008.0,25.55,-108.46
+Aedes aegypti,18255,Mexico,2008.0,25.56,-108.47
+Aedes aegypti,18255,Mexico,2008.0,25.57,-108.47
+Aedes aegypti,18255,Mexico,2008.0,25.58,-108.47
+Aedes aegypti,18255,Mexico,2008.0,25.58,-108.46
+Aedes aegypti,18255,Mexico,2008.0,25.59,-108.46
+Aedes aegypti,18255,Mexico,2009.0,25.55,-108.46
+Aedes aegypti,18255,Mexico,2009.0,25.58,-108.47
+Aedes aegypti,18255,Mexico,2009.0,25.58,-108.46
+Aedes aegypti,18256,Mexico,1996.0,25.69,-100.32
+Aedes aegypti,18256,Mexico,1997.0,27.48,-99.55
+Aedes aegypti,18256,Mexico,1998.0,14.85,-92.32
+Aedes aegypti,18256,Mexico,1998.0,17.99,-92.95
+Aedes aegypti,18256,Mexico,1998.0,19.83,-90.53
+Aedes aegypti,18256,Mexico,1998.0,24.81,-107.38
+Aedes aegypti,18256,Mexico,1998.0,26.4,-99.03
+Aedes aegypti,18256,United States of America,1998.0,29.76,-95.37
+Aedes aegypti,18256,Mexico,1999.0,15.87,-97.08
+Aedes aegypti,18256,Mexico,1999.0,17.01,-100.09
+Aedes aegypti,18256,Mexico,1999.0,17.67,-101.6
+Aedes aegypti,18256,Mexico,1999.0,17.96,-102.19
+Aedes aegypti,18256,Mexico,1999.0,17.99,-94.35
+Aedes aegypti,18256,Mexico,1999.0,17.99,-92.95
+Aedes aegypti,18256,Mexico,1999.0,18.5,-88.3
+Aedes aegypti,18256,Mexico,1999.0,18.54,-88.3
+Aedes aegypti,18256,Mexico,1999.0,20.65,-105.23
+Aedes aegypti,18256,Mexico,1999.0,20.92,-89.63
+Aedes aegypti,18256,Mexico,1999.0,20.97,-89.68
+Aedes aegypti,18256,Mexico,1999.0,20.97,-89.58
+Aedes aegypti,18256,Mexico,1999.0,20.97,-89.63
+Aedes aegypti,18256,Mexico,1999.0,21.01,-89.63
+Aedes aegypti,18256,Mexico,1999.0,21.16,-86.85
+Aedes aegypti,18256,Mexico,1999.0,23.25,-106.41
+Aedes aegypti,18256,Mexico,2000.0,29.07,-110.96
+Aedes aegypti,18256,Mexico,2006.0,14.68,-92.15
+Aedes aegypti,18256,Mexico,2006.0,14.72,-92.43
+Aedes aegypti,18256,Mexico,2006.0,14.85,-92.32
+Aedes aegypti,18256,Mexico,2006.0,14.86,-92.45
+Aedes aegypti,18256,Mexico,2006.0,15.02,-92.38
+Aedes aegypti,18256,Mexico,2006.0,15.14,-92.47
+Aedes aegypti,18256,Mexico,2006.0,15.32,-92.66
+Aedes aegypti,18256,Mexico,2006.0,15.37,-92.25
+Aedes aegypti,18256,Mexico,2006.0,15.43,-92.9
+Aedes aegypti,18256,Mexico,2006.0,15.69,-93.21
+Aedes aegypti,18256,Mexico,2007.0,18.52,-88.34
+Aedes aegypti,18256,Mexico,2007.0,18.54,-88.3
+Aedes aegypti,18256,Mexico,2007.0,18.55,-88.26
+Aedes aegypti,18256,Mexico,2007.0,20.92,-89.63
+Aedes aegypti,18256,Mexico,2007.0,21.01,-89.63
+Aedes aegypti,18256,Mexico,2008.0,14.68,-92.15
+Aedes aegypti,18256,Mexico,2008.0,14.72,-92.43
+Aedes aegypti,18256,Mexico,2008.0,14.85,-92.32
+Aedes aegypti,18256,Mexico,2008.0,14.86,-92.45
+Aedes aegypti,18256,Mexico,2008.0,15.02,-92.38
+Aedes aegypti,18256,Mexico,2008.0,15.14,-92.47
+Aedes aegypti,18256,Mexico,2008.0,15.32,-92.66
+Aedes aegypti,18256,Mexico,2008.0,15.37,-92.25
+Aedes aegypti,18256,Mexico,2008.0,15.43,-92.9
+Aedes aegypti,18256,Mexico,2008.0,15.69,-93.21
+Aedes aegypti,18256,Mexico,2008.0,18.0,-94.64
+Aedes aegypti,18256,Mexico,2008.0,18.14,-94.43
+Aedes aegypti,18256,Mexico,2008.0,18.5,-88.3
+Aedes aegypti,18256,Mexico,2008.0,18.53,-88.3
+Aedes aegypti,18256,Mexico,2008.0,19.17,-96.13
+Aedes aegypti,18256,Mexico,2008.0,20.06,-97.05
+Aedes aegypti,18256,Mexico,2008.0,20.53,-97.46
+Aedes aegypti,18256,Mexico,2008.0,21.35,-98.23
+Aedes aegypti,18256,Mexico,2008.0,25.69,-100.32
+Aedes aegypti,18256,Mexico,2009.0,20.87,-89.65
+Aedes aegypti,18256,Mexico,2009.0,20.93,-89.6
+Aedes aegypti,18256,Mexico,2009.0,21.03,-89.56
+Aedes aegypti,18257,Mexico,2008.0,20.97,-89.63
+Aedes aegypti,18257,Mexico,2010.0,20.97,-89.63
+Aedes aegypti,18260,Argentina,2007.0,-25.28,-57.72
+Aedes aegypti,18261,Mexico,2009.0,25.29,-100.01
+Aedes aegypti,18263,French Guiana,2008.0,4.92,-52.33
+Aedes aegypti,18263,Martinique,2008.0,14.62,-61.06
+Aedes aegypti,18263,Martinique,2008.0,14.68,-60.94
+Aedes aegypti,18263,Guadeloupe,2008.0,16.19,-61.59
+Aedes aegypti,18263,Guadeloupe,2008.0,16.24,-61.53
+Aedes aegypti,18263,French Guiana,2009.0,4.92,-52.33
+Aedes aegypti,18263,Martinique,2009.0,14.62,-61.06
+Aedes aegypti,18263,Martinique,2009.0,14.68,-60.94
+Aedes aegypti,18263,Guadeloupe,2009.0,16.19,-61.59
+Aedes aegypti,18263,Guadeloupe,2009.0,16.24,-61.53
+Aedes aegypti,18264,Argentina,2006.0,-31.4,-64.18
+Aedes aegypti,18265,Argentina,2010.0,-38.95,-68.05
+Aedes aegypti,18268,Guadeloupe,2006.0,16.03,-61.7
+Aedes aegypti,18268,Guadeloupe,2006.0,16.27,-61.58
+Aedes aegypti,18269,Argentina,2009.0,-25.92,-54.58
+Aedes aegypti,18270,Thailand,0.0,16.75,98.57
+Aedes aegypti,18271,Mexico,0.0,14.9,-92.25
+Aedes aegypti,18272,Trinidad and Tobago,2005.0,10.49,-61.22
+Aedes aegypti,18272,Trinidad and Tobago,2005.0,10.5,-61.35
+Aedes aegypti,18272,Trinidad and Tobago,2007.0,10.22,-61.52
+Aedes aegypti,18272,Trinidad and Tobago,2008.0,10.6,-61.28
+Aedes aegypti,18273,Trinidad and Tobago,2006.0,10.56,-61.42
+Aedes aegypti,18273,Trinidad and Tobago,2007.0,10.56,-61.42
+Aedes aegypti,18274,Australia,2010.0,-17.09,145.79
+Aedes aegypti,18274,Australia,2010.0,-16.81,145.72
+Aedes aegypti,18275,Australia,0.0,-16.85,145.75
+Aedes aegypti,18276,Pakistan,2010.0,31.59,74.33
+Aedes aegypti,18277,Australia,2008.0,-16.92,145.77
+Aedes aegypti,18278,Viet Nam,2008.0,12.19,109.22
+Aedes aegypti,18279,Viet Nam,2006.0,12.19,109.22
+Aedes aegypti,18279,Viet Nam,2007.0,12.19,109.22
+Aedes aegypti,18280,Australia,0.0,-16.93,145.76
+Aedes aegypti,18281,Argentina,2002.0,-31.46,-64.21
+Aedes aegypti,18281,Argentina,2002.0,-31.45,-64.11
+Aedes aegypti,18281,Argentina,2002.0,-31.42,-64.2
+Aedes aegypti,18281,Argentina,2002.0,-31.4,-64.27
+Aedes aegypti,18281,Argentina,2002.0,-31.39,-64.13
+Aedes aegypti,18281,Argentina,2002.0,-31.36,-64.24
+Aedes aegypti,18281,Argentina,2002.0,-31.36,-64.16
+Aedes aegypti,18282,India,2004.0,11.02,76.96
+Aedes aegypti,18282,India,0.0,11.03,76.88
+Aedes aegypti,18282,India,0.0,11.03,76.89
+Aedes aegypti,18282,India,0.0,11.04,76.88
+Aedes aegypti,18283,Thailand,1977.0,13.75,100.51
+Aedes aegypti,18283,Thailand,2005.0,13.63,100.5
+Aedes aegypti,18283,Thailand,2007.0,13.73,100.48
+Aedes aegypti,18283,Thailand,2008.0,7.18,100.61
+Aedes aegypti,18283,Thailand,2008.0,8.44,98.52
+Aedes aegypti,18283,Thailand,2008.0,9.14,99.32
+Aedes aegypti,18283,Thailand,2008.0,12.61,102.1
+Aedes aegypti,18283,Thailand,2008.0,13.36,100.98
+Aedes aegypti,18283,Thailand,2008.0,15.69,100.12
+Aedes aegypti,18283,Thailand,2008.0,19.91,99.83
+Aedes aegypti,18284,Indonesia,1998.0,-6.21,106.85
+Aedes aegypti,18285,Viet Nam,2007.0,20.3,106.27
+Aedes aegypti,18285,Viet Nam,2008.0,12.49,109.09
+Aedes aegypti,18285,Viet Nam,2008.0,12.51,109.04
+Aedes aegypti,18286,Saudi Arabia,2010.0,21.34,39.98
+Aedes aegypti,18286,Saudi Arabia,2010.0,21.35,39.98
+Aedes aegypti,18287,Saudi Arabia,2006.0,21.54,39.17
+Aedes aegypti,18287,Saudi Arabia,2007.0,21.54,39.17
+Aedes aegypti,18287,Saudi Arabia,2008.0,21.54,39.17
+Aedes aegypti,18287,Saudi Arabia,2009.0,21.54,39.17
+Aedes aegypti,18287,Saudi Arabia,2010.0,21.54,39.17
+Aedes aegypti,18288,Indonesia,2000.0,-7.26,112.75
+Aedes aegypti,18288,Japan,2007.0,35.63,139.7
+Aedes aegypti,18289,Thailand,2010.0,13.69,101.08
+Aedes aegypti,18290,Viet Nam,2005.0,10.53,106.63
+Aedes aegypti,18291,Thailand,2004.0,16.37,99.63
+Aedes aegypti,18291,Thailand,2004.0,16.4,99.37
+Aedes aegypti,18291,Thailand,2005.0,16.37,99.63
+Aedes aegypti,18291,Thailand,2005.0,16.4,99.37
+Aedes aegypti,18292,Thailand,2005.0,13.63,100.43
+Aedes aegypti,18292,Thailand,2005.0,13.66,100.49
+Aedes aegypti,18292,Thailand,2005.0,13.67,100.61
+Aedes aegypti,18292,Thailand,2005.0,13.68,100.51
+Aedes aegypti,18292,Thailand,2005.0,13.68,100.54
+Aedes aegypti,18292,Thailand,2005.0,13.68,100.36
+Aedes aegypti,18292,Thailand,2005.0,13.69,100.47
+Aedes aegypti,18292,Thailand,2005.0,13.69,100.61
+Aedes aegypti,18292,Thailand,2005.0,13.7,100.5
+Aedes aegypti,18292,Thailand,2005.0,13.7,100.49
+Aedes aegypti,18292,Thailand,2005.0,13.7,100.59
+Aedes aegypti,18292,Thailand,2005.0,13.71,100.58
+Aedes aegypti,18292,Thailand,2005.0,13.71,100.52
+Aedes aegypti,18292,Thailand,2005.0,13.71,100.41
+Aedes aegypti,18292,Thailand,2005.0,13.71,100.48
+Aedes aegypti,18292,Thailand,2005.0,13.71,100.6
+Aedes aegypti,18292,Thailand,2005.0,13.72,100.7
+Aedes aegypti,18292,Thailand,2005.0,13.72,100.48
+Aedes aegypti,18292,Thailand,2005.0,13.72,100.45
+Aedes aegypti,18292,Thailand,2005.0,13.72,100.78
+Aedes aegypti,18292,Thailand,2005.0,13.73,100.49
+Aedes aegypti,18292,Thailand,2005.0,13.73,100.48
+Aedes aegypti,18292,Thailand,2005.0,13.73,100.59
+Aedes aegypti,18292,Thailand,2005.0,13.73,100.51
+Aedes aegypti,18292,Thailand,2005.0,13.73,100.52
+Aedes aegypti,18292,Thailand,2005.0,13.73,100.58
+Aedes aegypti,18292,Thailand,2005.0,13.74,100.52
+Aedes aegypti,18292,Thailand,2005.0,13.75,100.59
+Aedes aegypti,18292,Thailand,2005.0,13.75,100.51
+Aedes aegypti,18292,Thailand,2005.0,13.76,100.53
+Aedes aegypti,18292,Thailand,2005.0,13.76,100.5
+Aedes aegypti,18292,Thailand,2005.0,13.77,100.55
+Aedes aegypti,18292,Thailand,2005.0,13.77,100.68
+Aedes aegypti,18292,Thailand,2005.0,13.77,100.43
+Aedes aegypti,18292,Thailand,2005.0,13.78,100.36
+Aedes aegypti,18292,Thailand,2005.0,13.78,100.58
+Aedes aegypti,18292,Thailand,2005.0,13.78,100.52
+Aedes aegypti,18292,Thailand,2005.0,13.83,100.68
+Aedes aegypti,18292,Thailand,2005.0,13.83,100.56
+Aedes aegypti,18292,Thailand,2005.0,13.86,100.86
+Aedes aegypti,18292,Thailand,2005.0,13.86,100.7
+Aedes aegypti,18294,C?te d'Ivoire,0.0,9.82,-7.38
+Aedes aegypti,18295,C?te d'Ivoire,2008.0,5.25,-4.0
+Aedes aegypti,18295,C?te d'Ivoire,2008.0,5.29,-4.01
+Aedes aegypti,18296,Malaysia,2010.0,3.57,101.89
+Aedes aegypti,18296,Malaysia,2011.0,3.57,101.88
+Aedes aegypti,18296,Malaysia,2011.0,3.57,101.89
+Aedes aegypti,18297,Thailand,2009.0,13.51,99.8
+Aedes aegypti,18298,Thailand,2004.0,13.72,100.78
+Aedes aegypti,18298,Thailand,2008.0,16.48,99.45
+Aedes aegypti,18298,Thailand,2008.0,16.48,99.52
+Aedes aegypti,18298,Thailand,2009.0,16.48,99.45
+Aedes aegypti,18299,Malaysia,0.0,3.09,101.62
+Aedes aegypti,18299,Malaysia,0.0,3.11,101.66
+Aedes aegypti,18299,Malaysia,0.0,3.13,101.7
+Aedes aegypti,18300,Mayotte,2011.0,-12.83,45.17
+Aedes aegypti,18301,Singapore,2010.0,1.27,103.81
+Aedes aegypti,18301,Singapore,2010.0,1.3,103.76
+Aedes aegypti,18301,Singapore,2010.0,1.31,103.84
+Aedes aegypti,18301,Singapore,2010.0,1.31,103.8
+Aedes aegypti,18301,Singapore,2010.0,1.35,103.87
+Aedes aegypti,18301,Singapore,2010.0,1.36,103.84
+Aedes aegypti,18301,Singapore,2010.0,1.37,103.85
+Aedes aegypti,18301,Singapore,2010.0,1.37,103.94
+Aedes aegypti,18301,Singapore,2010.0,1.37,103.95
+Aedes aegypti,18301,Singapore,2010.0,1.37,103.88
+Aedes aegypti,18302,Thailand,2008.0,8.37,98.43
+Aedes aegypti,18303,Thailand,2007.0,15.82,99.32
+Aedes aegypti,18304,Singapore,0.0,1.35,103.82
+Aedes aegypti,18305,Taiwan,2008.0,22.63,120.33
+Aedes aegypti,18305,Taiwan,2008.0,22.96,120.33
+Aedes aegypti,18306,Puerto Rico,2010.0,17.98,-65.94
+Aedes aegypti,18306,Puerto Rico,2010.0,17.98,-65.99
+Aedes aegypti,18306,Puerto Rico,2010.0,17.99,-66.0
+Aedes aegypti,18306,Puerto Rico,2010.0,18.02,-66.0
+Aedes aegypti,18306,Puerto Rico,2010.0,18.05,-66.08
+Aedes aegypti,18306,Puerto Rico,2010.0,18.05,-66.03
+Aedes aegypti,18307,Uruguay,2008.0,-33.12,-58.3
+Aedes aegypti,18307,Argentina,2008.0,-31.38,-64.17
+Aedes aegypti,18307,Argentina,2008.0,-31.25,-61.48
+Aedes aegypti,18307,Argentina,2008.0,-29.1,-59.65
+Aedes aegypti,18307,Argentina,2008.0,-27.78,-64.27
+Aedes aegypti,18307,Argentina,2008.0,-26.93,-65.27
+Aedes aegypti,18307,Brazil,2008.0,-25.58,-54.57
+Aedes aegypti,18307,Argentina,2008.0,-22.52,-63.78
+Aedes aegypti,18307,Argentina,2008.0,-22.03,-63.67
+Aedes aegypti,18308,Argentina,0.0,-34.92,-57.95
+Aedes aegypti,18308,Argentina,0.0,-34.6,-58.38
+Aedes aegypti,18308,Argentina,0.0,-33.01,-58.51
+Aedes aegypti,18308,Argentina,0.0,-31.74,-60.51
+Aedes aegypti,18308,Argentina,0.0,-31.4,-64.18
+Aedes aegypti,18308,Argentina,0.0,-31.25,-61.49
+Aedes aegypti,18308,Argentina,0.0,-29.41,-66.86
+Aedes aegypti,18308,Argentina,0.0,-29.12,-59.66
+Aedes aegypti,18308,Argentina,0.0,-28.47,-65.78
+Aedes aegypti,18308,Argentina,0.0,-27.78,-64.27
+Aedes aegypti,18308,Argentina,0.0,-27.47,-58.84
+Aedes aegypti,18308,Argentina,0.0,-27.45,-58.99
+Aedes aegypti,18308,Argentina,0.0,-27.36,-55.9
+Aedes aegypti,18308,Argentina,0.0,-26.81,-65.22
+Aedes aegypti,18308,Argentina,0.0,-25.92,-54.59
+Aedes aegypti,18308,Argentina,0.0,-25.6,-54.58
+Aedes aegypti,18308,Argentina,0.0,-25.29,-57.72
+Aedes aegypti,18308,Paraguay,0.0,-25.28,-57.64
+Aedes aegypti,18308,Argentina,0.0,-23.83,-64.79
+Aedes aegypti,18308,Argentina,0.0,-22.74,-64.35
+Aedes aegypti,18308,Argentina,0.0,-22.52,-63.81
+Aedes aegypti,18308,Argentina,0.0,-22.02,-63.68
+Aedes aegypti,18309,Argentina,2008.0,-31.4,-64.17
+Aedes aegypti,18309,Argentina,2008.0,-31.33,-66.58
+Aedes aegypti,18309,Argentina,2008.0,-26.81,-55.03
+Aedes aegypti,18309,Argentina,2008.0,-25.6,-54.57
+Aedes aegypti,18309,Argentina,2008.0,-23.82,-64.78
+Aedes aegypti,18309,Argentina,2008.0,-23.13,-64.32
+Aedes aegypti,18310,Peru,0.0,-3.54,-73.45
+Aedes aegypti,18311,Mexico,1996.0,17.98,-94.54
+Aedes aegypti,18311,Mexico,1996.0,20.96,-97.41
+Aedes aegypti,18311,Mexico,1996.0,22.29,-97.88
+Aedes aegypti,18311,Mexico,1996.0,23.67,-99.25
+Aedes aegypti,18311,Mexico,1996.0,25.5,-100.08
+Aedes aegypti,18311,Mexico,1996.0,25.67,-100.3
+Aedes aegypti,18311,Mexico,1996.0,25.68,-100.37
+Aedes aegypti,18311,Mexico,1996.0,25.87,-97.5
+Aedes aegypti,18311,United States of America,1997.0,26.09,-98.28
+Aedes aegypti,18311,United States of America,1997.0,27.5,-99.47
+Aedes aegypti,18311,Mexico,1998.0,17.99,-94.35
+Aedes aegypti,18311,Mexico,1998.0,18.0,-92.9
+Aedes aegypti,18311,Mexico,1998.0,18.65,-91.83
+Aedes aegypti,18311,Mexico,1998.0,19.83,-90.53
+Aedes aegypti,18311,Mexico,1998.0,26.39,-99.06
+Aedes aegypti,18311,Mexico,1999.0,18.5,-88.3
+Aedes aegypti,18311,Mexico,1999.0,18.51,-88.3
+Aedes aegypti,18311,Mexico,1999.0,20.95,-89.64
+Aedes aegypti,18311,Mexico,1999.0,21.14,-86.88
+Aedes aegypti,18311,Mexico,1999.0,21.15,-86.88
+Aedes aegypti,18311,Mexico,2003.0,17.95,-94.91
+Aedes aegypti,18311,Mexico,2003.0,17.98,-94.54
+Aedes aegypti,18311,Mexico,2003.0,18.0,-94.63
+Aedes aegypti,18311,Mexico,2003.0,18.77,-95.76
+Aedes aegypti,18311,Mexico,2003.0,19.44,-96.41
+Aedes aegypti,18311,Mexico,2003.0,20.05,-97.04
+Aedes aegypti,18311,Mexico,2003.0,20.54,-97.47
+Aedes aegypti,18311,Mexico,2003.0,21.34,-98.23
+Aedes aegypti,18311,Mexico,2003.0,22.05,-98.19
+Aedes aegypti,18311,Mexico,2004.0,17.95,-94.91
+Aedes aegypti,18311,Mexico,2004.0,17.98,-94.54
+Aedes aegypti,18311,Mexico,2004.0,18.77,-95.76
+Aedes aegypti,18311,Mexico,2004.0,19.44,-96.41
+Aedes aegypti,18311,Mexico,2004.0,20.05,-97.04
+Aedes aegypti,18311,Mexico,2004.0,20.54,-97.47
+Aedes aegypti,18311,Mexico,2004.0,21.34,-98.23
+Aedes aegypti,18311,Mexico,2004.0,22.05,-98.19
+Aedes aegypti,18312,Mexico,2011.0,18.72,-97.32
+Aedes aegypti,18312,Mexico,2011.0,18.81,-97.18
+Aedes aegypti,18312,Mexico,2011.0,18.81,-97.27
+Aedes aegypti,18312,Mexico,2011.0,18.84,-97.14
+Aedes aegypti,18312,Mexico,2011.0,18.85,-97.1
+Aedes aegypti,18312,Mexico,2011.0,18.88,-96.92
+Aedes aegypti,18312,Mexico,2011.0,18.9,-98.45
+Aedes aegypti,18312,Mexico,2011.0,19.04,-98.21
+Aedes aegypti,18312,Mexico,2011.0,19.17,-96.13
+Aedes aegypti,18312,Mexico,2011.0,19.45,-96.96
+Aedes aegypti,18312,Mexico,2011.0,19.54,-96.93
+Aedes aegypti,18313,Argentina,2007.0,-25.96,-54.59
+Aedes aegypti,18314,Kenya,2010.0,-3.93,39.55
+Aedes aegypti,18314,Kenya,2010.0,-0.09,34.73
+Aedes aegypti,18314,Kenya,2010.0,0.3,34.2
+Aedes aegypti,18314,Kenya,2010.0,0.37,34.78
+Aedes aegypti,18314,Kenya,2010.0,1.09,34.89
+Aedes aegypti,18315,Puerto Rico,2006.0,17.95,-66.26
+Aedes aegypti,18315,Puerto Rico,2006.0,18.02,-66.25
+Aedes aegypti,18315,Puerto Rico,2007.0,17.96,-66.29
+Aedes aegypti,18315,Puerto Rico,2008.0,17.96,-66.29
+Aedes aegypti,18317,Colombia,2008.0,10.59,-74.78
+Aedes aegypti,18317,Colombia,2008.0,10.8,-74.76
+Aedes aegypti,18317,Colombia,2008.0,10.8,-74.92
+Aedes aegypti,18317,Colombia,2008.0,10.83,-75.03
+Aedes aegypti,18317,Colombia,2008.0,10.87,-74.77
+Aedes aegypti,18317,Colombia,2008.0,10.89,-74.88
+Aedes aegypti,18317,Colombia,2008.0,10.96,-74.8
+Aedes aegypti,18317,Colombia,2008.0,11.02,-74.88
+Aedes aegypti,18318,Colombia,2007.0,10.8,-74.92
+Aedes aegypti,18318,Colombia,2007.0,10.82,-74.83
+Aedes aegypti,18318,Colombia,2007.0,10.85,-74.79
+Aedes aegypti,18318,Colombia,2007.0,10.85,-74.78
+Aedes aegypti,18318,Colombia,2007.0,10.87,-74.83
+Aedes aegypti,18318,Colombia,2007.0,10.92,-74.75
+Aedes aegypti,18318,Colombia,2007.0,10.92,-74.79
+Aedes aegypti,18318,Colombia,2007.0,10.96,-74.8
+Aedes aegypti,18318,Colombia,2007.0,11.02,-74.88
+Aedes aegypti,18321,Argentina,2010.0,-22.24,-63.73
+Aedes aegypti,18323,Mexico,2012.0,21.04,-89.64
+Aedes aegypti,18324,Mexico,2007.0,20.86,-90.39
+Aedes aegypti,18325,Mexico,2011.0,20.97,-89.57
+Aedes aegypti,18326,Martinique,2008.0,14.55,-60.84
+Aedes aegypti,18326,Martinique,2008.0,14.56,-60.88
+Aedes aegypti,18326,French Polynesia,0.0,-16.5,-151.74
+Aedes aegypti,18326,Martinique,0.0,14.54,-60.84
+Aedes aegypti,18327,Martinique,2009.0,14.58,-60.98
+Aedes aegypti,18327,Martinique,2009.0,14.58,-60.97
+Aedes aegypti,18327,Martinique,2009.0,14.61,-60.99
+Aedes aegypti,18327,Martinique,2009.0,14.63,-61.01
+Aedes aegypti,18327,Martinique,2009.0,14.63,-61.03
+Aedes aegypti,18327,Martinique,2009.0,14.64,-60.99
+Aedes aegypti,18328,Martinique,2009.0,14.53,-60.98
+Aedes aegypti,18328,Martinique,2009.0,14.6,-61.0
+Aedes aegypti,18328,Martinique,2009.0,14.62,-61.06
+Aedes aegypti,18328,Martinique,2009.0,14.67,-61.04
+Aedes aegypti,18328,Martinique,2009.0,14.7,-61.0
+Aedes aegypti,18328,Martinique,2009.0,14.75,-61.18
+Aedes aegypti,18328,Martinique,2009.0,14.83,-61.11
+Aedes aegypti,18329,Martinique,2009.0,14.43,-60.83
+Aedes aegypti,18329,Martinique,2009.0,14.48,-60.98
+Aedes aegypti,18329,Martinique,2009.0,14.5,-60.98
+Aedes aegypti,18329,Martinique,2009.0,14.55,-60.93
+Aedes aegypti,18329,Martinique,2009.0,14.6,-61.05
+Aedes aegypti,18329,Martinique,2009.0,14.62,-60.98
+Aedes aegypti,18329,Martinique,2009.0,14.68,-60.98
+Aedes aegypti,18329,Martinique,2009.0,14.68,-61.02
+Aedes aegypti,18329,Martinique,2009.0,14.73,-61.13
+Aedes aegypti,18329,Martinique,2009.0,14.74,-61.18
+Aedes aegypti,18329,Martinique,2009.0,14.75,-60.9
+Aedes aegypti,18329,Martinique,2009.0,14.78,-60.99
+Aedes aegypti,18329,Martinique,2009.0,14.8,-61.1
+Aedes aegypti,18330,Mexico,2010.0,19.69,-103.48
+Aedes aegypti,18330,Mexico,2010.0,19.72,-103.47
+Aedes aegypti,18330,Mexico,2010.0,19.72,-103.46
+Aedes aegypti,18330,Mexico,2010.0,19.73,-103.45
+Aedes aegypti,18331,Cuba,2010.0,22.99,-82.41
+Aedes aegypti,18331,Cuba,2010.0,23.02,-82.33
+Aedes aegypti,18331,Cuba,2010.0,23.03,-82.25
+Aedes aegypti,18331,Cuba,2010.0,23.05,-82.46
+Aedes aegypti,18331,Cuba,2010.0,23.07,-82.42
+Aedes aegypti,18331,Cuba,2010.0,23.08,-82.31
+Aedes aegypti,18331,Cuba,2010.0,23.09,-82.45
+Aedes aegypti,18331,Cuba,2010.0,23.1,-82.36
+Aedes aegypti,18331,Cuba,2010.0,23.1,-82.39
+Aedes aegypti,18331,Cuba,2010.0,23.1,-82.16
+Aedes aegypti,18331,Cuba,2010.0,23.11,-82.25
+Aedes aegypti,18331,Cuba,2010.0,23.12,-82.39
+Aedes aegypti,18331,Cuba,2010.0,23.13,-82.34
+Aedes aegypti,18331,Cuba,2010.0,23.14,-82.37
+Aedes aegypti,18331,Cuba,2010.0,23.14,-82.36
+Aedes aegypti,18332,French Polynesia,2009.0,-16.84,-151.48
+Aedes aegypti,18333,Kenya,2002.0,-3.22,40.12
+Aedes aegypti,18333,Kenya,2002.0,-0.1,34.75
+Aedes aegypti,18334,Trinidad and Tobago,0.0,10.64,-61.41
+Aedes aegypti,18335,Thailand,2008.0,14.32,98.98
+Aedes aegypti,18336,Cuba,2011.0,21.38,-77.92
+Aedes aegypti,18337,Cuba,2006.0,23.12,-82.39
+Aedes aegypti,18338,Kenya,2008.0,-3.94,39.57
+Aedes aegypti,18338,Kenya,2008.0,-3.93,39.57
+Aedes aegypti,18338,Kenya,2008.0,-3.92,39.6
+Aedes aegypti,18338,Kenya,2008.0,-3.91,39.6
+Aedes aegypti,18338,Senegal,2008.0,12.41,-12.01
+Aedes aegypti,18338,Senegal,2008.0,12.58,-16.28
+Aedes aegypti,18338,Senegal,2008.0,12.6,-12.23
+Aedes aegypti,18338,Senegal,2008.0,12.7,-15.56
+Aedes aegypti,18338,Senegal,2008.0,13.01,-12.55
+Aedes aegypti,18338,Senegal,2008.0,13.21,-13.11
+Aedes aegypti,18338,Senegal,2008.0,13.98,-14.8
+Aedes aegypti,18338,Senegal,2008.0,14.17,-16.82
+Aedes aegypti,18338,Senegal,2008.0,14.72,-17.49
+Aedes aegypti,18338,Senegal,2008.0,14.92,-16.99
+Aedes aegypti,18339,Thailand,2008.0,14.95,102.03
+Aedes aegypti,18340,Indonesia,2010.0,-7.29,112.82
+Aedes aegypti,18340,Indonesia,2010.0,-7.29,112.72
+Aedes aegypti,18340,Indonesia,2010.0,-7.28,112.74
+Aedes aegypti,18340,Indonesia,2010.0,-7.28,112.75
+Aedes aegypti,18340,Indonesia,2010.0,-7.27,112.79
+Aedes aegypti,18340,Indonesia,2010.0,-7.27,112.7
+Aedes aegypti,18340,Indonesia,2010.0,-7.26,112.72
+Aedes aegypti,18340,Indonesia,2010.0,-7.26,112.67
+Aedes aegypti,18340,Indonesia,2010.0,-7.25,112.77
+Aedes aegypti,18340,Indonesia,2010.0,-7.24,112.75
+Aedes aegypti,18340,Indonesia,2010.0,-7.24,112.79
+Aedes aegypti,18340,Indonesia,2010.0,-7.22,112.77
+Aedes aegypti,18341,Indonesia,2008.0,-7.26,112.75
+Aedes aegypti,18341,Indonesia,2009.0,-7.26,112.75
+Aedes aegypti,18341,Indonesia,2010.0,-7.26,112.75
+Aedes aegypti,18341,Indonesia,2011.0,-7.26,112.75
+Aedes aegypti,18343,Uganda,2008.0,-0.18,29.9
+Aedes aegypti,18343,Uganda,2009.0,-0.18,29.9
+Aedes aegypti,18343,Uganda,2009.0,0.82,30.17
+Aedes aegypti,18343,Uganda,2010.0,-0.18,29.9
+Aedes aegypti,18343,Uganda,2010.0,0.57,30.37
+Aedes aegypti,18343,Uganda,2010.0,0.82,30.17
+Aedes aegypti,18344,Kenya,2005.0,-3.23,40.13
+Aedes aegypti,18345,Viet Nam,2006.0,10.17,106.65
+Aedes aegypti,18345,Viet Nam,2006.0,10.19,106.09
+Aedes aegypti,18345,Viet Nam,2006.0,10.84,106.31
+Aedes aegypti,18346,Viet Nam,2009.0,10.22,106.58
+Aedes aegypti,18347,Viet Nam,0.0,10.73,106.64
+Aedes aegypti,18348,Colombia,2004.0,3.41,-76.51
+Aedes aegypti,18348,Colombia,2005.0,3.41,-76.51
+Aedes aegypti,18349,Colombia,0.0,2.02,-75.76
+Aedes aegypti,18349,Colombia,0.0,2.35,-78.33
+Aedes aegypti,18349,Colombia,0.0,2.39,-75.89
+Aedes aegypti,18349,Colombia,0.0,2.69,-75.33
+Aedes aegypti,18349,Colombia,0.0,2.93,-75.29
+Aedes aegypti,18349,Colombia,0.0,3.02,-76.48
+Aedes aegypti,18349,Colombia,0.0,3.23,-76.42
+Aedes aegypti,18349,Colombia,0.0,3.53,-76.3
+Aedes aegypti,18349,Colombia,0.0,4.75,-75.91
+Aedes aegypti,18350,Thailand,2007.0,13.5,101.35
+Aedes aegypti,18350,Thailand,2007.0,13.58,101.52
+Aedes aegypti,18350,Thailand,2007.0,13.6,101.39
+Aedes aegypti,18350,Thailand,2007.0,13.62,101.26
+Aedes aegypti,18350,Thailand,2008.0,13.5,101.35
+Aedes aegypti,18350,Thailand,2008.0,13.58,101.52
+Aedes aegypti,18350,Thailand,2008.0,13.6,101.39
+Aedes aegypti,18350,Thailand,2008.0,13.62,101.26
+Aedes aegypti,18350,Thailand,2009.0,13.69,101.42
+Aedes aegypti,18350,Thailand,0.0,13.69,101.42
+Aedes aegypti,18352,Kenya,0.0,-3.64,39.85
+Aedes aegypti,18352,Kenya,0.0,-3.63,39.86
+Aedes aegypti,18352,Kenya,0.0,-3.39,39.93
+Aedes aegypti,18352,Kenya,0.0,-3.12,40.0
+Aedes aegypti,18353,Colombia,2008.0,5.45,-74.67
+Aedes aegypti,18354,Colombia,2009.0,4.53,-75.71
+Aedes aegypti,18355,Colombia,2007.0,4.53,-75.7
+Aedes aegypti,18355,Colombia,2007.0,7.11,-73.12
+Aedes aegypti,18356,Martinique,2009.0,14.44,-60.84
+Aedes aegypti,18356,Martinique,2009.0,14.51,-60.98
+Aedes aegypti,18356,Martinique,2009.0,14.62,-60.99
+Aedes aegypti,18356,Martinique,2009.0,14.7,-60.99
+Aedes aegypti,18357,Senegal,2005.0,14.48,-16.54
+Aedes aegypti,18358,Bolivia,2005.0,-17.01,-65.46
+Aedes aegypti,18358,Bolivia,2005.0,-16.97,-65.42
+Aedes aegypti,18358,Argentina,2006.0,-22.02,-63.68
+Aedes aegypti,18358,Bolivia,2006.0,-21.8,-63.56
+Aedes aegypti,18358,Bolivia,2006.0,-21.77,-63.57
+Aedes aegypti,18358,Bolivia,2006.0,-18.97,-57.8
+Aedes aegypti,18358,Bolivia,2006.0,-18.34,-59.6
+Aedes aegypti,18358,Bolivia,2006.0,-18.33,-59.76
+Aedes aegypti,18358,Bolivia,2006.0,-17.34,-63.26
+Aedes aegypti,18358,Bolivia,2006.0,-14.87,-64.97
+Aedes aegypti,18358,Bolivia,2006.0,-14.83,-64.9
+Aedes aegypti,18358,Bolivia,2006.0,-14.79,-64.97
+Aedes aegypti,18358,Bolivia,2006.0,-11.24,-68.69
+Aedes aegypti,18358,Bolivia,2006.0,-11.02,-68.76
+Aedes aegypti,18358,Bolivia,2007.0,-21.87,-63.61
+Aedes aegypti,18358,Bolivia,2007.0,-20.04,-63.52
+Aedes aegypti,18358,Bolivia,2007.0,-17.89,-63.33
+Aedes aegypti,18358,Bolivia,2007.0,-17.78,-63.18
+Aedes aegypti,18358,Bolivia,2007.0,-15.84,-67.57
+Aedes aegypti,18358,Bolivia,2007.0,-15.81,-67.62
+Aedes aegypti,18358,Bolivia,2007.0,-15.75,-67.67
+Aedes aegypti,18361,Trinidad and Tobago,0.0,10.37,-61.43
+Aedes aegypti,18361,Trinidad and Tobago,0.0,10.64,-61.41
+Aedes aegypti,18361,Trinidad and Tobago,0.0,10.64,-61.5
+Aedes aegypti,18361,Trinidad and Tobago,0.0,10.65,-61.2
+Aedes aegypti,18361,Trinidad and Tobago,0.0,10.67,-61.52
+Aedes aegypti,18361,Trinidad and Tobago,0.0,10.67,-61.53
+Aedes aegypti,18361,Trinidad and Tobago,0.0,10.72,-61.51
+Aedes aegypti,18361,Trinidad and Tobago,0.0,11.19,-60.74
+Aedes aegypti,18362,Thailand,2009.0,12.62,101.38
+Aedes aegypti,18362,Thailand,2009.0,12.63,101.38
+Aedes aegypti,18362,Thailand,2010.0,12.62,101.38
+Aedes aegypti,18362,Thailand,2010.0,12.63,101.38
+Aedes aegypti,18362,Thailand,0.0,12.63,101.38
+Aedes aegypti,18363,India,0.0,27.23,78.0
+Aedes aegypti,18364,Australia,2007.0,-16.85,145.75
+Aedes aegypti,18364,Australia,2008.0,-16.93,145.77
+Aedes aegypti,18365,Pakistan,2010.0,24.86,67.01
+Aedes aegypti,18365,Pakistan,2010.0,25.38,68.37
+Aedes aegypti,18365,Pakistan,2010.0,30.2,71.47
+Aedes aegypti,18365,Pakistan,2010.0,31.42,73.08
+Aedes aegypti,18365,Pakistan,2010.0,31.55,74.36
+Aedes aegypti,18365,Pakistan,2010.0,31.72,73.99
+Aedes aegypti,18365,Pakistan,2010.0,32.15,74.18
+Aedes aegypti,18365,Pakistan,2010.0,33.6,73.04
+Aedes aegypti,18365,Pakistan,2010.0,33.74,72.8
+Aedes aegypti,18365,Pakistan,2010.0,33.77,72.36
+Aedes aegypti,18365,Pakistan,2010.0,33.82,72.69
+Aedes aegypti,18365,Pakistan,2010.0,34.0,72.94
+Aedes aegypti,18365,Pakistan,2010.0,34.01,71.58
+Aedes aegypti,18366,Colombia,2011.0,6.22,-75.57
+Aedes aegypti,18366,Colombia,2011.0,6.25,-75.59
+Aedes aegypti,18366,Colombia,2011.0,6.26,-75.62
+Aedes aegypti,18367,Australia,0.0,-16.92,145.77
+Aedes aegypti,18369,Cuba,1997.0,20.02,-75.83
+Aedes aegypti,18369,Cuba,2009.0,20.02,-75.83
+Aedes aegypti,18370,Venezuela,2009.0,5.15,-64.83
+Aedes aegypti,18372,Peru,0.0,-3.74,-73.25
+Aedes aegypti,18372,Mexico,0.0,18.52,-88.33
+Aedes aegypti,18372,Mexico,0.0,18.53,-88.3
+Aedes aegypti,18372,Mexico,0.0,18.54,-88.3
+Aedes aegypti,18372,Mexico,0.0,18.56,-88.26
+Aedes aegypti,18372,Mexico,0.0,20.95,-89.64
+Aedes aegypti,18373,Malaysia,2009.0,5.29,100.29
+Aedes aegypti,18373,Malaysia,2009.0,5.29,100.26
+Aedes aegypti,18373,Malaysia,2009.0,5.35,100.31
+Aedes aegypti,18373,Malaysia,2009.0,5.37,100.31
+Aedes aegypti,18374,Cuba,1999.0,23.11,-82.43
+Aedes aegypti,18374,Cuba,1999.0,23.12,-82.41
+Aedes aegypti,18374,Cuba,1999.0,23.12,-82.42
+Aedes aegypti,18374,Cuba,2000.0,23.11,-82.43
+Aedes aegypti,18374,Cuba,2000.0,23.12,-82.41
+Aedes aegypti,18374,Cuba,2000.0,23.12,-82.42
+Aedes aegypti,18374,Cuba,2001.0,23.11,-82.43
+Aedes aegypti,18374,Cuba,2001.0,23.12,-82.41
+Aedes aegypti,18374,Cuba,2001.0,23.12,-82.42
+Aedes aegypti,18374,Cuba,2002.0,23.11,-82.43
+Aedes aegypti,18374,Cuba,2002.0,23.12,-82.41
+Aedes aegypti,18374,Cuba,2002.0,23.12,-82.42
+Aedes aegypti,18374,Cuba,2003.0,23.11,-82.43
+Aedes aegypti,18374,Cuba,2003.0,23.12,-82.41
+Aedes aegypti,18374,Cuba,2003.0,23.12,-82.42
+Aedes aegypti,18374,Cuba,2004.0,23.11,-82.43
+Aedes aegypti,18374,Cuba,2004.0,23.12,-82.41
+Aedes aegypti,18374,Cuba,2004.0,23.12,-82.42
+Aedes aegypti,18374,Cuba,2005.0,23.11,-82.43
+Aedes aegypti,18374,Cuba,2005.0,23.12,-82.41
+Aedes aegypti,18374,Cuba,2005.0,23.12,-82.42
+Aedes aegypti,18375,Comoros,2005.0,-11.72,43.25
+Aedes aegypti,18376,India,2006.0,24.66,93.91
+Aedes aegypti,18377,Colombia,2007.0,1.62,-75.6
+Aedes aegypti,18377,Colombia,2007.0,2.58,-72.65
+Aedes aegypti,18377,Colombia,2007.0,4.09,-72.96
+Aedes aegypti,18377,Colombia,2007.0,4.15,-73.64
+Aedes aegypti,18377,Colombia,2007.0,4.3,-74.8
+Aedes aegypti,18377,Colombia,2007.0,4.64,-74.47
+Aedes aegypti,18377,Colombia,2007.0,7.13,-73.13
+Aedes aegypti,18377,Colombia,2007.0,7.4,-73.5
+Aedes aegypti,18378,Colombia,2007.0,1.61,-75.61
+Aedes aegypti,18378,Colombia,2007.0,2.57,-72.63
+Aedes aegypti,18378,Colombia,2007.0,4.09,-72.95
+Aedes aegypti,18378,Colombia,2007.0,4.15,-73.63
+Aedes aegypti,18378,Colombia,2007.0,4.3,-74.81
+Aedes aegypti,18378,Colombia,2007.0,4.63,-74.47
+Aedes aegypti,18378,Colombia,2007.0,7.11,-73.12
+Aedes aegypti,18378,Colombia,2007.0,7.4,-73.5
+Aedes aegypti,18380,Sudan,2008.0,19.62,37.22
+Aedes aegypti,18380,Sudan,2009.0,19.58,37.19
+Aedes aegypti,18380,Sudan,2009.0,19.62,37.22
+Aedes aegypti,18380,Sudan,2009.0,19.63,37.23
+Aedes aegypti,18380,Sudan,2009.0,19.64,37.16
+Aedes aegypti,18381,Sudan,2010.0,19.62,37.22
+Aedes aegypti,18382,India,2006.0,13.05,80.25
+Aedes aegypti,18382,India,0.0,13.05,80.25
+Aedes aegypti,18383,Malaysia,0.0,3.07,101.52
+Aedes aegypti,18383,Malaysia,0.0,3.11,101.66
+Aedes aegypti,18385,Mexico,2007.0,19.17,-96.22
+Aedes aegypti,18385,Mexico,2007.0,20.07,-97.04
+Aedes aegypti,18385,Mexico,2007.0,22.04,-98.2
+Aedes aegypti,18385,Mexico,2009.0,16.88,-99.86
+Aedes aegypti,18385,Mexico,2009.0,18.01,-94.63
+Aedes aegypti,18385,Mexico,2009.0,18.14,-94.42
+Aedes aegypti,18385,Mexico,2009.0,18.34,-99.54
+Aedes aegypti,18385,Mexico,2009.0,19.17,-96.22
+Aedes aegypti,18385,Mexico,2009.0,20.07,-97.04
+Aedes aegypti,18385,Mexico,2009.0,20.57,-97.43
+Aedes aegypti,18385,Mexico,2009.0,20.96,-89.59
+Aedes aegypti,18385,Mexico,2009.0,21.34,-98.22
+Aedes aegypti,18385,Mexico,2009.0,22.04,-98.2
+Aedes aegypti,18385,Mexico,2009.0,25.61,-100.28
+Aedes aegypti,18385,Mexico,2009.0,25.73,-100.31
+Aedes aegypti,18385,Mexico,2009.0,25.95,-100.17
+Aedes aegypti,18385,Mexico,2009.0,26.5,-100.18
+Aedes aegypti,18388,Puerto Rico,2005.0,18.47,-66.11
+Aedes aegypti,18389,Argentina,2004.0,-34.6,-58.38
+Aedes aegypti,18389,Uruguay,2004.0,-33.25,-58.03
+Aedes aegypti,18389,Uruguay,2004.0,-33.23,-54.38
+Aedes aegypti,18389,Uruguay,2004.0,-33.13,-58.3
+Aedes aegypti,18389,Argentina,2004.0,-33.01,-58.51
+Aedes aegypti,18389,Argentina,2004.0,-31.74,-60.51
+Aedes aegypti,18389,Uruguay,2004.0,-31.39,-57.96
+Aedes aegypti,18389,Argentina,2004.0,-27.36,-55.9
+Aedes aegypti,18390,Puerto Rico,2010.0,18.01,-66.01
+Aedes aegypti,18390,Puerto Rico,2010.0,18.03,-66.03
+Aedes aegypti,18391,Thailand,0.0,19.32,98.74
+Aedes aegypti,18392,Thailand,2003.0,13.71,100.41
+Aedes aegypti,18392,Thailand,0.0,13.54,99.85
+Aedes aegypti,18392,Thailand,0.0,13.7,100.43
+Aedes aegypti,18392,Thailand,0.0,13.7,100.41
+Aedes aegypti,18392,Thailand,0.0,13.71,100.41
+Aedes aegypti,18392,Thailand,0.0,14.11,101.33
+Aedes aegypti,18395,Thailand,0.0,8.43,99.96
+Aedes aegypti,18395,Thailand,0.0,9.97,98.64
+Aedes aegypti,18395,Thailand,0.0,12.24,102.52
+Aedes aegypti,18395,Thailand,0.0,12.61,102.1
+Aedes aegypti,18395,Thailand,0.0,13.82,102.06
+Aedes aegypti,18395,Thailand,0.0,16.43,102.82
+Aedes aegypti,18395,Thailand,0.0,18.15,100.14
+Aedes aegypti,18395,Thailand,0.0,18.16,97.97
+Aedes aegypti,18395,Thailand,0.0,18.29,99.51
+Aedes aegypti,18395,Thailand,0.0,18.57,99.01
+Aedes aegypti,18395,Thailand,0.0,18.79,98.99
+Aedes aegypti,18395,Thailand,0.0,19.34,99.82
+Aedes aegypti,18395,Thailand,0.0,19.85,99.11
+Aedes aegypti,18395,Thailand,0.0,19.91,99.83
+Aedes aegypti,18395,Pakistan,0.0,31.55,74.36
+Aedes aegypti,18396,Venezuela,0.0,9.37,-70.43
+Aedes aegypti,18396,Venezuela,0.0,9.39,-70.43
+Aedes aegypti,18397,Japan,2012.0,35.75,140.38
+Aedes aegypti,18398,Thailand,2008.0,6.84,100.66
+Aedes aegypti,18398,Thailand,0.0,7.01,100.47
+Aedes aegypti,18398,Thailand,0.0,7.07,100.41
+Aedes aegypti,18398,Thailand,0.0,7.18,100.61
+Aedes aegypti,18398,Thailand,0.0,7.25,100.51
+Aedes aegypti,18398,Thailand,0.0,8.77,99.15
+Aedes aegypti,18398,Thailand,0.0,8.92,99.3
+Aedes aegypti,18398,Thailand,0.0,9.14,99.32
+Aedes aegypti,18398,Thailand,0.0,9.21,99.7
+Aedes aegypti,18398,Thailand,0.0,9.45,99.03
+Aedes aegypti,18398,Thailand,0.0,12.94,100.91
+Aedes aegypti,18398,Thailand,0.0,13.14,101.05
+Aedes aegypti,18398,Thailand,0.0,13.36,100.98
+Aedes aegypti,18398,Thailand,0.0,13.43,101.21
+Aedes aegypti,18398,Thailand,0.0,13.67,100.5
+Aedes aegypti,18398,Thailand,0.0,13.72,100.78
+Aedes aegypti,18398,Thailand,0.0,13.77,100.47
+Aedes aegypti,18398,Thailand,0.0,13.77,100.58
+Aedes aegypti,18398,Thailand,0.0,13.88,100.58
+Aedes aegypti,18398,Thailand,0.0,14.37,102.48
+Aedes aegypti,18398,Thailand,0.0,14.97,101.59
+Aedes aegypti,18398,Thailand,0.0,15.24,100.37
+Aedes aegypti,18398,Thailand,0.0,15.24,101.75
+Aedes aegypti,18398,Thailand,0.0,15.58,102.69
+Aedes aegypti,18398,Thailand,0.0,15.58,100.01
+Aedes aegypti,18398,Thailand,0.0,15.67,102.21
+Aedes aegypti,18398,Thailand,0.0,15.69,100.12
+Aedes aegypti,18398,Thailand,0.0,15.7,99.39
+Aedes aegypti,18398,Thailand,0.0,15.82,99.32
+Aedes aegypti,18398,Thailand,0.0,18.79,98.99
+Aedes aegypti,18398,Thailand,0.0,19.21,98.88
+Aedes aegypti,18399,Thailand,0.0,12.67,101.26
+Aedes aegypti,18400,Sri Lanka,2012.0,7.68,81.73
+Aedes aegypti,18402,Thailand,0.0,14.33,98.98
+Aedes aegypti,18404,Viet Nam,2007.0,10.07,105.56
+Aedes aegypti,18405,Indonesia,2007.0,-7.83,110.39
+Aedes aegypti,18405,Indonesia,2007.0,-7.81,110.38
+Aedes aegypti,18405,Indonesia,2007.0,-7.79,110.37
+Aedes aegypti,18405,Indonesia,2007.0,-7.79,110.39
+Aedes aegypti,18405,Indonesia,2007.0,-7.78,110.35
+Aedes aegypti,18405,Indonesia,2008.0,-7.79,110.39
+Aedes aegypti,18407,Thailand,2008.0,13.63,100.43
+Aedes aegypti,18408,Thailand,2008.0,14.2,101.21
+Aedes aegypti,18408,Thailand,2008.0,14.2,101.12
+Aedes aegypti,18408,Thailand,2008.0,14.2,101.23
+Aedes aegypti,18408,Thailand,2008.0,14.26,101.13
+Aedes aegypti,18408,Thailand,2008.0,14.26,101.21
+Aedes aegypti,18410,Viet Nam,2008.0,10.46,106.6
+Aedes aegypti,18410,Viet Nam,2009.0,10.46,106.6
+Aedes aegypti,18411,Viet Nam,2007.0,10.73,106.64
+Aedes aegypti,18412,Philippines,2006.0,14.68,121.04
+Aedes aegypti,18412,Myanmar,2006.0,16.78,96.15
+Aedes aegypti,18412,Peru,2007.0,-3.74,-73.25
+Aedes aegypti,18412,Kenya,2007.0,-3.22,40.12
+Aedes aegypti,18412,Venezuela,2007.0,9.37,-70.43
+Aedes aegypti,18412,Philippines,2007.0,14.68,121.04
+Aedes aegypti,18412,Myanmar,2007.0,16.78,96.15
+Aedes aegypti,18412,Mexico,2007.0,20.97,-89.63
+Aedes aegypti,18416,Cuba,2006.0,20.14,-75.21
+Aedes aegypti,18418,Venezuela,2006.0,9.32,-70.61
+Aedes aegypti,18418,Venezuela,2006.0,9.4,-70.56
+Aedes aegypti,18418,Venezuela,2007.0,9.32,-70.61
+Aedes aegypti,18418,Venezuela,2007.0,9.4,-70.56
+Aedes aegypti,18418,Venezuela,2008.0,9.32,-70.61
+Aedes aegypti,18418,Venezuela,2008.0,9.4,-70.56
+Aedes aegypti,18418,Venezuela,2009.0,9.4,-70.56
+Aedes aegypti,18419,Antigua and Barbuda,2009.0,17.16,-61.85
+Aedes aegypti,18420,Argentina,2007.0,-34.76,-58.43
+Aedes aegypti,18420,Argentina,2008.0,-34.76,-58.43
+Aedes aegypti,18422,Indonesia,2008.0,-7.8,110.37
+Aedes aegypti,18422,Sri Lanka,2008.0,7.07,80.01
+Aedes aegypti,18422,India,2008.0,13.06,80.23
+Aedes aegypti,18422,Philippines,2008.0,14.41,121.04
+Aedes aegypti,18422,Myanmar,2008.0,16.78,96.15
+Aedes aegypti,18423,Mexico,2010.0,14.91,-92.26
+Aedes aegypti,18424,Mexico,2008.0,14.91,-92.26
+Aedes aegypti,18426,Malaysia,0.0,3.07,101.72
+Aedes aegypti,18426,Malaysia,0.0,3.11,101.66
+Aedes aegypti,18426,Malaysia,0.0,3.22,101.73
+Aedes aegypti,18427,Malaysia,2009.0,5.3,103.14
+Aedes aegypti,18427,Malaysia,2009.0,5.97,116.07
+Aedes aegypti,18427,Malaysia,2009.0,6.12,102.26
+Aedes aegypti,18431,Thailand,2007.0,14.9,104.92
+Aedes aegypti,18431,Thailand,2008.0,14.77,105.34
+Aedes aegypti,18431,Thailand,2008.0,14.84,105.11
+Aedes aegypti,18431,Thailand,2008.0,14.9,104.92
+Aedes aegypti,18431,Thailand,2008.0,15.04,105.23
+Aedes aegypti,18431,Thailand,2008.0,15.08,104.84
+Aedes aegypti,18431,Thailand,2008.0,15.12,105.32
+Aedes aegypti,18431,Thailand,2008.0,15.18,104.86
+Aedes aegypti,18431,Thailand,2008.0,15.26,104.89
+Aedes aegypti,18431,Thailand,2008.0,15.61,105.05
+Aedes aegypti,18431,Thailand,2008.0,15.72,105.17
+Aedes aegypti,18432,Peru,2013.0,-13.34,-70.75
+Aedes aegypti,18432,Peru,2013.0,-12.86,-72.69
+Aedes aegypti,18432,Peru,2013.0,-12.59,-69.2
+Aedes aegypti,18432,Peru,2013.0,-11.93,-77.05
+Aedes aegypti,18432,Peru,2013.0,-11.74,-76.7
+Aedes aegypti,18432,Peru,2013.0,-8.39,-74.58
+Aedes aegypti,18432,Peru,2013.0,-8.11,-79.02
+Aedes aegypti,18432,Peru,2013.0,-6.48,-76.37
+Aedes aegypti,18432,Peru,2013.0,-5.71,-78.81
+Aedes aegypti,18432,Peru,2013.0,-5.11,-80.5
+Aedes aegypti,18432,Peru,2013.0,-3.74,-73.25
+Aedes aegypti,18432,Peru,2013.0,-3.67,-80.57
+Aedes aegypti,18432,Peru,2013.0,-3.48,-80.26
+Aedes aegypti,18433,Thailand,2004.0,13.11,99.95
+Aedes aegypti,18433,Thailand,2004.0,13.14,99.61
+Aedes aegypti,18433,Thailand,2005.0,7.63,100.39
+Aedes aegypti,18433,Thailand,2007.0,14.33,98.98
+Aedes aegypti,18433,Thailand,2007.0,15.7,100.12
+Aedes aegypti,18433,Thailand,2007.0,19.21,98.88
+Aedes aegypti,18433,Thailand,2008.0,16.88,99.13
+Aedes aegypti,18433,Thailand,2009.0,12.05,102.32
+Aedes aegypti,18433,Thailand,2009.0,13.36,99.91
+Aedes aegypti,18433,Thailand,2009.0,15.24,104.85
+Aedes aegypti,18433,Thailand,2009.0,16.42,101.16
+Aedes aegypti,18433,Thailand,2009.0,16.71,98.57
+Aedes aegypti,18433,Thailand,2009.0,16.82,100.27
+Aedes aegypti,18433,Thailand,2009.0,16.89,98.64
+Aedes aegypti,18433,Thailand,2009.0,17.63,100.1
+Aedes aegypti,18433,Thailand,2009.0,17.64,99.24
+Aedes aegypti,18433,Thailand,2009.0,18.16,97.97
+Aedes aegypti,18433,Thailand,2009.0,18.29,99.51
+Aedes aegypti,18433,Thailand,2009.0,18.79,98.99
+Aedes aegypti,18433,Thailand,2009.0,20.25,100.24
+Aedes aegypti,18434,Thailand,2006.0,16.48,99.52
+Aedes aegypti,18434,Thailand,2007.0,16.48,99.52
+Aedes aegypti,18434,Thailand,0.0,16.48,99.52
+Aedes aegypti,18435,Colombia,1990.0,6.77,-75.08
+Aedes aegypti,18435,Colombia,1998.0,6.77,-75.08
+Aedes aegypti,18435,Colombia,2003.0,6.87,-75.18
+Aedes aegypti,18435,Colombia,2006.0,6.87,-75.18
+Aedes aegypti,18436,Peru,1998.0,-3.75,-73.27
+Aedes aegypti,18436,Peru,1998.0,-3.73,-73.25
+Aedes aegypti,18436,Peru,1999.0,-3.75,-73.27
+Aedes aegypti,18436,Peru,1999.0,-3.73,-73.25
+Aedes aegypti,18439,Mexico,2007.0,20.86,-90.4
+Aedes aegypti,18441,Thailand,2007.0,19.14,98.87
+Aedes aegypti,18443,Thailand,2010.0,19.21,98.88
+Aedes aegypti,18444,Zambia,2013.0,-12.17,26.38
+Aedes aegypti,18445,Senegal,2010.0,14.18,-12.72
+Aedes aegypti,18445,Senegal,2010.0,14.34,-16.41
+Aedes aegypti,18445,Senegal,2010.0,14.72,-17.27
+Aedes aegypti,18445,Senegal,2010.0,14.92,-16.99
+Aedes aegypti,18445,Senegal,2010.0,16.47,-15.68
+Aedes aegypti,18445,Senegal,2011.0,12.56,-12.19
+Aedes aegypti,18445,Senegal,2011.0,12.61,-12.25
+Aedes aegypti,18445,Senegal,2011.0,12.8,-16.23
+Aedes aegypti,10681,Mexico,1995.0,26.08,-98.29
+Aedes aegypti,10688,Venezuela,2003.0,9.37,-70.43
+Aedes aegypti,10699,Cuba,1997.0,23.1,-82.42
+Aedes aegypti,10699,Cuba,1997.0,23.1,-82.45
+Aedes aegypti,10699,Cuba,1997.0,23.1,-82.43
+Aedes aegypti,10699,Cuba,1997.0,23.11,-82.41
+Aedes aegypti,10699,Cuba,1997.0,23.11,-82.42
+Aedes aegypti,10699,Cuba,1997.0,23.13,-82.41
+Aedes aegypti,10701,Cuba,1996.0,23.01,-82.4
+Aedes aegypti,10727,Argentina,1999.0,-31.4,-64.19
+Aedes aegypti,10727,Argentina,2000.0,-31.4,-64.19
+Aedes aegypti,10727,Argentina,2000.0,-31.32,-64.17
+Aedes aegypti,10734,Brazil,1993.0,-21.47,-49.22
+Aedes aegypti,10734,Brazil,1993.0,-21.14,-48.97
+Aedes aegypti,10734,Brazil,1993.0,-21.04,-49.38
+Aedes aegypti,10734,Brazil,1993.0,-20.81,-49.38
+Aedes aegypti,10734,Brazil,1993.0,-20.77,-49.71
+Aedes aegypti,10734,Brazil,1993.0,-20.1,-50.59
+Aedes aegypti,10735,Brazil,1988.0,-22.12,-51.39
+Aedes aegypti,10735,Brazil,1988.0,-21.95,-51.42
+Aedes aegypti,10735,Brazil,1988.0,-21.78,-52.15
+Aedes aegypti,10743,Nigeria,0.0,7.16,3.35
+Aedes aegypti,10744,Nigeria,0.0,6.87,3.72
+Aedes aegypti,10744,Nigeria,0.0,7.07,3.75
+Aedes aegypti,10751,Peru,2000.0,-12.09,-77.04
+Aedes aegypti,10751,Peru,2000.0,-12.08,-77.1
+Aedes aegypti,10751,Peru,2000.0,-12.04,-77.02
+Aedes aegypti,10751,Peru,2000.0,-12.04,-77.03
+Aedes aegypti,10751,Peru,2000.0,-12.03,-77.03
+Aedes aegypti,10751,Peru,2000.0,-12.02,-77.03
+Aedes aegypti,10751,Peru,2000.0,-12.01,-77.03
+Aedes aegypti,10751,Peru,2000.0,-12.0,-76.88
+Aedes aegypti,10751,Peru,2000.0,-12.0,-76.86
+Aedes aegypti,10754,Nigeria,2002.0,5.78,7.03
+Aedes aegypti,10754,Nigeria,0.0,5.82,6.93
+Aedes aegypti,10756,India,1995.0,28.58,77.17
+Aedes aegypti,10760,India,0.0,28.49,77.61
+Aedes aegypti,10763,Nigeria,1998.0,11.08,7.72
+Aedes aegypti,10764,Puerto Rico,1992.0,18.4,-66.08
+Aedes aegypti,10764,Puerto Rico,1993.0,18.0,-66.59
+Aedes aegypti,10764,Puerto Rico,1993.0,18.02,-66.61
+Aedes aegypti,10764,Puerto Rico,1993.0,18.18,-66.05
+Aedes aegypti,10764,Puerto Rico,1993.0,18.2,-67.13
+Aedes aegypti,10764,Puerto Rico,1993.0,18.2,-67.14
+Aedes aegypti,10764,Puerto Rico,1993.0,18.22,-66.06
+Aedes aegypti,10764,Puerto Rico,1993.0,18.24,-67.14
+Aedes aegypti,10764,Puerto Rico,1993.0,18.32,-65.67
+Aedes aegypti,10764,Puerto Rico,1993.0,18.33,-65.66
+Aedes aegypti,10764,Puerto Rico,1993.0,18.42,-66.74
+Aedes aegypti,10764,Puerto Rico,1993.0,18.47,-66.75
+Aedes aegypti,10764,Puerto Rico,1993.0,18.47,-66.73
+Aedes aegypti,10766,United States of America,1984.0,35.79,-78.65
+Aedes aegypti,10770,United States of America,1999.0,26.2,-98.23
+Aedes aegypti,10770,Peru,2000.0,-3.75,-73.19
+Aedes aegypti,10771,United States of America,2001.0,26.2,-98.23
+Aedes aegypti,10771,Mexico,2002.0,16.32,-95.23
+Aedes aegypti,10776,Venezuela,1992.0,10.04,-65.03
+Aedes aegypti,10782,Honduras,2002.0,14.08,-87.22
+Aedes aegypti,10783,Argentina,1995.0,-32.43,-63.25
+Aedes aegypti,10783,Argentina,1995.0,-31.41,-64.19
+Aedes aegypti,10783,Argentina,1996.0,-32.41,-63.25
+Aedes aegypti,10783,Argentina,1996.0,-31.47,-64.13
+Aedes aegypti,10783,Argentina,1996.0,-31.42,-64.2
+Aedes aegypti,10783,Argentina,1996.0,-31.38,-64.18
+Aedes aegypti,10783,Argentina,1996.0,-31.38,-64.21
+Aedes aegypti,10783,Argentina,1996.0,-31.27,-64.17
+Aedes aegypti,10783,Argentina,1996.0,-30.98,-64.09
+Aedes aegypti,10787,Brazil,2000.0,-22.33,-49.08
+Aedes aegypti,10787,Brazil,2000.0,-21.21,-50.45
+Aedes aegypti,10787,Brazil,2000.0,-21.19,-47.8
+Aedes aegypti,10787,Brazil,2000.0,-10.91,-37.06
+Aedes aegypti,10787,Brazil,2000.0,-10.69,-37.42
+Aedes aegypti,10787,Brazil,2000.0,-9.75,-36.66
+Aedes aegypti,10787,Brazil,2000.0,-9.66,-35.77
+Aedes aegypti,10787,Brazil,2000.0,-8.12,-34.9
+Aedes aegypti,10787,Brazil,2000.0,-8.12,-35.01
+Aedes aegypti,10787,Brazil,2000.0,-8.07,-34.95
+Aedes aegypti,10787,Brazil,2000.0,-8.06,-34.9
+Aedes aegypti,10787,Brazil,2000.0,-8.01,-34.85
+Aedes aegypti,10787,Brazil,2000.0,-3.06,-60.01
+Aedes aegypti,10787,Brazil,2000.0,-3.02,-59.97
+Aedes aegypti,10787,United States of America,2000.0,28.57,-81.37
+Aedes aegypti,10789,Burkina Faso,0.0,12.36,-1.53
+Aedes aegypti,10793,India,2005.0,11.09,77.36
+Aedes aegypti,10799,Thailand,1969.0,13.75,100.52
+Aedes aegypti,10799,Thailand,1969.0,13.78,100.62
+Aedes aegypti,10800,Thailand,0.0,13.78,100.57
+Aedes aegypti,10800,Thailand,0.0,13.78,100.62
+Aedes aegypti,10800,Thailand,0.0,13.8,100.53
+Aedes aegypti,10801,Thailand,0.0,13.81,100.52
+Aedes aegypti,10802,Thailand,1969.0,13.75,100.5
+Aedes aegypti,10802,Thailand,1969.0,13.75,100.53
+Aedes aegypti,10802,Thailand,1969.0,13.78,100.57
+Aedes aegypti,10802,Thailand,1969.0,13.88,100.59
+Aedes aegypti,10808,Brazil,1997.0,-20.8,-49.39
+Aedes aegypti,10811,Brazil,2002.0,-30.03,-51.23
+Aedes aegypti,10816,Senegal,1981.0,14.62,-16.31
+Aedes aegypti,10817,United States of America,0.0,25.48,-80.49
+Aedes aegypti,10817,United States of America,0.0,27.19,-80.25
+Aedes aegypti,10819,Puerto Rico,2004.0,17.98,-66.3
+Aedes aegypti,10825,Venezuela,1992.0,10.05,-65.04
+Aedes aegypti,10825,Venezuela,1992.0,10.14,-65.44
+Aedes aegypti,10825,Venezuela,1992.0,10.14,-64.68
+Aedes aegypti,10825,Venezuela,1992.0,10.45,-64.18
+Aedes aegypti,10825,Venezuela,1992.0,10.47,-67.77
+Aedes aegypti,10825,Venezuela,1992.0,10.47,-68.01
+Aedes aegypti,10825,Venezuela,1992.0,10.47,-66.11
+Aedes aegypti,10825,Venezuela,1992.0,10.48,-68.2
+Aedes aegypti,10825,Venezuela,1992.0,10.48,-63.55
+Aedes aegypti,10825,Venezuela,1992.0,10.48,-67.62
+Aedes aegypti,10825,Venezuela,1992.0,10.49,-68.12
+Aedes aegypti,10825,Venezuela,1992.0,10.6,-66.96
+Aedes aegypti,10825,Venezuela,1992.0,10.61,-66.87
+Aedes aegypti,10825,Venezuela,1992.0,10.62,-66.73
+Aedes aegypti,10825,Venezuela,1992.0,10.67,-63.25
+Aedes aegypti,10825,Venezuela,1992.0,10.69,-68.3
+Aedes aegypti,10825,Venezuela,1992.0,10.78,-68.33
+Aedes aegypti,10825,Venezuela,1992.0,10.83,-71.69
+Aedes aegypti,10825,Venezuela,1992.0,10.93,-68.29
+Aedes aegypti,10825,Venezuela,1992.0,10.96,-71.72
+Aedes aegypti,10825,Venezuela,1992.0,11.0,-63.8
+Aedes aegypti,10825,Venezuela,1992.0,11.02,-63.87
+Aedes aegypti,10825,Venezuela,1992.0,11.05,-68.35
+Aedes aegypti,10825,Venezuela,1992.0,11.08,-63.95
+Aedes aegypti,10825,Venezuela,1992.0,11.09,-71.85
+Aedes aegypti,10825,Venezuela,1992.0,11.35,-71.97
+Aedes aegypti,10825,Venezuela,1992.0,11.46,-69.57
+Aedes aegypti,10825,Venezuela,1992.0,11.49,-69.36
+Aedes aegypti,10826,Venezuela,1977.0,10.5,-66.92
+Aedes aegypti,10827,United States of America,1967.0,29.75,-95.35
+Aedes aegypti,10828,United States of America,1968.0,27.77,-97.41
+Aedes aegypti,10828,United States of America,1968.0,28.03,-97.5
+Aedes aegypti,10828,United States of America,1968.0,29.42,-98.5
+Aedes aegypti,10828,United States of America,1968.0,29.57,-97.97
+Aedes aegypti,10828,United States of America,1968.0,29.75,-95.35
+Aedes aegypti,10828,United States of America,1968.0,30.34,-95.09
+Aedes aegypti,10836,India,1997.0,28.55,77.18
+Aedes aegypti,10836,India,1997.0,28.58,77.22
+Aedes aegypti,10836,India,1997.0,28.66,77.23
+Aedes aegypti,10836,India,1997.0,28.66,77.21
+Aedes aegypti,10845,India,0.0,12.97,77.58
+Aedes aegypti,10845,Thailand,0.0,13.75,100.52
+Aedes aegypti,10845,India,0.0,28.99,77.01
+Aedes aegypti,10850,Australia,2005.0,-12.2,136.77
+Aedes aegypti,10850,Australia,0.0,-19.91,138.12
+Aedes aegypti,10850,Australia,0.0,-19.65,134.19
+Aedes aegypti,10850,Australia,0.0,-16.92,145.76
+Aedes aegypti,10850,Viet Nam,0.0,21.03,105.85
+Aedes aegypti,10851,Australia,0.0,-19.28,146.79
+Aedes aegypti,10851,Vanuatu,0.0,-17.74,168.32
+Aedes aegypti,10851,Australia,0.0,-12.2,136.77
+Aedes aegypti,10851,Papua New Guinea,0.0,-9.48,147.19
+Aedes aegypti,10861,Mexico,0.0,14.9,-92.27
+Aedes aegypti,10861,Mexico,0.0,15.86,-97.06
+Aedes aegypti,10861,Mexico,0.0,17.0,-100.09
+Aedes aegypti,10861,Mexico,0.0,17.6,-101.46
+Aedes aegypti,10861,Mexico,0.0,17.95,-102.2
+Aedes aegypti,10861,Mexico,0.0,17.97,-94.37
+Aedes aegypti,10861,Mexico,0.0,17.98,-92.93
+Aedes aegypti,10861,Mexico,0.0,18.5,-88.29
+Aedes aegypti,10861,Mexico,0.0,18.65,-91.82
+Aedes aegypti,10861,Mexico,0.0,19.85,-90.52
+Aedes aegypti,10861,Mexico,0.0,20.6,-105.24
+Aedes aegypti,10861,Mexico,0.0,20.98,-89.62
+Aedes aegypti,10861,Mexico,0.0,21.13,-86.82
+Aedes aegypti,10861,Mexico,0.0,23.21,-106.42
+Aedes aegypti,10861,Mexico,0.0,24.8,-107.4
+Aedes aegypti,10861,Mexico,0.0,25.68,-100.31
+Aedes aegypti,10861,Mexico,0.0,26.38,-99.0
+Aedes aegypti,10861,Mexico,0.0,27.48,-99.51
+Aedes aegypti,10861,Mexico,0.0,27.92,-110.9
+Aedes aegypti,10861,Mexico,0.0,29.09,-110.95
+Aedes aegypti,10861,United States of America,0.0,29.75,-95.35
+Aedes aegypti,10861,United States of America,0.0,32.22,-110.98
+Aedes aegypti,10871,Brazil,0.0,-7.49,-36.14
+Aedes aegypti,10871,Brazil,0.0,-7.23,-35.9
+Aedes aegypti,10871,Brazil,0.0,-6.38,-37.83
+Aedes aegypti,10872,Brazil,2004.0,-7.48,-36.13
+Aedes aegypti,10872,Brazil,2004.0,-7.31,-38.15
+Aedes aegypti,10872,Brazil,2004.0,-7.24,-35.9
+Aedes aegypti,10872,Brazil,2004.0,-6.38,-37.83
+Aedes aegypti,10878,Argentina,0.0,-28.47,-65.78
+Aedes aegypti,10878,Argentina,0.0,-27.4,-55.91
+Aedes aegypti,10878,Argentina,0.0,-22.03,-63.68
+Aedes aegypti,10886,Panama,0.0,9.02,-79.5
+Aedes aegypti,10886,Panama,0.0,9.03,-79.5
+Aedes aegypti,10896,Mexico,2003.0,14.9,-92.27
+Aedes aegypti,10901,Thailand,2002.0,6.52,100.42
+Aedes aegypti,10901,Thailand,2002.0,8.58,98.31
+Aedes aegypti,10901,Thailand,2002.0,16.71,98.57
+Aedes aegypti,10910,Brazil,2004.0,-25.55,-54.59
+Aedes aegypti,10910,Brazil,2004.0,-23.95,-46.32
+Aedes aegypti,10910,Brazil,2004.0,-23.79,-45.41
+Aedes aegypti,10910,Brazil,2004.0,-23.41,-51.93
+Aedes aegypti,10910,Brazil,2004.0,-22.92,-47.08
+Aedes aegypti,10910,Brazil,2004.0,-22.9,-43.2
+Aedes aegypti,10910,Brazil,2004.0,-22.84,-45.25
+Aedes aegypti,10910,Brazil,2004.0,-22.76,-43.45
+Aedes aegypti,10910,Brazil,2004.0,-22.33,-49.08
+Aedes aegypti,10910,Brazil,2004.0,-22.22,-49.95
+Aedes aegypti,10910,Brazil,2004.0,-22.12,-51.39
+Aedes aegypti,10910,Brazil,2004.0,-21.21,-50.45
+Aedes aegypti,10910,Brazil,2004.0,-20.44,-54.62
+Aedes aegypti,10910,Brazil,2004.0,-20.24,-40.37
+Aedes aegypti,10910,Brazil,2004.0,-19.92,-43.94
+Aedes aegypti,10910,Brazil,2004.0,-19.7,-45.03
+Aedes aegypti,10910,French Polynesia,2004.0,-17.53,-149.57
+Aedes aegypti,10910,Brazil,2004.0,-15.65,-56.14
+Aedes aegypti,10910,Brazil,2004.0,-12.97,-38.5
+Aedes aegypti,10910,Brazil,2004.0,-12.25,-38.96
+Aedes aegypti,10910,Brazil,2004.0,-9.98,-67.82
+Aedes aegypti,10910,Brazil,2004.0,-8.75,-63.91
+Aedes aegypti,10910,Brazil,2004.0,-7.13,-34.87
+Aedes aegypti,10910,Brazil,2004.0,-5.68,-39.2
+Aedes aegypti,10910,Brazil,2004.0,-5.19,-39.3
+Aedes aegypti,10910,Brazil,2004.0,-3.98,-40.69
+Aedes aegypti,10910,Brazil,2004.0,-3.12,-60.02
+Aedes aegypti,10910,Brazil,2004.0,-2.51,-44.31
+Aedes aegypti,10910,Brazil,2004.0,-1.43,-48.5
+Aedes aegypti,10910,Brazil,2004.0,-1.37,-48.38
+Aedes aegypti,10910,Uganda,2004.0,0.07,32.47
+Aedes aegypti,10910,Singapore,2004.0,1.3,103.85
+Aedes aegypti,10910,Brazil,2004.0,2.83,-60.66
+Aedes aegypti,10910,Guinea,2004.0,9.5,-13.72
+Aedes aegypti,10910,Venezuela,2004.0,10.25,-67.6
+Aedes aegypti,10910,Cambodia,2004.0,11.56,104.92
+Aedes aegypti,10910,Guatemala,2004.0,14.63,-90.53
+Aedes aegypti,10910,Senegal,2004.0,14.67,-17.44
+Aedes aegypti,10910,United States of America,2004.0,26.12,-80.15
+Aedes aegypti,10910,Peru,2005.0,-12.03,-77.08
+Aedes aegypti,10910,Peru,2005.0,-5.19,-80.63
+Aedes aegypti,10911,Brazil,1992.0,-21.79,-48.17
+Aedes aegypti,10914,Brazil,1996.0,-12.98,-38.43
+Aedes aegypti,10914,Brazil,1996.0,-12.93,-38.5
+Aedes aegypti,10916,Brazil,0.0,-22.81,-43.32
+Aedes aegypti,10916,Brazil,0.0,-22.12,-51.39
+Aedes aegypti,10916,Brazil,0.0,-8.75,-63.91
+Aedes aegypti,10916,Brazil,0.0,-5.81,-35.21
+Aedes aegypti,10917,Brazil,2002.0,-22.08,-43.03
+Aedes aegypti,10917,Brazil,0.0,-22.76,-43.45
+Aedes aegypti,10918,Brazil,2001.0,-22.9,-43.2
+Aedes aegypti,10918,United States of America,2001.0,26.35,-80.09
+Aedes aegypti,10918,United States of America,2001.0,26.71,-80.06
+Aedes aegypti,10924,French Polynesia,1998.0,-17.7,-149.57
+Aedes aegypti,10924,Indonesia,1998.0,-8.34,122.97
+Aedes aegypti,10924,Indonesia,1998.0,-8.33,123.25
+Aedes aegypti,10924,Indonesia,1998.0,-7.3,110.47
+Aedes aegypti,10924,Brazil,1998.0,-1.43,-48.5
+Aedes aegypti,10924,Viet Nam,1998.0,10.39,106.9
+Aedes aegypti,10924,Martinique,1998.0,14.67,-61.0
+Aedes aegypti,10951,American Samoa,2002.0,-14.28,-170.72
+Aedes aegypti,10951,American Samoa,2002.0,-14.28,-170.7
+Aedes aegypti,10951,American Samoa,2002.0,-14.27,-170.62
+Aedes aegypti,10951,American Samoa,2002.0,-14.27,-170.58
+Aedes aegypti,10956,Philippines,1977.0,13.06,123.71
+Aedes aegypti,10957,Venezuela,0.0,10.43,-66.82
+Aedes aegypti,10960,Brazil,0.0,-9.66,-35.74
+Aedes aegypti,10967,Brazil,0.0,-22.92,-47.08
+Aedes aegypti,10967,Brazil,0.0,-20.44,-54.62
+Aedes aegypti,10967,Brazil,0.0,-15.61,-56.09
+Aedes aegypti,10976,Argentina,2001.0,-34.61,-58.37
+Aedes aegypti,10982,Brazil,2000.0,-16.03,-48.06
+Aedes aegypti,10982,Brazil,2000.0,-15.83,-47.99
+Aedes aegypti,10982,Brazil,2000.0,-15.77,-47.93
+Aedes aegypti,10982,Brazil,2001.0,-15.87,-47.97
+Aedes aegypti,10982,Brazil,2001.0,-15.82,-48.12
+Aedes aegypti,10982,Brazil,2001.0,-15.63,-47.82
+Aedes aegypti,10982,Brazil,2001.0,-15.62,-47.67
+Aedes aegypti,10984,Jamaica,1995.0,17.98,-76.78
+Aedes aegypti,10984,Jamaica,1995.0,18.0,-76.81
+Aedes aegypti,10984,Jamaica,1995.0,18.03,-76.82
+Aedes aegypti,10993,Trinidad and Tobago,2004.0,10.18,-61.55
+Aedes aegypti,10993,Trinidad and Tobago,2004.0,10.25,-61.0
+Aedes aegypti,10993,Trinidad and Tobago,2004.0,10.63,-61.4
+Aedes aegypti,10993,Trinidad and Tobago,2004.0,10.65,-61.2
+Aedes aegypti,10993,Trinidad and Tobago,2004.0,10.67,-61.07
+Aedes aegypti,10997,Trinidad and Tobago,1982.0,10.53,-61.45
+Aedes aegypti,10997,Trinidad and Tobago,1982.0,10.62,-61.38
+Aedes aegypti,11002,Trinidad and Tobago,1988.0,10.65,-61.4
+Aedes aegypti,11003,Trinidad and Tobago,1988.0,10.5,-61.42
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.15,-60.82
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.15,-60.83
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.15,-60.8
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.15,-60.78
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.17,-60.8
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.17,-60.75
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.18,-60.78
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.18,-60.77
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.19,-60.67
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.2,-60.75
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.2,-60.63
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.2,-60.78
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.21,-60.78
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.22,-60.6
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.22,-60.62
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.22,-60.75
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.23,-60.75
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.23,-60.73
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.24,-60.59
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.24,-60.6
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.25,-60.72
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.25,-60.58
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.26,-60.6
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.26,-60.69
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.27,-60.57
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.28,-60.68
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.29,-60.53
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.3,-60.64
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.3,-60.62
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.3,-60.63
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.32,-60.55
+Aedes aegypti,11005,Trinidad and Tobago,2002.0,11.32,-60.58
+Aedes aegypti,11006,Trinidad and Tobago,2000.0,10.65,-61.5
+Aedes aegypti,11007,Trinidad and Tobago,2002.0,10.63,-61.38
+Aedes aegypti,11007,Trinidad and Tobago,2002.0,10.63,-61.43
+Aedes aegypti,11007,Trinidad and Tobago,2002.0,10.63,-61.4
+Aedes aegypti,11007,Trinidad and Tobago,2002.0,10.65,-61.4
+Aedes aegypti,11040,Singapore,0.0,1.28,103.83
+Aedes aegypti,11040,Singapore,0.0,1.28,103.85
+Aedes aegypti,11040,Singapore,0.0,1.29,103.82
+Aedes aegypti,11040,Singapore,0.0,1.3,103.86
+Aedes aegypti,11040,Singapore,0.0,1.32,103.88
+Aedes aegypti,11041,Singapore,1968.0,1.28,103.84
+Aedes aegypti,11041,Singapore,1968.0,1.28,103.83
+Aedes aegypti,11041,Singapore,1968.0,1.28,103.85
+Aedes aegypti,11041,Singapore,1968.0,1.29,103.82
+Aedes aegypti,11041,Singapore,1968.0,1.3,103.86
+Aedes aegypti,11041,Singapore,1968.0,1.32,103.88
+Aedes aegypti,11041,Singapore,1968.0,1.32,103.86
+Aedes aegypti,11041,Singapore,1968.0,1.33,103.9
+Aedes aegypti,11041,Singapore,1968.0,1.33,103.93
+Aedes aegypti,11044,Taiwan,1987.0,22.78,120.75
+Aedes aegypti,11049,Thailand,2002.0,9.3,99.68
+Aedes aegypti,11049,Thailand,2002.0,10.1,99.83
+Aedes aegypti,11050,Thailand,0.0,9.3,99.68
+Aedes aegypti,11050,Thailand,0.0,9.47,99.95
+Aedes aegypti,11050,Thailand,0.0,9.47,100.06
+Aedes aegypti,11050,Thailand,0.0,9.56,99.94
+Aedes aegypti,11050,Thailand,0.0,9.58,99.98
+Aedes aegypti,11060,Malaysia,0.0,3.23,101.7
+Aedes aegypti,11062,Malaysia,0.0,3.14,101.73
+Aedes aegypti,11062,Malaysia,0.0,3.16,101.71
+Aedes aegypti,11107,Puerto Rico,0.0,18.45,-66.07
+Aedes aegypti,11118,Trinidad and Tobago,1999.0,10.42,-61.32
+Aedes aegypti,11118,Trinidad and Tobago,1999.0,10.45,-61.47
+Aedes aegypti,11118,Trinidad and Tobago,1999.0,10.6,-61.45
+Aedes aegypti,11119,United States of America,1994.0,29.96,-90.08
+Aedes aegypti,11121,United Republic of Tanzania,0.0,-6.82,39.25
+Aedes aegypti,11123,Puerto Rico,0.0,18.02,-66.61
+Aedes aegypti,11123,Puerto Rico,0.0,18.18,-66.31
+Aedes aegypti,11123,Puerto Rico,0.0,18.24,-66.04
+Aedes aegypti,11124,United States of America,1985.0,41.61,-71.25
+Aedes aegypti,11147,Colombia,2006.0,3.45,-76.52
+Aedes aegypti,11153,Peru,2002.0,-12.04,-77.04
+Aedes aegypti,11153,Peru,2002.0,-5.19,-80.63
+Aedes aegypti,11153,Peru,2003.0,-3.75,-73.19
+Aedes aegypti,11154,Brazil,2003.0,-22.93,-43.25
+Aedes aegypti,11155,Brazil,2003.0,-22.98,-43.36
+Aedes aegypti,11155,Brazil,2003.0,-22.98,-43.49
+Aedes aegypti,11155,Brazil,2003.0,-22.95,-43.19
+Aedes aegypti,11155,Brazil,2003.0,-22.9,-43.53
+Aedes aegypti,11155,Brazil,2003.0,-22.89,-43.23
+Aedes aegypti,11155,Brazil,2003.0,-22.88,-43.3
+Aedes aegypti,11155,Brazil,2003.0,-22.87,-43.28
+Aedes aegypti,11155,Brazil,2003.0,-22.83,-43.29
+Aedes aegypti,11155,Brazil,2003.0,-22.81,-43.33
+Aedes aegypti,11155,Brazil,2003.0,-22.8,-43.18
+Aedes aegypti,11155,Brazil,2003.0,-22.78,-43.17
+Aedes aegypti,11156,Brazil,2003.0,-30.04,-51.22
+Aedes aegypti,11156,Brazil,2003.0,-22.84,-45.25
+Aedes aegypti,11156,Brazil,2003.0,-22.82,-43.27
+Aedes aegypti,11156,Brazil,2003.0,-22.8,-43.29
+Aedes aegypti,11156,Brazil,2003.0,-22.76,-43.45
+Aedes aegypti,11156,Brazil,2003.0,-22.56,-44.17
+Aedes aegypti,11156,Brazil,2003.0,-22.16,-43.29
+Aedes aegypti,11156,Brazil,2003.0,-22.12,-43.21
+Aedes aegypti,11156,Brazil,2003.0,-20.3,-40.29
+Aedes aegypti,11156,Brazil,2003.0,-20.24,-40.37
+Aedes aegypti,11156,Brazil,2003.0,-19.92,-43.94
+Aedes aegypti,11157,Brazil,1994.0,-22.62,-43.71
+Aedes aegypti,11158,Brazil,2002.0,-23.18,-50.65
+Aedes aegypti,11158,Brazil,2002.0,-23.15,-49.94
+Aedes aegypti,11161,Brazil,2003.0,-22.9,-43.57
+Aedes aegypti,11162,Brazil,2001.0,-22.9,-43.13
+Aedes aegypti,11162,Brazil,2001.0,-22.89,-43.23
+Aedes aegypti,11162,Brazil,2001.0,-22.88,-43.3
+Aedes aegypti,11162,Brazil,2001.0,-22.88,-43.43
+Aedes aegypti,11162,Brazil,2001.0,-22.84,-43.07
+Aedes aegypti,11162,Brazil,2001.0,-22.8,-43.35
+Aedes aegypti,11162,Brazil,2001.0,-22.77,-43.31
+Aedes aegypti,11162,Brazil,2001.0,-10.91,-37.06
+Aedes aegypti,11162,Brazil,2001.0,-10.9,-37.05
+Aedes aegypti,11162,Brazil,2001.0,-9.66,-35.74
+Aedes aegypti,11162,Brazil,2003.0,-22.93,-43.38
+Aedes aegypti,11162,Brazil,2003.0,-22.89,-42.04
+Aedes aegypti,11162,Brazil,2003.0,-22.86,-43.35
+Aedes aegypti,11162,Brazil,2003.0,-22.8,-43.18
+Aedes aegypti,11162,Brazil,2003.0,-22.52,-44.12
+Aedes aegypti,11162,Brazil,2003.0,-22.17,-42.95
+Aedes aegypti,11162,Brazil,2003.0,-21.76,-41.33
+Aedes aegypti,11162,Brazil,2003.0,-21.21,-41.89
+Aedes aegypti,11162,Brazil,2003.0,-9.75,-36.66
+Aedes aegypti,11166,Mexico,1994.0,15.13,-92.47
+Aedes aegypti,11183,Brazil,1987.0,-22.91,-47.11
+Aedes aegypti,11189,Argentina,1996.0,-34.61,-58.38
+Aedes aegypti,11191,Cuba,1998.0,20.03,-75.82
+Aedes aegypti,11193,Brazil,2004.0,-22.91,-43.2
+Aedes aegypti,11193,Brazil,2004.0,-22.76,-43.45
+Aedes aegypti,11201,Argentina,1996.0,-34.6,-58.38
+Aedes aegypti,11201,Argentina,1996.0,-34.09,-59.04
+Aedes aegypti,11201,Argentina,1996.0,-32.4,-63.26
+Aedes aegypti,11203,Brazil,0.0,-20.81,-49.38
+Aedes aegypti,11203,Brazil,0.0,-20.54,-47.39
+Aedes aegypti,11204,Nigeria,0.0,8.12,4.25
+Aedes aegypti,11212,Brazil,1998.0,-20.38,-40.5
+Aedes aegypti,11213,Brazil,1997.0,-16.03,-48.06
+Aedes aegypti,11234,Senegal,1999.0,12.56,-12.17
+Aedes aegypti,11235,Senegal,0.0,12.56,-12.17
+Aedes aegypti,11235,Senegal,0.0,14.42,-14.8
+Aedes aegypti,11236,Senegal,0.0,13.98,-14.82
+Aedes aegypti,11236,Senegal,0.0,14.67,-17.44
+Aedes aegypti,11237,Senegal,1967.0,14.45,-16.28
+Aedes aegypti,11237,Senegal,1996.0,14.08,-15.55
+Aedes aegypti,11237,Senegal,1999.0,12.55,-12.18
+Aedes aegypti,11237,Senegal,1999.0,15.28,-14.28
+Aedes aegypti,11239,C?te d'Ivoire,1997.0,8.18,-4.98
+Aedes aegypti,11241,Brazil,2002.0,-20.82,-49.52
+Aedes aegypti,11242,Japan,0.0,32.74,129.88
+Aedes aegypti,11247,United States of America,0.0,29.97,-90.07
+Aedes aegypti,11250,Brazil,2004.0,-25.54,-54.58
+Aedes aegypti,11252,United States of America,1991.0,40.67,-74.5
+Aedes aegypti,11253,Nigeria,0.0,6.51,3.36
+Aedes aegypti,11253,Nigeria,0.0,6.52,3.4
+Aedes aegypti,11253,Nigeria,0.0,6.53,3.39
+Aedes aegypti,11255,Brazil,0.0,-23.95,-46.32
+Aedes aegypti,11255,Brazil,0.0,-22.33,-49.08
+Aedes aegypti,11255,Brazil,0.0,-22.22,-49.95
+Aedes aegypti,11255,Brazil,0.0,-22.12,-51.39
+Aedes aegypti,11255,Brazil,0.0,-21.21,-50.45
+Aedes aegypti,11262,United States of America,1986.0,31.46,-97.2
+Aedes aegypti,11262,United States of America,1987.0,31.49,-97.25
+Aedes aegypti,11268,India,2000.0,25.77,93.9
+Aedes aegypti,11269,India,1997.0,25.43,92.2
+Aedes aegypti,11269,India,1997.0,25.51,90.65
+Aedes aegypti,11269,India,1997.0,25.52,90.23
+Aedes aegypti,11269,India,1997.0,25.57,91.88
+Aedes aegypti,11269,India,1997.0,25.7,94.11
+Aedes aegypti,11269,India,1997.0,25.92,93.74
+Aedes aegypti,11269,India,1997.0,26.02,89.98
+Aedes aegypti,11269,India,1997.0,26.03,91.87
+Aedes aegypti,11269,India,1997.0,26.18,90.62
+Aedes aegypti,11269,India,1997.0,26.18,91.75
+Aedes aegypti,11269,India,1997.0,26.43,92.04
+Aedes aegypti,11269,India,1997.0,26.48,90.55
+Aedes aegypti,11269,India,1997.0,26.6,93.02
+Aedes aegypti,11269,India,1997.0,26.62,92.8
+Aedes aegypti,11269,India,1997.0,26.76,94.21
+Aedes aegypti,11269,India,1997.0,26.98,94.63
+Aedes aegypti,11269,India,1997.0,27.02,94.16
+Aedes aegypti,11269,India,1997.0,27.02,95.57
+Aedes aegypti,11269,India,1997.0,27.16,95.48
+Aedes aegypti,11269,India,1997.0,27.18,95.33
+Aedes aegypti,11269,India,1997.0,27.24,94.11
+Aedes aegypti,11269,India,1997.0,27.28,95.68
+Aedes aegypti,11269,India,1997.0,27.28,95.33
+Aedes aegypti,11269,India,1997.0,27.37,95.32
+Aedes aegypti,11269,India,1997.0,27.39,95.62
+Aedes aegypti,11269,India,1997.0,27.48,94.91
+Aedes aegypti,11269,India,1997.0,27.48,95.18
+Aedes aegypti,11269,India,1997.0,27.49,95.36
+Aedes aegypti,11272,Panama,1974.0,8.95,-79.54
+Aedes aegypti,11272,Panama,1974.0,8.96,-79.53
+Aedes aegypti,11273,United States of America,1991.0,29.97,-90.07
+Aedes aegypti,11274,Thailand,0.0,13.65,101.28
+Aedes aegypti,11282,United States of America,1986.0,29.42,-98.5
+Aedes aegypti,11287,United States of America,1995.0,31.33,-110.94
+Aedes aegypti,11287,United States of America,1996.0,32.22,-110.98
+Aedes aegypti,11287,United States of America,0.0,31.33,-109.95
+Aedes aegypti,11287,United States of America,0.0,31.35,-109.54
+Aedes aegypti,11289,Mexico,1999.0,19.24,-103.73
+Aedes aegypti,11290,Mexico,0.0,19.25,-103.71
+Aedes aegypti,11292,Australia,2002.0,-19.28,146.79
+Aedes aegypti,11301,French Guiana,1997.0,4.83,-52.45
+Aedes aegypti,11301,French Guiana,1997.0,4.85,-52.33
+Aedes aegypti,11301,French Guiana,1997.0,4.88,-52.28
+Aedes aegypti,11301,French Guiana,1997.0,5.37,-52.95
+Aedes aegypti,11301,French Guiana,1997.0,5.67,-53.78
+Aedes aegypti,11301,French Guiana,1998.0,4.9,-52.5
+Aedes aegypti,11301,French Guiana,1998.0,4.94,-52.33
+Aedes aegypti,11301,French Guiana,1998.0,5.02,-52.48
+Aedes aegypti,11301,French Guiana,1998.0,5.5,-54.03
+Aedes aegypti,11301,French Guiana,1998.0,5.6,-53.82
+Aedes aegypti,11317,Brazil,0.0,-20.82,-49.52
+Aedes aegypti,11320,United States of America,1967.0,32.38,-88.71
+Aedes aegypti,11329,Honduras,1995.0,15.4,-87.82
+Aedes aegypti,11334,United States of America,1997.0,31.95,-110.93
+Aedes aegypti,11334,United States of America,1997.0,31.96,-110.3
+Aedes aegypti,11334,United States of America,1997.0,32.23,-110.98
+Aedes aegypti,11334,United States of America,1998.0,31.35,-109.54
+Aedes aegypti,11334,United States of America,1999.0,31.34,-109.95
+Aedes aegypti,11334,United States of America,2000.0,31.35,-110.94
+Aedes aegypti,11335,Mexico,1998.0,18.15,-94.41
+Aedes aegypti,11335,Mexico,1998.0,18.37,-95.81
+Aedes aegypti,11335,Mexico,1998.0,18.45,-95.22
+Aedes aegypti,11335,Mexico,1998.0,19.19,-96.14
+Aedes aegypti,11335,Mexico,1998.0,19.53,-96.91
+Aedes aegypti,11335,Mexico,1998.0,20.06,-97.04
+Aedes aegypti,11335,Mexico,1998.0,20.55,-97.47
+Aedes aegypti,11335,Mexico,1998.0,20.96,-97.41
+Aedes aegypti,11335,Mexico,1999.0,18.15,-94.41
+Aedes aegypti,11335,Mexico,1999.0,18.37,-95.81
+Aedes aegypti,11335,Mexico,1999.0,18.45,-95.22
+Aedes aegypti,11335,Mexico,1999.0,18.89,-96.92
+Aedes aegypti,11335,Mexico,1999.0,19.19,-96.14
+Aedes aegypti,11335,Mexico,1999.0,19.53,-96.91
+Aedes aegypti,11335,Mexico,1999.0,20.06,-97.04
+Aedes aegypti,11335,Mexico,1999.0,20.55,-97.47
+Aedes aegypti,11335,Mexico,1999.0,20.96,-97.41
+Aedes aegypti,11335,Mexico,1999.0,22.05,-98.18
+Aedes aegypti,11336,Mexico,0.0,25.04,-111.66
+Aedes aegypti,11336,Mexico,0.0,26.02,-111.36
+Aedes aegypti,11336,Mexico,0.0,32.53,-117.02
+Aedes aegypti,11336,Mexico,0.0,32.57,-116.63
+Aedes aegypti,11352,Senegal,1995.0,13.98,-14.82
+Aedes aegypti,11355,Madagascar,0.0,-25.02,46.98
+Aedes aegypti,11355,Madagascar,0.0,-21.44,47.07
+Aedes aegypti,11355,Madagascar,0.0,-18.93,48.41
+Aedes aegypti,11355,Madagascar,0.0,-18.91,47.53
+Aedes aegypti,11355,Madagascar,0.0,-18.9,47.97
+Aedes aegypti,11355,Madagascar,0.0,-18.8,47.48
+Aedes aegypti,11355,Madagascar,0.0,-18.73,48.95
+Aedes aegypti,11355,Madagascar,0.0,-18.13,49.39
+Aedes aegypti,11355,Madagascar,0.0,-14.2,49.92
+Aedes aegypti,11355,Madagascar,0.0,-12.28,49.28
+Aedes aegypti,11368,French Guiana,1997.0,4.94,-52.33
+Aedes aegypti,11368,French Guiana,1997.0,5.16,-54.34
+Aedes aegypti,11368,French Guiana,1997.0,5.4,-54.08
+Aedes aegypti,11368,French Guiana,1997.0,5.48,-53.21
+Aedes aegypti,11368,French Guiana,1997.0,5.5,-54.03
+Aedes aegypti,11368,French Guiana,1998.0,4.57,-52.47
+Aedes aegypti,11368,French Guiana,1998.0,4.85,-52.33
+Aedes aegypti,11368,French Guiana,1998.0,4.86,-52.27
+Aedes aegypti,11368,French Guiana,1998.0,4.88,-52.28
+Aedes aegypti,11368,French Guiana,1998.0,4.91,-52.28
+Aedes aegypti,11368,French Guiana,1998.0,5.16,-52.65
+Aedes aegypti,11368,French Guiana,1998.0,5.37,-52.95
+Aedes aegypti,11368,French Guiana,1998.0,5.4,-54.08
+Aedes aegypti,11368,French Guiana,1998.0,5.48,-53.21
+Aedes aegypti,11368,French Guiana,1998.0,5.67,-53.78
+Aedes aegypti,11374,Puerto Rico,1973.0,18.44,-66.05
+Aedes aegypti,11377,Puerto Rico,1978.0,18.44,-66.05
+Aedes aegypti,11380,Puerto Rico,1969.0,17.97,-66.91
+Aedes aegypti,11380,Puerto Rico,1969.0,17.97,-66.06
+Aedes aegypti,11380,Puerto Rico,1969.0,17.98,-66.11
+Aedes aegypti,11380,Puerto Rico,1969.0,18.01,-66.02
+Aedes aegypti,11380,Puerto Rico,1969.0,18.02,-66.62
+Aedes aegypti,11380,Puerto Rico,1969.0,18.08,-66.36
+Aedes aegypti,11380,Puerto Rico,1969.0,18.16,-65.83
+Aedes aegypti,11380,Puerto Rico,1969.0,18.18,-65.87
+Aedes aegypti,11380,Puerto Rico,1969.0,18.21,-67.14
+Aedes aegypti,11380,Puerto Rico,1969.0,18.23,-65.92
+Aedes aegypti,11380,Puerto Rico,1969.0,18.24,-66.04
+Aedes aegypti,11380,Puerto Rico,1969.0,18.27,-65.65
+Aedes aegypti,11380,Puerto Rico,1969.0,18.27,-66.7
+Aedes aegypti,11380,Puerto Rico,1969.0,18.3,-66.88
+Aedes aegypti,11380,Puerto Rico,1969.0,18.33,-65.66
+Aedes aegypti,11380,Puerto Rico,1969.0,18.35,-66.32
+Aedes aegypti,11380,Puerto Rico,1969.0,18.36,-66.11
+Aedes aegypti,11380,Puerto Rico,1969.0,18.38,-65.96
+Aedes aegypti,11380,Puerto Rico,1969.0,18.4,-66.04
+Aedes aegypti,11380,Puerto Rico,1969.0,18.43,-65.88
+Aedes aegypti,11380,Puerto Rico,1969.0,18.43,-67.15
+Aedes aegypti,11380,Puerto Rico,1969.0,18.44,-66.49
+Aedes aegypti,11380,Puerto Rico,1969.0,18.45,-66.06
+Aedes aegypti,11380,Puerto Rico,1969.0,18.46,-66.55
+Aedes aegypti,11380,Puerto Rico,1969.0,18.47,-66.94
+Aedes aegypti,11380,Puerto Rico,1969.0,18.48,-66.73
+Aedes aegypti,11380,Puerto Rico,1969.0,18.49,-66.83
+Aedes aegypti,11383,Puerto Rico,1984.0,18.46,-66.05
+Aedes aegypti,11402,United States of America,1968.0,31.86,-81.63
+Aedes aegypti,11402,United States of America,1969.0,31.33,-85.7
+Aedes aegypti,11402,United States of America,1969.0,32.01,-81.15
+Aedes aegypti,11402,United States of America,1969.0,32.37,-84.96
+Aedes aegypti,11402,United States of America,1969.0,33.42,-82.16
+Aedes aegypti,11402,United States of America,1969.0,33.71,-84.43
+Aedes aegypti,11402,United States of America,1969.0,33.72,-85.78
+Aedes aegypti,11402,United States of America,1969.0,34.05,-80.78
+Aedes aegypti,11411,Brazil,2003.0,-19.9,-43.93
+Aedes aegypti,11414,Mexico,1996.0,14.62,-92.18
+Aedes aegypti,11414,Guatemala,1996.0,14.7,-91.86
+Aedes aegypti,11414,Mexico,1996.0,14.7,-92.25
+Aedes aegypti,11414,Mexico,1996.0,14.73,-92.42
+Aedes aegypti,11414,Mexico,1996.0,14.9,-92.27
+Aedes aegypti,11414,Mexico,1996.0,14.97,-92.15
+Aedes aegypti,11414,Mexico,1996.0,15.14,-92.47
+Aedes aegypti,11414,Mexico,1996.0,15.18,-92.88
+Aedes aegypti,11414,Mexico,1996.0,15.68,-93.22
+Aedes aegypti,11414,Mexico,1996.0,15.75,-96.46
+Aedes aegypti,11414,Mexico,1996.0,15.86,-97.06
+Aedes aegypti,11414,Mexico,1996.0,16.09,-93.75
+Aedes aegypti,11414,Mexico,1996.0,16.33,-98.03
+Aedes aegypti,11414,Mexico,1996.0,16.38,-94.21
+Aedes aegypti,11414,Mexico,1996.0,16.47,-94.36
+Aedes aegypti,11414,Mexico,1996.0,16.62,-98.63
+Aedes aegypti,11414,Mexico,1996.0,16.85,-99.91
+Aedes aegypti,11414,Mexico,1996.0,17.07,-96.72
+Aedes aegypti,11414,Mexico,1996.0,17.55,-99.5
+Aedes aegypti,11414,Mexico,1996.0,18.36,-99.54
+Aedes aegypti,11429,Gambia,1979.0,13.32,-14.53
+Aedes aegypti,11429,Gambia,1979.0,13.37,-14.65
+Aedes aegypti,11429,Gambia,1979.0,13.4,-14.27
+Aedes aegypti,11429,Gambia,1979.0,13.4,-16.47
+Aedes aegypti,11429,Gambia,1979.0,13.43,-14.66
+Aedes aegypti,11429,Gambia,1979.0,13.46,-16.59
+Aedes aegypti,11429,Gambia,1979.0,13.47,-14.22
+Aedes aegypti,11429,Gambia,1979.0,13.49,-14.22
+Aedes aegypti,11429,Gambia,1979.0,13.49,-16.1
+Aedes aegypti,11429,Gambia,1979.0,13.57,-15.87
+Aedes aegypti,11430,Peru,1999.0,-4.5,-73.58
+Aedes aegypti,11430,Peru,1999.0,-3.75,-73.19
+Aedes aegypti,11435,Indonesia,0.0,-7.78,110.38
+Aedes aegypti,11443,Fiji,1979.0,-18.13,178.43
+Aedes aegypti,11460,Mexico,1996.0,17.98,-94.55
+Aedes aegypti,11460,Mexico,1996.0,22.22,-97.86
+Aedes aegypti,11460,Mexico,1996.0,25.47,-100.17
+Aedes aegypti,11460,Mexico,1996.0,25.67,-100.3
+Aedes aegypti,11460,Mexico,1996.0,25.68,-100.37
+Aedes aegypti,11460,Mexico,1996.0,25.87,-97.51
+Aedes aegypti,11460,Mexico,1997.0,26.09,-98.29
+Aedes aegypti,11460,Mexico,1997.0,27.48,-99.51
+Aedes aegypti,11460,Mexico,1998.0,17.97,-94.37
+Aedes aegypti,11460,Mexico,1998.0,17.99,-92.93
+Aedes aegypti,11460,Mexico,1998.0,19.85,-90.53
+Aedes aegypti,11460,Mexico,1998.0,24.8,-107.4
+Aedes aegypti,11460,Mexico,1998.0,26.38,-99.0
+Aedes aegypti,11460,Mexico,1999.0,14.9,-92.27
+Aedes aegypti,11460,Mexico,1999.0,14.91,-92.24
+Aedes aegypti,11460,Mexico,1999.0,17.65,-101.53
+Aedes aegypti,11460,Mexico,1999.0,20.95,-89.64
+Aedes aegypti,11460,Mexico,1999.0,20.97,-89.67
+Aedes aegypti,11460,Mexico,1999.0,20.98,-89.66
+Aedes aegypti,11460,Mexico,1999.0,21.13,-86.81
+Aedes aegypti,11461,Mexico,1997.0,27.48,-99.51
+Aedes aegypti,11461,Mexico,1998.0,14.9,-92.27
+Aedes aegypti,11461,Mexico,1998.0,14.91,-92.24
+Aedes aegypti,11461,Mexico,1998.0,18.65,-91.82
+Aedes aegypti,11461,United States of America,1998.0,32.22,-110.99
+Aedes aegypti,11461,Mexico,1999.0,15.87,-97.07
+Aedes aegypti,11461,Mexico,1999.0,17.01,-100.09
+Aedes aegypti,11461,Mexico,1999.0,17.95,-102.21
+Aedes aegypti,11461,Mexico,1999.0,18.5,-88.3
+Aedes aegypti,11461,Mexico,1999.0,18.51,-88.3
+Aedes aegypti,11461,Mexico,1999.0,20.99,-89.62
+Aedes aegypti,11461,Mexico,1999.0,20.99,-89.58
+Aedes aegypti,11461,Mexico,1999.0,21.01,-89.63
+Aedes aegypti,11461,Mexico,2000.0,27.93,-110.91
+Aedes aegypti,11461,Mexico,2000.0,29.1,-110.95
+Aedes aegypti,11462,Mexico,1996.0,20.96,-97.41
+Aedes aegypti,11462,Mexico,1996.0,23.74,-99.14
+Aedes aegypti,11462,Mexico,1996.0,25.5,-100.08
+Aedes aegypti,11462,Mexico,1997.0,27.48,-99.51
+Aedes aegypti,11465,United Republic of Tanzania,0.0,-10.95,39.27
+Aedes aegypti,11465,United Republic of Tanzania,0.0,-6.83,39.27
+Aedes aegypti,11465,United Republic of Tanzania,0.0,-6.78,39.28
+Aedes aegypti,11465,United Republic of Tanzania,0.0,-6.75,39.28
+Aedes aegypti,11465,United Republic of Tanzania,0.0,-6.17,35.74
+Aedes aegypti,11465,United Republic of Tanzania,0.0,-5.07,39.12
+Aedes aegypti,11480,United States of America,0.0,27.59,-80.37
+Aedes aegypti,11496,India,1989.0,22.69,72.86
+Aedes aegypti,11503,Brazil,0.0,-22.87,-43.25
+Aedes aegypti,11505,Cameroon,1965.0,4.64,9.44
+Aedes aegypti,11505,Thailand,1965.0,13.78,100.58
+Aedes aegypti,11505,Viet Nam,0.0,10.78,106.69
+Aedes aegypti,11505,United States of America,0.0,32.37,-88.71
+Aedes aegypti,11508,Puerto Rico,1971.0,18.38,-65.72
+Aedes aegypti,11508,Puerto Rico,1971.0,18.38,-65.82
+Aedes aegypti,11508,Puerto Rico,1971.0,18.4,-66.04
+Aedes aegypti,11516,Nicaragua,2003.0,12.43,-86.89
+Aedes aegypti,11516,Nicaragua,0.0,12.15,-86.27
+Aedes aegypti,11518,Australia,1997.0,-10.58,142.21
+Aedes aegypti,11519,Australia,1997.0,-16.92,145.76
+Aedes aegypti,11519,Australia,1997.0,-16.91,145.76
+Aedes aegypti,11519,Australia,1997.0,-16.87,145.76
+Aedes aegypti,11519,Australia,1997.0,-16.85,145.74
+Aedes aegypti,11519,Australia,1997.0,-16.49,145.46
+Aedes aegypti,11519,Australia,1997.0,-16.46,145.37
+Aedes aegypti,11520,Australia,2004.0,-19.28,146.79
+Aedes aegypti,11520,Australia,2004.0,-16.92,145.76
+Aedes aegypti,11520,Australia,2004.0,-10.58,142.21
+Aedes aegypti,11520,Australia,2004.0,-9.9,142.78
+Aedes aegypti,11523,India,2001.0,21.2,72.82
+Aedes aegypti,11526,Australia,2007.0,-16.92,145.76
+Aedes aegypti,11530,Thailand,1998.0,13.65,101.28
+Aedes aegypti,11530,Thailand,1998.0,13.65,101.29
+Aedes aegypti,11531,Thailand,1995.0,13.63,101.28
+Aedes aegypti,11531,Thailand,1995.0,16.75,98.55
+Aedes aegypti,11531,Thailand,1995.0,16.88,98.62
+Aedes aegypti,11538,United Republic of Tanzania,0.0,-6.83,39.27
+Aedes aegypti,11538,United Republic of Tanzania,0.0,-6.82,39.28
+Aedes aegypti,11540,Uganda,1960.0,0.18,32.5
+Aedes aegypti,11545,United States of America,1969.0,32.32,-89.03
+Aedes aegypti,11545,United States of America,1969.0,32.37,-88.71
+Aedes aegypti,11561,Venezuela,2003.0,6.72,-61.64
+Aedes aegypti,11561,Venezuela,2003.0,7.27,-61.5
+Aedes aegypti,11561,Venezuela,2003.0,7.36,-61.81
+Aedes aegypti,11561,Venezuela,2003.0,8.54,-70.99
+Aedes aegypti,11561,Venezuela,2003.0,8.93,-67.44
+Aedes aegypti,11561,Venezuela,2003.0,9.14,-71.09
+Aedes aegypti,11561,Venezuela,2003.0,9.18,-71.22
+Aedes aegypti,11561,Venezuela,2003.0,9.28,-70.62
+Aedes aegypti,11561,Venezuela,2003.0,9.68,-68.57
+Aedes aegypti,11561,Venezuela,2003.0,9.93,-67.34
+Aedes aegypti,11561,Venezuela,2003.0,10.04,-67.48
+Aedes aegypti,11561,Venezuela,2003.0,10.06,-65.04
+Aedes aegypti,11561,Venezuela,2003.0,10.16,-64.66
+Aedes aegypti,11561,Venezuela,2003.0,10.19,-67.46
+Aedes aegypti,11561,Venezuela,2003.0,10.23,-67.33
+Aedes aegypti,11561,Venezuela,2003.0,10.26,-67.59
+Aedes aegypti,11561,Venezuela,2003.0,10.31,-67.63
+Aedes aegypti,11561,Venezuela,2003.0,10.47,-68.02
+Aedes aegypti,11561,Venezuela,2003.0,10.48,-63.29
+Aedes aegypti,11561,Venezuela,2003.0,10.59,-69.77
+Aedes aegypti,11561,Venezuela,2003.0,10.61,-67.03
+Aedes aegypti,11561,Venezuela,2003.0,10.62,-66.74
+Aedes aegypti,11561,Venezuela,2003.0,10.65,-71.41
+Aedes aegypti,11561,Venezuela,2003.0,10.8,-69.05
+Aedes aegypti,11571,Singapore,1969.0,1.28,103.82
+Aedes aegypti,11571,Singapore,1969.0,1.31,103.89
+Aedes aegypti,11571,Singapore,1969.0,1.31,103.85
+Aedes aegypti,11571,Singapore,1969.0,1.32,103.85
+Aedes aegypti,11584,Brazil,1998.0,-22.76,-43.45
+Aedes aegypti,11585,Brazil,1998.0,-22.71,-43.45
+Aedes aegypti,11586,Brazil,1999.0,-22.76,-43.45
+Aedes aegypti,11592,United States of America,2000.0,24.56,-81.78
+Aedes aegypti,11592,United States of America,2000.0,24.57,-81.74
+Aedes aegypti,11592,United States of America,2000.0,24.59,-81.63
+Aedes aegypti,11592,United States of America,2000.0,24.59,-81.68
+Aedes aegypti,11592,United States of America,2000.0,24.6,-81.66
+Aedes aegypti,11592,United States of America,2000.0,24.63,-81.55
+Aedes aegypti,11592,United States of America,2000.0,24.66,-81.41
+Aedes aegypti,11592,United States of America,2000.0,24.67,-81.44
+Aedes aegypti,11592,United States of America,2000.0,24.67,-81.39
+Aedes aegypti,11592,United States of America,2000.0,24.67,-81.5
+Aedes aegypti,11592,United States of America,2000.0,24.69,-81.36
+Aedes aegypti,11592,United States of America,2000.0,24.69,-81.33
+Aedes aegypti,11598,Viet Nam,1999.0,10.7,106.74
+Aedes aegypti,11598,Thailand,2000.0,18.87,99.14
+Aedes aegypti,11601,Viet Nam,1998.0,10.67,106.57
+Aedes aegypti,11601,Viet Nam,1998.0,10.78,106.76
+Aedes aegypti,11601,Viet Nam,1998.0,10.85,106.63
+Aedes aegypti,11601,Viet Nam,1998.0,10.97,106.47
+Aedes aegypti,11602,Viet Nam,2000.0,10.67,106.6
+Aedes aegypti,11602,Viet Nam,2000.0,10.67,106.57
+Aedes aegypti,11602,Viet Nam,2000.0,10.7,106.74
+Aedes aegypti,11602,Viet Nam,2000.0,10.75,106.75
+Aedes aegypti,11602,Viet Nam,2000.0,10.8,106.69
+Aedes aegypti,11602,Viet Nam,2000.0,10.85,106.76
+Aedes aegypti,11603,Viet Nam,0.0,10.7,106.74
+Aedes aegypti,11603,Viet Nam,0.0,10.78,106.68
+Aedes aegypti,11603,Viet Nam,0.0,10.85,106.63
+Aedes aegypti,11603,Viet Nam,0.0,10.97,106.47
+Aedes aegypti,11603,Cambodia,0.0,11.56,104.92
+Aedes aegypti,11603,Thailand,0.0,18.79,99.0
+Aedes aegypti,11609,Thailand,2004.0,18.79,99.0
+Aedes aegypti,11610,Mexico,1995.0,26.01,-98.29
+Aedes aegypti,11619,Pakistan,1961.0,24.85,67.01
+Aedes aegypti,11619,Nigeria,1965.0,6.59,3.35
+Aedes aegypti,11619,Cambodia,1965.0,11.56,104.92
+Aedes aegypti,11619,Thailand,1965.0,13.75,100.52
+Aedes aegypti,11622,Indonesia,1995.0,-4.42,119.62
+Aedes aegypti,11623,Thailand,1975.0,13.75,100.52
+Aedes aegypti,11627,United States of America,1967.0,28.56,-81.37
+Aedes aegypti,11627,United States of America,1967.0,29.66,-82.34
+Aedes aegypti,11627,United States of America,1967.0,29.88,-97.95
+Aedes aegypti,11627,United States of America,1967.0,30.69,-88.05
+Aedes aegypti,11627,United States of America,1967.0,31.21,-82.37
+Aedes aegypti,11627,United States of America,1967.0,31.76,-95.63
+Aedes aegypti,11627,United States of America,1967.0,33.22,-87.58
+Aedes aegypti,11627,United States of America,1967.0,33.47,-81.99
+Aedes aegypti,11628,United States of America,1967.0,24.55,-81.78
+Aedes aegypti,11628,United States of America,1967.0,27.51,-99.49
+Aedes aegypti,11628,United States of America,1967.0,27.96,-82.46
+Aedes aegypti,11628,United States of America,1967.0,31.55,-97.14
+Aedes aegypti,11628,United States of America,1967.0,34.0,-81.04
+Aedes aegypti,11628,United States of America,1967.0,34.19,-79.78
+Aedes aegypti,11628,United States of America,1967.0,34.85,-82.41
+Aedes aegypti,11628,United States of America,1967.0,34.95,-81.93
+Aedes aegypti,11635,Thailand,1964.0,13.75,100.52
+Aedes aegypti,11640,United States of America,1993.0,29.41,-82.12
+Aedes aegypti,11640,United States of America,1993.0,29.45,-82.64
+Aedes aegypti,11645,Thailand,2005.0,12.96,100.9
+Aedes aegypti,11645,Thailand,2005.0,13.04,101.01
+Aedes aegypti,11645,Thailand,2005.0,13.76,100.47
+Aedes aegypti,11645,Thailand,2005.0,14.04,102.05
+Aedes aegypti,11645,Thailand,2005.0,19.55,99.74
+Aedes aegypti,11659,India,0.0,26.28,73.02
+Aedes aegypti,11660,India,2004.0,26.28,73.02
+Aedes aegypti,11663,Senegal,0.0,14.62,-16.3
+Aedes aegypti,11671,United States of America,2000.0,26.65,-81.65
+Aedes aegypti,11672,United States of America,2000.0,27.52,-82.58
+Aedes aegypti,11672,United States of America,2000.0,27.95,-82.46
+Aedes aegypti,11675,Japan,0.0,35.47,139.62
+Aedes aegypti,11676,South Africa,0.0,-31.0,30.27
+Aedes aegypti,11676,South Africa,0.0,-29.84,30.94
+Aedes aegypti,11676,South Africa,0.0,-28.75,31.89
+Aedes aegypti,11676,South Africa,0.0,-28.0,32.1
+Aedes aegypti,11676,South Africa,0.0,-26.92,32.25
+Aedes aegypti,11678,South Africa,1981.0,-24.15,30.83
+Aedes aegypti,11680,India,2001.0,13.08,80.27
+Aedes aegypti,11688,India,1995.0,10.36,77.98
+Aedes aegypti,11690,Democratic Republic of the Congo,1990.0,-4.31,15.32
+Aedes aegypti,11692,Sri Lanka,1998.0,7.29,80.63
+Aedes aegypti,11699,Singapore,2000.0,1.3,103.85
+Aedes aegypti,11700,Viet Nam,2005.0,10.35,106.36
+Aedes aegypti,11701,Viet Nam,2004.0,20.71,106.79
+Aedes aegypti,11703,Viet Nam,2001.0,21.08,105.45
+Aedes aegypti,11703,Viet Nam,2003.0,12.5,109.0
+Aedes aegypti,11703,Viet Nam,2003.0,20.85,106.66
+Aedes aegypti,11703,Viet Nam,2003.0,20.86,106.69
+Aedes aegypti,11703,Viet Nam,2003.0,20.87,106.7
+Aedes aegypti,11703,Viet Nam,2003.0,20.96,105.5
+Aedes aegypti,11703,Viet Nam,2003.0,21.88,106.35
+Aedes aegypti,11710,Viet Nam,1999.0,20.12,105.85
+Aedes aegypti,11710,Viet Nam,2000.0,20.87,106.7
+Aedes aegypti,11711,Fiji,1982.0,-18.15,178.43
+Aedes aegypti,11711,Fiji,1982.0,-17.61,177.46
+Aedes aegypti,11711,Fiji,1991.0,-18.15,178.43
+Aedes aegypti,11711,Fiji,1991.0,-17.61,177.46
+Aedes aegypti,11714,Australia,1999.0,-20.85,144.2
+Aedes aegypti,11714,Australia,1999.0,-20.73,143.14
+Aedes aegypti,11714,Australia,1999.0,-20.08,146.26
+Aedes aegypti,11714,Australia,1999.0,-19.28,146.79
+Aedes aegypti,11714,Australia,1999.0,-16.49,145.46
+Aedes aegypti,11714,Australia,1999.0,-16.46,145.37
+Aedes aegypti,11715,Australia,1997.0,-20.08,146.26
+Aedes aegypti,11715,Australia,1997.0,-19.28,146.79
+Aedes aegypti,11715,Australia,1997.0,-19.16,146.61
+Aedes aegypti,11716,United States of America,0.0,32.06,-81.09
+Aedes aegypti,11722,South Africa,1991.0,-31.02,30.25
+Aedes aegypti,11722,South Africa,1991.0,-31.0,30.27
+Aedes aegypti,11722,South Africa,1991.0,-30.77,30.43
+Aedes aegypti,11722,South Africa,1991.0,-29.84,30.94
+Aedes aegypti,11722,South Africa,1991.0,-28.38,32.42
+Aedes aegypti,11722,South Africa,1991.0,-28.0,32.1
+Aedes aegypti,11722,South Africa,1991.0,-26.92,32.25
+Aedes aegypti,11722,South Africa,1991.0,-25.98,27.55
+Aedes aegypti,11722,South Africa,1991.0,-24.98,31.6
+Aedes aegypti,11722,South Africa,1991.0,-24.15,30.83
+Aedes aegypti,11722,South Africa,1991.0,-23.83,30.16
+Aedes aegypti,11733,Thailand,1968.0,13.93,100.59
+Aedes aegypti,11734,"Korea, Republic of",0.0,37.46,126.95
+Aedes aegypti,11741,Thailand,1990.0,13.63,101.3
+Aedes aegypti,11748,United States of America,0.0,29.97,-90.07
+Aedes aegypti,11756,Kenya,1989.0,-4.18,39.45
+Aedes aegypti,11757,Lebanon,2001.0,34.1,35.85
+Aedes aegypti,11758,Australia,1995.0,-16.93,145.74
+Aedes aegypti,11758,Australia,2000.0,-20.08,146.26
+Aedes aegypti,11758,Australia,2000.0,-19.27,146.76
+Aedes aegypti,11758,Australia,2000.0,-10.58,142.22
+Aedes aegypti,11758,Australia,2000.0,-9.92,144.05
+Aedes aegypti,11768,Thailand,2004.0,16.37,99.63
+Aedes aegypti,11768,Thailand,0.0,16.45,99.4
+Aedes aegypti,11771,Cambodia,0.0,11.55,104.92
+Aedes aegypti,11788,Venezuela,2003.0,9.38,-70.43
+Aedes aegypti,11788,Mexico,2003.0,20.37,-97.28
+Aedes aegypti,11789,Gabon,2006.0,0.29,9.51
+Aedes aegypti,11789,Gabon,2006.0,0.39,9.45
+Aedes aegypti,11796,Malaysia,0.0,3.87,100.82
+Aedes aegypti,11811,Brazil,2005.0,-20.81,-49.38
+Aedes aegypti,11815,French Polynesia,1990.0,-15.12,-148.23
+Aedes aegypti,11839,Venezuela,2004.0,9.38,-70.43
+Aedes aegypti,11841,Honduras,1989.0,15.4,-87.82
+Aedes aegypti,11842,Thailand,1997.0,16.74,98.52
+Aedes aegypti,11842,Thailand,1997.0,16.82,98.62
+Aedes aegypti,11842,Thailand,1997.0,16.82,98.61
+Aedes aegypti,11858,Brazil,2003.0,-7.32,-39.3
+Aedes aegypti,11858,Brazil,2003.0,-7.23,-39.32
+Aedes aegypti,11858,Brazil,2003.0,-7.23,-39.41
+Aedes aegypti,11858,Brazil,2003.0,-7.21,-39.31
+Aedes aegypti,11858,Brazil,2003.0,-3.8,-38.58
+Aedes aegypti,11858,Brazil,2003.0,-3.8,-38.59
+Aedes aegypti,11858,Brazil,2003.0,-3.78,-38.6
+Aedes aegypti,11858,Brazil,2003.0,-3.76,-38.56
+Aedes aegypti,11858,Brazil,2003.0,-3.75,-38.57
+Aedes aegypti,11858,Brazil,2003.0,-3.75,-38.55
+Aedes aegypti,11858,Brazil,2003.0,-3.74,-38.52
+Aedes aegypti,11858,Brazil,2003.0,-3.72,-38.54
+Aedes aegypti,11877,Mexico,1990.0,20.98,-89.62
+Aedes aegypti,11882,Thailand,0.0,13.87,100.6
+Aedes aegypti,11882,Thailand,0.0,13.91,100.6
+Aedes aegypti,11883,Thailand,1968.0,15.71,100.14
+Aedes aegypti,11885,Singapore,1974.0,1.3,103.85
+Aedes aegypti,11889,Brazil,1987.0,-23.3,-51.17
+Aedes aegypti,11890,Brazil,1999.0,-23.3,-51.17
+Aedes aegypti,11894,Argentina,0.0,-34.93,-57.96
+Aedes aegypti,11895,United States of America,1980.0,27.64,-80.39
+Aedes aegypti,11901,Brazil,1998.0,-22.92,-43.3
+Aedes aegypti,11902,Brazil,2001.0,-22.76,-43.45
+Aedes aegypti,11904,Brazil,2001.0,-23.42,-51.92
+Aedes aegypti,11904,Brazil,2001.0,-22.84,-45.25
+Aedes aegypti,11904,Brazil,2001.0,-20.44,-54.62
+Aedes aegypti,11904,Brazil,2001.0,-19.7,-45.03
+Aedes aegypti,11904,Brazil,2001.0,-12.97,-38.51
+Aedes aegypti,11904,Brazil,2001.0,-12.25,-38.96
+Aedes aegypti,11904,Brazil,2001.0,-5.68,-39.2
+Aedes aegypti,11904,Brazil,2001.0,-5.2,-39.29
+Aedes aegypti,11904,Brazil,2001.0,-1.38,-48.38
+Aedes aegypti,11904,Venezuela,2001.0,10.25,-67.6
+Aedes aegypti,11904,Cambodia,2001.0,11.56,104.92
+Aedes aegypti,11904,United States of America,2001.0,26.71,-80.06
+Aedes aegypti,11913,Malaysia,1970.0,1.55,110.34
+Aedes aegypti,11913,Malaysia,1970.0,4.25,117.88
+Aedes aegypti,11913,Malaysia,1970.0,4.4,113.98
+Aedes aegypti,11913,Malaysia,1970.0,4.47,118.6
+Aedes aegypti,11913,Malaysia,1970.0,5.0,118.0
+Aedes aegypti,11913,Malaysia,1970.0,5.22,115.6
+Aedes aegypti,11913,Malaysia,1970.0,5.28,115.25
+Aedes aegypti,11913,Malaysia,1970.0,5.37,115.23
+Aedes aegypti,11913,Malaysia,1970.0,5.45,119.13
+Aedes aegypti,11913,Malaysia,1970.0,5.57,115.6
+Aedes aegypti,11913,Malaysia,1970.0,5.78,118.15
+Aedes aegypti,11913,Malaysia,1970.0,5.84,118.11
+Aedes aegypti,11913,Malaysia,1970.0,6.65,117.48
+Aedes aegypti,11913,Malaysia,1970.0,6.9,116.84
+Aedes aegypti,11924,Brazil,2005.0,-22.88,-43.25
+Aedes aegypti,11924,Brazil,2005.0,-22.79,-43.23
+Aedes aegypti,11926,Brazil,1999.0,-23.95,-46.32
+Aedes aegypti,11926,Brazil,1999.0,-23.5,-46.72
+Aedes aegypti,11926,Brazil,1999.0,-22.92,-47.08
+Aedes aegypti,11926,Brazil,1999.0,-22.22,-49.95
+Aedes aegypti,11926,Brazil,1999.0,-22.12,-51.39
+Aedes aegypti,11926,Brazil,1999.0,-21.19,-47.8
+Aedes aegypti,11926,Brazil,1999.0,-20.81,-49.38
+Aedes aegypti,11928,Brazil,1995.0,-22.22,-49.95
+Aedes aegypti,11929,Brazil,0.0,-22.88,-48.45
+Aedes aegypti,11929,Brazil,0.0,-21.67,-49.76
+Aedes aegypti,11931,India,1967.0,17.01,81.79
+Aedes aegypti,11931,India,1967.0,25.31,83.01
+Aedes aegypti,11932,India,1967.0,11.17,78.45
+Aedes aegypti,11932,India,1967.0,12.92,79.14
+Aedes aegypti,11932,India,1967.0,15.14,76.92
+Aedes aegypti,11939,India,2002.0,15.49,73.82
+Aedes aegypti,11983,Mexico,0.0,14.9,-92.27
+Aedes aegypti,11984,Mexico,1994.0,15.14,-92.47
+Aedes aegypti,11989,Argentina,0.0,-25.85,-57.9
+Aedes aegypti,12000,Venezuela,1992.0,10.25,-67.6
+Aedes aegypti,12000,Venezuela,1992.0,11.4,-69.68
+Aedes aegypti,12006,Kenya,1958.0,-3.22,40.07
+Aedes aegypti,12022,United States of America,1990.0,27.85,-82.5
+Aedes aegypti,12022,United States of America,1990.0,29.35,-98.44
+Aedes aegypti,12022,United States of America,1990.0,29.38,-98.58
+Aedes aegypti,12022,United States of America,1990.0,29.39,-98.62
+Aedes aegypti,12023,United States of America,1991.0,27.85,-82.5
+Aedes aegypti,12023,United States of America,1991.0,28.67,-80.66
+Aedes aegypti,12023,United States of America,1991.0,29.35,-98.44
+Aedes aegypti,12023,United States of America,1991.0,29.53,-98.28
+Aedes aegypti,12023,United States of America,1991.0,29.99,-85.47
+Aedes aegypti,12023,United States of America,1991.0,32.38,-86.36
+Aedes aegypti,12023,United States of America,1991.0,32.9,-80.05
+Aedes aegypti,12023,United States of America,1991.0,33.97,-80.48
+Aedes aegypti,12023,United States of America,1991.0,35.35,-77.96
+Aedes aegypti,12024,United States of America,1992.0,29.35,-98.44
+Aedes aegypti,12024,United States of America,1992.0,29.38,-98.58
+Aedes aegypti,12024,United States of America,1992.0,29.39,-98.62
+Aedes aegypti,12024,United States of America,1992.0,31.43,-100.42
+Aedes aegypti,12024,United States of America,1992.0,33.97,-80.48
+Aedes aegypti,12024,United States of America,1992.0,35.35,-77.96
+Aedes aegypti,12025,United States of America,1989.0,27.85,-82.5
+Aedes aegypti,12025,United States of America,1989.0,29.38,-98.58
+Aedes aegypti,12025,United States of America,1989.0,29.39,-98.62
+Aedes aegypti,12025,United States of America,1989.0,29.43,-98.5
+Aedes aegypti,12025,United States of America,1989.0,29.47,-98.48
+Aedes aegypti,12025,United States of America,1989.0,29.53,-98.28
+Aedes aegypti,12025,United States of America,1989.0,32.77,-97.43
+Aedes aegypti,12025,United States of America,1989.0,33.63,-88.45
+Aedes aegypti,12025,United States of America,1989.0,33.97,-80.48
+Aedes aegypti,12025,United States of America,1989.0,34.91,-92.13
+Aedes aegypti,12025,United States of America,1989.0,35.35,-77.96
+Aedes aegypti,12026,United States of America,1988.0,27.85,-82.5
+Aedes aegypti,12026,United States of America,1988.0,29.35,-98.44
+Aedes aegypti,12026,United States of America,1988.0,29.38,-98.58
+Aedes aegypti,12026,United States of America,1988.0,29.39,-98.62
+Aedes aegypti,12026,United States of America,1988.0,29.43,-98.5
+Aedes aegypti,12026,United States of America,1988.0,29.47,-98.48
+Aedes aegypti,12026,United States of America,1988.0,29.53,-98.28
+Aedes aegypti,12026,United States of America,1988.0,31.32,-92.53
+Aedes aegypti,12026,United States of America,1988.0,32.38,-86.36
+Aedes aegypti,12026,United States of America,1988.0,32.5,-93.56
+Aedes aegypti,12026,United States of America,1988.0,35.35,-77.96
+Aedes aegypti,12026,United States of America,1988.0,35.42,-97.39
+Aedes aegypti,12047,Colombia,2004.0,3.45,-76.52
+Aedes aegypti,12047,Colombia,2004.0,3.55,-76.31
+Aedes aegypti,12047,Colombia,2004.0,3.88,-77.04
+Aedes aegypti,12047,Colombia,2004.0,4.09,-76.21
+Aedes aegypti,12048,Mexico,1999.0,25.3,-100.04
+Aedes aegypti,12051,United States of America,2001.0,33.42,-111.95
+Aedes aegypti,12051,Mexico,2002.0,31.26,-110.94
+Aedes aegypti,12051,Mexico,2002.0,31.26,-110.96
+Aedes aegypti,12051,Mexico,2002.0,31.27,-110.97
+Aedes aegypti,12051,Mexico,2002.0,31.27,-110.93
+Aedes aegypti,12051,Mexico,2002.0,31.28,-110.96
+Aedes aegypti,12051,Mexico,2002.0,31.29,-110.93
+Aedes aegypti,12051,Mexico,2002.0,31.33,-110.95
+Aedes aegypti,12051,Mexico,2002.0,31.33,-110.93
+Aedes aegypti,12051,United States of America,2002.0,31.34,-110.94
+Aedes aegypti,12051,United States of America,2002.0,32.18,-110.82
+Aedes aegypti,12051,United States of America,2002.0,32.19,-110.83
+Aedes aegypti,12051,United States of America,2002.0,32.22,-110.93
+Aedes aegypti,12051,United States of America,2002.0,32.22,-110.9
+Aedes aegypti,12051,United States of America,2002.0,32.22,-110.81
+Aedes aegypti,12051,United States of America,2002.0,32.23,-110.83
+Aedes aegypti,12051,United States of America,2002.0,32.24,-110.81
+Aedes aegypti,12051,United States of America,2002.0,32.25,-110.94
+Aedes aegypti,12051,United States of America,2002.0,32.27,-110.91
+Aedes aegypti,12051,United States of America,2002.0,32.27,-110.8
+Aedes aegypti,12051,United States of America,2002.0,32.36,-111.0
+Aedes aegypti,12051,United States of America,2002.0,32.38,-111.05
+Aedes aegypti,12051,United States of America,2003.0,29.69,-95.34
+Aedes aegypti,12051,United States of America,2003.0,29.7,-95.37
+Aedes aegypti,12051,United States of America,2003.0,29.7,-95.34
+Aedes aegypti,12051,United States of America,2003.0,29.71,-95.37
+Aedes aegypti,12051,United States of America,2003.0,29.71,-95.32
+Aedes aegypti,12051,United States of America,2003.0,29.73,-95.37
+Aedes aegypti,12051,United States of America,2003.0,29.74,-95.36
+Aedes aegypti,12051,United States of America,2003.0,29.77,-95.33
+Aedes aegypti,12051,United States of America,2003.0,29.78,-95.3
+Aedes aegypti,12051,United States of America,2003.0,29.8,-95.52
+Aedes aegypti,12051,United States of America,2003.0,29.82,-95.54
+Aedes aegypti,12051,United States of America,2003.0,29.83,-95.37
+Aedes aegypti,12051,United States of America,2003.0,31.34,-109.95
+Aedes aegypti,12051,United States of America,2003.0,31.35,-109.54
+Aedes aegypti,12051,United States of America,2003.0,31.53,-110.29
+Aedes aegypti,12051,United States of America,2003.0,31.54,-110.3
+Aedes aegypti,12051,United States of America,2003.0,31.54,-110.29
+Aedes aegypti,12051,Mexico,2003.0,31.68,-106.48
+Aedes aegypti,12051,United States of America,2003.0,31.75,-106.47
+Aedes aegypti,12051,United States of America,2003.0,31.77,-106.49
+Aedes aegypti,12051,United States of America,2003.0,31.91,-110.21
+Aedes aegypti,12051,United States of America,2003.0,31.96,-110.3
+Aedes aegypti,12051,United States of America,2003.0,32.25,-109.84
+Aedes aegypti,12054,Argentina,2001.0,-22.55,-63.81
+Aedes aegypti,12054,Argentina,2001.0,-22.28,-63.76
+Aedes aegypti,12054,Argentina,2001.0,-22.07,-63.72
+Aedes aegypti,12055,Argentina,2000.0,-34.92,-57.95
+Aedes aegypti,12061,Kenya,2004.0,-3.22,40.11
+Aedes aegypti,12084,Philippines,0.0,7.02,125.09
+Aedes aegypti,12084,Philippines,0.0,9.73,118.73
+Aedes aegypti,12084,Philippines,0.0,17.62,121.72
+Aedes aegypti,12085,Trinidad and Tobago,0.0,10.63,-61.4
+Aedes aegypti,12087,Australia,1995.0,-19.28,146.79
+Aedes aegypti,12099,Brazil,2002.0,-22.92,-43.38
+Aedes aegypti,12099,Brazil,2002.0,-22.9,-43.23
+Aedes aegypti,12099,Brazil,2002.0,-22.88,-43.47
+Aedes aegypti,12099,Brazil,2002.0,-22.88,-43.29
+Aedes aegypti,12099,Brazil,2002.0,-22.85,-43.35
+Aedes aegypti,12099,Brazil,2002.0,-22.81,-43.32
+Aedes aegypti,12099,Brazil,2002.0,-22.17,-42.95
+Aedes aegypti,12099,Brazil,2002.0,-22.11,-43.21
+Aedes aegypti,12099,Brazil,2003.0,-22.99,-43.36
+Aedes aegypti,12099,Brazil,2003.0,-22.95,-43.19
+Aedes aegypti,12099,Brazil,2003.0,-22.94,-43.24
+Aedes aegypti,12099,Brazil,2003.0,-22.9,-43.13
+Aedes aegypti,12099,Brazil,2003.0,-22.89,-42.03
+Aedes aegypti,12099,Brazil,2003.0,-22.83,-43.28
+Aedes aegypti,12099,Brazil,2003.0,-22.79,-43.17
+Aedes aegypti,12099,Brazil,2003.0,-22.52,-44.12
+Aedes aegypti,12099,Brazil,2003.0,-21.76,-41.33
+Aedes aegypti,12099,Brazil,2003.0,-21.21,-41.89
+Aedes aegypti,12099,Brazil,2003.0,-10.91,-37.06
+Aedes aegypti,12099,Brazil,2003.0,-9.75,-36.66
+Aedes aegypti,12099,Brazil,2003.0,-9.66,-35.74
+Aedes aegypti,12099,Brazil,2003.0,-4.3,-47.56
+Aedes aegypti,12099,Brazil,2004.0,-28.39,-53.91
+Aedes aegypti,12099,Brazil,2004.0,-27.87,-54.45
+Aedes aegypti,12099,Brazil,2004.0,-22.99,-43.36
+Aedes aegypti,12099,Brazil,2004.0,-22.94,-43.24
+Aedes aegypti,12099,Brazil,2004.0,-22.92,-43.38
+Aedes aegypti,12099,Brazil,2004.0,-22.88,-43.47
+Aedes aegypti,12099,Brazil,2004.0,-22.88,-43.29
+Aedes aegypti,12099,Brazil,2004.0,-22.85,-43.35
+Aedes aegypti,12099,Brazil,2004.0,-22.83,-43.28
+Aedes aegypti,12099,Brazil,2004.0,-22.81,-43.32
+Aedes aegypti,12099,Brazil,2004.0,-10.9,-37.05
+Aedes aegypti,12099,Brazil,2004.0,-10.69,-37.43
+Aedes aegypti,12099,Brazil,2004.0,-6.47,-37.1
+Aedes aegypti,12099,Brazil,2004.0,-5.92,-35.25
+Aedes aegypti,12099,Brazil,2004.0,-5.81,-35.21
+Aedes aegypti,12099,Brazil,2004.0,-5.19,-37.34
+Aedes aegypti,12099,Brazil,2004.0,-1.4,-48.45
+Aedes aegypti,12102,Philippines,0.0,14.58,120.99
+Aedes aegypti,12103,Puerto Rico,1973.0,18.21,-67.14
+Aedes aegypti,12109,Brazil,2001.0,-13.01,-38.53
+Aedes aegypti,12109,Brazil,2001.0,-12.99,-38.44
+Aedes aegypti,12109,Brazil,2001.0,-12.96,-38.5
+Aedes aegypti,12109,Brazil,2001.0,-12.96,-38.48
+Aedes aegypti,12109,Brazil,2001.0,-12.95,-38.5
+Aedes aegypti,12109,Brazil,2001.0,-12.92,-38.49
+Aedes aegypti,12109,Brazil,2001.0,-12.87,-38.47
+Aedes aegypti,12109,Brazil,2001.0,-12.84,-38.46
+Aedes aegypti,12117,Peru,1998.0,-3.75,-73.27
+Aedes aegypti,12117,Peru,1998.0,-3.73,-73.26
+Aedes aegypti,12117,Peru,1999.0,-3.75,-73.27
+Aedes aegypti,12117,Peru,1999.0,-3.73,-73.26
+Aedes aegypti,12118,Puerto Rico,1997.0,18.36,-66.57
+Aedes aegypti,12120,Peru,2002.0,-3.91,-70.93
+Aedes aegypti,12120,Peru,2002.0,-3.76,-73.25
+Aedes aegypti,12120,Peru,2002.0,-3.73,-73.26
+Aedes aegypti,12120,Peru,2002.0,-3.72,-73.24
+Aedes aegypti,12126,Somalia,0.0,1.65,44.67
+Aedes aegypti,12126,Somalia,0.0,2.15,45.18
+Aedes aegypti,12126,Somalia,0.0,2.3,45.8
+Aedes aegypti,12126,Somalia,0.0,10.43,45.01
+Aedes aegypti,12126,Djibouti,0.0,11.59,43.15
+Aedes aegypti,12145,French Polynesia,1994.0,-17.7,-149.57
+Aedes aegypti,12145,Gabon,1997.0,0.39,9.45
+Aedes aegypti,12145,Madagascar,1998.0,-12.35,49.2
+Aedes aegypti,12145,C?te d'Ivoire,2000.0,7.69,-5.03
+Aedes aegypti,12145,Thailand,2000.0,18.79,99.0
+Aedes aegypti,12145,Viet Nam,2000.0,21.03,105.85
+Aedes aegypti,12145,Brazil,2001.0,-25.55,-54.59
+Aedes aegypti,12145,Brazil,2001.0,-9.98,-67.82
+Aedes aegypti,12145,Brazil,2001.0,-5.2,-39.29
+Aedes aegypti,12145,Brazil,2001.0,2.83,-60.66
+Aedes aegypti,12145,Guinea,2001.0,9.51,-13.72
+Aedes aegypti,12145,Cambodia,2001.0,11.56,104.92
+Aedes aegypti,12145,Martinique,2001.0,14.75,-60.99
+Aedes aegypti,12146,Thailand,0.0,18.8,98.99
+Aedes aegypti,12172,Viet Nam,1994.0,21.02,106.15
+Aedes aegypti,12172,Viet Nam,1994.0,21.03,106.15
+Aedes aegypti,12178,United States of America,0.0,30.44,-93.43
+Aedes aegypti,12192,Indonesia,1974.0,-6.21,106.85
+Aedes aegypti,12192,Indonesia,1974.0,-6.18,106.86
+Aedes aegypti,12192,Indonesia,1974.0,-6.16,106.8
+Aedes aegypti,12192,Indonesia,1974.0,-6.15,106.84
+Aedes aegypti,12207,Brazil,1986.0,-22.76,-43.45
+Aedes aegypti,12222,Colombia,2001.0,3.43,-76.53
+Aedes aegypti,12222,Colombia,2001.0,3.46,-76.47
+Aedes aegypti,12222,Colombia,2001.0,3.47,-76.52
+Aedes aegypti,12222,Colombia,2001.0,3.48,-76.47
+Aedes aegypti,12222,Colombia,2001.0,3.48,-76.48
+Aedes aegypti,12226,Guatemala,1995.0,15.68,-88.61
+Aedes aegypti,12226,Guatemala,1995.0,15.68,-88.58
+Aedes aegypti,12226,Guatemala,1995.0,15.69,-88.61
+Aedes aegypti,12226,Guatemala,1995.0,15.7,-88.58
+Aedes aegypti,12226,Guatemala,1995.0,15.71,-88.57
+Aedes aegypti,12226,Guatemala,1995.0,15.72,-88.55
+Aedes aegypti,12226,Guatemala,1995.0,15.72,-88.64
+Aedes aegypti,12226,Guatemala,1995.0,15.72,-88.57
+Aedes aegypti,12226,Guatemala,1995.0,15.73,-88.59
+Aedes aegypti,12226,Guatemala,1995.0,15.75,-88.58
+Aedes aegypti,12235,Trinidad and Tobago,0.0,10.18,-61.68
+Aedes aegypti,12236,United States of America,1999.0,25.68,-80.27
+Aedes aegypti,12241,United States of America,1990.0,29.9,-81.34
+Aedes aegypti,12241,United States of America,1991.0,29.26,-81.04
+Aedes aegypti,12241,United States of America,1991.0,29.64,-81.66
+Aedes aegypti,12241,United States of America,1991.0,29.9,-81.34
+Aedes aegypti,12252,Argentina,0.0,-34.63,-58.46
+Aedes aegypti,12256,Australia,0.0,-10.58,142.22
+Aedes aegypti,12262,Brazil,2002.0,-23.95,-46.32
+Aedes aegypti,12262,Brazil,2002.0,-23.31,-51.16
+Aedes aegypti,12262,Brazil,2002.0,-22.92,-47.08
+Aedes aegypti,12262,Brazil,2002.0,-22.89,-48.45
+Aedes aegypti,12262,Brazil,2002.0,-22.31,-49.66
+Aedes aegypti,12262,Brazil,2002.0,-20.56,-48.57
+Aedes aegypti,12262,Brazil,2002.0,-20.45,-54.62
+Aedes aegypti,12262,Brazil,2002.0,-12.74,-60.15
+Aedes aegypti,12262,Brazil,2002.0,-9.67,-35.74
+Aedes aegypti,12262,Brazil,2002.0,-8.76,-63.91
+Aedes aegypti,12262,Brazil,2002.0,-7.21,-39.32
+Aedes aegypti,12262,Puerto Rico,0.0,18.42,-66.05
+Aedes aegypti,12263,Thailand,0.0,13.85,100.5
+Aedes aegypti,12264,Thailand,0.0,13.5,99.85
+Aedes aegypti,12264,Thailand,0.0,13.54,99.81
+Aedes aegypti,12265,Thailand,0.0,13.52,99.93
+Aedes aegypti,12275,Thailand,1973.0,13.79,100.57
+Aedes aegypti,12277,Thailand,0.0,13.75,100.55
+Aedes aegypti,12277,Thailand,0.0,13.78,100.58
+Aedes aegypti,12284,Brazil,0.0,-21.19,-47.8
+Aedes aegypti,12294,Cambodia,2001.0,10.61,103.53
+Aedes aegypti,12294,Cambodia,2001.0,11.4,104.87
+Aedes aegypti,12294,Cambodia,2001.0,11.56,104.92
+Aedes aegypti,12294,Cambodia,2001.0,12.0,105.45
+Aedes aegypti,12295,Cambodia,2001.0,11.47,105.0
+Aedes aegypti,12295,Cambodia,2001.0,11.47,104.95
+Aedes aegypti,12295,Cambodia,2001.0,11.48,104.82
+Aedes aegypti,12295,Cambodia,2001.0,11.5,104.93
+Aedes aegypti,12295,Cambodia,2001.0,11.53,104.95
+Aedes aegypti,12295,Cambodia,2001.0,11.55,104.9
+Aedes aegypti,12295,Cambodia,2001.0,11.58,104.9
+Aedes aegypti,12295,Cambodia,2001.0,11.6,104.93
+Aedes aegypti,12295,Cambodia,2001.0,11.67,105.68
+Aedes aegypti,12295,Cambodia,2001.0,11.87,104.75
+Aedes aegypti,12297,Cambodia,2001.0,11.55,104.92
+Aedes aegypti,12297,Cambodia,2001.0,11.57,104.92
+Aedes aegypti,12298,French Polynesia,1997.0,-17.8,-149.29
+Aedes aegypti,12298,French Polynesia,1997.0,-17.75,-149.28
+Aedes aegypti,12298,French Polynesia,1997.0,-17.75,-149.16
+Aedes aegypti,12298,French Polynesia,1997.0,-17.75,-149.35
+Aedes aegypti,12298,French Polynesia,1997.0,-17.72,-149.32
+Aedes aegypti,12298,French Polynesia,1997.0,-17.7,-149.57
+Aedes aegypti,12298,French Polynesia,1997.0,-17.68,-149.31
+Aedes aegypti,12298,French Polynesia,1997.0,-17.64,-149.6
+Aedes aegypti,12298,French Polynesia,1997.0,-17.57,-149.85
+Aedes aegypti,12298,French Polynesia,1997.0,-17.55,-149.6
+Aedes aegypti,12298,French Polynesia,1997.0,-17.55,-149.34
+Aedes aegypti,12298,French Polynesia,1997.0,-17.54,-149.57
+Aedes aegypti,12298,French Polynesia,1997.0,-17.53,-149.54
+Aedes aegypti,12298,French Polynesia,1997.0,-17.53,-149.53
+Aedes aegypti,12298,French Polynesia,1997.0,-17.53,-149.56
+Aedes aegypti,12298,French Polynesia,1997.0,-17.52,-149.78
+Aedes aegypti,12298,French Polynesia,1997.0,-17.52,-149.85
+Aedes aegypti,12298,French Polynesia,1997.0,-17.51,-149.43
+Aedes aegypti,12298,French Polynesia,1997.0,-17.51,-149.49
+Aedes aegypti,12298,French Polynesia,1997.0,-17.48,-149.78
+Aedes aegypti,12309,Dominican Republic,1994.0,18.52,-69.93
+Aedes aegypti,12317,Brazil,0.0,-3.12,-60.02
+Aedes aegypti,12319,Mexico,2006.0,14.9,-92.27
+Aedes aegypti,12320,Cuba,0.0,23.13,-82.41
+Aedes aegypti,12324,Panama,1990.0,8.88,-79.63
+Aedes aegypti,12324,Panama,1990.0,8.95,-79.54
+Aedes aegypti,12324,Panama,1990.0,8.98,-79.55
+Aedes aegypti,12324,Panama,1990.0,8.98,-79.5
+Aedes aegypti,12324,Panama,1990.0,9.02,-79.5
+Aedes aegypti,12324,Panama,1990.0,9.02,-79.52
+Aedes aegypti,12324,Panama,1990.0,9.02,-79.48
+Aedes aegypti,12324,Panama,1990.0,9.05,-79.45
+Aedes aegypti,12324,Panama,1990.0,9.07,-79.43
+Aedes aegypti,12325,Brazil,0.0,-22.8,-43.42
+Aedes aegypti,12325,Brazil,0.0,-22.75,-43.4
+Aedes aegypti,12326,Costa Rica,1999.0,9.97,-84.84
+Aedes aegypti,12327,Honduras,1998.0,15.4,-87.82
+Aedes aegypti,12328,Dominican Republic,1988.0,18.5,-69.88
+Aedes aegypti,12332,Mexico,1997.0,25.3,-100.04
+Aedes aegypti,12338,Thailand,2005.0,7.01,100.08
+Aedes aegypti,12338,Thailand,2005.0,12.6,102.14
+Aedes aegypti,12338,Thailand,2005.0,13.07,100.07
+Aedes aegypti,12338,Thailand,2005.0,13.08,100.07
+Aedes aegypti,12338,Thailand,2005.0,14.06,102.03
+Aedes aegypti,12338,Thailand,2005.0,14.09,101.07
+Aedes aegypti,12338,Thailand,2005.0,15.05,100.01
+Aedes aegypti,12338,Thailand,2005.0,15.06,99.05
+Aedes aegypti,12338,Thailand,2005.0,15.08,99.05
+Aedes aegypti,12338,Thailand,2005.0,15.08,100.01
+Aedes aegypti,12338,Thailand,2005.0,19.55,99.74
+Aedes aegypti,12344,Thailand,2001.0,16.43,102.84
+Aedes aegypti,12349,Fiji,1975.0,-18.13,178.43
+Aedes aegypti,12366,Mexico,0.0,25.68,-100.31
+Aedes aegypti,12368,Thailand,2005.0,7.5,100.05
+Aedes aegypti,12368,Thailand,2005.0,15.08,101.9
+Aedes aegypti,12368,Thailand,2005.0,16.75,98.58
+Aedes aegypti,12370,Brazil,0.0,-3.72,-38.54
+Aedes aegypti,12378,India,2006.0,22.52,88.39
+Aedes aegypti,12378,India,2006.0,22.53,88.36
+Aedes aegypti,12378,India,2006.0,22.65,88.28
+Aedes aegypti,12383,Puerto Rico,0.0,18.45,-66.07
+Aedes aegypti,12392,Sri Lanka,1987.0,9.65,80.03
+Aedes aegypti,12392,Sri Lanka,1987.0,9.68,80.02
+Aedes aegypti,12392,Sri Lanka,1987.0,9.69,80.01
+Aedes aegypti,12392,Sri Lanka,1987.0,9.75,80.02
+Aedes aegypti,12397,India,1969.0,12.77,79.78
+Aedes aegypti,12397,India,1969.0,12.9,79.33
+Aedes aegypti,12397,India,1969.0,12.93,79.33
+Aedes aegypti,12397,India,1969.0,13.08,80.27
+Aedes aegypti,12397,India,1969.0,13.21,79.11
+Aedes aegypti,12398,India,1969.0,12.92,79.14
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.9,39.27
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.85,39.28
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.84,39.29
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.83,39.27
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.83,39.25
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.82,39.28
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.82,39.32
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.82,39.29
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.81,39.29
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.8,39.25
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.79,39.23
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.78,39.27
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-6.75,39.28
+Aedes aegypti,12399,United Republic of Tanzania,1971.0,-3.62,30.58
+Aedes aegypti,12409,C?te d'Ivoire,1998.0,5.25,-3.97
+Aedes aegypti,12409,C?te d'Ivoire,1998.0,5.32,-4.04
+Aedes aegypti,12409,C?te d'Ivoire,1998.0,8.18,-4.98
+Aedes aegypti,12410,Mexico,1998.0,27.92,-110.9
+Aedes aegypti,12410,Mexico,1998.0,29.2,-100.95
+Aedes aegypti,12412,Saint Vincent and the Grenadines,1989.0,12.59,-61.42
+Aedes aegypti,12412,Saint Vincent and the Grenadines,1989.0,12.59,-61.43
+Aedes aegypti,12413,Trinidad and Tobago,0.0,10.67,-61.52
+Aedes aegypti,12414,Trinidad and Tobago,1996.0,10.67,-61.51
+Aedes aegypti,12415,Trinidad and Tobago,0.0,10.63,-61.4
+Aedes aegypti,12415,Antigua and Barbuda,0.0,17.12,-61.85
+Aedes aegypti,12415,Jamaica,0.0,17.95,-76.72
+Aedes aegypti,12423,United States of America,2002.0,35.49,-83.32
+Aedes aegypti,12423,United States of America,2002.0,35.51,-83.3
+Aedes aegypti,12429,Puerto Rico,0.0,18.41,-66.08
+Aedes aegypti,12430,United States of America,1983.0,35.14,-90.04
+Aedes aegypti,12433,Senegal,2003.0,14.48,-16.4
+Aedes aegypti,12451,United States of America,2005.0,24.57,-81.75
+Aedes aegypti,12451,United States of America,2005.0,27.64,-80.4
+Aedes aegypti,12453,Mexico,1996.0,25.68,-100.31
+Aedes aegypti,12461,Angola,1971.0,-8.81,13.23
+Aedes aegypti,12465,Mexico,0.0,18.5,-88.29
+Aedes aegypti,12474,Brazil,2004.0,-3.12,-60.02
+Aedes aegypti,12478,Australia,0.0,-16.92,145.76
+Aedes aegypti,12479,Australia,2001.0,-16.92,145.76
+Aedes aegypti,12480,Australia,2002.0,-16.92,145.76
+Aedes aegypti,12482,Australia,2003.0,-16.92,145.76
+Aedes aegypti,12507,Cuba,1997.0,20.03,-75.82
+Aedes aegypti,12513,Mexico,1993.0,27.88,-101.52
+Aedes aegypti,12522,Colombia,1997.0,5.89,-74.64
+Aedes aegypti,12536,Malaysia,0.0,3.17,101.71
+Aedes aegypti,12537,Malaysia,2004.0,5.42,100.34
+Aedes aegypti,12537,Malaysia,2004.0,5.56,100.37
+Aedes aegypti,12546,Australia,1994.0,-20.08,146.26
+Aedes aegypti,12549,French Polynesia,2003.0,-17.52,-149.78
+Aedes aegypti,12549,French Polynesia,2003.0,-17.51,-149.83
+Aedes aegypti,12549,French Polynesia,2003.0,-17.5,-149.83
+Aedes aegypti,12551,French Polynesia,2003.0,-17.5,-149.84
+Aedes aegypti,12570,Thailand,2002.0,13.89,100.49
+Aedes aegypti,12570,Thailand,2002.0,16.07,103.52
+Aedes aegypti,12578,Samoa,1978.0,-13.9,-171.57
+Aedes aegypti,12578,Samoa,1978.0,-13.88,-171.63
+Aedes aegypti,12578,Samoa,1978.0,-13.83,-171.98
+Aedes aegypti,12578,Samoa,1978.0,-13.63,-172.62
+Aedes aegypti,12579,Mexico,1995.0,25.87,-97.51
+Aedes aegypti,12579,United States of America,1995.0,25.91,-97.5
+Aedes aegypti,12579,Mexico,1995.0,26.08,-98.29
+Aedes aegypti,12579,United States of America,1995.0,26.15,-97.98
+Aedes aegypti,12579,United States of America,1995.0,26.21,-98.23
+Aedes aegypti,12584,Cuba,2000.0,23.1,-82.45
+Aedes aegypti,12589,Mexico,1996.0,17.07,-96.72
+Aedes aegypti,12601,Thailand,0.0,13.77,100.5
+Aedes aegypti,12602,Nigeria,1991.0,6.3,6.38
+Aedes aegypti,12617,Peru,2000.0,-3.75,-73.19
+Aedes aegypti,12620,Peru,2002.0,-3.75,-73.19
+Aedes aegypti,12624,United States of America,1989.0,29.65,-82.33
+Aedes aegypti,12630,Philippines,1987.0,14.49,120.99
+Aedes aegypti,12630,Philippines,1987.0,14.55,121.0
+Aedes aegypti,12630,Philippines,1987.0,14.57,121.02
+Aedes aegypti,12630,Philippines,1987.0,14.63,120.99
+Aedes aegypti,12630,Philippines,1987.0,14.64,120.99
+Aedes aegypti,12643,United States of America,1970.0,29.21,-82.15
+Aedes aegypti,12645,United States of America,1972.0,29.67,-82.36
+Aedes aegypti,12647,United States of America,0.0,29.21,-82.15
+Aedes aegypti,12647,United States of America,0.0,29.67,-82.36
+Aedes aegypti,12657,Malaysia,1993.0,2.29,111.83
+Aedes aegypti,12661,Brazil,2003.0,-22.84,-45.25
+Aedes aegypti,12673,Australia,2002.0,-19.28,146.79
+Aedes aegypti,12676,Malaysia,0.0,3.04,101.45
+Aedes aegypti,12682,India,2004.0,8.48,76.92
+Aedes aegypti,12682,India,2004.0,9.97,76.28
+Aedes aegypti,12682,India,2004.0,10.15,76.4
+Aedes aegypti,12682,India,2004.0,11.14,75.96
+Aedes aegypti,12682,India,2004.0,12.95,77.67
+Aedes aegypti,12682,India,2004.0,13.04,80.19
+Aedes aegypti,12682,India,2004.0,13.1,80.29
+Aedes aegypti,12682,India,2004.0,17.7,83.29
+Aedes aegypti,12682,India,2004.0,17.72,83.22
+Aedes aegypti,12690,Thailand,0.0,13.75,100.53
+Aedes aegypti,12690,Thailand,0.0,13.86,100.49
+Aedes aegypti,12706,Cameroon,2002.0,2.92,11.15
+Aedes aegypti,12706,Cameroon,2002.0,2.93,11.98
+Aedes aegypti,12706,Cameroon,2002.0,3.52,11.5
+Aedes aegypti,12706,Cameroon,2002.0,3.87,11.52
+Aedes aegypti,12706,Cameroon,2002.0,3.9,12.53
+Aedes aegypti,12706,Cameroon,2002.0,4.02,9.19
+Aedes aegypti,12706,Cameroon,2002.0,4.05,9.71
+Aedes aegypti,12706,Cameroon,2002.0,4.07,9.37
+Aedes aegypti,12706,Cameroon,2002.0,4.16,9.23
+Aedes aegypti,12706,Cameroon,2002.0,4.43,14.36
+Aedes aegypti,12706,Cameroon,2002.0,4.5,9.57
+Aedes aegypti,12706,Cameroon,2002.0,4.58,13.68
+Aedes aegypti,12706,Cameroon,2002.0,5.3,9.9
+Aedes aegypti,12706,Cameroon,2002.0,5.45,10.05
+Aedes aegypti,12706,Cameroon,2002.0,5.49,10.41
+Aedes aegypti,12706,Cameroon,2002.0,5.89,14.55
+Aedes aegypti,12706,Cameroon,2002.0,5.96,10.15
+Aedes aegypti,12706,Cameroon,2002.0,6.09,11.49
+Aedes aegypti,12706,Cameroon,2002.0,6.47,12.62
+Aedes aegypti,12706,Cameroon,2002.0,7.33,13.58
+Aedes aegypti,12706,Cameroon,2002.0,9.3,13.4
+Aedes aegypti,12706,Cameroon,2002.0,9.4,13.51
+Aedes aegypti,12712,India,1998.0,11.03,76.98
+Aedes aegypti,12712,India,1998.0,11.05,76.99
+Aedes aegypti,12712,India,1998.0,11.1,76.95
+Aedes aegypti,12745,United States of America,1987.0,31.55,-97.14
+Aedes aegypti,12746,Brazil,0.0,-20.81,-49.38
+Aedes aegypti,12747,Brazil,2001.0,-20.81,-49.38
+Aedes aegypti,12748,Brazil,1994.0,-22.81,-43.19
+Aedes aegypti,12755,Bahamas,1968.0,26.71,-78.16
+Aedes aegypti,12755,Bahamas,1978.0,26.53,-78.78
+Aedes aegypti,12755,Bahamas,1978.0,26.55,-78.82
+Aedes aegypti,12755,Bahamas,1978.0,26.58,-78.85
+Aedes aegypti,12755,Bahamas,1978.0,26.68,-78.97
+Aedes aegypti,12761,Argentina,1999.0,-26.79,-60.44
+Aedes aegypti,12761,Argentina,2000.0,-26.93,-60.05
+Aedes aegypti,12762,Argentina,2003.0,-27.46,-58.99
+Aedes aegypti,12769,Thailand,1992.0,13.65,101.3
+Aedes aegypti,12770,Thailand,1992.0,13.62,101.3
+Aedes aegypti,12770,Thailand,1992.0,13.63,101.29
+Aedes aegypti,12770,Thailand,1992.0,13.63,101.28
+Aedes aegypti,12770,Thailand,1992.0,13.64,101.29
+Aedes aegypti,12771,Thailand,1991.0,13.64,101.29
+Aedes aegypti,12771,Thailand,1991.0,13.65,101.3
+Aedes aegypti,12774,Taiwan,1998.0,22.5,120.55
+Aedes aegypti,12774,Taiwan,1998.0,22.5,120.37
+Aedes aegypti,12774,Taiwan,1998.0,22.62,120.31
+Aedes aegypti,12774,Taiwan,1998.0,23.0,120.2
+Aedes aegypti,12774,Taiwan,1998.0,23.01,120.22
+Aedes aegypti,12774,Taiwan,1999.0,22.49,120.55
+Aedes aegypti,12774,Taiwan,1999.0,22.63,120.3
+Aedes aegypti,12774,Taiwan,1999.0,22.8,120.3
+Aedes aegypti,12774,Taiwan,1999.0,22.97,120.18
+Aedes aegypti,12774,Taiwan,1999.0,22.99,120.19
+Aedes aegypti,12774,Taiwan,2000.0,22.51,120.39
+Aedes aegypti,12774,Taiwan,2000.0,22.55,120.55
+Aedes aegypti,12774,Taiwan,2000.0,22.64,120.32
+Aedes aegypti,12774,Taiwan,2000.0,22.75,121.16
+Aedes aegypti,12774,Taiwan,2000.0,22.76,121.16
+Aedes aegypti,12774,Taiwan,2000.0,22.76,121.14
+Aedes aegypti,12774,Taiwan,2000.0,22.8,120.28
+Aedes aegypti,12774,Taiwan,2000.0,22.97,120.18
+Aedes aegypti,12774,Taiwan,2000.0,22.98,120.2
+Aedes aegypti,12774,Taiwan,2000.0,23.0,120.2
+Aedes aegypti,12787,India,1973.0,28.99,77.02
+Aedes aegypti,12795,Malaysia,1994.0,3.08,101.62
+Aedes aegypti,12795,Malaysia,1994.0,3.11,101.73
+Aedes aegypti,12795,Malaysia,1994.0,3.15,101.72
+Aedes aegypti,12795,Malaysia,1994.0,3.16,101.66
+Aedes aegypti,12795,Malaysia,1994.0,3.18,101.7
+Aedes aegypti,12795,Malaysia,1994.0,3.21,101.64
+Aedes aegypti,12799,Malaysia,0.0,3.09,101.72
+Aedes aegypti,12808,Sri Lanka,2006.0,9.67,80.02
+Aedes aegypti,12818,United States of America,1979.0,29.93,-90.08
+Aedes aegypti,12818,United States of America,1979.0,29.94,-90.05
+Aedes aegypti,12818,United States of America,1979.0,29.96,-90.06
+Aedes aegypti,12818,United States of America,1979.0,29.97,-90.02
+Aedes aegypti,12818,United States of America,1979.0,29.98,-90.05
+Aedes aegypti,12819,Kenya,1975.0,-2.54,37.53
+Aedes aegypti,12819,Kenya,1976.0,-4.03,39.69
+Aedes aegypti,12819,Kenya,1976.0,-4.0,39.59
+Aedes aegypti,12819,Kenya,1976.0,-3.97,39.5
+Aedes aegypti,12821,Kenya,1975.0,-4.0,39.59
+Aedes aegypti,12821,Nigeria,1976.0,6.47,7.42
+Aedes aegypti,12821,Burkina Faso,1976.0,11.18,-4.29
+Aedes aegypti,12822,Fiji,0.0,-18.13,178.43
+Aedes aegypti,12822,Montserrat,0.0,16.71,-62.21
+Aedes aegypti,12822,Anguilla,0.0,18.23,-63.07
+Aedes aegypti,12822,United States of America,0.0,27.64,-80.38
+Aedes aegypti,12822,United States of America,0.0,29.26,-94.87
+Aedes aegypti,12822,United States of America,0.0,29.76,-95.36
+Aedes aegypti,12822,United States of America,0.0,29.97,-92.13
+Aedes aegypti,12822,United States of America,0.0,30.08,-94.1
+Aedes aegypti,12822,United States of America,0.0,30.26,-97.74
+Aedes aegypti,12844,Taiwan,2002.0,22.66,120.47
+Aedes aegypti,12849,India,1999.0,12.82,79.15
+Aedes aegypti,12852,Myanmar,1974.0,20.46,99.91
+Aedes aegypti,12852,Myanmar,1974.0,20.78,97.04
+Aedes aegypti,12852,Myanmar,1974.0,22.94,97.75
+Aedes aegypti,12860,Thailand,1995.0,9.45,100.03
+Aedes aegypti,12860,Thailand,1995.0,9.46,99.99
+Aedes aegypti,12860,Thailand,1995.0,9.54,99.95
+Aedes aegypti,12872,Senegal,1995.0,13.98,-14.8
+Aedes aegypti,12872,Senegal,1995.0,14.38,-14.69
+Aedes aegypti,12879,Dominican Republic,1988.0,18.49,-69.89
+Aedes aegypti,12879,Dominican Republic,1988.0,18.51,-69.89
+Aedes aegypti,12880,Dominican Republic,1993.0,18.51,-69.89
+Aedes aegypti,12891,Thailand,1967.0,13.77,100.5
+Aedes aegypti,12892,Thailand,1967.0,13.38,99.99
+Aedes aegypti,12892,Thailand,1967.0,13.71,100.58
+Aedes aegypti,12892,Thailand,1967.0,13.72,100.46
+Aedes aegypti,12892,Thailand,1967.0,13.73,100.52
+Aedes aegypti,12892,Thailand,1967.0,13.75,100.49
+Aedes aegypti,12892,Thailand,1967.0,13.75,100.55
+Aedes aegypti,12892,Thailand,1967.0,13.76,100.48
+Aedes aegypti,12892,Thailand,1967.0,13.77,100.53
+Aedes aegypti,12892,Thailand,1967.0,13.78,100.58
+Aedes aegypti,12892,Thailand,1967.0,13.81,100.52
+Aedes aegypti,12929,Australia,0.0,-10.58,142.22
+Aedes aegypti,12962,Brazil,1999.0,-20.31,-40.35
+Aedes aegypti,12962,Brazil,1999.0,-20.3,-40.3
+Aedes aegypti,12970,Brazil,0.0,-7.2,-48.2
+Aedes aegypti,12980,Gabon,0.0,-1.63,13.6
+Aedes aegypti,12991,Argentina,2001.0,-34.59,-58.46
+Aedes aegypti,12992,Argentina,2000.0,-34.59,-58.46
+Aedes aegypti,12994,Argentina,1999.0,-34.59,-58.46
+Aedes aegypti,13005,Viet Nam,2004.0,12.5,109.0
+Aedes aegypti,13005,Viet Nam,2004.0,15.33,108.67
+Aedes aegypti,13005,Viet Nam,2004.0,20.25,105.83
+Aedes aegypti,13005,Viet Nam,2004.0,21.35,105.28
+Aedes aegypti,13010,Bangladesh,2001.0,23.71,90.41
+Aedes aegypti,13019,Dominica,1982.0,15.23,-61.37
+Aedes aegypti,13020,Anguilla,1982.0,18.17,-63.15
+Aedes aegypti,13020,Anguilla,1982.0,18.17,-63.16
+Aedes aegypti,13020,Anguilla,1982.0,18.21,-63.05
+Aedes aegypti,13020,Anguilla,1982.0,18.23,-63.07
+Aedes aegypti,13020,Anguilla,1983.0,18.22,-63.05
+Aedes aegypti,13021,Fiji,0.0,-18.13,178.43
+Aedes aegypti,13021,Indonesia,0.0,-6.97,110.42
+Aedes aegypti,13021,United Republic of Tanzania,0.0,-6.82,39.28
+Aedes aegypti,13021,Kenya,0.0,-4.05,39.7
+Aedes aegypti,13021,Kenya,0.0,-4.0,39.59
+Aedes aegypti,13021,Uganda,0.0,0.15,32.58
+Aedes aegypti,13021,Suriname,0.0,5.83,-55.17
+Aedes aegypti,13021,Ghana,0.0,6.3,0.05
+Aedes aegypti,13021,Nigeria,0.0,6.45,7.49
+Aedes aegypti,13021,Nigeria,0.0,6.47,7.42
+Aedes aegypti,13021,Nigeria,0.0,6.5,7.42
+Aedes aegypti,13021,Nigeria,0.0,6.55,7.37
+Aedes aegypti,13021,Guyana,0.0,6.81,-58.16
+Aedes aegypti,13021,Nigeria,0.0,7.07,3.91
+Aedes aegypti,13021,Venezuela,0.0,10.25,-67.6
+Aedes aegypti,13021,Trinidad and Tobago,0.0,10.53,-61.43
+Aedes aegypti,13021,Trinidad and Tobago,0.0,10.67,-61.51
+Aedes aegypti,13021,Burkina Faso,0.0,12.22,-4.16
+Aedes aegypti,13021,Burkina Faso,0.0,12.36,-1.53
+Aedes aegypti,13021,Burkina Faso,0.0,12.42,-3.17
+Aedes aegypti,13021,Gambia,0.0,13.38,-14.41
+Aedes aegypti,13021,Guatemala,0.0,14.3,-90.79
+Aedes aegypti,13021,Senegal,0.0,14.63,-16.44
+Aedes aegypti,13021,Senegal,0.0,14.67,-17.44
+Aedes aegypti,13021,Puerto Rico,0.0,18.21,-67.14
+Aedes aegypti,13021,Puerto Rico,0.0,18.46,-66.55
+Aedes aegypti,13021,Taiwan,0.0,22.62,120.28
+Aedes aegypti,13021,Mexico,0.0,23.74,-99.14
+Aedes aegypti,13021,Mexico,0.0,28.71,-100.52
+Aedes aegypti,13022,Trinidad and Tobago,0.0,10.62,-61.38
+Aedes aegypti,13022,Aruba,0.0,12.52,-70.03
+Aedes aegypti,13022,Saint Vincent and the Grenadines,0.0,13.16,-61.23
+Aedes aegypti,13022,Martinique,0.0,14.6,-61.07
+Aedes aegypti,13022,Dominica,0.0,15.23,-61.37
+Aedes aegypti,13022,Dominica,0.0,15.26,-61.37
+Aedes aegypti,13022,Montserrat,0.0,16.7,-62.22
+Aedes aegypti,13022,Antigua and Barbuda,0.0,17.12,-61.85
+Aedes aegypti,13022,Jamaica,0.0,18.47,-77.92
+Aedes aegypti,13022,Puerto Rico,0.0,18.48,-66.73
+Aedes aegypti,13023,Taiwan,1996.0,22.33,120.36
+Aedes aegypti,13023,Taiwan,1996.0,22.33,120.37
+Aedes aegypti,13023,Taiwan,1996.0,22.34,120.37
+Aedes aegypti,13023,Taiwan,1996.0,22.35,120.38
+Aedes aegypti,13023,Taiwan,1996.0,22.35,120.37
+Aedes aegypti,13027,Benin,1969.0,6.48,2.63
+Aedes aegypti,13027,Thailand,1984.0,13.8,100.32
+Aedes aegypti,13030,Puerto Rico,1982.0,17.98,-66.3
+Aedes aegypti,13030,Puerto Rico,1982.0,18.44,-66.49
+Aedes aegypti,13071,Mexico,1990.0,20.94,-89.62
+Aedes aegypti,13072,British Virgin Islands,0.0,18.4,-64.64
+Aedes aegypti,13075,United States of America,1992.0,25.98,-97.6
+Aedes aegypti,13075,United States of America,1992.0,26.02,-97.54
+Aedes aegypti,13075,United States of America,1992.0,26.05,-97.76
+Aedes aegypti,13075,United States of America,1992.0,26.1,-98.27
+Aedes aegypti,13075,United States of America,1992.0,26.13,-97.63
+Aedes aegypti,13075,United States of America,1992.0,26.14,-97.91
+Aedes aegypti,13075,United States of America,1992.0,26.15,-97.98
+Aedes aegypti,13075,United States of America,1992.0,26.16,-97.83
+Aedes aegypti,13075,United States of America,1992.0,26.17,-98.05
+Aedes aegypti,13075,United States of America,1992.0,26.19,-97.69
+Aedes aegypti,13075,United States of America,1992.0,26.2,-98.19
+Aedes aegypti,13075,United States of America,1992.0,26.2,-98.23
+Aedes aegypti,13075,United States of America,1992.0,26.25,-98.48
+Aedes aegypti,13075,United States of America,1992.0,26.39,-98.82
+Aedes aegypti,13075,United States of America,1992.0,26.91,-99.28
+Aedes aegypti,13075,United States of America,1992.0,27.22,-98.15
+Aedes aegypti,13075,United States of America,1992.0,27.88,-98.62
+Aedes aegypti,13075,United States of America,1992.0,28.44,-99.23
+Aedes aegypti,13075,United States of America,1992.0,28.45,-98.55
+Aedes aegypti,13075,United States of America,1992.0,28.52,-99.86
+Aedes aegypti,13075,United States of America,1992.0,28.88,-99.1
+Aedes aegypti,13075,United States of America,1992.0,29.21,-99.79
+Aedes aegypti,13075,United States of America,1992.0,29.7,-98.11
+Aedes aegypti,13096,Thailand,2003.0,13.69,100.5
+Aedes aegypti,13096,Thailand,2003.0,13.71,100.44
+Aedes aegypti,13096,Thailand,2003.0,13.72,100.7
+Aedes aegypti,13096,Thailand,2003.0,13.87,100.6
+Aedes aegypti,13096,Thailand,2003.0,14.05,100.4
+Aedes aegypti,13098,Trinidad and Tobago,1995.0,10.28,-61.46
+Aedes aegypti,13098,Trinidad and Tobago,1995.0,10.42,-61.45
+Aedes aegypti,13107,Thailand,1968.0,13.77,100.5
+Aedes aegypti,13118,Cook Islands,2002.0,-21.9,-157.96
+Aedes aegypti,13128,Brazil,1996.0,-23.32,-51.21
+Aedes aegypti,13223,United States of America,1985.0,29.83,-95.4
+Aedes aegypti,13251,United States of America,1986.0,37.98,-87.56
+Aedes aegypti,13274,United States of America,1987.0,29.73,-94.97
+Aedes aegypti,13274,United States of America,1987.0,30.21,-92.02
+Aedes aegypti,13274,United States of America,1987.0,30.33,-81.65
+Aedes aegypti,13274,United States of America,1987.0,30.46,-91.15
+Aedes aegypti,13274,United States of America,1987.0,32.48,-93.77
+Aedes aegypti,13285,Nigeria,1991.0,6.22,6.22
+Aedes aegypti,13285,Nigeria,1991.0,6.3,6.38
+Aedes aegypti,13360,Papua New Guinea,1992.0,-9.32,142.6
+Aedes aegypti,13364,Mexico,1993.0,25.78,-103.27
+Aedes aegypti,13364,Mexico,1993.0,28.71,-100.52
+Aedes aegypti,13461,Brazil,1997.0,-2.48,-44.23
+Aedes aegypti,13588,Argentina,1998.0,-26.41,-54.58
+Aedes aegypti,13608,Brazil,1994.0,-22.63,-47.2
+Aedes aegypti,13619,Thailand,2004.0,16.75,98.55
+Aedes aegypti,13619,Thailand,2004.0,16.75,98.57
+Aedes aegypti,13641,Brazil,2005.0,-3.76,-38.55
+Aedes aegypti,13641,Brazil,2005.0,-3.76,-38.6
+Aedes aegypti,13641,Brazil,2005.0,-3.74,-38.5
+Aedes aegypti,13641,Brazil,2005.0,-3.73,-38.58
+Aedes aegypti,13641,Brazil,2005.0,-3.72,-38.52
+Aedes aegypti,13641,Brazil,2005.0,-3.71,-38.61
+Aedes aegypti,13681,Brazil,2007.0,2.82,-60.69
+Aedes aegypti,13690,Thailand,2007.0,13.64,100.38
+Aedes aegypti,13690,Thailand,2007.0,13.69,100.41
+Aedes aegypti,13690,Thailand,2007.0,13.69,100.47
+Aedes aegypti,13690,Thailand,2007.0,13.7,100.46
+Aedes aegypti,13690,Thailand,2007.0,13.71,100.44
+Aedes aegypti,13696,Thailand,2002.0,16.75,98.57
+Aedes aegypti,13696,Thailand,2002.0,16.75,98.55
+Aedes aegypti,13703,Australia,2007.0,-16.92,145.76
+Aedes aegypti,13722,Trinidad and Tobago,0.0,10.79,-61.32
+Aedes aegypti,13736,Costa Rica,2006.0,9.97,-84.84
+Aedes aegypti,13737,Costa Rica,2007.0,9.97,-84.84
+Aedes aegypti,13742,Cuba,2002.0,20.14,-75.21
+Aedes aegypti,13743,India,2006.0,11.01,76.97
+Aedes aegypti,13743,India,2006.0,26.28,73.02
+Aedes aegypti,13746,Thailand,0.0,18.79,99.0
+Aedes aegypti,13749,Argentina,0.0,-27.88,-55.13
+Aedes aegypti,13749,Argentina,0.0,-27.4,-55.91
+Aedes aegypti,13749,Argentina,0.0,-26.25,-53.65
+Aedes aegypti,13749,Argentina,0.0,-25.92,-54.6
+Aedes aegypti,13751,Senegal,2005.0,14.68,-17.44
+Aedes aegypti,13751,Senegal,2006.0,12.41,-12.01
+Aedes aegypti,13751,Senegal,2006.0,12.6,-12.23
+Aedes aegypti,13751,Senegal,2006.0,12.63,-12.25
+Aedes aegypti,13751,Senegal,2006.0,12.83,-11.76
+Aedes aegypti,13751,Senegal,2006.0,13.02,-12.55
+Aedes aegypti,13751,Senegal,2006.0,13.22,-13.12
+Aedes aegypti,13751,Senegal,2006.0,13.77,-13.68
+Aedes aegypti,13751,Senegal,2006.0,13.98,-14.82
+Aedes aegypti,13751,Senegal,2006.0,14.07,-15.3
+Aedes aegypti,13751,Senegal,2006.0,14.11,-15.55
+Aedes aegypti,13751,Senegal,2007.0,13.04,-13.3
+Aedes aegypti,13751,Senegal,2007.0,14.19,-12.71
+Aedes aegypti,13751,Senegal,2007.0,14.63,-16.45
+Aedes aegypti,13751,Senegal,2007.0,14.87,-15.9
+Aedes aegypti,13751,Senegal,2007.0,15.62,-16.25
+Aedes aegypti,13751,Senegal,2007.0,16.02,-16.49
+Aedes aegypti,13751,Senegal,2007.0,16.2,-15.69
+Aedes aegypti,13773,Brazil,2005.0,-18.91,-48.28
+Aedes aegypti,13776,India,2004.0,11.58,92.67
+Aedes aegypti,13776,India,2004.0,11.6,92.7
+Aedes aegypti,13776,India,2004.0,11.61,92.7
+Aedes aegypti,13780,Brazil,0.0,-22.81,-45.31
+Aedes aegypti,13792,Brazil,2006.0,-23.04,-45.56
+Aedes aegypti,13792,Brazil,2006.0,-20.81,-49.38
+Aedes aegypti,13792,Brazil,2006.0,-15.62,-56.09
+Aedes aegypti,13792,Brazil,2006.0,-9.98,-67.81
+Aedes aegypti,13792,Brazil,2006.0,-7.51,-63.03
+Aedes aegypti,13792,Brazil,2006.0,-7.23,-35.87
+Aedes aegypti,13792,Brazil,2006.0,-4.1,-63.12
+Aedes aegypti,13792,Brazil,2006.0,-3.29,-60.62
+Aedes aegypti,13792,Brazil,2006.0,-3.12,-60.01
+Aedes aegypti,13792,Brazil,2006.0,-3.11,-60.06
+Aedes aegypti,13792,Brazil,2006.0,-3.09,-59.96
+Aedes aegypti,13792,Brazil,2006.0,-3.06,-59.94
+Aedes aegypti,13792,Brazil,2006.0,-1.44,-48.5
+Aedes aegypti,13792,Brazil,2006.0,2.83,-60.66
+Aedes aegypti,13795,Comoros,2005.0,-11.83,43.45
+Aedes aegypti,13795,Comoros,2005.0,-11.74,43.23
+Aedes aegypti,13795,Comoros,2005.0,-11.4,43.28
+Aedes aegypti,13796,Cuba,2004.0,23.1,-82.45
+Aedes aegypti,13805,Colombia,2006.0,-1.26,-69.73
+Aedes aegypti,13819,Brazil,2005.0,-8.08,-34.88
+Aedes aegypti,13819,Brazil,2005.0,-8.06,-34.94
+Aedes aegypti,13819,Brazil,2005.0,-8.03,-34.92
+Aedes aegypti,13819,Brazil,2005.0,-8.02,-34.91
+Aedes aegypti,13819,Brazil,2005.0,-8.02,-34.96
+Aedes aegypti,13819,Brazil,2005.0,-8.01,-34.95
+Aedes aegypti,13823,Thailand,0.0,7.88,98.38
+Aedes aegypti,13823,Thailand,0.0,8.45,98.54
+Aedes aegypti,13823,Thailand,0.0,8.86,98.34
+Aedes aegypti,13823,Thailand,0.0,13.37,101.0
+Aedes aegypti,13823,Thailand,0.0,16.47,99.53
+Aedes aegypti,13823,Thailand,0.0,18.79,99.0
+Aedes aegypti,13825,Brazil,2007.0,-3.12,-60.02
+Aedes aegypti,13828,Colombia,2005.0,4.21,-74.65
+Aedes aegypti,13828,Colombia,2005.0,4.3,-74.81
+Aedes aegypti,13854,Cameroon,2004.0,9.4,13.51
+Aedes aegypti,13854,Cameroon,2004.0,10.25,14.23
+Aedes aegypti,13854,Cameroon,2004.0,10.74,13.81
+Aedes aegypti,13854,Cameroon,2004.0,10.97,13.92
+Aedes aegypti,13858,Brazil,2002.0,-23.95,-46.32
+Aedes aegypti,13858,Brazil,2002.0,-23.41,-51.92
+Aedes aegypti,13858,Brazil,2002.0,-23.3,-51.17
+Aedes aegypti,13858,Brazil,2002.0,-22.92,-47.08
+Aedes aegypti,13858,Brazil,2002.0,-22.88,-48.45
+Aedes aegypti,13858,Brazil,2002.0,-22.33,-49.08
+Aedes aegypti,13858,Brazil,2002.0,-22.22,-49.95
+Aedes aegypti,13858,Brazil,2002.0,-22.12,-51.39
+Aedes aegypti,13858,Brazil,2002.0,-21.19,-47.8
+Aedes aegypti,13858,Brazil,2002.0,-20.81,-49.38
+Aedes aegypti,13858,Brazil,2002.0,-20.55,-48.58
+Aedes aegypti,13858,Brazil,2002.0,-20.45,-54.62
+Aedes aegypti,13858,Brazil,2002.0,-12.71,-60.11
+Aedes aegypti,13858,Brazil,2002.0,-9.66,-35.74
+Aedes aegypti,13858,Brazil,2002.0,-8.76,-63.91
+Aedes aegypti,13858,Brazil,2002.0,-7.17,-39.33
+Aedes aegypti,13861,Peru,0.0,-3.75,-73.19
+Aedes aegypti,13861,United States of America,0.0,29.3,-94.81
+Aedes aegypti,13867,Colombia,1991.0,3.45,-76.52
+Aedes aegypti,13872,Colombia,2007.0,3.98,-73.76
+Aedes aegypti,13891,Kenya,2002.0,-3.22,40.11
+Aedes aegypti,13891,Kenya,2002.0,-0.1,34.75
+Aedes aegypti,13900,Mexico,2006.0,19.6,-96.38
+Aedes aegypti,13904,Brazil,2004.0,-22.76,-43.45
+Aedes aegypti,13913,Argentina,0.0,-25.97,-54.58
+Aedes aegypti,13913,Argentina,0.0,-25.61,-54.58
+Aedes aegypti,13913,Argentina,0.0,-22.55,-63.81
+Aedes aegypti,13916,Brazil,0.0,-8.76,-63.91
+Aedes aegypti,13919,India,2005.0,11.75,79.77
+Aedes aegypti,13921,Mexico,2003.0,20.98,-89.62
+Aedes aegypti,13922,Mexico,2007.0,20.86,-90.39
+Aedes aegypti,13928,Colombia,2005.0,10.87,-74.77
+Aedes aegypti,13928,Colombia,2005.0,10.92,-74.75
+Aedes aegypti,13929,Brazil,1999.0,-23.95,-46.32
+Aedes aegypti,13929,Brazil,1999.0,-22.33,-49.08
+Aedes aegypti,13929,Brazil,1999.0,-22.12,-51.39
+Aedes aegypti,13929,Brazil,1999.0,-21.21,-50.45
+Aedes aegypti,13929,Brazil,1999.0,-21.19,-47.8
+Aedes aegypti,13929,Brazil,1999.0,-20.55,-48.58
+Aedes aegypti,13929,Brazil,1999.0,-10.91,-37.06
+Aedes aegypti,13929,Brazil,1999.0,-10.9,-37.05
+Aedes aegypti,13929,Brazil,1999.0,-10.69,-37.43
+Aedes aegypti,13929,Brazil,1999.0,-9.75,-36.66
+Aedes aegypti,13929,Brazil,1999.0,-9.66,-35.74
+Aedes aegypti,13929,Brazil,1999.0,-8.11,-35.01
+Aedes aegypti,13929,Brazil,1999.0,-8.09,-34.92
+Aedes aegypti,13931,Brazil,0.0,-22.84,-43.27
+Aedes aegypti,13943,Argentina,2007.0,-25.97,-54.59
+Aedes aegypti,13953,Gabon,0.0,0.39,9.45
+Aedes aegypti,13954,Haiti,2004.0,18.51,-72.63
+Aedes aegypti,13956,United States of America,2006.0,27.98,-82.46
+Aedes aegypti,13956,United States of America,2006.0,27.99,-82.41
+Aedes aegypti,13956,United States of America,2006.0,28.22,-82.72
+Aedes aegypti,13958,Malaysia,2004.0,3.23,101.7
+Aedes aegypti,13958,Malaysia,2004.0,3.98,101.03
+Aedes aegypti,13963,Brazil,2004.0,-22.77,-43.44
+Aedes aegypti,13963,Brazil,2004.0,-22.76,-43.42
+Aedes aegypti,13963,Brazil,2004.0,-22.76,-43.45
+Aedes aegypti,13963,Brazil,2004.0,-22.76,-43.44
+Aedes aegypti,13963,Brazil,2004.0,-22.76,-43.47
+Aedes aegypti,13963,Brazil,2004.0,-22.75,-43.46
+Aedes aegypti,13963,Brazil,2004.0,-22.75,-43.43
+Aedes aegypti,13963,Brazil,2004.0,-22.75,-43.44
+Aedes aegypti,13963,Brazil,2004.0,-22.75,-43.49
+Aedes aegypti,13963,Brazil,2004.0,-22.75,-43.45
+Aedes aegypti,13963,Brazil,2004.0,-22.74,-43.44
+Aedes aegypti,13963,Brazil,2004.0,-22.74,-43.47
+Aedes aegypti,13963,Brazil,2004.0,-22.73,-43.48
+Aedes aegypti,13963,Brazil,2004.0,-22.73,-43.45
+Aedes aegypti,13963,Brazil,2004.0,-22.72,-43.47
+Aedes aegypti,13967,India,2006.0,9.49,76.33
+Aedes aegypti,13967,India,2006.0,9.59,76.52
+Aedes aegypti,13968,India,2006.0,20.55,74.53
+Aedes aegypti,13974,Thailand,2005.0,16.37,99.63
+Aedes aegypti,13974,Thailand,2005.0,16.4,99.37
+Aedes aegypti,13980,Thailand,0.0,13.58,101.29
+Aedes aegypti,13980,Thailand,0.0,13.6,101.3
+Aedes aegypti,13994,Thailand,1977.0,13.75,100.51
+Aedes aegypti,13994,Thailand,2005.0,13.63,100.5
+Aedes aegypti,13994,Thailand,2007.0,13.63,100.5
+Aedes aegypti,14017,Senegal,2002.0,12.53,-12.2
+Aedes aegypti,14017,Senegal,2002.0,12.6,-12.23
+Aedes aegypti,14017,Senegal,2002.0,14.42,-14.75
+Aedes aegypti,14017,Senegal,2002.0,15.28,-14.87
+Aedes aegypti,14020,Brazil,2003.0,2.81,-60.72
+Aedes aegypti,14026,Australia,2001.0,-19.28,146.79
+Aedes aegypti,14026,Australia,0.0,-16.92,145.76
+Aedes aegypti,14026,Australia,0.0,-16.81,145.72
+Aedes aegypti,14026,Australia,0.0,-16.49,145.46
+Aedes aegypti,14026,Australia,0.0,-16.25,145.32
+Aedes aegypti,14030,Thailand,0.0,16.75,98.57
+Aedes aegypti,14033,Mexico,0.0,16.43,-95.02
+Aedes aegypti,14033,Mexico,0.0,18.09,-96.12
+Aedes aegypti,14036,Venezuela,0.0,9.36,-70.44
+Aedes aegypti,14036,Venezuela,0.0,9.37,-70.43
+Aedes aegypti,14036,Venezuela,0.0,9.38,-70.43
+Aedes aegypti,14036,Venezuela,0.0,9.43,-70.45
+Aedes aegypti,14037,Colombia,0.0,3.45,-76.52
+Aedes aegypti,14044,Mexico,2008.0,20.98,-89.62
+Aedes aegypti,14047,India,2002.0,15.9,73.82
+Aedes aegypti,14047,India,2002.0,16.06,73.46
+Aedes aegypti,14047,India,2002.0,16.66,73.52
+Aedes aegypti,14047,India,2002.0,16.99,73.29
+Aedes aegypti,14047,India,2002.0,17.18,73.55
+Aedes aegypti,14047,India,2002.0,17.29,73.22
+Aedes aegypti,14047,India,2002.0,17.47,73.2
+Aedes aegypti,14047,India,2002.0,17.53,73.51
+Aedes aegypti,14047,India,2002.0,17.55,73.98
+Aedes aegypti,14047,India,2002.0,17.72,73.39
+Aedes aegypti,14047,India,2002.0,17.77,73.18
+Aedes aegypti,14047,India,2002.0,18.07,73.42
+Aedes aegypti,14047,India,2002.0,18.14,73.4
+Aedes aegypti,14047,India,2002.0,18.33,72.96
+Aedes aegypti,14047,India,2002.0,18.66,72.87
+Aedes aegypti,14047,India,2002.0,18.74,73.09
+Aedes aegypti,14047,India,0.0,16.55,73.33
+Aedes aegypti,14047,India,0.0,16.99,73.48
+Aedes aegypti,14047,India,0.0,18.78,72.93
+Aedes aegypti,14054,Brazil,2005.0,-20.81,-49.38
+Aedes aegypti,14058,Brazil,2004.0,-20.82,-49.52
+Aedes aegypti,14059,Brazil,2005.0,-23.28,-51.27
+Aedes aegypti,14059,Brazil,2005.0,-23.27,-51.05
+Aedes aegypti,14059,Brazil,2005.0,-23.08,-52.46
+Aedes aegypti,14059,Brazil,2006.0,-23.42,-51.94
+Aedes aegypti,14059,Brazil,2006.0,-23.16,-49.98
+Aedes aegypti,14062,Thailand,2005.0,16.5,99.5
+Aedes aegypti,14069,Brazil,2008.0,-21.92,-50.74
+Aedes aegypti,14069,Brazil,2008.0,-21.77,-52.11
+Aedes aegypti,14069,Brazil,2008.0,-20.79,-51.71
+Aedes aegypti,14073,Brazil,2005.0,-3.23,-60.14
+Aedes aegypti,14073,Brazil,2005.0,-3.07,-59.96
+Aedes aegypti,14073,Brazil,2005.0,-3.02,-59.97
+Aedes aegypti,14073,Brazil,0.0,-3.12,-59.93
+Aedes aegypti,14073,Brazil,0.0,-3.11,-59.98
+Aedes aegypti,14073,Brazil,0.0,-3.11,-59.99
+Aedes aegypti,14076,Brazil,0.0,-20.82,-49.52
+Aedes aegypti,14077,Cuba,0.0,23.04,-82.27
+Aedes aegypti,14078,Senegal,2003.0,12.56,-12.17
+Aedes aegypti,14078,Senegal,2003.0,13.8,-15.92
+Aedes aegypti,14078,Senegal,2003.0,14.42,-14.8
+Aedes aegypti,14078,Senegal,2003.0,14.64,-16.44
+Aedes aegypti,14078,Senegal,2003.0,14.67,-17.44
+Aedes aegypti,14078,Senegal,2003.0,15.72,-15.33
+Aedes aegypti,14085,Madagascar,0.0,-23.36,43.66
+Aedes aegypti,14085,Madagascar,0.0,-15.72,46.3
+Aedes aegypti,14100,Brazil,2005.0,-18.94,-48.3
+Aedes aegypti,14100,Brazil,2005.0,-18.91,-48.27
+Aedes aegypti,14100,Brazil,2005.0,-18.88,-48.26
+Aedes aegypti,14101,Argentina,0.0,-31.4,-64.19
+Aedes aegypti,14103,Gabon,2006.0,-1.65,11.98
+Aedes aegypti,14103,Gabon,2006.0,0.39,9.45
+Aedes aegypti,14103,Gabon,2007.0,0.39,9.45
+Aedes aegypti,14137,Trinidad and Tobago,2003.0,10.14,-61.51
+Aedes aegypti,14137,Trinidad and Tobago,2003.0,10.15,-61.51
+Aedes aegypti,14138,Trinidad and Tobago,2003.0,10.63,-61.4
+Aedes aegypti,14138,Trinidad and Tobago,2003.0,10.66,-61.42
+Aedes aegypti,14161,Brazil,0.0,-6.97,-35.79
+Aedes aegypti,14173,Puerto Rico,2006.0,17.98,-66.23
+Aedes aegypti,14173,Puerto Rico,2006.0,18.05,-65.91
+Aedes aegypti,14176,Brazil,2002.0,-2.95,-60.03
+Aedes aegypti,14177,Thailand,2005.0,18.79,99.0
+Aedes aegypti,14180,Brazil,2000.0,-22.44,-49.92
+Aedes aegypti,14180,Brazil,2000.0,-20.95,-49.17
+Aedes aegypti,14181,India,0.0,26.28,73.02
+Aedes aegypti,14194,India,2004.0,13.08,80.27
+Aedes aegypti,14206,India,2007.0,26.28,73.02
+Aedes aegypti,14206,India,2007.0,26.91,75.81
+Aedes aegypti,14207,India,2007.0,25.18,75.84
+Aedes aegypti,14217,Indonesia,2006.0,-7.24,112.74
+Aedes aegypti,14217,Indonesia,2006.0,-6.91,107.61
+Aedes aegypti,14217,Indonesia,2006.0,-2.99,104.76
+Aedes aegypti,14221,India,2006.0,27.05,88.26
+Aedes aegypti,14222,Nigeria,2006.0,7.16,3.35
+Aedes aegypti,10,Mexico,1995.0,24.93,-98.64
+Aedes aegypti,10,Mexico,1995.0,26.08,-98.28
+Aedes aegypti,1046,Singapore,1998.0,1.29,103.85
+Aedes aegypti,1134,Mexico,1984.0,20.96,-89.61
+Aedes aegypti,1271,Brazil,1987.0,-22.9,-43.23
+Aedes aegypti,1424,Brazil,1994.0,-17.75,-39.25
+Aedes aegypti,1424,Brazil,1994.0,-17.52,-39.71
+Aedes aegypti,1424,Brazil,1994.0,-17.5,-39.21
+Aedes aegypti,1424,Brazil,1994.0,-17.35,-39.21
+Aedes aegypti,1424,Brazil,1994.0,-17.06,-39.53
+Aedes aegypti,1424,Brazil,1994.0,-16.56,-39.56
+Aedes aegypti,1424,Brazil,1994.0,-16.43,-39.08
+Aedes aegypti,1424,Brazil,1994.0,-16.36,-39.58
+Aedes aegypti,1424,Brazil,1994.0,-16.28,-39.03
+Aedes aegypti,1424,Brazil,1994.0,-16.08,-39.59
+Aedes aegypti,1424,Brazil,1994.0,-15.85,-38.9
+Aedes aegypti,1424,Brazil,1994.0,-14.8,-39.26
+Aedes aegypti,1424,Brazil,1994.0,-13.01,-40.01
+Aedes aegypti,1424,Brazil,1994.0,-12.98,-38.51
+Aedes aegypti,14451,India,2007.0,25.13,76.13
+Aedes aegypti,14451,India,2007.0,26.75,72.79
+Aedes aegypti,14451,India,2007.0,26.98,75.72
+Aedes aegypti,14451,India,2007.0,27.25,77.27
+Aedes aegypti,14475,Peru,1990.0,-3.75,-73.19
+Aedes aegypti,14483,Nicaragua,1994.0,12.15,-86.27
+Aedes aegypti,14503,Ghana,2000.0,9.07,-1.81
+Aedes aegypti,14503,Ghana,2000.0,10.53,-2.7
+Aedes aegypti,14503,Ghana,2000.0,10.79,-0.85
+Aedes aegypti,14503,Ghana,2000.0,10.87,-1.98
+Aedes aegypti,14571,Brazil,2003.0,-19.85,-43.98
+Aedes aegypti,14577,Trinidad and Tobago,2004.0,10.2,-61.3
+Aedes aegypti,14583,Nicaragua,0.0,12.0,-83.75
+Aedes aegypti,14619,Brazil,2007.0,-25.48,-54.48
+Aedes aegypti,14619,Brazil,2007.0,-23.87,-46.29
+Aedes aegypti,14619,Brazil,2007.0,-23.65,-46.65
+Aedes aegypti,14619,Brazil,2007.0,-23.53,-46.79
+Aedes aegypti,14619,Brazil,2007.0,-23.52,-51.11
+Aedes aegypti,14619,Brazil,2007.0,-23.4,-46.45
+Aedes aegypti,14619,Brazil,2007.0,-23.4,-51.97
+Aedes aegypti,14619,Brazil,2007.0,-23.18,-51.28
+Aedes aegypti,14619,Brazil,2007.0,-22.99,-44.34
+Aedes aegypti,14619,Brazil,2007.0,-22.93,-43.45
+Aedes aegypti,14619,Brazil,2007.0,-22.92,-52.51
+Aedes aegypti,14619,Brazil,2007.0,-22.92,-43.06
+Aedes aegypti,14619,Brazil,2007.0,-22.83,-43.0
+Aedes aegypti,14619,Brazil,2007.0,-22.75,-42.85
+Aedes aegypti,14619,Brazil,2007.0,-22.73,-43.38
+Aedes aegypti,14619,Brazil,2007.0,-22.73,-47.78
+Aedes aegypti,14619,Brazil,2007.0,-22.71,-42.06
+Aedes aegypti,14619,Brazil,2007.0,-22.7,-43.5
+Aedes aegypti,14619,Brazil,2007.0,-22.63,-43.3
+Aedes aegypti,14619,Brazil,2007.0,-22.61,-43.11
+Aedes aegypti,14619,Brazil,2007.0,-22.44,-44.49
+Aedes aegypti,14619,Brazil,2007.0,-22.3,-41.98
+Aedes aegypti,14619,Brazil,2007.0,-22.18,-49.98
+Aedes aegypti,14619,Brazil,2007.0,-22.18,-42.94
+Aedes aegypti,14619,Brazil,2007.0,-21.75,-41.4
+Aedes aegypti,14619,Brazil,2007.0,-21.75,-43.46
+Aedes aegypti,14619,Brazil,2007.0,-21.21,-47.82
+Aedes aegypti,14619,Brazil,2007.0,-21.11,-50.57
+Aedes aegypti,14619,Brazil,2007.0,-20.91,-54.25
+Aedes aegypti,14619,Brazil,2007.0,-20.51,-48.65
+Aedes aegypti,14619,Brazil,2007.0,-20.44,-40.38
+Aedes aegypti,14619,Brazil,2007.0,-20.28,-40.29
+Aedes aegypti,14619,Brazil,2007.0,-20.13,-40.3
+Aedes aegypti,14619,Brazil,2007.0,-19.95,-44.2
+Aedes aegypti,14619,Brazil,2007.0,-19.9,-43.96
+Aedes aegypti,14619,Brazil,2007.0,-19.89,-44.08
+Aedes aegypti,14619,Brazil,2007.0,-19.85,-43.78
+Aedes aegypti,14619,Brazil,2007.0,-19.78,-44.07
+Aedes aegypti,14619,Brazil,2007.0,-19.46,-42.69
+Aedes aegypti,14619,Brazil,2007.0,-19.03,-48.33
+Aedes aegypti,14619,Brazil,2007.0,-18.78,-41.96
+Aedes aegypti,14619,Brazil,2007.0,-17.74,-51.04
+Aedes aegypti,14619,Brazil,2007.0,-16.81,-49.27
+Aedes aegypti,14619,Brazil,2007.0,-16.64,-49.28
+Aedes aegypti,14619,Brazil,2007.0,-16.62,-43.93
+Aedes aegypti,14619,Brazil,2007.0,-16.52,-57.84
+Aedes aegypti,14619,Brazil,2007.0,-15.78,-47.8
+Aedes aegypti,14619,Brazil,2007.0,-11.3,-61.32
+Aedes aegypti,14619,Brazil,2007.0,-8.16,-39.77
+Aedes aegypti,14619,Brazil,2007.0,-7.34,-48.62
+Aedes aegypti,14619,Brazil,2007.0,-7.18,-39.28
+Aedes aegypti,14619,Brazil,2007.0,-5.17,-42.77
+Aedes aegypti,14619,Brazil,2007.0,-4.24,-38.3
+Aedes aegypti,14619,Brazil,2007.0,-3.88,-38.63
+Aedes aegypti,14619,Brazil,2007.0,-3.82,-40.21
+Aedes aegypti,14619,Brazil,2007.0,-3.78,-38.53
+Aedes aegypti,14619,Brazil,2007.0,-2.96,-41.76
+Aedes aegypti,14619,Brazil,2007.0,-2.63,-44.28
+Aedes aegypti,14619,Brazil,2007.0,-2.63,-60.26
+Aedes aegypti,14619,Brazil,2007.0,-1.26,-48.42
+Aedes aegypti,14619,Brazil,2007.0,0.56,-50.74
+Aedes aegypti,14626,Mexico,2009.0,19.14,-103.93
+Aedes aegypti,14666,Brazil,2003.0,-20.32,-40.35
+Aedes aegypti,14679,Brazil,1997.0,-1.44,-48.5
+Aedes aegypti,14679,Brazil,1997.0,-1.38,-48.38
+Aedes aegypti,14688,Afghanistan,2004.0,34.53,69.17
+Aedes aegypti,14691,Brazil,2004.0,-19.82,-43.95
+Aedes aegypti,14735,Argentina,2000.0,-25.28,-57.71
+Aedes aegypti,14735,Argentina,2007.0,-25.28,-57.71
+Aedes aegypti,14763,Brazil,2003.0,-22.88,-43.25
+Aedes aegypti,14897,Brazil,0.0,-10.07,-68.32
+Aedes aegypti,14897,Brazil,0.0,-4.44,-64.14
+Aedes aegypti,14897,Brazil,0.0,-2.83,-55.1
+Aedes aegypti,14897,Brazil,0.0,-2.63,-60.26
+Aedes aegypti,14897,Brazil,0.0,-1.26,-48.42
+Aedes aegypti,14897,Brazil,0.0,3.12,-60.72
+Aedes aegypti,14897,Brazil,0.0,4.17,-60.84
+Aedes aegypti,14988,Puerto Rico,1964.0,18.36,-66.11
+Aedes aegypti,15004,Puerto Rico,1998.0,18.04,-67.15
+Aedes aegypti,15004,Puerto Rico,1998.0,18.05,-66.49
+Aedes aegypti,15004,Puerto Rico,1998.0,18.07,-65.89
+Aedes aegypti,15004,Puerto Rico,1998.0,18.08,-67.01
+Aedes aegypti,15004,Puerto Rico,1998.0,18.11,-67.04
+Aedes aegypti,15004,Puerto Rico,1998.0,18.12,-66.53
+Aedes aegypti,15004,Puerto Rico,1998.0,18.13,-66.47
+Aedes aegypti,15004,Puerto Rico,1998.0,18.22,-66.59
+Aedes aegypti,15004,Puerto Rico,1998.0,18.23,-65.75
+Aedes aegypti,15004,Puerto Rico,1998.0,18.24,-65.76
+Aedes aegypti,15004,Puerto Rico,1998.0,18.26,-65.67
+Aedes aegypti,15004,Puerto Rico,1998.0,18.32,-65.67
+Aedes aegypti,15004,Puerto Rico,1998.0,18.35,-66.12
+Aedes aegypti,15016,India,2002.0,10.01,77.5
+Aedes aegypti,1502,Cambodia,2001.0,11.55,104.91
+Aedes aegypti,1502,Cambodia,2001.0,11.56,104.95
+Aedes aegypti,15067,Mexico,2005.0,25.87,-97.51
+Aedes aegypti,15067,United States of America,2005.0,25.91,-97.5
+Aedes aegypti,151,India,2002.0,15.83,78.05
+Aedes aegypti,15105,French Polynesia,2003.0,-15.48,-145.43
+Aedes aegypti,15114,India,2003.0,9.58,77.96
+Aedes aegypti,15126,Australia,2004.0,-16.92,145.76
+Aedes aegypti,15128,Singapore,0.0,1.32,103.83
+Aedes aegypti,15129,Singapore,2005.0,1.32,103.83
+Aedes aegypti,15134,Brazil,2008.0,-22.93,-43.45
+Aedes aegypti,15140,India,2003.0,30.73,76.77
+Aedes aegypti,15177,Thailand,2000.0,13.62,99.52
+Aedes aegypti,15246,Nigeria,1968.0,7.41,3.9
+Aedes aegypti,15249,Cuba,2002.0,23.14,-82.36
+Aedes aegypti,15257,India,0.0,26.58,73.85
+Aedes aegypti,15258,India,2006.0,11.01,78.4
+Aedes aegypti,1526,Peru,1990.0,-6.51,-76.38
+Aedes aegypti,1526,Peru,1990.0,-4.36,-73.92
+Aedes aegypti,1526,Peru,1990.0,-3.76,-73.25
+Aedes aegypti,1556,China,1981.0,19.73,109.18
+Aedes aegypti,1556,China,1986.0,19.73,109.18
+Aedes aegypti,1556,China,1986.0,19.78,109.21
+Aedes aegypti,1631,Australia,2003.0,-16.91,145.76
+Aedes aegypti,1639,Djibouti,1992.0,11.55,43.16
+Aedes aegypti,1660,Colombia,1997.0,5.87,-74.64
+Aedes aegypti,1817,India,1998.0,11.0,76.96
+Aedes aegypti,1817,India,1998.0,11.35,77.73
+Aedes aegypti,1857,Malaysia,1994.0,3.05,101.76
+Aedes aegypti,1857,Malaysia,1994.0,3.13,101.63
+Aedes aegypti,1857,Malaysia,1994.0,3.16,101.7
+Aedes aegypti,1857,Malaysia,1994.0,3.18,101.7
+Aedes aegypti,1857,Malaysia,1994.0,3.21,101.63
+Aedes aegypti,1867,Thailand,1990.0,16.71,98.56
+Aedes aegypti,1902,Thailand,1995.0,8.55,99.28
+Aedes aegypti,1902,Thailand,1995.0,9.42,100.0
+Aedes aegypti,1902,Thailand,1995.0,9.45,100.03
+Aedes aegypti,1902,Thailand,1995.0,9.5,100.01
+Aedes aegypti,1962,Bolivia,1997.0,-16.91,-61.58
+Aedes aegypti,1991,Haiti,1970.0,18.55,-72.33
+Aedes aegypti,1998,India,2001.0,12.13,78.16
+Aedes aegypti,2005,Bangladesh,2001.0,23.72,90.4
+Aedes aegypti,2036,Peru,1996.0,-3.74,-73.24
+Aedes aegypti,2194,Venezuela,1998.0,10.24,-67.59
+Aedes aegypti,2232,Venezuela,1998.0,9.89,-66.88
+Aedes aegypti,2276,Myanmar,2000.0,16.78,96.16
+Aedes aegypti,2375,Bolivia,1997.0,-17.8,-63.16
+Aedes aegypti,2660,Brazil,1990.0,-21.16,-47.8
+Aedes aegypti,2708,Brazil,1997.0,-21.16,-47.8
+Aedes aegypti,2811,Brazil,1999.0,-12.98,-38.51
+Aedes aegypti,2836,Cuba,1997.0,19.96,-75.7
+Aedes aegypti,2836,Cuba,1997.0,20.04,-75.85
+Aedes aegypti,2836,Cuba,1997.0,20.04,-75.94
+Aedes aegypti,2836,Cuba,1997.0,20.05,-75.77
+Aedes aegypti,2836,Cuba,1997.0,20.07,-75.8
+Aedes aegypti,2836,Cuba,1997.0,20.11,-75.74
+Aedes aegypti,2836,Cuba,1997.0,20.23,-76.21
+Aedes aegypti,2840,Brazil,1991.0,-7.16,-48.05
+Aedes aegypti,2841,Brazil,1994.0,-3.72,-38.51
+Aedes aegypti,2843,Brazil,1987.0,-11.81,-42.61
+Aedes aegypti,2843,Brazil,1995.0,-17.35,-39.21
+Aedes aegypti,332,French Guiana,1998.0,5.5,-54.03
+Aedes aegypti,341,Jamaica,1995.0,18.05,-76.76
+Aedes aegypti,367,China,1988.0,22.63,120.35
+Aedes aegypti,382,Singapore,1996.0,1.29,103.85
+Aedes aegypti,396,French Polynesia,1989.0,-8.95,-139.5
+Aedes aegypti,446,Brazil,1994.0,-3.31,-41.41
+Aedes aegypti,453,Mexico,1984.0,21.81,-105.21
+Aedes aegypti,4795,Grenada,1996.0,12.01,-61.75
+Aedes aegypti,4806,Brazil,2003.0,-3.11,-60.02
+Aedes aegypti,4806,Brazil,2003.0,-3.1,-60.05
+Aedes aegypti,4806,Brazil,2003.0,-3.08,-60.03
+Aedes aegypti,4832,Colombia,2004.0,4.41,-73.95
+Aedes aegypti,4850,Thailand,2000.0,13.59,99.52
+Aedes aegypti,4854,Myanmar,2001.0,17.06,96.27
+Aedes aegypti,4860,Venezuela,2001.0,10.24,-67.59
+Aedes aegypti,4955,Philippines,1999.0,10.31,123.89
+Aedes aegypti,4967,Colombia,2004.0,3.43,-76.52
+Aedes aegypti,4967,Colombia,2004.0,3.53,-76.3
+Aedes aegypti,4967,Colombia,2004.0,4.08,-76.2
+Aedes aegypti,500,Brazil,1998.0,-15.15,-56.36
+Aedes aegypti,5008,Brazil,1998.0,-22.07,-42.92
+Aedes aegypti,5010,Trinidad and Tobago,1998.0,10.14,-61.58
+Aedes aegypti,5010,Trinidad and Tobago,1998.0,10.2,-61.3
+Aedes aegypti,5010,Trinidad and Tobago,1998.0,10.27,-61.1
+Aedes aegypti,5010,Trinidad and Tobago,1998.0,10.45,-61.35
+Aedes aegypti,5010,Trinidad and Tobago,1998.0,10.65,-61.08
+Aedes aegypti,5010,Trinidad and Tobago,1998.0,10.68,-61.3
+Aedes aegypti,5010,Trinidad and Tobago,1998.0,10.71,-61.63
+Aedes aegypti,5036,Brazil,2001.0,-19.91,-43.93
+Aedes aegypti,5043,Brazil,1999.0,-3.11,-60.02
+Aedes aegypti,5066,Brazil,2002.0,-3.38,-43.11
+Aedes aegypti,5066,Brazil,2002.0,-2.6,-44.35
+Aedes aegypti,5066,Brazil,2002.0,-2.56,-44.23
+Aedes aegypti,5066,Brazil,2002.0,-2.43,-44.78
+Aedes aegypti,5137,Australia,2004.0,-10.62,142.17
+Aedes aegypti,5147,Thailand,1998.0,16.82,99.75
+Aedes aegypti,5147,Thailand,1998.0,16.92,99.98
+Aedes aegypti,5147,Thailand,1998.0,17.01,99.79
+Aedes aegypti,5147,Thailand,1998.0,17.03,99.48
+Aedes aegypti,5147,Thailand,1998.0,17.16,99.71
+Aedes aegypti,5147,Thailand,1998.0,17.3,99.83
+Aedes aegypti,5147,Thailand,1998.0,17.33,99.95
+Aedes aegypti,5147,Thailand,1998.0,17.37,99.57
+Aedes aegypti,5147,Thailand,1998.0,17.58,99.7
+Aedes aegypti,5167,Brazil,1981.0,1.84,-61.85
+Aedes aegypti,5167,Brazil,1990.0,-22.07,-42.92
+Aedes aegypti,5168,Brazil,2000.0,-22.07,-42.92
+Aedes aegypti,527,Senegal,2000.0,12.53,-12.31
+Aedes aegypti,527,Senegal,2000.0,14.41,-12.9
+Aedes aegypti,653,Brazil,1987.0,-22.96,-43.18
+Aedes aegypti,653,Brazil,1987.0,-22.92,-43.4
+Aedes aegypti,653,Brazil,1987.0,-22.91,-43.28
+Aedes aegypti,653,Brazil,1987.0,-22.85,-43.28
+Aedes aegypti,653,Brazil,1987.0,-22.8,-43.36
+Aedes aegypti,653,Brazil,1987.0,-22.8,-43.41
+Aedes aegypti,653,Brazil,1987.0,-22.78,-43.3
+Aedes aegypti,70,Malaysia,1995.0,2.05,103.51
+Aedes aegypti,70,Malaysia,1995.0,3.14,101.69
+Aedes aegypti,70,Malaysia,1995.0,4.8,101.06
+Aedes aegypti,70,Malaysia,1995.0,4.91,103.04
+Aedes aegypti,70,Malaysia,1995.0,5.35,100.45
+Aedes aegypti,859,El Salvador,2000.0,13.95,-89.18
+Aedes aegypti,877,Mexico,1988.0,18.5,-99.56
+Aedes aegypti,881,Brazil,1999.0,-3.75,-38.58
+Aedes aegypti,884,Australia,2001.0,-19.25,146.8
+Aedes aegypti,962,India,2002.0,13.08,80.28
+Aedes aegypti,1277,Nigeria,1988.0,8.08,4.18
+Aedes aegypti,1277,Nigeria,1988.0,8.13,3.63
+Aedes aegypti,1403,Guinea,2001.0,9.26,-9.01
+Aedes aegypti,1403,Guinea,2001.0,9.86,-12.63
+Aedes aegypti,1403,Guinea,2001.0,10.03,-10.73
+Aedes aegypti,1403,Guinea,2001.0,10.06,-12.85
+Aedes aegypti,1403,Guinea,2001.0,10.38,-9.3
+Aedes aegypti,1403,Guinea,2001.0,10.7,-12.25
+Aedes aegypti,1403,Guinea,2001.0,10.75,-11.11
+Aedes aegypti,1403,Guinea,2001.0,10.9,-13.03
+Aedes aegypti,1403,Guinea,2001.0,11.08,-12.4
+Aedes aegypti,1403,Guinea,2001.0,11.31,-12.28
+Aedes aegypti,1403,Guinea,2001.0,11.45,-11.68
+Aedes aegypti,1403,Guinea,2001.0,11.58,-11.9
+Aedes aegypti,1403,Guinea,2001.0,11.72,-12.02
+Aedes aegypti,1403,Guinea,2001.0,11.75,-13.2
+Aedes aegypti,1403,Guinea,2001.0,12.08,-12.3
+Aedes aegypti,1913,Senegal,1995.0,14.28,-14.93
+Aedes aegypti,1913,Senegal,1995.0,14.35,-14.7
+Aedes aegypti,1913,Senegal,1995.0,14.36,-14.68
+Aedes aegypti,1913,Senegal,1995.0,14.41,-14.8
+Aedes aegypti,1913,Senegal,1995.0,14.41,-14.88
+Aedes aegypti,1913,Senegal,1995.0,14.41,-14.75
+Aedes aegypti,1915,Senegal,1996.0,13.93,-15.55
+Aedes aegypti,1915,Senegal,1996.0,13.95,-15.51
+Aedes aegypti,1915,Senegal,1996.0,14.06,-15.58
+Aedes aegypti,1915,Senegal,1996.0,14.11,-15.43
+Aedes aegypti,1915,Senegal,1996.0,14.13,-15.58
+Aedes aegypti,1961,Bolivia,1998.0,-17.8,-63.16
+Aedes aegypti,2190,Burkina Faso,1999.0,10.13,-3.45
+Aedes aegypti,2702,Burkina Faso,1986.0,11.2,-4.3
+Aedes aegypti,2703,Sierra Leone,1972.0,7.67,-10.97
+Aedes aegypti,2703,Sierra Leone,1972.0,7.71,-11.93
+Aedes aegypti,2703,Sierra Leone,1972.0,7.98,-10.68
+Aedes aegypti,2703,Sierra Leone,1972.0,8.45,-11.7
+Aedes aegypti,2703,Sierra Leone,1972.0,8.49,-13.23
+Aedes aegypti,2703,Sierra Leone,1972.0,8.76,-11.83
+Aedes aegypti,2703,Sierra Leone,1972.0,9.33,-12.3
+Aedes aegypti,2703,Sierra Leone,1972.0,9.53,-11.36
+Aedes aegypti,2703,Sierra Leone,1972.0,9.68,-11.73
+Aedes aegypti,2809,Brazil,2001.0,-9.96,-67.8
+Aedes aegypti,2855,Cameroon,1990.0,10.74,13.8
+Aedes aegypti,2855,Cameroon,1990.0,11.04,14.14

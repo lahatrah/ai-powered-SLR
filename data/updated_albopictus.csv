@@ -1,0 +1,1794 @@
+vector,source_type,country,year,y,x
+Aedes albopictus,2,United States,2004,27.7567667,-81.4639835
+Aedes albopictus,4,China,2000,23.1357694,113.1982688
+Aedes albopictus,4,China,2003,23.1357694,113.1982688
+Aedes albopictus,5,Cameroon,2017,4.6125522,13.1535811
+Aedes albopictus,6,China,2021,19.1602864,109.6288914
+Aedes albopictus,6,China,2021,21.0008933,110.0001973
+Aedes albopictus,7,China,2021,19.1602864,109.6288914
+Aedes albopictus,7,China,2021,21.0008933,110.0001973
+Aedes albopictus,7,China,2021,18.2534658,109.5034392
+Aedes albopictus,7,China,2021,20.0462328,110.1956502
+Aedes albopictus,7,China,2021,18.2829459,109.5742278
+Aedes albopictus,7,China,2021,,
+Aedes albopictus,7,China,2021,,
+Aedes albopictus,7,China,2021,,
+Aedes albopictus,8,Colombia,2015,6.2697324,-75.6025597
+Aedes albopictus,8,Colombia,2016,6.2697324,-75.6025597
+Aedes albopictus,8,Colombia,2017,6.2697324,-75.6025597
+Aedes albopictus,9,United States,1980,27.7567667,-81.4639835
+Aedes albopictus,9,China,1980,19.2000001,109.5999999
+Aedes albopictus,9,China,1980,20.7610912,110.027989
+Aedes albopictus,9,China,2019,21.2737079,110.3548318
+Aedes albopictus,10,Mexico,2019,20.9670759,-89.6237402
+Aedes albopictus,13,Republic of the Congo,2017,-4.272507,15.2830399
+Aedes albopictus,13,Republic of the Congo,2017,,
+Aedes albopictus,13,Republic of the Congo,2017,,
+Aedes albopictus,13,Republic of the Congo,2017,,
+Aedes albopictus,19,France,2015,46.603354,1.8883335
+Aedes albopictus,19,France,2016,46.603354,1.8883335
+Aedes albopictus,19,France,2017,46.603354,1.8883335
+Aedes albopictus,20,Panama,2004,8.9714493,-79.5341802
+Aedes albopictus,20,Costa Rica,2004,10.2735633,-84.0739102
+Aedes albopictus,22,Italy,2013,42.6384261,12.674297
+Aedes albopictus,22,Italy,2016,42.6384261,12.674297
+Aedes albopictus,23,Thailand,2000,14.8971921,100.83273
+Aedes albopictus,26,Vietnam,1990,,
+Aedes albopictus,26,Vietnam,1990,,
+Aedes albopictus,26,China,1990,35.0000663,104.999955
+Aedes albopictus,28,Colombia,2011,6.2697324,-75.6025597
+Aedes albopictus,28,Colombia,2018,6.2697324,-75.6025597
+Aedes albopictus,28,Colombia,2019,6.2697324,-75.6025597
+Aedes albopictus,29,Cameroon,2020,4.0429389,9.7062018
+Aedes albopictus,29,Cameroon,2020,,
+Aedes albopictus,29,Cameroon,2020,3.8689867,11.5213344
+Aedes albopictus,30,Laos,2019,17.9795525,102.631756
+Aedes albopictus,30,Laos,2019,18.9205771,102.4436926
+Aedes albopictus,31,Malaysia,1970,3.1526589,101.7022205
+Aedes albopictus,32,Cameroon,2007,3.8689867,11.5213344
+Aedes albopictus,32,Cameroon,2017,3.8689867,11.5213344
+Aedes albopictus,32,Cameroon,2018,3.8689867,11.5213344
+Aedes albopictus,34,Guam,1944,13.4499943,144.7651677
+Aedes albopictus,34,Papua New Guinea,1970,-5.6816069,144.2489081
+Aedes albopictus,34,Solomon Islands,1979,-8.7053941,159.1070694
+Aedes albopictus,34,Fiji,1989,-18.1239696,179.0122737
+Aedes albopictus,34,Australia,2005,-10.2851069,142.2409061
+Aedes albopictus,34,France,2002,42.1880896,9.0684138
+Aedes albopictus,34,Malta,2009,35.8885993,14.4476911
+Aedes albopictus,34,Spain,2014,38.9743901,1.4197463
+Aedes albopictus,34,Italy,2016,39.9999743,11.9999826
+Aedes albopictus,37,Canada,2016,,
+Aedes albopictus,37,United States,2001,,
+Aedes albopictus,37,United States,2016,,
+Aedes albopictus,37,Canada,2016,,
+Aedes albopictus,37,United States,2001,,
+Aedes albopictus,37,United States,2001,,
+Aedes albopictus,38,Cameroon,2017,4.6125522,13.1535811
+Aedes albopictus,38,Cameroon,2017,,
+Aedes albopictus,38,Cameroon,2017,,
+Aedes albopictus,38,Cameroon,2017,,
+Aedes albopictus,38,Cameroon,2017,,
+Aedes albopictus,38,Cameroon,2017,,
+Aedes albopictus,38,Cameroon,2017,,
+Aedes albopictus,38,Cameroon,2017,6.082783,11.487415
+Aedes albopictus,39,Nepal,2017,,
+Aedes albopictus,39,Nepal,2017,27.6811896,84.4301652
+Aedes albopictus,39,Nepal,2017,28.2006145,83.9821924
+Aedes albopictus,39,Nepal,2018,28.2006145,83.9821924
+Aedes albopictus,40,Indonesia,2016,-2.4833826,117.8902853
+Aedes albopictus,40,Indonesia,2017,-2.4833826,117.8902853
+Aedes albopictus,41,Singapore,2008,1.357107,103.8194992
+Aedes albopictus,41,Singapore,2016,1.357107,103.8194992
+Aedes albopictus,41,Singapore,2008,1.357107,103.8194992
+Aedes albopictus,41,Singapore,2008,1.357107,103.8194992
+Aedes albopictus,41,Singapore,2008,1.357107,103.8194992
+Aedes albopictus,42,Panama,2014,8.559559,-81.1308434
+Aedes albopictus,42,Panama,2014,7.6920927,-80.5545897
+Aedes albopictus,45,China,2000,19.2000001,109.5999999
+Aedes albopictus,45,China,2000,24.0,109.0
+Aedes albopictus,45,China,2000,23.1357694,113.1982688
+Aedes albopictus,46,United States,2017,,
+Aedes albopictus,46,United States,2017,,
+Aedes albopictus,47,Colombia,2018,6.2697324,-75.6025597
+Aedes albopictus,48,Mexico,2020,20.9670759,-89.6237402
+Aedes albopictus,48,Mexico,2020,,
+Aedes albopictus,49,Philippines,2021,10.47,123.83
+Aedes albopictus,50,United States,1985,39.7837304,-100.445882
+Aedes albopictus,50,France,2013,46.603354,1.8883335
+Aedes albopictus,50,Germany,2013,51.1638175,10.4478313
+Aedes albopictus,54,United States,1985,39.7837304,-100.445882
+Aedes albopictus,54,United States,1985,31.2638905,-98.5456116
+Aedes albopictus,58,Mexico,2017,26.9264212,-105.6817818
+Aedes albopictus,58,Mexico,2017,27.7876639,-99.8757684
+Aedes albopictus,59,Brazil,1985,-22.9110137,-43.2093727
+Aedes albopictus,59,Brazil,1986,-22.9110137,-43.2093727
+Aedes albopictus,61,Sri Lanka,2017,7.2931208,80.6350358
+Aedes albopictus,63,United States,2015,27.7567667,-81.4639835
+Aedes albopictus,63,Brazil,2015,-10.3333333,-53.2
+Aedes albopictus,63,Gabon,2015,-0.8999695,11.6899699
+Aedes albopictus,63,Ivory Coast,2015,7.9897371,-5.5679458
+Aedes albopictus,64,Gabon,2014,-0.1067508,11.6110615
+Aedes albopictus,64,Gabon,2017,-0.1067508,11.6110615
+Aedes albopictus,64,Gabon,2018,-0.1067508,11.6110615
+Aedes albopictus,64,Gabon,2019,-0.1067508,11.6110615
+Aedes albopictus,64,Gabon,2014,-0.5706843,11.5560546
+Aedes albopictus,64,Gabon,2017,-0.5706843,11.5560546
+Aedes albopictus,64,Gabon,2018,-0.5706843,11.5560546
+Aedes albopictus,64,Gabon,2019,-0.5706843,11.5560546
+Aedes albopictus,64,Gabon,2019,,
+Aedes albopictus,65,Brazil,2018,-3.1316333,-59.9825041
+Aedes albopictus,66,United States,2017,25.9024289,-97.4981698
+Aedes albopictus,67,Central Africa,2000,-25.3579401,-57.5835295
+Aedes albopictus,67,Nigeria,1991,9.6000359,7.9999721
+Aedes albopictus,67,Portugal,2020,39.6621648,-8.1353519
+Aedes albopictus,70,Australia,2016,-10.5479589,142.2110239
+Aedes albopictus,72,United States,2021,40.7127281,-74.0060152
+Aedes albopictus,72,United States,2021,39.5162401,-76.9382069
+Aedes albopictus,72,United States,2021,37.1232245,-78.4927721
+Aedes albopictus,72,United States,2021,27.7567667,-81.4639835
+Aedes albopictus,72,Cameroon,2021,4.6125522,13.1535811
+Aedes albopictus,72,Thailand,2021,14.8971921,100.83273
+Aedes albopictus,72,Uganda,2021,1.5333554,32.2166578
+Aedes albopictus,78,Colombia,2021,4.4386033,-75.2108857
+Aedes albopictus,78,Colombia,2022,4.4386033,-75.2108857
+Aedes albopictus,78,Colombia,2023,4.4386033,-75.2108857
+Aedes albopictus,78,Colombia,1998,-4.2129211,-69.9425963
+Aedes albopictus,78,Colombia,2022,4.4386033,-75.2108857
+Aedes albopictus,79,Brazil,2016,-22.954074,-43.1679727
+Aedes albopictus,79,Brazil,2016,-3.1316333,-59.9825041
+Aedes albopictus,81,United States,2016,,
+Aedes albopictus,81,United States,2017,40.6524894,-91.507313
+Aedes albopictus,81,United States,2017,41.6765808,-93.5921448
+Aedes albopictus,81,United States,2017,40.9195431,-91.1971044
+Aedes albopictus,81,United States,2018,41.6765808,-93.5921448
+Aedes albopictus,81,United States,2018,40.9195431,-91.1971044
+Aedes albopictus,81,United States,2018,40.6524894,-91.507313
+Aedes albopictus,81,United States,2019,41.6765808,-93.5921448
+Aedes albopictus,81,United States,2019,40.9195431,-91.1971044
+Aedes albopictus,82,China,2016,35.0000663,104.999955
+Aedes albopictus,82,Senegal,2014,14.4750607,-14.4529612
+Aedes albopictus,83,Indonesia,2015,-7.8012646,110.3646857
+Aedes albopictus,86,Malaysia,2017,3.1727637,101.7527058
+Aedes albopictus,86,Malaysia,2019,3.1727637,101.7527058
+Aedes albopictus,86,Malaysia,2010,3.1526589,101.7022205
+Aedes albopictus,86,Malaysia,2016,3.1526589,101.7022205
+Aedes albopictus,86,Malaysia,2017,3.1526589,101.7022205
+Aedes albopictus,86,Malaysia,2019,3.1526589,101.7022205
+Aedes albopictus,88,Thailand,2022,16.4273036,102.8085551
+Aedes albopictus,89,Singapore,1957,1.357107,103.8194992
+Aedes albopictus,89,Singapore,2021,1.357107,103.8194992
+Aedes albopictus,89,Singapore,2018,1.357107,103.8194992
+Aedes albopictus,89,Singapore,2019,1.357107,103.8194992
+Aedes albopictus,93,United States,2018,41.6500201,-72.7342163
+Aedes albopictus,97,Reunion Island,2014,-21.1307379,55.5364801
+Aedes albopictus,97,Reunion Island,2018,-21.1307379,55.5364801
+Aedes albopictus,97,Reunion Island,2014,,
+Aedes albopictus,97,Reunion Island,2018,,
+Aedes albopictus,100,Iran,2020,,
+Aedes albopictus,105,Brazil,2019,,
+Aedes albopictus,105,Brazil,2019,,
+Aedes albopictus,105,Brazil,2019,,
+Aedes albopictus,105,Brazil,2019,-22.9110137,-43.2093727
+Aedes albopictus,105,Brazil,2019,,
+Aedes albopictus,105,Brazil,2019,,
+Aedes albopictus,105,Brazil,2019,,
+Aedes albopictus,105,Brazil,2019,-22.9110137,-43.2093727
+Aedes albopictus,105,Brazil,2019,,
+Aedes albopictus,107,China,1978,35.0000663,104.999955
+Aedes albopictus,107,China,2000,35.0000663,104.999955
+Aedes albopictus,107,China,2010,35.0000663,104.999955
+Aedes albopictus,107,China,2013,35.0000663,104.999955
+Aedes albopictus,107,China,2019,35.0000663,104.999955
+Aedes albopictus,107,China,2020,35.0000663,104.999955
+Aedes albopictus,108,India,2014,22.3511148,78.6677428
+Aedes albopictus,108,India,2020,22.3511148,78.6677428
+Aedes albopictus,108,India,2021,22.3511148,78.6677428
+Aedes albopictus,111,Colombia,2011,6.2921442,-75.5503867
+Aedes albopictus,111,Colombia,2011,6.2694028,-75.5657913
+Aedes albopictus,112,United States,2010,40.9699889,-77.7278831
+Aedes albopictus,112,United States,2018,40.9699889,-77.7278831
+Aedes albopictus,112,United States,2010,40.9699889,-77.7278831
+Aedes albopictus,112,United States,2015,40.9699889,-77.7278831
+Aedes albopictus,112,United States,2016,40.9699889,-77.7278831
+Aedes albopictus,113,Cyprus,2022,34.6852901,33.0332657
+Aedes albopictus,113,Cyprus,2022,34.701862,33.0449947
+Aedes albopictus,113,Cyprus,2022,34.6852901,33.0332657
+Aedes albopictus,114,Brazil,2011,-8.4116316,-37.5919699
+Aedes albopictus,114,Switzerland,2011,46.3351913,8.7525902
+Aedes albopictus,115,United States,2015,33.750631,-117.8722311
+Aedes albopictus,115,United States,2016,33.750631,-117.8722311
+Aedes albopictus,115,United States,2017,33.750631,-117.8722311
+Aedes albopictus,115,United States,2018,33.750631,-117.8722311
+Aedes albopictus,116,Mexico,2016,25.7871006,-100.1850769
+Aedes albopictus,116,Mexico,2016,22.278368,-97.8242861
+Aedes albopictus,116,Mexico,2016,14.8883246,-92.4920008
+Aedes albopictus,118,Brazil,2012,,
+Aedes albopictus,118,Brazil,2018,,
+Aedes albopictus,118,Italy,2018,43.9465433,12.630749
+Aedes albopictus,118,Singapore,2018,1.357107,103.8194992
+Aedes albopictus,118,Singapore,2020,1.357107,103.8194992
+Aedes albopictus,119,Italy,2006,42.0837101,12.2830132
+Aedes albopictus,119,Italy,2008,42.0837101,12.2830132
+Aedes albopictus,119,Italy,2011,42.0837101,12.2830132
+Aedes albopictus,119,Italy,2014,42.0837101,12.2830132
+Aedes albopictus,119,Italy,2020,42.0837101,12.2830132
+Aedes albopictus,119,Italy,2011,43.1357641,13.0683092
+Aedes albopictus,119,Italy,2014,43.1357641,13.0683092
+Aedes albopictus,119,Italy,2006,41.8933203,12.4829321
+Aedes albopictus,119,Italy,2008,41.8933203,12.4829321
+Aedes albopictus,120,France,2019,-21.1307379,55.5364801
+Aedes albopictus,120,France,2019,,
+Aedes albopictus,120,France,2019,,
+Aedes albopictus,121,Brazil,2011,-5.8257002,-35.2547225
+Aedes albopictus,121,Brazil,2011,-5.805398,-35.2080905
+Aedes albopictus,124,Mexico,2016,16.5000001,-92.5000001
+Aedes albopictus,125,Brazil,2017,-19.8638036,-43.9749287
+Aedes albopictus,126,La Reunion Island,2010,,
+Aedes albopictus,126,Haiti,2010,19.1399952,-72.3570972
+Aedes albopictus,126,Brazil,2010,-10.3333333,-53.2
+Aedes albopictus,127,France,2016,43.6112422,3.8767337
+Aedes albopictus,127,Benin,2016,9.5293472,2.2584408
+Aedes albopictus,127,La Réunion,2016,-21.1309332,55.5265771
+Aedes albopictus,127,Vietnam,2016,11.286918,106.1290402
+Aedes albopictus,128,China,2019,31.2323437,121.4691024
+Aedes albopictus,128,China,2019,30.7995326,121.4779435
+Aedes albopictus,128,China,2019,30.7995326,121.4779435
+Aedes albopictus,129,Nepal,2017,27.618086,84.4536201
+Aedes albopictus,130,Réunion Island,2009,,
+Aedes albopictus,133,Australia,1996,-10.5786459,142.2189206
+Aedes albopictus,133,Australia,1996,-10.416667,142.166667
+Aedes albopictus,133,Australia,1996,-27.4689623,153.0235009
+Aedes albopictus,133,Australia,1996,-16.9206657,145.7721854
+Aedes albopictus,134,Cameroon,2000,4.6125522,13.1535811
+Aedes albopictus,134,Cameroon,2011,4.6125522,13.1535811
+Aedes albopictus,134,Cameroon,2017,4.6125522,13.1535811
+Aedes albopictus,134,Cameroon,2018,4.6125522,13.1535811
+Aedes albopictus,134,Cameroon,2019,4.6125522,13.1535811
+Aedes albopictus,137,United States,2013,30.2305095,-93.2169807
+Aedes albopictus,137,United States,2013,27.7567667,-81.4639835
+Aedes albopictus,137,United States,2013,40.0757384,-74.4041622
+Aedes albopictus,137,United States,2013,,
+Aedes albopictus,139,United States,1992,29.6519684,-82.3249846
+Aedes albopictus,140,Germany,2016,47.9960901,7.8494005
+Aedes albopictus,140,Germany,2016,49.4093582,8.694724
+Aedes albopictus,140,Germany,2016,50.9281717,11.5879359
+Aedes albopictus,141,Gabon,2007,0.4086518,9.4418849
+Aedes albopictus,142,Nigeria,2011,,
+Aedes albopictus,142,Nigeria,2011,4.8416028,6.8604088
+Aedes albopictus,142,Nigeria,2011,6.6076575,5.9722713
+Aedes albopictus,142,Nigeria,2011,7.3505747,8.7772877
+Aedes albopictus,144,Papua New Guinea,2018,-5.0,145.5
+Aedes albopictus,144,Papua New Guinea,2018,-9.4743301,147.1599504
+Aedes albopictus,146,Iran,2009,28.1292481,60.8236848
+Aedes albopictus,146,Iran,2013,25.2935488,60.6469115
+Aedes albopictus,147,Thailand,2018,,
+Aedes albopictus,149,Colombia,2016,5.3356662,-72.3936931
+Aedes albopictus,149,Colombia,2017,7.0851994,-70.7577762
+Aedes albopictus,149,Colombia,1998,-4.2129211,-69.9425963
+Aedes albopictus,149,Colombia,2001,3.8881929,-77.0738324
+Aedes albopictus,149,Colombia,2006,3.4108435,-76.5812127
+Aedes albopictus,149,Colombia,2011,6.2697324,-75.6025597
+Aedes albopictus,149,Colombia,2011,5.09568,-76.5114837
+Aedes albopictus,149,Colombia,2016,5.1593099,-76.685528
+Aedes albopictus,153,United States,1986,39.7837304,-100.445882
+Aedes albopictus,153,United States,1986,34.0065103,-96.3746452
+Aedes albopictus,153,United States,1986,27.7567667,-81.4639835
+Aedes albopictus,156,Argentina,2011,,
+Aedes albopictus,158,Philippines,2021,14.5736108,121.0329706
+Aedes albopictus,159,Brazil,2005,-8.0110993,-34.9585766
+Aedes albopictus,159,Brazil,2005,-8.0110993,-34.9585766
+Aedes albopictus,159,Brazil,2013,-8.0110993,-34.9585766
+Aedes albopictus,159,Brazil,2013,-8.0110993,-34.9585766
+Aedes albopictus,162,Germany,2020,49.4704113,8.4381568
+Aedes albopictus,162,Germany,2020,47.9960901,7.8494005
+Aedes albopictus,162,Germany,2020,47.9986844,7.8249829
+Aedes albopictus,162,Germany,2020,51.504564,7.5128519
+Aedes albopictus,162,Germany,2020,49.5060251,8.3803606
+Aedes albopictus,162,Germany,2017,49.4093582,8.694724
+Aedes albopictus,162,Italy,2017,44.72057,11.149804
+Aedes albopictus,164,France,2018,48.6148396,7.7523716
+Aedes albopictus,167,Brazil,1986,-10.3333333,-53.2
+Aedes albopictus,167,Mexico,1988,23.6585116,-102.0077097
+Aedes albopictus,167,Dominican Republic,1993,19.0974031,-70.3028026
+Aedes albopictus,167,Cuba,1993,23.0131338,-80.8328748
+Aedes albopictus,167,Guatemala,1993,15.5855545,-90.345759
+Aedes albopictus,167,Cayman Islands,1993,19.7031822,-79.9174627
+Aedes albopictus,167,Colombia,1993,4.099917,-72.9088133
+Aedes albopictus,167,Argentina,1993,-34.9964963,-64.9672817
+Aedes albopictus,167,Bolivia,1993,-17.0568696,-64.9912286
+Aedes albopictus,168,Reunion,2009,-21.1309332,55.5265771
+Aedes albopictus,168,France,2012,46.603354,1.8883335
+Aedes albopictus,170,Japan,2008,35.5242707,139.6905273
+Aedes albopictus,170,Japan,2022,,
+Aedes albopictus,170,Japan,2014,35.6768601,139.7638947
+Aedes albopictus,170,Spain,2022,38.9743901,1.4197463
+Aedes albopictus,170,France,2010,43.9210587,7.1790785
+Aedes albopictus,170,France,2013,43.9210587,7.1790785
+Aedes albopictus,171,United States,2010,36.7281341,-76.5834683
+Aedes albopictus,173,Cameroon,2017,3.8689867,11.5213344
+Aedes albopictus,173,Cameroon,2017,6.4658575,12.6251249
+Aedes albopictus,173,Cameroon,2017,4.0429389,9.7062018
+Aedes albopictus,173,Republic of Congo,2017,-4.272507,15.2830399
+Aedes albopictus,174,Mexico,2018,14.9258055,-92.3221957
+Aedes albopictus,174,Mexico,2018,14.8883246,-92.4920008
+Aedes albopictus,174,Mexico,2018,14.7157931,-92.4184006
+Aedes albopictus,174,Mexico,2018,16.70488,-93.1731796
+Aedes albopictus,174,Mexico,2018,16.5792753,-92.0812513
+Aedes albopictus,175,Brazil,2020,-23.8027866,-45.4070527
+Aedes albopictus,176,Pakistan,2015,31.5656822,74.3141829
+Aedes albopictus,180,Ghana,2022,5.6596423,-0.0096622
+Aedes albopictus,182,Mauritius,2006,-20.2759451,57.5703566
+Aedes albopictus,182,Australia,2006,-37.8142454,144.9631732
+Aedes albopictus,184,Australia,2012,-10.416667,142.166667
+Aedes albopictus,185,Australia,2018,,
+Aedes albopictus,185,Australia,2018,-17.5986805,145.9918885
+Aedes albopictus,186,China,2015,34.604167,114.497222
+Aedes albopictus,186,China,2015,23.3563921,116.6775856
+Aedes albopictus,186,China,2015,22.5445741,114.0545429
+Aedes albopictus,186,China,2015,23.1301964,113.2592945
+Aedes albopictus,186,China,2015,23.5715402,111.0139268
+Aedes albopictus,186,China,2015,22.0147814,100.7983916
+Aedes albopictus,186,China,2015,20.0462328,110.1956502
+Aedes albopictus,186,China,2015,19.691111,109.986111
+Aedes albopictus,191,Sao Tome and Principe,2022,0.3264119,6.7300945
+Aedes albopictus,191,Sao Tome and Principe,2022,0.3264119,6.7300945
+Aedes albopictus,191,Sao Tome and Principe,2022,,
+Aedes albopictus,191,Sao Tome and Principe,2022,0.2597684,6.7420289
+Aedes albopictus,191,Sao Tome and Principe,2022,0.3578824,6.5526446
+Aedes albopictus,191,Sao Tome and Principe,2022,,
+Aedes albopictus,192,Cameroon,2000,4.6125522,13.1535811
+Aedes albopictus,192,Cameroon,2007,4.6125522,13.1535811
+Aedes albopictus,192,Gabon,2007,-0.8999695,11.6899699
+Aedes albopictus,192,Cameroon,2016,3.8689867,11.5213344
+Aedes albopictus,193,Brazil,1987,-23.5506507,-46.6333824
+Aedes albopictus,193,Brazil,1988,-23.5506507,-46.6333824
+Aedes albopictus,193,Brazil,1988,-23.5506507,-46.6333824
+Aedes albopictus,193,Brazil,2001,,
+Aedes albopictus,193,Brazil,2015,,
+Aedes albopictus,193,Brazil,2015,-23.4047811,-47.3905757
+Aedes albopictus,195,Panama,2016,8.209385,-80.6033332
+Aedes albopictus,195,Panama,2016,8.1645072,-80.6545761
+Aedes albopictus,195,Panama,2016,8.5204989,-80.359579
+Aedes albopictus,195,Panama,2016,8.472706,-79.9561983
+Aedes albopictus,195,Panama,2016,8.8164669,-80.0425959
+Aedes albopictus,199,France,2010,43.7009358,7.2683912
+Aedes albopictus,199,France,2011,43.7009358,7.2683912
+Aedes albopictus,199,France,2012,43.7009358,7.2683912
+Aedes albopictus,199,France,2016,43.7009358,7.2683912
+Aedes albopictus,199,Italy,2012,44.8349533,8.7450304
+Aedes albopictus,199,Italy,2012,44.40726,8.9338624
+Aedes albopictus,199,Spain,2012,42.8388103,-8.0320455
+Aedes albopictus,199,Spain,2012,41.4769177,1.9283971
+Aedes albopictus,199,France,2012,45.3043079,1.0747165
+Aedes albopictus,200,Italy,2006,42.6384261,12.674297
+Aedes albopictus,202,France,2004,-21.1307379,55.5364801
+Aedes albopictus,202,France,2005,-21.1307379,55.5364801
+Aedes albopictus,202,France,2006,-21.1307379,55.5364801
+Aedes albopictus,202,France,2007,-21.1307379,55.5364801
+Aedes albopictus,203,Italy,2018,40.7649991,14.0239063
+Aedes albopictus,203,Italy,2019,40.7649991,14.0239063
+Aedes albopictus,203,Italy,2016,40.7649991,14.0239063
+Aedes albopictus,203,Italy,2016,40.7649991,14.0239063
+Aedes albopictus,203,Italy,2015,40.7649991,14.0239063
+Aedes albopictus,203,Italy,2016,40.7649991,14.0239063
+Aedes albopictus,203,Italy,2018,40.7649991,14.0239063
+Aedes albopictus,203,Italy,2019,40.7649991,14.0239063
+Aedes albopictus,203,Italy,2019,40.7649991,14.0239063
+Aedes albopictus,204,United States,1985,31.2638905,-98.5456116
+Aedes albopictus,204,Brazil,1986,-22.9110137,-43.2093727
+Aedes albopictus,205,Brazil,2015,-22.9110137,-43.2093727
+Aedes albopictus,205,Brazil,2015,0.0401529,-51.0569588
+Aedes albopictus,205,United States,2015,24.5548262,-81.8020722
+Aedes albopictus,205,United States,2015,27.3923408,-80.8873655
+Aedes albopictus,207,Italy,2017,45.391408,11.8058487
+Aedes albopictus,207,Italy,2017,46.2805407,12.0789137
+Aedes albopictus,211,Sri Lanka,2018,9.665093,80.0093029
+Aedes albopictus,211,Sri Lanka,2019,9.665093,80.0093029
+Aedes albopictus,211,Sri Lanka,1986,9.665093,80.0093029
+Aedes albopictus,211,Sri Lanka,2019,9.665093,80.0093029
+Aedes albopictus,212,US,2012,29.9665252,-85.2175889
+Aedes albopictus,214,Portugal,2017,41.2061892,-8.2855653
+Aedes albopictus,214,Portugal,2018,41.2061892,-8.2855653
+Aedes albopictus,214,Portugal,2018,37.0975574,-7.9980263
+Aedes albopictus,214,Portugal,2018,37.2448086,-8.1507562
+Aedes albopictus,215,Switzerland,2013,46.3351913,8.7525902
+Aedes albopictus,215,Switzerland,2015,47.7308713,13.2667195
+Aedes albopictus,215,Switzerland,2015,45.8355209,9.0290169
+Aedes albopictus,215,Switzerland,2015,46.7843874,7.4045917
+Aedes albopictus,215,Switzerland,2015,,
+Aedes albopictus,215,Switzerland,2015,45.8584698,8.9732042
+Aedes albopictus,218,United States,2015,29.8119769,-95.3741247
+Aedes albopictus,218,United States,2017,29.8119769,-95.3741247
+Aedes albopictus,218,United States,2017,29.8119769,-95.3741247
+Aedes albopictus,219,China,2016,23.1301964,113.2592945
+Aedes albopictus,219,China,2018,23.1301964,113.2592945
+Aedes albopictus,219,China,2018,23.1996074,113.3209178
+Aedes albopictus,219,China,2018,23.1553765,113.3464567
+Aedes albopictus,219,China,2016,23.1301964,113.2592945
+Aedes albopictus,219,China,2017,23.1301964,113.2592945
+Aedes albopictus,219,China,2017,23.1301964,113.2592945
+Aedes albopictus,219,China,2016,23.1301964,113.2592945
+Aedes albopictus,220,Switzerland,2020,46.3351913,8.7525902
+Aedes albopictus,220,Switzerland,2020,46.7985624,8.2319736
+Aedes albopictus,220,Switzerland,2022,46.7985624,8.2319736
+Aedes albopictus,220,Switzerland,2022,46.7985624,8.2319736
+Aedes albopictus,220,Switzerland,2020,46.7985624,8.2319736
+Aedes albopictus,220,Switzerland,2022,46.7985624,8.2319736
+Aedes albopictus,220,Switzerland,2020,46.7985624,8.2319736
+Aedes albopictus,220,Switzerland,2021,46.7985624,8.2319736
+Aedes albopictus,220,Switzerland,2020,46.7985624,8.2319736
+Aedes albopictus,221,Brazil,2015,-22.5757373,-43.3062791
+Aedes albopictus,221,Brazil,2015,-22.5757373,-43.3062791
+Aedes albopictus,223,France,2017,42.6993979,9.4509187
+Aedes albopictus,223,France,2018,43.6112422,3.8767337
+Aedes albopictus,225,Sri Lanka,2015,7.1190247,79.9159876
+Aedes albopictus,227,Australia,2019,-9.752536,143.4074561
+Aedes albopictus,228,United States,2016,27.7567667,-81.4639835
+Aedes albopictus,228,Philippines,2017,7.4931858,124.724704
+Aedes albopictus,228,United States,2016,37.5726028,-85.1551411
+Aedes albopictus,228,China,2018,23.0693127,113.3708864
+Aedes albopictus,228,Australia,2011,-24.7761086,134.755
+Aedes albopictus,229,China,1990,23.1301964,113.2592945
+Aedes albopictus,229,China,2018,23.1301964,113.2592945
+Aedes albopictus,229,China,2019,23.1301964,113.2592945
+Aedes albopictus,229,China,2019,23.1301964,113.2592945
+Aedes albopictus,229,China,2018,23.1606324,113.267895
+Aedes albopictus,229,China,2019,23.1606324,113.267895
+Aedes albopictus,229,China,2019,23.1606324,113.267895
+Aedes albopictus,230,Tunisia,2015,33.8439408,9.400138
+Aedes albopictus,230,Algeria,2014,28.0000272,2.9999825
+Aedes albopictus,230,Morocco,2015,28.3347722,-10.3713379
+Aedes albopictus,230,Tunisia,2018,36.8548083,10.3309924
+Aedes albopictus,230,France,2019,46.603354,1.8883335
+Aedes albopictus,230,France,2019,43.4173551,6.2664637
+Aedes albopictus,230,Italy,2015,36.8314576,11.9450395
+Aedes albopictus,230,Italy,2015,35.5111342,12.5962914
+Aedes albopictus,230,Tunisia,1997,33.8439408,9.400138
+Aedes albopictus,230,Tunisia,2003,33.8439408,9.400138
+Aedes albopictus,231,China,2018,25.0,102.0
+Aedes albopictus,233,Singapore,2010,1.357107,103.8194992
+Aedes albopictus,234,China,2006,23.1301964,113.2592945
+Aedes albopictus,237,Brazil,2015,-19.9227318,-43.9450948
+Aedes albopictus,237,Brazil,2015,-22.9110137,-43.2093727
+Aedes albopictus,238,Italy,2007,42.6384261,12.674297
+Aedes albopictus,238,Singapore,2009,1.357107,103.8194992
+Aedes albopictus,238,United States,2011,39.7837304,-100.445882
+Aedes albopictus,238,Japan,2011,36.5748441,139.2394179
+Aedes albopictus,238,China,2011,35.0000663,104.999955
+Aedes albopictus,238,France,2011,46.603354,1.8883335
+Aedes albopictus,238,Italy,2011,42.6384261,12.674297
+Aedes albopictus,238,Brazil,2009,-10.3333333,-53.2
+Aedes albopictus,238,Costa Rica,2014,10.2735633,-84.0739102
+Aedes albopictus,238,CAR,2014,7.0323598,19.9981227
+Aedes albopictus,243,China,1998,35.5895959,109.3013107
+Aedes albopictus,243,China,1998,38.0000001,101.9999999
+Aedes albopictus,243,China,1998,29.0000001,119.9999999
+Aedes albopictus,243,China,1998,19.2000001,109.5999999
+Aedes albopictus,243,China,1998,27.0,107.0
+Aedes albopictus,243,China,1998,48.0000047,127.999992
+Aedes albopictus,243,China,1998,42.4804953,85.4633464
+Aedes albopictus,243,China,1998,41.2374106,122.9955469
+Aedes albopictus,243,China,1998,30.5000001,102.4999999
+Aedes albopictus,244,Italy,2020,41.8933203,12.4829321
+Aedes albopictus,244,Italy,2020,45.5050793,11.4084448
+Aedes albopictus,248,China,2020,25.0,102.0
+Aedes albopictus,248,China,2020,19.2000001,109.5999999
+Aedes albopictus,251,Nigeria,2018,9.6000359,7.9999721
+Aedes albopictus,251,Nigeria,2019,9.6000359,7.9999721
+Aedes albopictus,251,Nigeria,2020,9.6000359,7.9999721
+Aedes albopictus,252,Brazil,1986,-22.9110137,-43.2093727
+Aedes albopictus,256,India,2022,10.9156489,79.8069488
+Aedes albopictus,258,Brazil,2015,-23.5506507,-46.6333824
+Aedes albopictus,258,Brazil,2018,-23.5506507,-46.6333824
+Aedes albopictus,259,China,2018,39.0000001,116.0
+Aedes albopictus,259,China,2018,40.190632,116.412144
+Aedes albopictus,259,China,2018,23.1357694,113.1982688
+Aedes albopictus,259,China,2018,24.0,109.0
+Aedes albopictus,259,China,2018,25.0,102.0
+Aedes albopictus,259,China,2018,19.2000001,109.5999999
+Aedes albopictus,259,China,2018,28.0,116.0
+Aedes albopictus,259,China,2018,26.193218,118.2208721
+Aedes albopictus,259,China,2018,29.0000001,119.9999999
+Aedes albopictus,261,Sri Lanka,2019,7.5554942,80.7137847
+Aedes albopictus,261,Sri Lanka,2021,7.5554942,80.7137847
+Aedes albopictus,262,Malaysia,2012,5.4065013,100.2559077
+Aedes albopictus,263,Mexico,2020,16.5000001,-92.5000001
+Aedes albopictus,264,United States,2015,27.3923408,-80.8873655
+Aedes albopictus,265,Italy,2006,42.0837101,12.2830132
+Aedes albopictus,265,Italy,2008,42.0837101,12.2830132
+Aedes albopictus,265,Italy,2011,42.0837101,12.2830132
+Aedes albopictus,266,Malaysia,2016,4.5693754,102.2656823
+Aedes albopictus,269,China,2022,23.1301964,113.2592945
+Aedes albopictus,270,México,1998,23.6585116,-102.0077097
+Aedes albopictus,270,México,1998,23.6585116,-102.0077097
+Aedes albopictus,270,México,2018,20.9670759,-89.6237402
+Aedes albopictus,270,México,2018,21.2485972,-87.8728357
+Aedes albopictus,270,México,2012,19.6666671,-88.5000001
+Aedes albopictus,270,México,2019,19.0,-90.5
+Aedes albopictus,270,México,2017,20.6845957,-88.8755669
+Aedes albopictus,270,México,2019,20.9670759,-89.6237402
+Aedes albopictus,270,México,2019,20.9670759,-89.6237402
+Aedes albopictus,276,China,2016,,
+Aedes albopictus,276,China,2016,,
+Aedes albopictus,276,China,2016,,
+Aedes albopictus,276,China,2016,,
+Aedes albopictus,276,China,2016,,
+Aedes albopictus,276,China,2016,,
+Aedes albopictus,276,China,2016,,
+Aedes albopictus,276,China,2016,,
+Aedes albopictus,276,China,2016,,
+Aedes albopictus,280,United States,2017,,
+Aedes albopictus,280,United States,2017,,
+Aedes albopictus,281,France,2013,,
+Aedes albopictus,281,France,2013,,
+Aedes albopictus,281,France,2013,,
+Aedes albopictus,281,France,2019,,
+Aedes albopictus,281,France,2019,,
+Aedes albopictus,281,France,2019,,
+Aedes albopictus,281,France,2019,,
+Aedes albopictus,282,United States,2008,40.0757384,-74.4041622
+Aedes albopictus,282,United States,2013,27.7567667,-81.4639835
+Aedes albopictus,282,United States,2009,40.2807177,-74.7033717
+Aedes albopictus,282,United States,2010,40.2807177,-74.7033717
+Aedes albopictus,282,United States,2011,40.2807177,-74.7033717
+Aedes albopictus,282,United States,2013,27.7567667,-81.4639835
+Aedes albopictus,282,United States,2013,40.0757384,-74.4041622
+Aedes albopictus,282,United States,2013,40.0757384,-74.4041622
+Aedes albopictus,284,Malaysia,2017,4.5693754,102.2656823
+Aedes albopictus,287,China,2017,31.2312707,121.4700152
+Aedes albopictus,287,China,2020,31.2312707,121.4700152
+Aedes albopictus,287,China,2022,31.2312707,121.4700152
+Aedes albopictus,287,China,2017,31.4073905,121.4848384
+Aedes albopictus,287,China,2017,,
+Aedes albopictus,287,China,2020,31.2513263,121.3912291
+Aedes albopictus,287,China,2020,31.377756,121.2606119
+Aedes albopictus,287,China,2021,31.1900943,121.4311138
+Aedes albopictus,287,China,2017,31.2664424,121.5007794
+Aedes albopictus,289,Malaysia,2013,5.4065013,100.2559077
+Aedes albopictus,289,Malaysia,2013,5.3356587,100.2389496
+Aedes albopictus,290,Republic of the Congo,2011,-4.272507,15.2830399
+Aedes albopictus,290,Republic of the Congo,2011,,
+Aedes albopictus,290,Republic of the Congo,2011,,
+Aedes albopictus,290,Republic of the Congo,2011,,
+Aedes albopictus,290,Republic of the Congo,2011,,
+Aedes albopictus,290,Republic of the Congo,2007,-4.272507,15.2830399
+Aedes albopictus,291,United States,2017,29.8119769,-95.3741247
+Aedes albopictus,291,United States,2018,29.8119769,-95.3741247
+Aedes albopictus,291,United States,2019,29.8119769,-95.3741247
+Aedes albopictus,292,France,2020,-21.1307379,55.5364801
+Aedes albopictus,292,China,2020,23.1301964,113.2592945
+Aedes albopictus,292,Italy,2020,45.362828,9.6874573
+Aedes albopictus,292,Mexico,2020,14.9258055,-92.3221957
+Aedes albopictus,292,Thailand,2020,18.7882778,98.9858802
+Aedes albopictus,292,China,2020,23.1301964,113.2592945
+Aedes albopictus,292,China,2020,23.1606324,113.267895
+Aedes albopictus,292,France,2020,,
+Aedes albopictus,292,France,2020,,
+Aedes albopictus,296,China,2017,19.2000001,109.5999999
+Aedes albopictus,296,China,2019,19.2000001,109.5999999
+Aedes albopictus,296,China,2017,20.0462328,110.1956502
+Aedes albopictus,296,China,2017,19.568889,109.404444
+Aedes albopictus,296,China,2017,19.032778,109.851111
+Aedes albopictus,296,China,2017,18.837778,110.2875
+Aedes albopictus,304,Thailand,2007,13.862225,100.5218885
+Aedes albopictus,304,Thailand,2014,14.8971921,100.83273
+Aedes albopictus,304,Senegal,2014,,
+Aedes albopictus,305,France,2010,46.603354,1.8883335
+Aedes albopictus,305,Spain,2018,39.3260685,-4.8379791
+Aedes albopictus,305,Italy,2020,42.6384261,12.674297
+Aedes albopictus,305,Portugal,2020,32.7517501,-16.9817487
+Aedes albopictus,305,Switzerland,2020,46.7985624,8.2319736
+Aedes albopictus,305,Netherlands,2020,52.2434979,5.6343227
+Aedes albopictus,307,Taiwan,2004,23.9739374,120.9820179
+Aedes albopictus,307,Taiwan,2014,23.9739374,120.9820179
+Aedes albopictus,309,United States,2013,41.6500201,-72.7342163
+Aedes albopictus,309,United States,2013,40.7127281,-74.0060152
+Aedes albopictus,309,United States,2013,40.6956735,-72.9657407
+Aedes albopictus,309,United States,2013,41.1130231,-74.0437839
+Aedes albopictus,309,United States,2013,41.1792695,-73.1887863
+Aedes albopictus,309,United States,2013,41.2795414,-72.8150989
+Aedes albopictus,309,United States,1980,35.1460249,-90.0517638
+Aedes albopictus,309,United States,1980,29.7589382,-95.3676974
+Aedes albopictus,310,Cambodia,2019,11.5730391,104.857807
+Aedes albopictus,310,Lao PDR,2016,17.9751896,102.6223322
+Aedes albopictus,314,United States,2016,27.7567667,-81.4639835
+Aedes albopictus,318,China,2017,23.1301964,113.2592945
+Aedes albopictus,318,Thailand,2011,15.3912084,99.4560531
+Aedes albopictus,318,Thailand,2018,13.5497782,100.2742813
+Aedes albopictus,318,La Reunion Island,2016,-21.1307379,55.5364801
+Aedes albopictus,318,Italy,2011,42.6384261,12.674297
+Aedes albopictus,318,Italy,2018,42.6384261,12.674297
+Aedes albopictus,318,Greece,2011,38.9953683,21.9877132
+Aedes albopictus,318,Greece,2018,38.9953683,21.9877132
+Aedes albopictus,321,Thailand,2008,14.8971921,100.83273
+Aedes albopictus,321,Thailand,2009,14.8971921,100.83273
+Aedes albopictus,321,Thailand,2012,14.8971921,100.83273
+Aedes albopictus,326,Lao PDR,2014,,
+Aedes albopictus,326,Lao PDR,2014,,
+Aedes albopictus,326,Lao PDR,2014,,
+Aedes albopictus,326,Lao PDR,2014,,
+Aedes albopictus,326,Lao PDR,2014,19.890111,102.1344444
+Aedes albopictus,326,Lao PDR,2014,17.9751896,102.6223322
+Aedes albopictus,326,Lao PDR,2014,,
+Aedes albopictus,326,Lao PDR,2014,,
+Aedes albopictus,328,Vietnam,2019,10.7793647,106.6922806
+Aedes albopictus,330,Vanuatu,2018,-16.5255069,168.1069154
+Aedes albopictus,331,Japan,2018,33.6251241,130.6180016
+Aedes albopictus,331,Japan,2019,33.6251241,130.6180016
+Aedes albopictus,331,Japan,2020,33.6251241,130.6180016
+Aedes albopictus,331,Japan,2019,33.8829996,130.8749015
+Aedes albopictus,331,Japan,2019,33.1154683,129.7874339
+Aedes albopictus,331,Japan,2020,33.1154683,129.7874339
+Aedes albopictus,331,Japan,2019,34.3952765,129.315449
+Aedes albopictus,331,Japan,2019,32.6558964,128.8069309
+Aedes albopictus,331,Japan,2020,33.6251241,130.6180016
+Aedes albopictus,331,Japan,2019,33.6251241,130.6180016
+Aedes albopictus,332,Sri Lanka,2015,7.2523113,80.4468038
+Aedes albopictus,334,Sri Lanka,2019,7.5554942,80.7137847
+Aedes albopictus,334,Sri Lanka,2019,7.5554942,80.7137847
+Aedes albopictus,334,Sri Lanka,2019,7.5554942,80.7137847
+Aedes albopictus,335,Zambia,2015,-16.536478,28.710204
+Aedes albopictus,335,Zambia,2015,-17.853135,25.861429
+Aedes albopictus,335,Zambia,2019,-16.536478,28.710204
+Aedes albopictus,335,Zambia,2019,-17.853135,25.861429
+Aedes albopictus,336,France,2015,45.7578137,4.8320114
+Aedes albopictus,337,México,1993,27.3333331,-102.0000001
+Aedes albopictus,337,México,2015,,
+Aedes albopictus,337,México,2020,,
+Aedes albopictus,337,México,2020,15.3154118,-92.7266634
+Aedes albopictus,338,Mexico,1993,23.6585116,-102.0077097
+Aedes albopictus,338,Mexico,2012,23.6585116,-102.0077097
+Aedes albopictus,338,Mexico,2016,23.6585116,-102.0077097
+Aedes albopictus,338,Mexico,2016,23.6585116,-102.0077097
+Aedes albopictus,343,China,2019,20.0462328,110.1956502
+Aedes albopictus,343,China,2019,20.0332057,110.3238294
+Aedes albopictus,343,China,2019,20.0462328,110.1956502
+Aedes albopictus,343,China,2019,20.0332057,110.3238294
+Aedes albopictus,343,China,2019,20.0462328,110.1956502
+Aedes albopictus,343,China,2019,20.0332057,110.3238294
+Aedes albopictus,344,Cameroon,2001,4.6125522,13.1535811
+Aedes albopictus,345,Réunion,1913,,
+Aedes albopictus,345,Réunion,1956,,
+Aedes albopictus,345,Réunion,2005,,
+Aedes albopictus,345,Réunion,2007,,
+Aedes albopictus,345,Réunion,2017,,
+Aedes albopictus,349,Singapore,2010,1.369842,103.8466086
+Aedes albopictus,349,Singapore,2013,1.455745,103.8204072
+Aedes albopictus,349,Singapore,2013,1.3156155,103.967376
+Aedes albopictus,352,China,1981,23.0239788,113.1159558
+Aedes albopictus,353,Malaysia,2014,,
+Aedes albopictus,354,United States,1960,31.2638905,-98.5456116
+Aedes albopictus,354,United States,2016,31.2638905,-98.5456116
+Aedes albopictus,354,United States,2016,36.7014631,-118.755997
+Aedes albopictus,357,Italy,2012,41.8933203,12.4829321
+Aedes albopictus,357,Japan,2008,35.5306639,139.7037668
+Aedes albopictus,357,Switzerland,2019,14.486291,121.0174432
+Aedes albopictus,357,China,2019,35.0000663,104.999955
+Aedes albopictus,357,Italy,2019,42.6384261,12.674297
+Aedes albopictus,357,Thailand,2019,14.8971921,100.83273
+Aedes albopictus,358,Albania,1979,41.000028,19.9999619
+Aedes albopictus,358,Italy,1990,42.6384261,12.674297
+Aedes albopictus,358,Italy,1991,42.6384261,12.674297
+Aedes albopictus,358,Italy,1990,42.6384261,12.674297
+Aedes albopictus,358,France,2000,46.603354,1.8883335
+Aedes albopictus,358,Greece,2007,38.9953683,21.9877132
+Aedes albopictus,358,Bulgaria,2011,42.6073975,25.4856617
+Aedes albopictus,358,Russia,2011,64.6863136,97.7453061
+Aedes albopictus,358,Turkey,2011,39.294076,35.2316631
+Aedes albopictus,358,Romania,2012,45.9852129,24.6859225
+Aedes albopictus,361,China,2017,,
+Aedes albopictus,364,Democratic Republic of Congo,2018,-4.3196982,15.3424196
+Aedes albopictus,365,Thailand,2016,14.8971921,100.83273
+Aedes albopictus,365,Thailand,2018,14.8971921,100.83273
+Aedes albopictus,366,Italy,2018,43.9465433,12.630749
+Aedes albopictus,368,Gabon,2006,-0.7151966,8.7787919
+Aedes albopictus,368,Gabon,2007,0.4086518,9.4418849
+Aedes albopictus,368,Gabon,2010,,
+Aedes albopictus,369,Malaysia,2020,5.4065013,100.2559077
+Aedes albopictus,370,China,2015,23.1301964,113.2592945
+Aedes albopictus,372,Pakistan,2017,30.197838,71.4719683
+Aedes albopictus,372,Pakistan,2017,30.6715098,73.1110572
+Aedes albopictus,372,Pakistan,2018,31.5656822,74.3141829
+Aedes albopictus,372,Pakistan,2017,31.7085285,73.9864014
+Aedes albopictus,372,Pakistan,2018,31.1175143,74.4478314
+Aedes albopictus,372,Pakistan,2018,31.4220558,73.0923253
+Aedes albopictus,372,Pakistan,2018,32.4935378,74.5411575
+Aedes albopictus,372,Pakistan,2018,33.5914237,73.0535122
+Aedes albopictus,374,China,2019,35.0000663,104.999955
+Aedes albopictus,374,China,2019,35.0000663,104.999955
+Aedes albopictus,374,China,2020,35.0000663,104.999955
+Aedes albopictus,374,China,2020,35.0000663,104.999955
+Aedes albopictus,380,China,2014,23.1301964,113.2592945
+Aedes albopictus,380,China,2015,23.1301964,113.2592945
+Aedes albopictus,380,China,2015,23.5508777,113.5804636
+Aedes albopictus,380,China,2015,23.12712,113.356424
+Aedes albopictus,380,China,2015,23.1312782,113.2614717
+Aedes albopictus,380,China,2016,23.1301964,113.2592945
+Aedes albopictus,380,China,2016,23.5508777,113.5804636
+Aedes albopictus,380,China,2016,23.12712,113.356424
+Aedes albopictus,380,China,2016,23.1312782,113.2614717
+Aedes albopictus,383,Japan,2011,33.1154683,129.7874339
+Aedes albopictus,383,China,2011,24.5438732,118.0768065
+Aedes albopictus,383,Thailand,2010,15.3700831,99.1929887
+Aedes albopictus,383,La Réunion,2010,-21.341298,55.4776174
+Aedes albopictus,383,La Réunion,2010,-20.8944288,55.4571497
+Aedes albopictus,383,La Réunion,2010,-20.9606333,55.6492731
+Aedes albopictus,383,Greece,2011,37.9755648,23.7348324
+Aedes albopictus,383,Italy,1990,44.136352,12.2422442
+Aedes albopictus,387,India,2020,22.3511148,78.6677428
+Aedes albopictus,387,Brazil,2020,-10.3333333,-53.2
+Aedes albopictus,387,India,2020,12.9881567,77.6226
+Aedes albopictus,387,India,2020,28.6273928,77.1716954
+Aedes albopictus,388,La Reunion,2020,-21.3789306,55.6190645
+Aedes albopictus,388,La Reunion,2005,-21.1309332,55.5265771
+Aedes albopictus,388,La Reunion,2006,-21.1309332,55.5265771
+Aedes albopictus,389,Switzerland,2003,46.3351913,8.7525902
+Aedes albopictus,389,Switzerland,2004,46.3351913,8.7525902
+Aedes albopictus,389,Switzerland,2005,46.3351913,8.7525902
+Aedes albopictus,389,Switzerland,2006,46.3351913,8.7525902
+Aedes albopictus,389,Switzerland,2007,46.3351913,8.7525902
+Aedes albopictus,389,Switzerland,2008,46.3351913,8.7525902
+Aedes albopictus,389,Switzerland,2009,46.3351913,8.7525902
+Aedes albopictus,389,Switzerland,2010,46.3351913,8.7525902
+Aedes albopictus,389,Switzerland,2011,46.3351913,8.7525902
+Aedes albopictus,390,Brazil,2018,-3.1316333,-59.9825041
+Aedes albopictus,390,Brazil,2014,-22.9110137,-43.2093727
+Aedes albopictus,390,Brazil,2015,-20.8329661,-49.3488663
+Aedes albopictus,390,Brazil,2018,-12.2115009,-55.5716547
+Aedes albopictus,391,India,2006,22.3511148,78.6677428
+Aedes albopictus,391,India,2010,22.3511148,78.6677428
+Aedes albopictus,391,Western world,2013,6.8275297,79.931296
+Aedes albopictus,392,China,2014,23.1357694,113.1982688
+Aedes albopictus,393,Papua New Guinea,2020,-5.0,145.5
+Aedes albopictus,395,Puerto Rico,2014,18.2247706,-66.4858295
+Aedes albopictus,398,Cameroon,2015,3.8689867,11.5213344
+Aedes albopictus,398,Cameroon,2016,3.8689867,11.5213344
+Aedes albopictus,398,Cameroon,2015,10.74103,13.798742
+Aedes albopictus,398,Cameroon,2016,10.74103,13.798742
+Aedes albopictus,398,Cameroon,2015,3.8635231,11.5283875
+Aedes albopictus,398,Cameroon,2016,3.8635231,11.5283875
+Aedes albopictus,398,Cameroon,2016,3.8758976,11.5434531
+Aedes albopictus,399,China,2016,18.568333,109.947222
+Aedes albopictus,399,China,2016,19.032778,109.851111
+Aedes albopictus,399,China,2016,19.211667,109.346667
+Aedes albopictus,399,China,2016,19.691111,109.986111
+Aedes albopictus,399,China,2018,21.2737079,110.3548318
+Aedes albopictus,399,China,2018,21.6656961,110.9209511
+Aedes albopictus,399,China,2018,22.5445741,114.0545429
+Aedes albopictus,399,China,2018,23.1301964,113.2592945
+Aedes albopictus,399,China,2018,23.553156,116.3680354
+Aedes albopictus,400,Greece,2018,,
+Aedes albopictus,400,Greece,2017,,
+Aedes albopictus,400,Greece,2017,,
+Aedes albopictus,400,Greece,2018,37.9914389,23.6818223
+Aedes albopictus,400,Greece,2018,38.0221347,23.7848706
+Aedes albopictus,400,Greece,2018,38.1960549,23.8527083
+Aedes albopictus,400,Greece,2018,38.0200358,23.7317451
+Aedes albopictus,400,Greece,2019,38.2531424,20.393164
+Aedes albopictus,402,United States,1987,39.7837304,-100.445882
+Aedes albopictus,402,United States,1997,39.7837304,-100.445882
+Aedes albopictus,402,United States,2017,39.7837304,-100.445882
+Aedes albopictus,402,United States,2018,39.7837304,-100.445882
+Aedes albopictus,402,United States,2020,39.7837304,-100.445882
+Aedes albopictus,405,Thailand,1996,12.9081033,102.0159145
+Aedes albopictus,405,Thailand,2015,13.8610918,100.3456772
+Aedes albopictus,406,Albania,1979,41.3281482,19.8184435
+Aedes albopictus,406,Albania,1990,41.000028,19.9999619
+Aedes albopictus,406,Italy,1990,42.6384261,12.674297
+Aedes albopictus,406,Albania,2019,41.3471568,19.8593937
+Aedes albopictus,408,Gabon,2006,-0.8999695,11.6899699
+Aedes albopictus,408,Cameroon,2000,4.6125522,13.1535811
+Aedes albopictus,409,France,2010,46.603354,1.8883335
+Aedes albopictus,409,France,2012,46.603354,1.8883335
+Aedes albopictus,409,France,2013,46.603354,1.8883335
+Aedes albopictus,409,France,2014,46.603354,1.8883335
+Aedes albopictus,409,France,2015,46.603354,1.8883335
+Aedes albopictus,409,France,2017,46.603354,1.8883335
+Aedes albopictus,409,France,2018,46.603354,1.8883335
+Aedes albopictus,411,China,1981,23.0239788,113.1159558
+Aedes albopictus,411,China,1993,23.1301964,113.2592945
+Aedes albopictus,414,Belgium,2018,51.2519515,4.27803
+Aedes albopictus,414,Belgium,2013,51.2191283,4.194377
+Aedes albopictus,414,Belgium,2016,50.4096511,3.8933015
+Aedes albopictus,414,Belgium,2013,51.2211097,4.3997081
+Aedes albopictus,414,Belgium,2014,51.2211097,4.3997081
+Aedes albopictus,414,Belgium,2015,51.2211097,4.3997081
+Aedes albopictus,414,Belgium,2016,51.2211097,4.3997081
+Aedes albopictus,414,Belgium,2017,51.2211097,4.3997081
+Aedes albopictus,414,Belgium,2018,51.2211097,4.3997081
+Aedes albopictus,414,Belgium,2019,51.2211097,4.3997081
+Aedes albopictus,415,Albania,1979,41.000028,19.9999619
+Aedes albopictus,415,Portugal,2005,32.7517501,-16.9817487
+Aedes albopictus,415,Portugal,2008,32.7517501,-16.9817487
+Aedes albopictus,415,Portugal,2012,32.7517501,-16.9817487
+Aedes albopictus,415,Venezuela,2013,10.5060934,-66.9146008
+Aedes albopictus,415,Brazil,2008,-23.9335988,-46.3286399
+Aedes albopictus,417,Mexico,2016,14.9258055,-92.3221957
+Aedes albopictus,420,Korea,2017,36.638392,127.6961188
+Aedes albopictus,424,Honduras,2016,15.2572432,-86.0755145
+Aedes albopictus,427,Malaysia,1960,3.2083304,101.304146
+Aedes albopictus,430,United States,2017,,
+Aedes albopictus,430,United States,2017,,
+Aedes albopictus,431,China,2006,23.1301964,113.2592945
+Aedes albopictus,431,China,2014,23.1301964,113.2592945
+Aedes albopictus,431,China,2014,23.1301964,113.2592945
+Aedes albopictus,431,China,2006,35.0000663,104.999955
+Aedes albopictus,431,China,2015,35.0000663,104.999955
+Aedes albopictus,431,China,2014,35.0000663,104.999955
+Aedes albopictus,431,China,2014,,
+Aedes albopictus,431,China,2014,40.190632,116.412144
+Aedes albopictus,431,China,2014,23.1301964,113.2592945
+Aedes albopictus,433,Iran,2014,28.1292481,60.8236848
+Aedes albopictus,434,Laos,2013,19.6854091,102.1200974
+Aedes albopictus,434,Laos,2013,19.6182092,102.0516334
+Aedes albopictus,434,Laos,2013,19.556928,101.9979453
+Aedes albopictus,434,Laos,2013,17.9640988,102.6133707
+Aedes albopictus,434,Laos,2013,19.8887438,102.135898
+Aedes albopictus,434,Laos,2014,19.6854091,102.1200974
+Aedes albopictus,434,Laos,2014,19.6182092,102.0516334
+Aedes albopictus,434,Laos,2014,19.556928,101.9979453
+Aedes albopictus,434,Laos,2014,17.9640988,102.6133707
+Aedes albopictus,436,Spain,2004,41.4728432,2.0817809
+Aedes albopictus,437,Switzerland,2019,45.8491908,9.0070811
+Aedes albopictus,437,Switzerland,2019,45.8538378,8.9871005
+Aedes albopictus,437,Switzerland,2019,45.8709661,8.9875293
+Aedes albopictus,437,Switzerland,2019,,
+Aedes albopictus,437,Switzerland,2019,45.8438903,9.0388074
+Aedes albopictus,437,Switzerland,2019,,
+Aedes albopictus,437,Switzerland,2012,45.8491908,9.0070811
+Aedes albopictus,437,Switzerland,2012,45.8538378,8.9871005
+Aedes albopictus,437,Switzerland,2012,45.8709661,8.9875293
+Aedes albopictus,441,Colombia,2018,3.4108435,-76.5812127
+Aedes albopictus,448,Brazil,2010,-8.7494525,-63.8735438
+Aedes albopictus,448,Brazil,2012,-16.4603533,-54.6397099
+Aedes albopictus,448,Brazil,2009,-23.662036,-52.6103989
+Aedes albopictus,448,Brazil,2009,-25.5304023,-54.5830692
+Aedes albopictus,448,Brazil,2012,,
+Aedes albopictus,448,Brazil,2014,-22.7358333,-53.04
+Aedes albopictus,448,Brazil,2012,-22.7633621,-52.9875908
+Aedes albopictus,448,Brazil,2014,-22.7807269,-51.2307721
+Aedes albopictus,448,Brazil,2009,-6.4527909,-38.2940686
+Aedes albopictus,449,,2018,1.357107,103.8194992
+Aedes albopictus,450,Italy,2021,42.1719129,12.5927265
+Aedes albopictus,450,Italy,2021,41.8002891,12.6004706
+Aedes albopictus,450,Italy,2021,42.2655187,12.6873028
+Aedes albopictus,450,Italy,2021,41.727033,13.0041576
+Aedes albopictus,450,Italy,2021,41.8389656,12.8912487
+Aedes albopictus,450,Italy,2021,42.3868338,12.9483413
+Aedes albopictus,450,Italy,2021,42.501834,12.888178
+Aedes albopictus,450,Italy,2021,41.7910922,12.7619973
+Aedes albopictus,451,Malaysia,2016,5.3873462,100.3145585
+Aedes albopictus,451,Malaysia,2016,5.2859949,100.2812662
+Aedes albopictus,451,Malaysia,2016,5.3506953,100.2348979
+Aedes albopictus,453,China,2013,23.0239788,113.1159558
+Aedes albopictus,455,Spain,2021,43.2630018,-2.9350039
+Aedes albopictus,455,Spain,2021,43.3224219,-1.9838889
+Aedes albopictus,455,Spain,2021,43.1445278,-2.2037955
+Aedes albopictus,455,Spain,2021,43.238482,-2.8516316
+Aedes albopictus,455,Spain,2021,42.8440722,-2.6820829
+Aedes albopictus,456,United States,2010,29.7589382,-95.3676974
+Aedes albopictus,457,China,2020,34.0000001,113.9999999
+Aedes albopictus,457,China,2020,24.0,109.0
+Aedes albopictus,457,China,2020,27.6662087,111.7487063
+Aedes albopictus,457,China,2020,30.05518,107.8748712
+Aedes albopictus,457,China,2020,39.0000001,116.0
+Aedes albopictus,457,China,2020,23.1357694,113.1982688
+Aedes albopictus,457,China,2020,36.398987,118.5055691
+Aedes albopictus,457,China,2020,25.0,102.0
+Aedes albopictus,457,China,2020,28.0,116.0
+Aedes albopictus,457,China,2020,29.0000001,119.9999999
+Aedes albopictus,460,Spain,2015,,
+Aedes albopictus,460,Spain,2015,41.3246333,2.0952568
+Aedes albopictus,462,Singapore,2013,1.3181862,103.8870563
+Aedes albopictus,462,Singapore,2013,1.323674,103.8549269
+Aedes albopictus,462,Singapore,2013,1.3373525,103.8396487
+Aedes albopictus,463,China,2014,35.0000663,104.999955
+Aedes albopictus,463,Australia,2017,-24.7761086,134.755
+Aedes albopictus,463,Thailand,2014,,
+Aedes albopictus,466,Mexico,2019,14.8959929,-92.2446247
+Aedes albopictus,467,India,2018,26.1723257,91.7601635
+Aedes albopictus,467,India,2018,25.5125616,90.2171526
+Aedes albopictus,467,India,2018,28.0589676,95.3324944
+Aedes albopictus,470,Morocco,2016,28.3347722,-10.3713379
+Aedes albopictus,472,China,2017,36.6519754,117.1138479
+Aedes albopictus,472,China,2017,30.2489634,120.2052342
+Aedes albopictus,472,China,2017,31.4073905,121.4848384
+Aedes albopictus,472,China,2017,,
+Aedes albopictus,472,China,2017,20.0462328,110.1956502
+Aedes albopictus,478,Australia,2014,-16.9206657,145.7721854
+Aedes albopictus,481,Brazil,2016,-3.1316333,-59.9825041
+Aedes albopictus,484,China,2017,23.1301964,113.2592945
+Aedes albopictus,484,China,2017,23.3875531,113.3601003
+Aedes albopictus,484,China,2017,23.1877496,113.320539
+Aedes albopictus,484,China,2017,,
+Aedes albopictus,484,China,2017,,
+Aedes albopictus,486,Korea,2017,36.638392,127.6961188
+Aedes albopictus,486,Korea,2018,36.638392,127.6961188
+Aedes albopictus,486,Korea,2020,36.638392,127.6961188
+Aedes albopictus,486,Korea,2017,37.3420996,127.9197603
+Aedes albopictus,486,Korea,2020,37.3420996,127.9197603
+Aedes albopictus,486,Korea,2017,38.0964,127.0746
+Aedes albopictus,486,Korea,2017,35.3349979,129.0370582
+Aedes albopictus,486,Korea,2020,35.3349979,129.0370582
+Aedes albopictus,486,Korea,2018,37.3938528,126.9570605
+Aedes albopictus,486,Korea,2017,37.8810569,127.7297641
+Aedes albopictus,488,Central Africa,2000,-25.3579401,-57.5835295
+Aedes albopictus,488,United States,1986,39.7837304,-100.445882
+Aedes albopictus,488,La Reunion,1986,-21.1309332,55.5265771
+Aedes albopictus,488,Brazil,2015,-10.3333333,-53.2
+Aedes albopictus,488,Cambodia,2010,12.5433216,104.8144914
+Aedes albopictus,488,Malaysia,1966,4.5693754,102.2656823
+Aedes albopictus,489,China,1981,23.0239788,113.1159558
+Aedes albopictus,489,China,2016,29.0000001,119.9999999
+Aedes albopictus,493,Colombia,2016,5.210419,-74.7361921
+Aedes albopictus,493,Colombia,2017,6.334997,-75.5582665
+Aedes albopictus,494,Sri Lanka,2018,7.5554942,80.7137847
+Aedes albopictus,500,Spain,2022,36.5388398,-4.6233974
+Aedes albopictus,500,Spain,2022,37.1856404,-3.6141986
+Aedes albopictus,500,Spain,2022,37.205237,-3.6005459
+Aedes albopictus,500,Spain,2022,37.104497,-3.6057759
+Aedes albopictus,500,Spain,2022,37.4615552,-2.7433102
+Aedes albopictus,500,Spain,2022,36.5388398,-4.6233974
+Aedes albopictus,500,Spain,2022,37.1856404,-3.6141986
+Aedes albopictus,500,Spain,2022,37.205237,-3.6005459
+Aedes albopictus,504,Democratic Republic of the Congo,2012,,
+Aedes albopictus,504,Democratic Republic of the Congo,2016,,
+Aedes albopictus,505,Singapore,2003,1.357107,103.8194992
+Aedes albopictus,505,Singapore,2013,1.357107,103.8194992
+Aedes albopictus,506,La Réunion,2005,-21.1309332,55.5265771
+Aedes albopictus,506,Italy,2007,42.6384261,12.674297
+Aedes albopictus,513,Kenya,2005,-2.2675396,40.9010641
+Aedes albopictus,513,Réunion,2005,-21.1309332,55.5265771
+Aedes albopictus,513,Mayotte,2005,-12.823048,45.1520755
+Aedes albopictus,513,Mauritius,2005,-20.2759451,57.5703566
+Aedes albopictus,513,Seychelles,2005,-4.6574977,55.4540146
+Aedes albopictus,513,India,2005,22.3511148,78.6677428
+Aedes albopictus,513,Italy,2007,44.3640607,12.0590095
+Aedes albopictus,513,France,2017,46.603354,1.8883335
+Aedes albopictus,513,Germany,2016,51.1638175,10.4478313
+Aedes albopictus,514,Italy,2016,45.362828,9.6874573
+Aedes albopictus,514,Italy,2018,45.362828,9.6874573
+Aedes albopictus,515,China,2017,30.5951051,114.2999353
+Aedes albopictus,515,China,2017,23.1301964,113.2592945
+Aedes albopictus,515,China,2018,23.1301964,113.2592945
+Aedes albopictus,515,Kenya,2018,-4.29451,39.571219
+Aedes albopictus,515,Kenya,2018,-0.1029109,34.7541761
+Aedes albopictus,516,Vietnam,2010,10.7763897,106.7011391
+Aedes albopictus,516,Vietnam,2014,10.7763897,106.7011391
+Aedes albopictus,516,Vietnam,2019,10.7763897,106.7011391
+Aedes albopictus,516,Japan,2014,35.6768601,139.7638947
+Aedes albopictus,517,Thailand,2019,14.8971921,100.83273
+Aedes albopictus,520,Taiwan,2009,23.9739374,120.9820179
+Aedes albopictus,521,Mexico,2015,16.5000001,-92.5000001
+Aedes albopictus,521,Mexico,2015,18.1405019,-94.4344003
+Aedes albopictus,522,United States,2017,35.2356385,-80.8139485
+Aedes albopictus,522,United States,2018,35.2356385,-80.8139485
+Aedes albopictus,522,United States,2018,35.611481,-77.3707461
+Aedes albopictus,526,China,2018,40.190632,116.412144
+Aedes albopictus,527,Colombia,1998,8.3344713,-75.6666238
+Aedes albopictus,527,Colombia,2010,8.3344713,-75.6666238
+Aedes albopictus,527,Colombia,2014,8.3344713,-75.6666238
+Aedes albopictus,527,Colombia,2015,8.3344713,-75.6666238
+Aedes albopictus,527,Colombia,2022,8.3344713,-75.6666238
+Aedes albopictus,528,Spain,2004,41.8523094,1.5745043
+Aedes albopictus,528,Spain,2004,,
+Aedes albopictus,528,Spain,2018,39.3260685,-4.8379791
+Aedes albopictus,528,Italy,2018,42.8175787,-73.9382042
+Aedes albopictus,528,Spain,2018,,
+Aedes albopictus,530,Netherlands,2010,52.3705038,5.2185859
+Aedes albopictus,530,Netherlands,2010,52.9952273,6.560498
+Aedes albopictus,530,Netherlands,2010,52.7087448,5.7466367
+Aedes albopictus,530,Netherlands,2010,51.5759371,4.6432216
+Aedes albopictus,530,Netherlands,2010,52.5754706,6.6188242
+Aedes albopictus,530,Netherlands,2010,52.5150949,5.4768915
+Aedes albopictus,530,Netherlands,2010,51.6627723,4.5255922
+Aedes albopictus,530,Netherlands,2010,52.0441945,4.9514009
+Aedes albopictus,530,Netherlands,2010,51.6322376,4.8630424
+Aedes albopictus,531,United States,1985,39.7837304,-100.445882
+Aedes albopictus,531,United States,2016,39.7837304,-100.445882
+Aedes albopictus,531,United States,2016,39.7837304,-100.445882
+Aedes albopictus,531,United States,2017,39.7837304,-100.445882
+Aedes albopictus,531,United States,2016,39.7837304,-100.445882
+Aedes albopictus,531,United States,2017,39.7837304,-100.445882
+Aedes albopictus,531,United States,2016,39.7837304,-100.445882
+Aedes albopictus,533,Turkey,2011,,
+Aedes albopictus,533,Turkey,2016,41.160506,41.8398627
+Aedes albopictus,533,Turkey,2017,41.160506,41.8398627
+Aedes albopictus,534,La Réunion,2005,-21.1309332,55.5265771
+Aedes albopictus,534,Comoros,2005,-12.2045176,44.2832964
+Aedes albopictus,534,Madagascar,2005,-18.9249604,46.4416422
+Aedes albopictus,536,Brazil,2010,-19.9227318,-43.9450948
+Aedes albopictus,536,Brazil,2014,-10.3333333,-53.2
+Aedes albopictus,536,Brazil,2012,-10.3333333,-53.2
+Aedes albopictus,536,Brazil,2011,-10.3333333,-53.2
+Aedes albopictus,536,Brazil,2010,-10.3333333,-53.2
+Aedes albopictus,536,Brazil,2010,-19.8638036,-43.9749287
+Aedes albopictus,536,Brazil,2012,-19.8638036,-43.9749287
+Aedes albopictus,536,Brazil,2011,-19.8638036,-43.9749287
+Aedes albopictus,537,Senegal,2015,12.8856773,-12.2863632
+Aedes albopictus,537,Senegal,2017,13.9406041,-16.4024021
+Aedes albopictus,537,Senegal,2017,14.864559,-15.876047
+Aedes albopictus,537,Senegal,2017,15.3966884,-15.6779283
+Aedes albopictus,539,China,2019,,
+Aedes albopictus,539,China,2019,21.2737079,110.3548318
+Aedes albopictus,539,China,2019,23.1301964,113.2592945
+Aedes albopictus,539,China,2019,29.9866838,103.7790009
+Aedes albopictus,539,China,2019,30.5951051,114.2999353
+Aedes albopictus,539,China,2019,30.2489634,120.2052342
+Aedes albopictus,539,China,2019,38.0429742,114.5088385
+Aedes albopictus,539,China,2019,39.8240486,119.5052768
+Aedes albopictus,550,United States,2018,40.851497,-73.0994297
+Aedes albopictus,551,Mexico,2017,14.9258055,-92.3221957
+Aedes albopictus,551,Gabon,2017,-1.6343979,13.5894808
+Aedes albopictus,551,Ghana,2017,9.2193779,-1.858464
+Aedes albopictus,551,Kenya,2017,,
+Aedes albopictus,553,Cabo Verde,2009,16.0000552,-24.0083947
+Aedes albopictus,556,Thailand,2014,13.8610918,100.3456772
+Aedes albopictus,556,Thailand,2014,14.9936716,100.3602963
+Aedes albopictus,556,Thailand,2014,10.3782724,99.0077685
+Aedes albopictus,556,Thailand,2014,6.3344846,101.1409694
+Aedes albopictus,557,Saudi Arabia,2018,21.5504432,39.1742363
+Aedes albopictus,557,Australia,2018,-16.9206657,145.7721854
+Aedes albopictus,557,Saudi Arabia,2019,21.5504432,39.1742363
+Aedes albopictus,557,Australia,2019,-16.9206657,145.7721854
+Aedes albopictus,565,China,2003,26.193218,118.2208721
+Aedes albopictus,565,China,2003,23.1357694,113.1982688
+Aedes albopictus,565,China,2003,19.2000001,109.5999999
+Aedes albopictus,565,China,2003,41.2374106,122.9955469
+Aedes albopictus,565,China,2003,24.9383675,118.5854142
+Aedes albopictus,565,China,2003,25.0,102.0
+Aedes albopictus,566,Brazil,1986,-10.3333333,-53.2
+Aedes albopictus,566,Uruguay,1986,-32.8755548,-56.0201525
+Aedes albopictus,566,Colombia,1986,4.099917,-72.9088133
+Aedes albopictus,569,China,2016,23.1301964,113.2592945
+Aedes albopictus,570,Germany,2007,51.1638175,10.4478313
+Aedes albopictus,570,Germany,2014,51.1638175,10.4478313
+Aedes albopictus,570,Germany,2014,49.3165553,8.433615
+Aedes albopictus,570,Italy,2014,44.72057,11.149804
+Aedes albopictus,570,Italy,2014,42.6384261,12.674297
+Aedes albopictus,572,Mexico,2013,25.6802019,-100.315258
+Aedes albopictus,572,Mexico,2018,25.6802019,-100.315258
+Aedes albopictus,575,Mozambique,2015,44.1089458,8.003074
+Aedes albopictus,576,Timor-Leste,2015,-8.7443169,126.063482
+Aedes albopictus,580,Brazil,2017,1.3545442,-51.9161977
+Aedes albopictus,580,Brazil,2017,-22.9110137,-43.2093727
+Aedes albopictus,584,China,2000,25.0,102.0
+Aedes albopictus,585,Bangladesh,2011,23.7643863,90.3890144
+Aedes albopictus,590,Australia,2005,-10.416667,142.166667
+Aedes albopictus,590,Australia,2006,-10.416667,142.166667
+Aedes albopictus,590,Australia,2009,,
+Aedes albopictus,590,Australia,2010,-10.5786459,142.2189206
+Aedes albopictus,590,Australia,2010,-10.6061881,142.2810533
+Aedes albopictus,590,Australia,2011,-10.5786459,142.2189206
+Aedes albopictus,590,Australia,2011,-10.6061881,142.2810533
+Aedes albopictus,590,Australia,2012,-10.5479589,142.2110239
+Aedes albopictus,590,Australia,2012,-10.5786459,142.2189206
+Aedes albopictus,591,China,1972,23.1357694,113.1982688
+Aedes albopictus,591,China,2022,23.1357694,113.1982688
+Aedes albopictus,596,Spain,2017,41.3825802,2.177073
+Aedes albopictus,596,Spain,2017,39.4697065,-0.3763353
+Aedes albopictus,596,Spain,2017,39.5695818,2.6500745
+Aedes albopictus,596,Spain,2017,36.7213028,-4.4216366
+Aedes albopictus,596,Spain,2017,43.1445278,-2.2037955
+Aedes albopictus,600,Argentina,1998,-26.4048555,-54.6262079
+Aedes albopictus,600,Argentina,2014,-26.4048555,-54.6262079
+Aedes albopictus,600,Argentina,2014,-27.5687758,-54.6834759
+Aedes albopictus,600,Argentina,2014,-28.0607112,-55.6770963
+Aedes albopictus,600,Argentina,2014,-26.1290795,-54.0404913
+Aedes albopictus,600,Argentina,2014,-27.4612494,-55.7440717
+Aedes albopictus,602,India,2016,22.9964948,87.6855882
+Aedes albopictus,602,India,2016,26.5557477,88.1914383
+Aedes albopictus,602,India,2016,26.5889048,89.0069721
+Aedes albopictus,602,India,2016,26.7207929,88.3842051
+Aedes albopictus,602,India,2016,26.8658935,88.7373863
+Aedes albopictus,602,India,2016,25.4117111,88.1382299
+Aedes albopictus,602,India,2016,26.7164127,88.4309916
+Aedes albopictus,606,Italy,2015,41.8933203,12.4829321
+Aedes albopictus,606,Italy,2015,41.1257843,16.8620293
+Aedes albopictus,606,France,2015,43.7009358,7.2683912
+Aedes albopictus,606,France,2015,42.6985304,2.8953121
+Aedes albopictus,606,Malta,2015,35.859653,14.4892913
+Aedes albopictus,606,Spain,2015,43.235372,-2.8920543
+Aedes albopictus,606,Switzerland,2015,47.5581077,7.5878261
+Aedes albopictus,606,Bulgaria,2015,42.5040226,27.3549696
+Aedes albopictus,606,Turkey,2015,41.006381,28.9758715
+Aedes albopictus,608,United States,2016,27.5213933,-82.3801566
+Aedes albopictus,608,United States,2017,27.5213933,-82.3801566
+Aedes albopictus,611,Lebanon,2015,,
+Aedes albopictus,611,Lebanon,2015,,
+Aedes albopictus,611,Lebanon,2015,34.4205303,36.4213694
+Aedes albopictus,611,Lebanon,2018,34.4205303,36.4213694
+Aedes albopictus,611,Lebanon,2012,33.8750629,35.843409
+Aedes albopictus,611,Lebanon,2012,33.8082697,35.6061181
+Aedes albopictus,611,Lebanon,2013,33.8750629,35.843409
+Aedes albopictus,611,Lebanon,2015,33.8750629,35.843409
+Aedes albopictus,611,Lebanon,2018,33.8750629,35.843409
+Aedes albopictus,612,Germany,2020,48.0498964,9.3321246
+Aedes albopictus,612,Germany,2020,47.9857085,7.87288
+Aedes albopictus,612,Germany,2020,48.0249926,7.8642246
+Aedes albopictus,612,Germany,2020,48.7965338,9.3286487
+Aedes albopictus,612,Germany,2020,48.1371079,11.5753822
+Aedes albopictus,612,Germany,2020,49.4885711,10.9587203
+Aedes albopictus,612,Germany,2020,50.9281717,11.5879359
+Aedes albopictus,615,Spain,2014,39.4697065,-0.3763353
+Aedes albopictus,615,Spain,2014,41.3825802,2.177073
+Aedes albopictus,615,Spain,2014,39.613432,2.8829185
+Aedes albopictus,615,France,2014,42.6985304,2.8953121
+Aedes albopictus,615,Brazil,2014,-16.680882,-49.2532691
+Aedes albopictus,615,Brazil,2014,-22.9333191,-43.1147684
+Aedes albopictus,615,Brazil,2014,-3.1316333,-59.9825041
+Aedes albopictus,615,Spain,2012,39.613432,2.8829185
+Aedes albopictus,615,Spain,2014,38.9743901,1.4197463
+Aedes albopictus,624,Tanzania,2019,,
+Aedes albopictus,624,Tanzania,2020,,
+Aedes albopictus,628,Senegal,1947,14.4750607,-14.4529612
+Aedes albopictus,628,Senegal,1991,14.4750607,-14.4529612
+Aedes albopictus,628,Senegal,2002,14.4750607,-14.4529612
+Aedes albopictus,630,India,2017,27.0377554,88.263176
+Aedes albopictus,630,India,2017,,
+Aedes albopictus,630,India,2017,,
+Aedes albopictus,630,India,2017,,
+Aedes albopictus,630,India,2017,,
+Aedes albopictus,630,India,2011,22.9964948,87.6855882
+Aedes albopictus,630,Singapore,2011,1.357107,103.8194992
+Aedes albopictus,630,Japan,2011,36.5748441,139.2394179
+Aedes albopictus,632,China,2016,35.0000663,104.999955
+Aedes albopictus,633,India,2022,23.8253158,91.9732227
+Aedes albopictus,633,India,2022,,
+Aedes albopictus,633,India,2022,,
+Aedes albopictus,633,India,2022,,
+Aedes albopictus,633,India,2022,23.7750823,91.7025091
+Aedes albopictus,633,India,2022,23.7750823,91.7025091
+Aedes albopictus,633,India,2022,23.7750823,91.7025091
+Aedes albopictus,633,India,2022,,
+Aedes albopictus,633,India,2022,23.7750823,91.7025091
+Aedes albopictus,641,China,2014,19.5452604,110.7932208
+Aedes albopictus,641,China,2014,18.837778,110.2875
+Aedes albopictus,641,China,2014,20.0462328,110.1956502
+Aedes albopictus,641,China,2014,19.032778,109.851111
+Aedes albopictus,641,China,2014,18.2534658,109.5034392
+Aedes albopictus,641,China,2014,22.0147814,100.7983916
+Aedes albopictus,641,China,2014,24.4363819,98.5850386
+Aedes albopictus,641,China,2014,22.8193063,108.3627211
+Aedes albopictus,641,China,2014,23.0239788,113.1159558
+Aedes albopictus,642,China,2012,23.1301964,113.2592945
+Aedes albopictus,642,China,2014,23.1301964,113.2592945
+Aedes albopictus,642,China,2014,23.1301964,113.2592945
+Aedes albopictus,643,Panama,2016,8.559559,-81.1308434
+Aedes albopictus,644,Singapore,2019,1.357107,103.8194992
+Aedes albopictus,644,Singapore,2020,1.357107,103.8194992
+Aedes albopictus,644,Singapore,2020,1.3482831,103.7490191
+Aedes albopictus,644,Singapore,2020,1.3892601,103.743728
+Aedes albopictus,644,Singapore,2020,1.3546528,103.9435712
+Aedes albopictus,644,Singapore,2020,1.4293839,103.8350282
+Aedes albopictus,644,Singapore,2020,1.369842,103.8466086
+Aedes albopictus,646,Austria,2018,47.9587158,16.5192999
+Aedes albopictus,646,Italy,2018,43.9465433,12.630749
+Aedes albopictus,646,Italy,2018,44.4938203,11.3426327
+Aedes albopictus,648,China,2022,34.0000001,113.9999999
+Aedes albopictus,650,China,2010,31.2312707,121.4700152
+Aedes albopictus,650,China,2018,31.2312707,121.4700152
+Aedes albopictus,650,China,2019,31.2312707,121.4700152
+Aedes albopictus,651,Sri Lanka,2017,7.5554942,80.7137847
+Aedes albopictus,651,Sri Lanka,2018,7.5554942,80.7137847
+Aedes albopictus,652,China,2019,22.0147814,100.7983916
+Aedes albopictus,652,China,2019,23.1301964,113.2592945
+Aedes albopictus,653,Nigeria,2014,10.267607,13.264359
+Aedes albopictus,655,Malaysia,2017,3.2083304,101.304146
+Aedes albopictus,657,Brazil,2011,-8.0584933,-34.8848193
+Aedes albopictus,658,Colombia,1998,4.4386033,-75.2108857
+Aedes albopictus,658,Colombia,2018,4.4386033,-75.2108857
+Aedes albopictus,658,Colombia,2019,4.4386033,-75.2108857
+Aedes albopictus,662,China,2014,23.1301964,113.2592945
+Aedes albopictus,662,China,2016,23.1301964,113.2592945
+Aedes albopictus,662,China,2017,23.1301964,113.2592945
+Aedes albopictus,662,China,2019,23.1301964,113.2592945
+Aedes albopictus,664,Japan,2014,33.2511509,129.6029985
+Aedes albopictus,666,Portugal,2017,37.0975574,-7.9980263
+Aedes albopictus,666,Portugal,2017,37.157372,-8.201367
+Aedes albopictus,666,Portugal,2017,,
+Aedes albopictus,666,Portugal,2017,,
+Aedes albopictus,666,Portugal,2017,,
+Aedes albopictus,666,Portugal,2017,,
+Aedes albopictus,666,Portugal,2017,,
+Aedes albopictus,667,Thailand,2015,13.7524938,100.4935089
+Aedes albopictus,668,Pakistan,2018,32.932827,72.8629763
+Aedes albopictus,668,Pakistan,2018,31.4220558,73.0923253
+Aedes albopictus,668,Pakistan,2018,30.0321374,70.6401114
+Aedes albopictus,671,Albania,1979,41.000028,19.9999619
+Aedes albopictus,671,Brazil,1986,-22.9110137,-43.2093727
+Aedes albopictus,671,Italy,1990,9.578118,-11.5525703
+Aedes albopictus,671,Switzerland,2006,46.7985624,8.2319736
+Aedes albopictus,671,Switzerland,2016,46.7985624,8.2319736
+Aedes albopictus,671,Switzerland,2017,46.7985624,8.2319736
+Aedes albopictus,671,Switzerland,2018,46.7985624,8.2319736
+Aedes albopictus,671,France,2017,48.584614,7.7507127
+Aedes albopictus,675,Singapore,2017,1.2962018,103.7768977
+Aedes albopictus,680,United States,1990,30.2305095,-93.2169807
+Aedes albopictus,681,Brazil,2015,-12.956494,-38.4635954
+Aedes albopictus,681,Brazil,2015,-12.956494,-38.4635954
+Aedes albopictus,683,France,2020,47.6941301,-0.0766994
+Aedes albopictus,686,Ghana,2016,5.6864962,-0.1677052
+Aedes albopictus,686,Ghana,2018,5.6864962,-0.1677052
+Aedes albopictus,688,Honduras,2018,13.3714203,-87.0713958
+Aedes albopictus,696,Kosovo,2020,42.1632539,20.6188323
+Aedes albopictus,696,Kosovo,2020,42.1617815,20.5665837
+Aedes albopictus,696,Kosovo,2020,42.2130151,20.7363339
+Aedes albopictus,696,Kosovo,2020,42.1992196,20.6560081
+Aedes albopictus,696,Kosovo,2020,,
+Aedes albopictus,696,Kosovo,2020,42.4089325,20.243472
+Aedes albopictus,696,Kosovo,2020,42.6638771,21.1640849
+Aedes albopictus,696,Kosovo,2020,42.2618434,20.6851737
+Aedes albopictus,696,Kosovo,2020,42.3621996,20.8315238
+Aedes albopictus,698,China,2012,23.1301964,113.2592945
+Aedes albopictus,699,China,2021,23.1301964,113.2592945
+Aedes albopictus,699,Reunion,2018,-21.0810433,55.6028127
+Aedes albopictus,699,Italy,2018,43.9465433,12.630749
+Aedes albopictus,699,Brazil,2012,-9.4336959,-40.5068201
+Aedes albopictus,699,Senegal,2021,14.693425,-17.447938
+Aedes albopictus,699,Reunion,2021,-20.8799889,55.448137
+Aedes albopictus,703,Vietnam,2015,21.0283334,105.854041
+Aedes albopictus,703,Italy,2015,44.525696,11.039437
+Aedes albopictus,703,Italy,2015,41.9808038,12.7662312
+Aedes albopictus,703,Vietnam,2015,21.0283334,105.854041
+Aedes albopictus,703,Vietnam,2015,21.0283334,105.854041
+Aedes albopictus,703,Vietnam,2015,10.7763897,106.7011391
+Aedes albopictus,703,Singapore,2015,1.357107,103.8194992
+Aedes albopictus,715,Germany,2011,51.1638175,10.4478313
+Aedes albopictus,715,Germany,2012,51.1638175,10.4478313
+Aedes albopictus,715,Germany,2014,51.1638175,10.4478313
+Aedes albopictus,715,Germany,2015,51.1638175,10.4478313
+Aedes albopictus,715,Germany,2019,51.1638175,10.4478313
+Aedes albopictus,715,Italy,1990,42.6384261,12.674297
+Aedes albopictus,715,Albania,1979,41.000028,19.9999619
+Aedes albopictus,715,Spain,2015,39.3260685,-4.8379791
+Aedes albopictus,715,Spain,2018,39.3260685,-4.8379791
+Aedes albopictus,721,China,2015,23.1301964,113.2592945
+Aedes albopictus,721,China,2016,23.1301964,113.2592945
+Aedes albopictus,721,China,2017,23.1301964,113.2592945
+Aedes albopictus,722,Austria,2020,47.9587158,16.5192999
+Aedes albopictus,728,India,2014,12.9881567,77.6226
+Aedes albopictus,728,India,2015,12.9881567,77.6226
+Aedes albopictus,728,India,2018,12.9881567,77.6226
+Aedes albopictus,728,India,2018,28.6273928,77.1716954
+Aedes albopictus,728,India,2014,26.4073841,93.2551303
+Aedes albopictus,733,Albania,2013,41.3281482,19.8184435
+Aedes albopictus,734,Gabon,2014,-0.8999695,11.6899699
+Aedes albopictus,734,Vietnam,2011,15.9266657,107.9650855
+Aedes albopictus,734,Cameroon,2014,4.6125522,13.1535811
+Aedes albopictus,734,French Guiana,2015,4.0039882,-52.999998
+Aedes albopictus,734,Thailand,2013,14.8971921,100.83273
+Aedes albopictus,735,Spain,2015,37.9923795,-1.1305431
+Aedes albopictus,735,Spain,2018,37.9923795,-1.1305431
+Aedes albopictus,735,Spain,2018,38.1788058,-1.3741839
+Aedes albopictus,735,Spain,2019,38.1788058,-1.3741839
+Aedes albopictus,735,Spain,2019,38.2309457,-1.7000042
+Aedes albopictus,735,Spain,2019,38.1046979,-1.861118
+Aedes albopictus,735,Spain,2019,38.2392273,-1.418875
+Aedes albopictus,735,Spain,2019,38.4735408,-1.3285417
+Aedes albopictus,735,Spain,2019,38.0418669,-1.4906872
+Aedes albopictus,736,United States,2019,44.5990718,-72.5002608
+Aedes albopictus,736,United States,2020,44.5990718,-72.5002608
+Aedes albopictus,739,India,2018,28.0589676,95.3324944
+Aedes albopictus,739,India,2018,25.9041378,93.7177609
+Aedes albopictus,739,India,2018,26.1805978,91.753943
+Aedes albopictus,739,India,2018,25.5125616,90.2171526
+Aedes albopictus,740,Mexico,2016,18.6000251,-99.2299716
+Aedes albopictus,740,Mexico,2016,18.6000251,-99.2299716
+Aedes albopictus,740,Mexico,2016,18.6000251,-99.2299716
+Aedes albopictus,746,France,2010,46.603354,1.8883335
+Aedes albopictus,746,France,2022,46.603354,1.8883335
+Aedes albopictus,746,Reunion Island,2005,-21.1307379,55.5364801
+Aedes albopictus,746,Italy,2007,42.6384261,12.674297
+Aedes albopictus,746,Italy,2017,42.6384261,12.674297
+Aedes albopictus,747,,1960,-10.3333333,-53.2
+Aedes albopictus,747,,1960,-2.4833826,117.8902853
+Aedes albopictus,747,,1960,23.9739374,120.9820179
+Aedes albopictus,747,,1960,39.7837304,-100.445882
+Aedes albopictus,750,China,2016,31.2312707,121.4700152
+Aedes albopictus,750,China,2006,23.1357694,113.1982688
+Aedes albopictus,753,Australia,2003,-10.416667,142.166667
+Aedes albopictus,753,Australia,2010,,
+Aedes albopictus,753,Australia,2010,,
+Aedes albopictus,760,Mexico,2017,,
+Aedes albopictus,760,Mexico,2017,,
+Aedes albopictus,763,France,2015,-20.8990033,55.5210549
+Aedes albopictus,763,France,2015,-20.8990033,55.5210549
+Aedes albopictus,763,France,2016,-20.8990033,55.5210549
+Aedes albopictus,763,France,2016,-20.8990033,55.5210549
+Aedes albopictus,765,Singapore,2014,1.2962018,103.7768977
+Aedes albopictus,765,Singapore,2016,1.2962018,103.7768977
+Aedes albopictus,767,Brazil,2021,,
+Aedes albopictus,769,Malaysia,2018,3.081614,101.6099884
+Aedes albopictus,770,Brazil,2004,-10.3333333,-53.2
+Aedes albopictus,772,Americas,2007,24.7951304,-107.4123106
+Aedes albopictus,773,Benin,2021,6.3676953,2.4252507
+Aedes albopictus,773,Benin,2021,6.442351,2.3539163
+Aedes albopictus,775,Saint Lucia,2015,14.1012747,-60.9290093
+Aedes albopictus,776,France,2004,43.68459,7.2342154
+Aedes albopictus,776,France,2004,46.603354,1.8883335
+Aedes albopictus,777,Switzerland,2018,45.8538378,8.9871005
+Aedes albopictus,777,Switzerland,2018,46.0050102,8.9520281
+Aedes albopictus,777,Italy,2016,44.6952006,10.0979869
+Aedes albopictus,777,Switzerland,2003,46.3351913,8.7525902
+Aedes albopictus,777,Switzerland,2018,46.3351913,8.7525902
+Aedes albopictus,778,Taiwan,2004,22.9921256,120.1852496
+Aedes albopictus,778,Taiwan,2014,22.9921256,120.1852496
+Aedes albopictus,778,Taiwan,2015,22.9921256,120.1852496
+Aedes albopictus,780,Italy,2012,42.6384261,12.674297
+Aedes albopictus,780,Italy,2012,42.6384261,12.674297
+Aedes albopictus,780,Italy,2012,43.9465433,12.630749
+Aedes albopictus,784,United States,2001,40.9699889,-77.7278831
+Aedes albopictus,784,United States,2001,34.5858755,-98.4233906
+Aedes albopictus,788,Japan,2008,35.5306639,139.7037668
+Aedes albopictus,789,China,2016,28.1450774,113.2384362
+Aedes albopictus,789,China,2016,26.8971308,112.5666191
+Aedes albopictus,789,China,2016,25.7733598,113.0094337
+Aedes albopictus,789,China,2016,29.060703,113.348653
+Aedes albopictus,790,Brazil,1997,-3.1316333,-59.9825041
+Aedes albopictus,791,Panama,2012,,
+Aedes albopictus,791,Panama,2014,,
+Aedes albopictus,791,Panama,2014,,
+Aedes albopictus,791,Panama,2014,,
+Aedes albopictus,792,Philippines,2014,14.5611859,121.0430972
+Aedes albopictus,792,Philippines,2017,14.5611859,121.0430972
+Aedes albopictus,793,Singapore,2010,1.357107,103.8194992
+Aedes albopictus,795,Fiji,2018,-17.6602176,177.4049561
+Aedes albopictus,795,Wallis & Futuna,2018,,
+Aedes albopictus,802,Mozambique,2015,-25.9791449,32.4342328
+Aedes albopictus,802,Mozambique,2016,-25.9791449,32.4342328
+Aedes albopictus,802,Mozambique,2018,-25.9791449,32.4342328
+Aedes albopictus,802,Mozambique,2019,-25.9791449,32.4342328
+Aedes albopictus,802,Mozambique,2019,-25.966213,32.56745
+Aedes albopictus,802,China,2019,30.2489634,120.2052342
+Aedes albopictus,802,Singapore,2019,1.357107,103.8194992
+Aedes albopictus,802,Malaysia,2019,4.5693754,102.2656823
+Aedes albopictus,802,Cameroon,2020,4.6125522,13.1535811
+Aedes albopictus,805,China,2020,28.1874965,113.0246616
+Aedes albopictus,809,Brazil,1986,-22.9110137,-43.2093727
+Aedes albopictus,809,Brazil,2016,-22.9110137,-43.2093727
+Aedes albopictus,809,Brazil,2017,-22.9110137,-43.2093727
+Aedes albopictus,811,Italy,2012,41.8933203,12.4829321
+Aedes albopictus,811,Italy,1997,41.8933203,12.4829321
+Aedes albopictus,812,Sri Lanka,2010,7.214308,80.6400801
+Aedes albopictus,812,Sri Lanka,2010,7.36032,80.60062
+Aedes albopictus,812,Sri Lanka,2010,7.1636487,80.5702744
+Aedes albopictus,812,Sri Lanka,2010,,
+Aedes albopictus,816,Benin,2021,6.4538637,2.354245
+Aedes albopictus,816,Benin,2021,6.4990718,2.6253361
+Aedes albopictus,816,Benin,2021,7.7815402,2.183606
+Aedes albopictus,819,Brazil,2022,-16.680882,-49.2532691
+Aedes albopictus,819,Brazil,2022,-16.680882,-49.2532691
+Aedes albopictus,819,Brazil,2021,-16.680882,-49.2532691
+Aedes albopictus,820,Brazil,2012,-23.2782035,-51.2779583
+Aedes albopictus,820,Brazil,2019,-23.2782035,-51.2779583
+Aedes albopictus,821,Lao PDR,2017,17.9751896,102.6223322
+Aedes albopictus,821,Lao PDR,2018,17.9751896,102.6223322
+Aedes albopictus,821,Lao PDR,2019,17.9751896,102.6223322
+Aedes albopictus,822,Malaysia,2013,3.1526589,101.7022205
+Aedes albopictus,822,Malaysia,2017,3.1526589,101.7022205
+Aedes albopictus,824,Italy,2010,42.6384261,12.674297
+Aedes albopictus,824,Italy,2010,44.4938203,11.3426327
+Aedes albopictus,824,Austria,2010,47.9587158,16.5192999
+Aedes albopictus,830,Russia,2011,,
+Aedes albopictus,830,Georgia,2011,41.6241427,41.6249897
+Aedes albopictus,830,Turkey,2011,39.294076,35.2316631
+Aedes albopictus,830,Bulgaria,2011,42.6073975,25.4856617
+Aedes albopictus,830,Russia,2011,64.6863136,97.7453061
+Aedes albopictus,830,Russia,2015,64.6863136,97.7453061
+Aedes albopictus,830,Russia,2016,64.6863136,97.7453061
+Aedes albopictus,830,Russia,2018,64.6863136,97.7453061
+Aedes albopictus,830,Russia,2018,,
+Aedes albopictus,831,Malaysia,2014,5.4065013,100.2559077
+Aedes albopictus,833,France,2009,43.2957521,5.4132062
+Aedes albopictus,833,France,2015,43.2957521,5.4132062
+Aedes albopictus,833,France,2018,43.2957521,5.4132062
+Aedes albopictus,838,United States,1980,39.7837304,-100.445882
+Aedes albopictus,838,Brazil,1980,-10.3333333,-53.2
+Aedes albopictus,838,Nigeria,1991,9.6000359,7.9999721
+Aedes albopictus,838,Cameroon,2000,4.6125522,13.1535811
+Aedes albopictus,838,Equatorial Guinea,2001,1.613172,10.5170357
+Aedes albopictus,839,Guadeloupe,2016,16.2528827,-61.5686855
+Aedes albopictus,841,Thailand,2013,14.8971921,100.83273
+Aedes albopictus,841,Thailand,2014,14.8971921,100.83273
+Aedes albopictus,841,Thailand,2015,14.8971921,100.83273
+Aedes albopictus,841,Thailand,2016,14.8971921,100.83273
+Aedes albopictus,843,Colombia,2021,-4.2129211,-69.9425963
+Aedes albopictus,845,Italy,2017,41.4471008,12.6285618
+Aedes albopictus,845,Italy,2017,41.8002891,12.6004706
+Aedes albopictus,845,Italy,2017,41.3572854,13.430031
+Aedes albopictus,845,Italy,2017,41.4084557,13.0443366
+Aedes albopictus,845,Italy,2017,41.3015672,13.0258726
+Aedes albopictus,845,Italy,2017,41.8933203,12.4829321
+Aedes albopictus,845,Italy,2017,41.4595261,13.0125912
+Aedes albopictus,845,Italy,2017,41.6285468,13.5758498
+Aedes albopictus,850,United States,2017,,
+Aedes albopictus,850,United States,2017,25.109291,-80.424016
+Aedes albopictus,850,United States,2017,34.0536909,-118.242766
+Aedes albopictus,851,Sudan,2021,15.0,29.9999999
+Aedes albopictus,851,Sudan,2021,11.0,31.0
+Aedes albopictus,851,Sudan,2021,13.0,33.5
+Aedes albopictus,851,Sudan,2021,12.4999838,32.5000166
+Aedes albopictus,854,Trinidad and Tobago,2018,10.4430243,-61.2613054
+Aedes albopictus,855,Brazil,2016,-2.9488991,-59.9299162
+Aedes albopictus,855,Brazil,2016,,
+Aedes albopictus,855,Brazil,2016,-22.9794833,-43.5199397
+Aedes albopictus,855,Brazil,2017,-19.9227318,-43.9450948
+Aedes albopictus,855,Brazil,2017,,
+Aedes albopictus,855,Brazil,2017,-20.3646483,-40.6585797
+Aedes albopictus,855,Brazil,2017,-20.1252961,-40.3064477
+Aedes albopictus,855,Brazil,2017,-22.4756154,-42.1522235
+Aedes albopictus,860,France,1979,43.7009358,7.2683912
+Aedes albopictus,860,France,1979,43.7012408,6.988256
+Aedes albopictus,860,France,2010,43.7009358,7.2683912
+Aedes albopictus,860,France,2010,43.7012408,6.988256
+Aedes albopictus,860,France,2014,43.7009358,7.2683912
+Aedes albopictus,860,France,2014,43.7012408,6.988256
+Aedes albopictus,860,France,2015,43.7009358,7.2683912
+Aedes albopictus,860,France,2015,43.7012408,6.988256
+Aedes albopictus,862,Mexico,2018,26.0907673,-98.2788191
+Aedes albopictus,862,Mexico,2018,26.0907673,-98.2788191
+Aedes albopictus,867,Panama,1992,8.559559,-81.1308434
+Aedes albopictus,868,Australia,2011,-17.0981626,145.7759747
+Aedes albopictus,868,Australia,2011,-16.823132,145.7196317
+Aedes albopictus,868,Australia,2017,-16.988912,145.7313514
+Aedes albopictus,868,Australia,2017,-16.8234705,145.6930037
+Aedes albopictus,868,Australia,2018,-17.0981626,145.7759747
+Aedes albopictus,868,Australia,2018,-16.823132,145.7196317
+Aedes albopictus,868,Australia,2018,-16.988912,145.7313514
+Aedes albopictus,870,Brazil,2016,-4.8654201,-43.353664
+Aedes albopictus,870,Brazil,2017,-4.455623,-43.892354
+Aedes albopictus,874,Southern Europe,1979,53.8716149,27.539615
+Aedes albopictus,874,Germany,2007,48.53775,9.041169
+Aedes albopictus,874,Austria,2012,47.59397,14.12456
+Aedes albopictus,874,Germany,2014,,
+Aedes albopictus,874,Germany,2015,51.1638175,10.4478313
+Aedes albopictus,874,Germany,2015,,
+Aedes albopictus,874,Germany,2015,,
+Aedes albopictus,874,Germany,2016,47.9960901,7.8494005
+Aedes albopictus,876,Albania,1979,41.000028,19.9999619
+Aedes albopictus,876,Italy,1990,42.6384261,12.674297
+Aedes albopictus,883,China,2017,23.1301964,113.2592945
+Aedes albopictus,883,China,2017,23.1301964,113.2592945
+Aedes albopictus,883,China,2017,23.1301964,113.2592945
+Aedes albopictus,883,China,2017,23.1301964,113.2592945
+Aedes albopictus,883,China,2017,23.1301964,113.2592945
+Aedes albopictus,883,China,2017,23.1301964,113.2592945
+Aedes albopictus,884,India,2020,23.2584857,77.401989
+Aedes albopictus,884,India,2020,23.2151561,77.4526217
+Aedes albopictus,886,Gabon,2010,-0.8999695,11.6899699
+Aedes albopictus,888,Italy,2015,46.441472,11.282121
+Aedes albopictus,888,France,2012,46.603354,1.8883335
+Aedes albopictus,888,Vietnam,2012,15.9266657,107.9650855
+Aedes albopictus,897,India,2005,10.3528744,76.5120396
+Aedes albopictus,897,India,2005,14.5203896,75.7223521
+Aedes albopictus,897,India,2007,10.3528744,76.5120396
+Aedes albopictus,897,India,2007,14.5203896,75.7223521
+Aedes albopictus,898,Spain,2017,39.1957935,-0.3698201
+Aedes albopictus,898,Spain,2017,39.2012627,-0.3866468
+Aedes albopictus,898,Spain,2019,39.1957935,-0.3698201
+Aedes albopictus,898,Spain,2019,39.2012627,-0.3866468
+Aedes albopictus,898,Spain,2018,39.1957935,-0.3698201
+Aedes albopictus,898,Spain,2018,39.2012627,-0.3866468
+Aedes albopictus,899,Italy,2017,45.362828,9.6874573
+Aedes albopictus,903,Brazil,2017,-1.374035,-48.4016623
+Aedes albopictus,907,United States,2017,28.2996183,-82.4522702
+Aedes albopictus,916,Brazil,2019,-19.5687682,-40.1721991
+Aedes albopictus,921,Greece,2018,37.936948,24.0130223
+Aedes albopictus,921,Montenegro,2018,42.3964329,18.6713893
+Aedes albopictus,921,Italy,2018,43.9465433,12.630749
+Aedes albopictus,922,Russia,2019,43.5854823,39.723109
+Aedes albopictus,922,Russia,2011,43.4253834,39.9237036
+Aedes albopictus,922,Russia,2012,44.3170538,38.7043664
+Aedes albopictus,922,Russia,2012,43.6779574,40.2069574
+Aedes albopictus,922,Russia,2018,44.5609447,38.0766832
+Aedes albopictus,922,Russia,2018,44.7239578,37.7690711
+Aedes albopictus,922,Russia,2018,44.894272,37.316887
+Aedes albopictus,922,Russia,2018,,
+Aedes albopictus,924,Sri Lanka,2022,6.9388614,79.8542005
+Aedes albopictus,924,Sri Lanka,2022,7.1190247,79.9159876
+Aedes albopictus,925,Vietnam,2020,15.9266657,107.9650855
+Aedes albopictus,933,Taiwan,2003,22.6203348,120.3120375
+Aedes albopictus,933,Taiwan,2007,,
+Aedes albopictus,933,Taiwan,1992,25.0375198,121.5636796
+Aedes albopictus,935,Panama,2004,8.559559,-81.1308434
+Aedes albopictus,935,Panama,2005,8.559559,-81.1308434
+Aedes albopictus,935,Panama,2006,8.559559,-81.1308434
+Aedes albopictus,940,Myanmar,2017,21.9596834,96.0948743
+Aedes albopictus,942,Taiwan,1987,23.9739374,120.9820179
+Aedes albopictus,943,Malaysia,2010,3.1526589,101.7022205
+Aedes albopictus,943,Malaysia,2010,5.4065013,100.2559077
+Aedes albopictus,943,Malaysia,2010,1.5122818,103.8305365
+Aedes albopictus,943,Malaysia,2010,6.1247911,102.2378065
+Aedes albopictus,948,Italy,2008,44.525696,11.039437
+Aedes albopictus,948,Hungary,2017,47.1817585,19.5060937
+Aedes albopictus,948,Slovenia,2016,46.1199444,14.8153333
+Aedes albopictus,948,Serbia,2018,44.0243229,21.0765743
+Aedes albopictus,948,United States,2003,39.7837304,-100.445882
+Aedes albopictus,948,United States,2015,39.7837304,-100.445882
+Aedes albopictus,948,United States,2020,39.7837304,-100.445882
+Aedes albopictus,957,Indonesia,2005,-7.7933061,110.4268095
+Aedes albopictus,958,China,1981,23.0239788,113.1159558
+Aedes albopictus,958,China,1993,23.1301964,113.2592945
+Aedes albopictus,958,China,2021,23.0239788,113.1159558
+Aedes albopictus,961,China,2014,23.1301964,113.2592945
+Aedes albopictus,961,China,2015,30.2489634,120.2052342
+Aedes albopictus,961,China,2017,35.2477266,115.4464761
+Aedes albopictus,961,China,2018,35.4089574,116.3368106
+Aedes albopictus,962,United States,1995,40.4331631,-74.1995883
+Aedes albopictus,964,China,2019,25.0,102.0
+Aedes albopictus,964,China,2020,25.0,102.0
+Aedes albopictus,967,España,2004,39.3260685,-4.8379791
+Aedes albopictus,967,España,2015,39.3260685,-4.8379791
+Aedes albopictus,967,España,2015,39.4697065,-0.3763353
+Aedes albopictus,968,Singapore,1966,1.357107,103.8194992
+Aedes albopictus,968,Republic of Korea,2016,36.638392,127.6961188
+Aedes albopictus,968,Republic of Korea,2017,36.638392,127.6961188
+Aedes albopictus,970,Albania,1970,41.000028,19.9999619
+Aedes albopictus,970,Albania,1979,41.000028,19.9999619
+Aedes albopictus,970,Albania,1991,41.000028,19.9999619
+Aedes albopictus,970,Albania,2009,41.000028,19.9999619
+Aedes albopictus,970,Albania,2012,41.000028,19.9999619
+Aedes albopictus,970,Albania,2013,41.000028,19.9999619
+Aedes albopictus,970,Albania,2012,41.3471568,19.8593937
+Aedes albopictus,970,Albania,2012,41.3471568,19.8593937
+Aedes albopictus,970,Albania,2013,41.3471568,19.8593937
+Aedes albopictus,971,Brazil,2015,,
+Aedes albopictus,971,Brazil,2019,,
+Aedes albopictus,975,Americas,2013,24.7951304,-107.4123106
+Aedes albopictus,978,China,2018,33.0000001,119.9999999
+Aedes albopictus,979,United States,2019,25.7741728,-80.19362
+Aedes albopictus,979,United States,2019,25.9024289,-97.4981698
+Aedes albopictus,982,Thailand,2018,14.8971921,100.83273
+Aedes albopictus,986,Spain,2004,41.8523094,1.5745043
+Aedes albopictus,986,Spain,2009,41.8523094,1.5745043
+Aedes albopictus,986,Spain,2015,41.8523094,1.5745043
+Aedes albopictus,986,Spain,2015,41.4331955,1.9774194
+Aedes albopictus,986,El Salvador,2015,13.8000382,-88.9140683
+Aedes albopictus,986,France,2015,46.603354,1.8883335
+Aedes albopictus,986,Spain,2015,41.8523094,1.5745043
+Aedes albopictus,997,Vietnam,2012,12.1840345,107.1587697
+Aedes albopictus,1001,Cameroon,2020,4.0429389,9.7062018
+Aedes albopictus,1001,Cameroon,2020,,
+Aedes albopictus,1001,Cameroon,2020,3.8689867,11.5213344
+Aedes albopictus,1002,United States,2020,29.9759983,-90.0782127
+Aedes albopictus,1007,Italy,2004,43.9465433,12.630749
+Aedes albopictus,1007,Italy,2020,45.625179,9.624154
+Aedes albopictus,1009,Bolivia,1997,-17.7545038,-62.9962235
+Aedes albopictus,1009,Ecuador,2017,-1.3397668,-79.3666965
+Aedes albopictus,1009,Jamaica,2018,18.1850507,-77.3947693
+Aedes albopictus,1009,Brazil,1986,-10.3333333,-53.2
+Aedes albopictus,1009,Mexico,1988,23.6585116,-102.0077097
+Aedes albopictus,1009,Dominican Republic,1993,19.0974031,-70.3028026
+Aedes albopictus,1009,Cuba,1993,23.0131338,-80.8328748
+Aedes albopictus,1009,Guatemala,1993,15.5855545,-90.345759
+Aedes albopictus,1009,Cayman Islands,1993,19.7031822,-79.9174627
+Aedes albopictus,1010,China,2023,36.398987,118.5055691
+Aedes albopictus,1012,Pakistan,2018,30.8091281,73.4493301
+Aedes albopictus,1012,Pakistan,2018,32.1525312,74.1933745
+Aedes albopictus,1012,Pakistan,2018,32.5846351,73.4914169
+Aedes albopictus,1012,Pakistan,2018,32.2903666,72.3515792
+Aedes albopictus,1012,Pakistan,2018,30.197838,71.4719683
+Aedes albopictus,1012,Pakistan,2018,31.2728805,72.3103071
+Aedes albopictus,1012,Pakistan,2018,31.5656822,74.3141829
+Aedes albopictus,1015,Albania,1979,41.000028,19.9999619
+Aedes albopictus,1015,Italy,1990,42.6384261,12.674297
+Aedes albopictus,1015,Greece,2003,38.9953683,21.9877132
+Aedes albopictus,1019,China,2014,23.1357694,113.1982688
+Aedes albopictus,1019,China,2014,22.7230369,114.2426561
+Aedes albopictus,1020,Brazil,2015,-22.9110137,-43.2093727
+Aedes albopictus,1020,Brazil,2014,-22.9110137,-43.2093727
+Aedes albopictus,1025,Mexico,2018,14.8840123,-92.3602755
+Aedes albopictus,1025,Mexico,2018,19.5898438,-99.0193613
+Aedes albopictus,1025,Mexico,2018,14.8548145,-92.3415801
+Aedes albopictus,1025,Mexico,2018,23.6585116,-102.0077097
+Aedes albopictus,1026,Laos,2011,,
+Aedes albopictus,1026,Laos,2011,,
+Aedes albopictus,1026,Thailand,2011,16.2665119,102.6841546
+Aedes albopictus,1026,Thailand,2011,,
+Aedes albopictus,1029,Sao Tome and Principe,2015,0.3264119,6.7300945
+Aedes albopictus,1029,Sao Tome and Principe,2015,,
+Aedes albopictus,1033,French West Indies,2019,16.2500695,-61.5639255
+Aedes albopictus,1037,Brazil,2017,-5.1904332,-37.3443872
+Aedes albopictus,1038,Portugal,2016,32.7517501,-16.9817487
+Aedes albopictus,1041,French Polynesia,2014,-17.0243749,-144.6434898
+Aedes albopictus,1041,French Polynesia,2011,-17.0243749,-144.6434898
+Aedes albopictus,1043,Lao PDR,2017,,
+Aedes albopictus,1043,Lao PDR,2017,,
+Aedes albopictus,1043,Lao PDR,2017,,
+Aedes albopictus,1043,Lao PDR,2017,,
+Aedes albopictus,1048,Thailand,2017,16.6022387,102.6352933
+Aedes albopictus,1048,Thailand,2017,15.7486448,103.7013017
+Aedes albopictus,1048,Thailand,2016,16.6022387,102.6352933
+Aedes albopictus,1048,Thailand,2018,16.6022387,102.6352933
+Aedes albopictus,1054,United States,2010,40.7127281,-74.0060152
+Aedes albopictus,1054,United States,2013,40.8832318,-72.8578027
+Aedes albopictus,1055,Malaysia,2013,3.081614,101.6099884
+Aedes albopictus,1055,Malaysia,2013,3.1189121,101.6372094
+Aedes albopictus,1060,Thailand,2013,16.4183581,99.6111616
+Aedes albopictus,1060,Thailand,2015,16.4183581,99.6111616
+Aedes albopictus,1060,Thailand,2013,14.8971921,100.83273
+Aedes albopictus,1060,Thailand,2015,14.8971921,100.83273
+Aedes albopictus,1062,Zambia,2015,-16.536478,28.710204
+Aedes albopictus,1062,Zambia,2015,-17.853135,25.861429
+Aedes albopictus,1062,Zambia,2019,-16.536478,28.710204
+Aedes albopictus,1062,Zambia,2019,-17.853135,25.861429
+Aedes albopictus,1065,Singapore,2008,1.2962018,103.7768977
+Aedes albopictus,1065,Singapore,2013,1.2962018,103.7768977
+Aedes albopictus,1065,Singapore,2016,1.2962018,103.7768977
+Aedes albopictus,1067,Malaysia,2015,1.7336743,103.9006975
+Aedes albopictus,1067,Malaysia,2015,3.0448394,101.4447363
+Aedes albopictus,1067,Malaysia,2015,3.6124468,102.2566818
+Aedes albopictus,1067,Malaysia,2015,3.3621022,101.3455503
+Aedes albopictus,1067,Malaysia,2015,5.3707128,100.6172071
+Aedes albopictus,1067,Malaysia,2015,2.7430758,102.2154881
+Aedes albopictus,1067,Malaysia,2015,3.2062633,101.581848
+Aedes albopictus,1067,Malaysia,2015,5.5126654,100.554626
+Aedes albopictus,1069,Albania,1979,41.000028,19.9999619
+Aedes albopictus,1069,Italy,1990,42.6384261,12.674297
+Aedes albopictus,1069,South Africa,1990,-28.8166236,24.991639
+Aedes albopictus,1069,Nigeria,1990,9.6000359,7.9999721
+Aedes albopictus,1069,Cameroon,2000,4.6125522,13.1535811
+Aedes albopictus,1069,Equatorial Guinea,2003,1.613172,10.5170357
+Aedes albopictus,1069,Gabon,2007,-0.8999695,11.6899699
+Aedes albopictus,1069,Central African Republic,2009,7.0323598,19.9981227
+Aedes albopictus,1069,Republic of Congo,2011,-2.9814344,23.8222636
+Aedes albopictus,1070,Germany,2007,48.53775,9.041169
+Aedes albopictus,1070,Germany,2014,48.53775,9.041169
+Aedes albopictus,1070,Germany,2015,47.9960901,7.8494005
+Aedes albopictus,1070,Germany,2016,47.9960901,7.8494005
+Aedes albopictus,1070,Germany,2017,47.9960901,7.8494005
+Aedes albopictus,1070,Germany,2016,54.095791,13.3815238
+Aedes albopictus,1070,Germany,2015,51.1638175,10.4478313
+Aedes albopictus,1070,Germany,2016,51.1638175,10.4478313
+Aedes albopictus,1070,Germany,2017,51.1638175,10.4478313
+Aedes albopictus,1070,Germany,2015,48.53775,9.041169
+Aedes albopictus,1075,Armenia,2016,41.1276282,44.7571892
+Aedes albopictus,1075,Armenia,2016,41.1276282,44.7571892
+Aedes albopictus,1075,Armenia,2016,41.1276282,44.7571892
+Aedes albopictus,1075,Armenia,2017,41.1276282,44.7571892
+Aedes albopictus,1075,Armenia,2017,41.1276282,44.7571892
+Aedes albopictus,1075,Armenia,2017,41.1276282,44.7571892
+Aedes albopictus,1075,Armenia,2018,41.1880997,44.9020486
+Aedes albopictus,1076,Taiwan,1998,23.2527275,120.8194034
+Aedes albopictus,1077,Cambodia,1960,12.5433216,104.8144914
+Aedes albopictus,1077,Cambodia,2001,12.5433216,104.8144914
+Aedes albopictus,1077,Indonesia,1960,-2.4833826,117.8902853
+Aedes albopictus,1077,Indonesia,2001,-2.4833826,117.8902853
+Aedes albopictus,1077,Laos,1960,20.0171109,103.378253
+Aedes albopictus,1085,Brazil,2015,-3.1316333,-59.9825041
+Aedes albopictus,1088,Trinidad and Tobago,2018,10.4430243,-61.2613054
+Aedes albopictus,1088,Mexico,2018,20.9835019,-89.619652
+Aedes albopictus,1090,Australia,2014,-10.416667,142.166667
+Aedes albopictus,1091,the Americas,1950,24.7951304,-107.4123106
+Aedes albopictus,1094,Brazil,1986,-23.5506507,-46.6333824
+Aedes albopictus,1099,Austria,2015,47.9587158,16.5192999
+Aedes albopictus,1102,Sri Lanka,2019,9.6656214,80.0207926
+Aedes albopictus,1102,Sri Lanka,2020,9.6541593,80.0170572
+Aedes albopictus,1102,Sri Lanka,2020,,
+Aedes albopictus,1102,Sri Lanka,2020,7.5554942,80.7137847
+Aedes albopictus,1113,Vietnam,2013,,
+Aedes albopictus,1118,Brazil,2018,-10.3333333,-53.2
+Aedes albopictus,1119,Nepal,2011,,
+Aedes albopictus,1119,Nepal,2011,,
+Aedes albopictus,1119,Nepal,2011,,
+Aedes albopictus,1123,China,2011,23.1301964,113.2592945
+Aedes albopictus,1123,China,2011,22.5445741,114.0545429
+Aedes albopictus,1123,Italy,2011,45.9181327,10.8860953
+Aedes albopictus,1123,Italy,2011,41.8933203,12.4829321
+Aedes albopictus,1123,Greece,2011,37.9755648,23.7348324
+Aedes albopictus,1123,United States,2011,27.7567667,-81.4639835
+Aedes albopictus,1127,Ecuador,2017,-2.2895167,-80.0983887
+Aedes albopictus,1127,Ecuador,2017,-0.4721804,-76.9837216
+Aedes albopictus,1127,Ecuador,2017,0.8690975,-78.4513884
+Aedes albopictus,1127,Ecuador,2017,0.8324855,-78.402772
+Aedes albopictus,1127,Ecuador,2017,0.78214,-78.9317143
+Aedes albopictus,1128,Republic of Korea,2011,36.638392,127.6961188
+Aedes albopictus,1131,Germany,2015,47.9960901,7.8494005
+Aedes albopictus,1131,Germany,2016,47.9960901,7.8494005
+Aedes albopictus,1131,Italy,2016,45.58425,8.545997
+Aedes albopictus,1131,Germany,2015,49.4093582,8.694724
+Aedes albopictus,1131,Germany,2015,49.4240322,8.6488464
+Aedes albopictus,1132,France,2011,43.7009358,7.2683912
+Aedes albopictus,1133,Netherlands,2016,52.3080392,4.7621975
+Aedes albopictus,1136,Italy,1990,42.6384261,12.674297
+Aedes albopictus,1136,England,2016,51.2070748,0.7210362
+Aedes albopictus,1136,England,2017,51.2070748,0.7210362
+Aedes albopictus,1139,China,2015,29.0000001,119.9999999
+Aedes albopictus,1139,China,2005,,
+Aedes albopictus,1139,China,2005,,
+Aedes albopictus,1142,Thailand,2017,14.8971921,100.83273
+Aedes albopictus,1145,China,2015,20.0462328,110.1956502
+Aedes albopictus,1145,China,2015,20.0713094,110.3604069
+Aedes albopictus,1145,China,2015,,
+Aedes albopictus,1145,China,2015,,
+Aedes albopictus,1145,China,2015,20.0750677,110.3311439
+Aedes albopictus,1145,China,2015,,
+Aedes albopictus,1146,Brazil,2015,-19.9132749,-44.0840953
+Aedes albopictus,1150,Venezuela,1996,8.0018709,-66.1109318
+Aedes albopictus,1150,Venezuela,2017,,
+Aedes albopictus,1150,Venezuela,2019,,
+Aedes albopictus,1152,French West Indies,2013,,
+Aedes albopictus,1153,Albania,2012,41.3281482,19.8184435
+Aedes albopictus,1153,France,2012,48.8588897,2.320041
+Aedes albopictus,1153,Albania,2017,41.000028,19.9999619
+Aedes albopictus,1153,Italy,2017,42.6384261,12.674297
+Aedes albopictus,1153,France,2010,46.603354,1.8883335
+Aedes albopictus,1153,Croatia,2010,45.3658443,15.6575209
+Aedes albopictus,1153,Italy,2007,9.578118,-11.5525703
+Aedes albopictus,1153,Albania,2007,41.000028,19.9999619
+Aedes albopictus,1154,China,2005,23.1301964,113.2592945
+Aedes albopictus,1154,Singapore,2005,1.357107,103.8194992
+Aedes albopictus,1154,Thailand,2005,14.8971921,100.83273
+Aedes albopictus,1156,Republic of Moldova,2020,47.0229142,28.8299748
+Aedes albopictus,1156,Republic of Moldova,2020,,
+Aedes albopictus,1156,Republic of Moldova,2020,46.97436,28.8852252
+Aedes albopictus,1156,Republic of Moldova,2020,,
+Aedes albopictus,1156,Republic of Moldova,2020,,
+Aedes albopictus,1156,Republic of Moldova,2020,,
+Aedes albopictus,1156,Republic of Moldova,2020,,
+Aedes albopictus,1162,Indian Ocean Islands,2005,-21.4909533,39.6881037
+Aedes albopictus,1162,America,2005,39.7837304,-100.445882
+Aedes albopictus,1162,India,2021,22.3511148,78.6677428
+Aedes albopictus,1171,Albania,2011,41.3281482,19.8184435
+Aedes albopictus,1172,Australia,2014,-22.1646782,144.5844903
+Aedes albopictus,1172,Australia,2014,-31.8759835,147.2869493
+Aedes albopictus,1172,Australia,2014,-35.4883502,149.0026942
+Aedes albopictus,1172,Australia,2014,-36.5986096,144.6780052
+Aedes albopictus,1172,Australia,2014,-30.5343665,135.6301212
+Aedes albopictus,1173,Albania,2017,41.3281482,19.8184435
+Aedes albopictus,1174,Italy,2014,,
+Aedes albopictus,1174,Italy,2015,,
+Aedes albopictus,1174,Italy,2014,46.2805407,12.0789137
+Aedes albopictus,1174,Italy,2015,46.2805407,12.0789137
+Aedes albopictus,1174,Italy,2014,46.0533463,11.4566004
+Aedes albopictus,1174,Italy,2015,46.0533463,11.4566004
+Aedes albopictus,1174,Italy,2014,46.0163755,11.9062541
+Aedes albopictus,1174,Italy,2015,46.0163755,11.9062541
+Aedes albopictus,1174,Italy,2014,45.8847708,10.8396942
+Aedes albopictus,1178,China,2013,32.0438284,118.7788631
+Aedes albopictus,1179,Switzerland,2003,46.0050102,8.9520281
+Aedes albopictus,1179,Switzerland,2007,46.0050102,8.9520281
+Aedes albopictus,1179,Switzerland,2011,46.0050102,8.9520281
+Aedes albopictus,1179,Switzerland,2012,46.0050102,8.9520281
+Aedes albopictus,1180,Spain,2021,41.6673913,2.7499262
+Aedes albopictus,1180,Spain,2021,41.6756178,2.7932391
+Aedes albopictus,1180,Spain,2021,41.6769964,2.8027652
+Aedes albopictus,1180,Spain,2021,41.8523094,1.5745043
+Aedes albopictus,1180,Spain,2021,41.6673913,2.7499262
+Aedes albopictus,1180,Spain,2021,41.6756178,2.7932391
+Aedes albopictus,1180,Spain,2021,41.6769964,2.8027652
+Aedes albopictus,1180,Spain,2021,41.8523094,1.5745043
+Aedes albopictus,1185,Sri Lanka,2017,6.9914777,79.9094295
+Aedes albopictus,1185,Sri Lanka,2017,6.978212,79.9191257
+Aedes albopictus,1185,Sri Lanka,2017,7.194552,79.8564854
+Aedes albopictus,1185,Sri Lanka,2017,7.0009458,79.9054476
+Aedes albopictus,1185,Sri Lanka,2017,,
+Aedes albopictus,1186,Austria,2012,47.5000001,16.4166666
+Aedes albopictus,1186,Austria,2020,,
+Aedes albopictus,1186,Austria,2020,48.2083537,16.3725042
+Aedes albopictus,1186,Austria,2021,47.0708678,15.4382786
+Aedes albopictus,1186,Austria,2017,46.7500001,13.8333333
+Aedes albopictus,1186,Austria,2021,46.7500001,13.8333333
+Aedes albopictus,1186,Austria,2021,47.2500001,15.1666665
+Aedes albopictus,1186,Austria,2021,47.223193,11.5261028
+Aedes albopictus,1186,Austria,2021,47.59397,14.12456
+Aedes albopictus,1188,Sri Lanka,2018,7.0263493,79.9236484
+Aedes albopictus,1191,Australia,2012,-16.9206657,145.7721854
+Aedes albopictus,1191,Australia,2016,-16.9206657,145.7721854
+Aedes albopictus,1191,Australia,2016,-16.900591,145.7444187
+Aedes albopictus,1192,Brazil,2012,-30.0324999,-51.2303767
+Aedes albopictus,1197,Australia,2014,-27.4689623,153.0235009
+Aedes albopictus,1198,Brazil,2017,-12.9822499,-38.4812772
+Aedes albopictus,1198,Brazil,2018,-12.9822499,-38.4812772
+Aedes albopictus,1203,Germany,2020,48.6300161,8.0735581
+Aedes albopictus,1203,Germany,2021,50.1106444,8.6820917
+Aedes albopictus,1203,Germany,2022,50.1106444,8.6820917
+Aedes albopictus,1203,Germany,2022,50.1106444,8.6820917
+Aedes albopictus,1204,United States,2015,39.2908816,-76.610759
+Aedes albopictus,1204,United States,2016,39.2908816,-76.610759
+Aedes albopictus,1205,China,2020,23.1301964,113.2592945
+Aedes albopictus,1206,Indonesia,2017,-3.3187496,114.5925828
+Aedes albopictus,1209,Brazil,2016,-22.9110137,-43.2093727
+Aedes albopictus,1209,Brazil,2013,-19.9132749,-44.0840953
+Aedes albopictus,1210,Malaysia,2017,5.4065013,100.2559077

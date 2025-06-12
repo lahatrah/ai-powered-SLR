@@ -1,0 +1,1965 @@
+vector,source_type,country,year,y,x
+Aedes aegypti,1,Ghana,2011,8.0300284,-1.0800271
+Aedes aegypti,1,Cape Verde,2011,16.0000552,-24.0083947
+Aedes aegypti,1,Senegal,2011,14.4750607,-14.4529612
+Aedes aegypti,1,Cote D'ivoire,2011,7.9897371,-5.5679458
+Aedes aegypti,1,Cameroun,2011,4.6125522,13.1535811
+Aedes aegypti,1,Central African Republic,2011,7.0323598,19.9981227
+Aedes aegypti,1,Nigeria,2011,9.6000359,7.9999721
+Aedes aegypti,1,Thailand,2011,14.8971921,100.83273
+Aedes aegypti,1,Malaysia,2011,4.5693754,102.2656823
+Aedes aegypti,2,United States,2004,27.7567667,-81.4639835
+Aedes aegypti,4,China,2017,19.2000001,109.5999999
+Aedes aegypti,5,Burkina Faso,2016,12.0753083,-1.6880314
+Aedes aegypti,5,Ghana,2017,8.0300284,-1.0800271
+Aedes aegypti,5,Senegal,2017,14.4750607,-14.4529612
+Aedes aegypti,6,China,2021,19.1602864,109.6288914
+Aedes aegypti,7,China,2021,19.1602864,109.6288914
+Aedes aegypti,8,Colombia,2015,6.2697324,-75.6025597
+Aedes aegypti,8,Colombia,2016,6.2697324,-75.6025597
+Aedes aegypti,8,Colombia,2017,6.2697324,-75.6025597
+Aedes aegypti,8,Colombia,2019,6.2697324,-75.6025597
+Aedes aegypti,9,United States,1880,27.7567667,-81.4639835
+Aedes aegypti,9,China,1980,19.2000001,109.5999999
+Aedes aegypti,9,China,1980,20.7610912,110.027989
+Aedes aegypti,9,China,2021,28.7809249,113.2382932
+Aedes aegypti,9,China,2021,20.765575,109.759985
+Aedes aegypti,10,Mexico,2017,20.9670759,-89.6237402
+Aedes aegypti,10,Mexico,2019,20.9670759,-89.6237402
+Aedes aegypti,13,Republic of the Congo,2017,-4.272507,15.2830399
+Aedes aegypti,13,Republic of the Congo,2017,,
+Aedes aegypti,13,Republic of the Congo,2017,,
+Aedes aegypti,13,Republic of the Congo,2017,,
+Aedes aegypti,15,,2015,-24.7761086,134.755
+Aedes aegypti,15,,2015,61.0666922,-107.991707
+Aedes aegypti,15,,2015,51.0,10.0
+Aedes aegypti,15,,2015,39.7837304,-100.445882
+Aedes aegypti,17,Pakistan,2011,31.5656822,74.3141829
+Aedes aegypti,17,Pakistan,2012,31.5656822,74.3141829
+Aedes aegypti,17,Pakistan,2015,31.5656822,74.3141829
+Aedes aegypti,17,Pakistan,2016,31.5656822,74.3141829
+Aedes aegypti,18,Benin,2021,9.5293472,2.2584408
+Aedes aegypti,18,Benin,2021,,
+Aedes aegypti,18,Benin,2022,,
+Aedes aegypti,18,Benin,2021,6.6805991,2.718289
+Aedes aegypti,18,Benin,2021,7.2507025,2.4030736
+Aedes aegypti,18,Benin,2021,6.4538637,2.354245
+Aedes aegypti,18,Benin,2021,6.5310594,2.6633616
+Aedes aegypti,18,Benin,2021,7.0118246,2.5983039
+Aedes aegypti,18,Benin,2021,7.1816331,2.0695683
+Aedes aegypti,20,Panama,2014,8.559559,-81.1308434
+Aedes aegypti,22,Italy,2013,42.6384261,12.674297
+Aedes aegypti,22,Italy,2016,42.6384261,12.674297
+Aedes aegypti,23,Thailand,2000,14.8971921,100.83273
+Aedes aegypti,26,Vietnam,1990,,
+Aedes aegypti,26,Venezuela,1990,,
+Aedes aegypti,26,Cameroon,1990,4.6125522,13.1535811
+Aedes aegypti,28,Colombia,2011,6.2697324,-75.6025597
+Aedes aegypti,29,Cameroon,2020,4.0429389,9.7062018
+Aedes aegypti,29,Cameroon,2020,,
+Aedes aegypti,29,Cameroon,2020,3.8689867,11.5213344
+Aedes aegypti,29,Cameroon,2020,10.6033083,14.3281625
+Aedes aegypti,29,Cameroon,2020,7.3211536,13.5878214
+Aedes aegypti,29,Cameroon,2020,9.3070698,13.3934527
+Aedes aegypti,30,Laos,2019,,
+Aedes aegypti,30,Laos,2019,18.9205771,102.4436926
+Aedes aegypti,30,Laos,2019,17.9795525,102.631756
+Aedes aegypti,30,Laos,2019,17.9996728,102.6443348
+Aedes aegypti,31,Malaysia,1970,3.1526589,101.7022205
+Aedes aegypti,32,Cameroon,2007,3.8689867,11.5213344
+Aedes aegypti,32,Cameroon,2017,3.8689867,11.5213344
+Aedes aegypti,32,Cameroon,2018,3.8689867,11.5213344
+Aedes aegypti,35,Vietnam,1910,16.4639321,107.5863388
+Aedes aegypti,35,Vietnam,1959,15.9266657,107.9650855
+Aedes aegypti,35,Vietnam,2010,15.9266657,107.9650855
+Aedes aegypti,37,Canada,2016,,
+Aedes aegypti,38,Cameroon,2017,4.6125522,13.1535811
+Aedes aegypti,39,Nepal,2009,,
+Aedes aegypti,39,Nepal,2017,27.6811896,84.4301652
+Aedes aegypti,39,Nepal,2017,28.2006145,83.9821924
+Aedes aegypti,39,Nepal,2018,28.2006145,83.9821924
+Aedes aegypti,40,Indonesia,2016,-2.4833826,117.8902853
+Aedes aegypti,40,Indonesia,2017,-2.4833826,117.8902853
+Aedes aegypti,41,Singapore,2008,1.357107,103.8194992
+Aedes aegypti,41,Singapore,2016,1.357107,103.8194992
+Aedes aegypti,41,Singapore,2008,1.357107,103.8194992
+Aedes aegypti,41,Singapore,2008,1.357107,103.8194992
+Aedes aegypti,41,Singapore,2008,1.357107,103.8194992
+Aedes aegypti,42,Panama,2016,8.559559,-81.1308434
+Aedes aegypti,45,China,2000,25.0,102.0
+Aedes aegypti,45,China,2000,19.2000001,109.5999999
+Aedes aegypti,45,China,2000,23.1357694,113.1982688
+Aedes aegypti,45,China,2000,24.0,109.0
+Aedes aegypti,45,China,2000,21.0008933,110.0001973
+Aedes aegypti,45,China,2000,25.0,102.0
+Aedes aegypti,46,United States,2017,,
+Aedes aegypti,46,United States,2017,,
+Aedes aegypti,46,United States,2017,,
+Aedes aegypti,46,United States,2017,,
+Aedes aegypti,46,United States,2017,,
+Aedes aegypti,46,United States,2017,,
+Aedes aegypti,47,Thailand,2009,,
+Aedes aegypti,49,Philippines,2021,10.47,123.83
+Aedes aegypti,50,United States,1995,39.7837304,-100.445882
+Aedes aegypti,51,Puerto Rico,2012,17.9717653,-66.3029886
+Aedes aegypti,51,Puerto Rico,2012,17.9717653,-66.3029886
+Aedes aegypti,51,Puerto Rico,2011,17.9811594,-66.1163408
+Aedes aegypti,51,Puerto Rico,2013,17.9811594,-66.1163408
+Aedes aegypti,51,Puerto Rico,2014,17.9811594,-66.1163408
+Aedes aegypti,51,Puerto Rico,2014,17.9796036,-66.6097821
+Aedes aegypti,51,Puerto Rico,2014,18.0732802,-66.3765156
+Aedes aegypti,51,Brazil,2010,-3.1316333,-59.9825041
+Aedes aegypti,54,United States,1995,39.7837304,-100.445882
+Aedes aegypti,56,Australia,2014,-22.1646782,144.5844903
+Aedes aegypti,56,Australia,2014,-10.416667,142.166667
+Aedes aegypti,56,Australia,2014,-16.9206657,145.7721854
+Aedes aegypti,56,Australia,2015,-22.1646782,144.5844903
+Aedes aegypti,56,Australia,2015,-10.416667,142.166667
+Aedes aegypti,56,Australia,2016,-22.1646782,144.5844903
+Aedes aegypti,56,Australia,2016,-10.416667,142.166667
+Aedes aegypti,56,Australia,2018,-22.1646782,144.5844903
+Aedes aegypti,56,Australia,2018,-10.416667,142.166667
+Aedes aegypti,58,Mexico,2017,26.9264212,-105.6817818
+Aedes aegypti,58,Mexico,2017,27.7876639,-99.8757684
+Aedes aegypti,59,Brazil,1985,-22.9110137,-43.2093727
+Aedes aegypti,59,Brazil,1986,-22.9110137,-43.2093727
+Aedes aegypti,61,Sri Lanka,2017,7.2931208,80.6350358
+Aedes aegypti,63,United States,2015,27.7567667,-81.4639835
+Aedes aegypti,63,Brazil,2015,-10.3333333,-53.2
+Aedes aegypti,63,Gabon,2015,-0.8999695,11.6899699
+Aedes aegypti,63,Ivory Coast,2015,7.9897371,-5.5679458
+Aedes aegypti,63,Malaysia,2015,4.5693754,102.2656823
+Aedes aegypti,65,New Caledonia,2018,-22.2745264,166.442419
+Aedes aegypti,65,New Caledonia,2018,-21.0608439,164.8619054
+Aedes aegypti,65,New Caledonia,2018,-22.1676665,166.4580117
+Aedes aegypti,65,Brazil,2018,-3.1316333,-59.9825041
+Aedes aegypti,65,Brazil,2018,,
+Aedes aegypti,65,Brazil,2018,,
+Aedes aegypti,65,Brazil,2018,-15.5986686,-56.0991301
+Aedes aegypti,65,Brazil,2018,,
+Aedes aegypti,66,United States,2017,25.9024289,-97.4981698
+Aedes aegypti,66,United States,1985,31.2638905,-98.5456116
+Aedes aegypti,67,Central Africa,2000,-25.3579401,-57.5835295
+Aedes aegypti,67,South Africa,1990,-28.8166236,24.991639
+Aedes aegypti,67,Nigeria,1991,9.6000359,7.9999721
+Aedes aegypti,67,China,2019,35.0000663,104.999955
+Aedes aegypti,67,China,2019,19.2000001,109.5999999
+Aedes aegypti,67,China,2019,23.1357694,113.1982688
+Aedes aegypti,69,Republic of the Congo,2017,-4.272507,15.2830399
+Aedes aegypti,69,Republic of the Congo,2017,,
+Aedes aegypti,69,Republic of the Congo,2017,,
+Aedes aegypti,69,Republic of the Congo,2017,,
+Aedes aegypti,69,Republic of the Congo,2017,,
+Aedes aegypti,69,Republic of the Congo,2017,,
+Aedes aegypti,69,Republic of the Congo,2017,,
+Aedes aegypti,69,Republic of the Congo,1970,-4.272507,15.2830399
+Aedes aegypti,70,Australia,2019,-16.9206657,145.7721854
+Aedes aegypti,72,United States,2021,40.3496953,-74.6597376
+Aedes aegypti,72,United States,2021,40.9900326,-88.7292337
+Aedes aegypti,72,United States,2021,39.5162401,-76.9382069
+Aedes aegypti,74,the Americas,1600,24.7951304,-107.4123106
+Aedes aegypti,76,Singapore,2009,1.2962018,103.7768977
+Aedes aegypti,76,China,2014,25.7017448,-99.236325
+Aedes aegypti,76,Italy,2014,32.1806212,-96.8783389
+Aedes aegypti,76,China,2016,25.7017448,-99.236325
+Aedes aegypti,76,Italy,2016,32.1806212,-96.8783389
+Aedes aegypti,76,China,2017,25.7017448,-99.236325
+Aedes aegypti,76,Italy,2017,32.1806212,-96.8783389
+Aedes aegypti,76,China,2018,25.7017448,-99.236325
+Aedes aegypti,76,Italy,2018,32.1806212,-96.8783389
+Aedes aegypti,76,China,2019,25.7017448,-99.236325
+Aedes aegypti,79,Brazil,2016,-22.954074,-43.1679727
+Aedes aegypti,79,Brazil,2016,-5.805398,-35.2080905
+Aedes aegypti,80,Singapore,2005,1.357107,103.8194992
+Aedes aegypti,80,Mexico,2016,23.6585116,-102.0077097
+Aedes aegypti,80,Australia,2016,,
+Aedes aegypti,82,China,2016,35.0000663,104.999955
+Aedes aegypti,82,Senegal,2014,14.4750607,-14.4529612
+Aedes aegypti,83,Indonesia,2015,-7.8012646,110.3646857
+Aedes aegypti,86,Malaysia,2016,3.1526589,101.7022205
+Aedes aegypti,86,Malaysia,2016,3.0739429,101.5185278
+Aedes aegypti,86,Malaysia,2019,3.0739429,101.5185278
+Aedes aegypti,88,Thailand,2022,16.4273036,102.8085551
+Aedes aegypti,89,Singapore,1960,1.357107,103.8194992
+Aedes aegypti,90,Mozambique,2015,-14.966969,39.2707752
+Aedes aegypti,90,Mozambique,2015,-12.4254942,39.4168743
+Aedes aegypti,90,Mozambique,2015,-13.0638577,36.4669964
+Aedes aegypti,90,Mozambique,2015,-14.5537162,40.690756
+Aedes aegypti,90,Mozambique,2015,-14.966969,39.2707752
+Aedes aegypti,90,Mozambique,2015,,
+Aedes aegypti,90,Mozambique,2015,-19.0400995,33.4318137
+Aedes aegypti,90,Mozambique,2015,-15.5205193,32.7682742
+Aedes aegypti,90,Mozambique,2015,-19.0771666,34.7164804
+Aedes aegypti,93,United States,1964,39.7837304,-100.445882
+Aedes aegypti,96,Australia,1887,-24.7761086,134.755
+Aedes aegypti,96,South Pacific,1904,7.0654996,125.5133981
+Aedes aegypti,96,Tanzania,1952,-6.5247123,35.7878438
+Aedes aegypti,96,Thailand,1991,14.8971921,100.83273
+Aedes aegypti,96,Democratic Republic of Congo,1999,-2.9814344,23.8222636
+Aedes aegypti,97,Reunion Island,2014,-21.1307379,55.5364801
+Aedes aegypti,97,Reunion Island,2014,,
+Aedes aegypti,97,Reunion Island,2018,,
+Aedes aegypti,98,Cameroon,2006,4.0429389,9.7062018
+Aedes aegypti,98,Cameroon,2006,3.8689867,11.5213344
+Aedes aegypti,98,Cameroon,2006,4.0233735,9.7292726
+Aedes aegypti,98,Cameroon,2006,9.1775586,13.4378888
+Aedes aegypti,98,Cameroon,2006,10.6033083,14.3281625
+Aedes aegypti,98,Cameroon,2006,6.4658575,12.6251249
+Aedes aegypti,98,Cameroon,2007,4.0429389,9.7062018
+Aedes aegypti,98,Cameroon,2007,3.8689867,11.5213344
+Aedes aegypti,98,Cameroon,2007,4.0233735,9.7292726
+Aedes aegypti,99,Burkina Faso,2016,12.3681873,-1.5270944
+Aedes aegypti,99,Burkina Faso,2017,12.3681873,-1.5270944
+Aedes aegypti,100,Iran,2020,,
+Aedes aegypti,103,India,2019,27.4844597,94.9019447
+Aedes aegypti,103,India,2019,28.6430858,77.2192671
+Aedes aegypti,103,India,2019,30.2092777,76.3397231
+Aedes aegypti,108,India,2014,22.3511148,78.6677428
+Aedes aegypti,108,India,2020,22.3511148,78.6677428
+Aedes aegypti,108,India,2021,22.3511148,78.6677428
+Aedes aegypti,111,Colombia,2011,6.2921442,-75.5503867
+Aedes aegypti,113,Cyprus,2022,34.9236095,33.6236184
+Aedes aegypti,113,Cyprus,2022,34.9236095,33.6236184
+Aedes aegypti,113,Cyprus,2022,34.9236095,33.6236184
+Aedes aegypti,113,Cyprus,2022,34.9236095,33.6236184
+Aedes aegypti,113,Cyprus,2022,34.8611261,33.5960156
+Aedes aegypti,113,Cyprus,2022,34.8456226,33.5726051
+Aedes aegypti,114,Brazil,2011,-27.0628367,-51.114965
+Aedes aegypti,114,Cape Verde,2011,14.9162811,-23.5095095
+Aedes aegypti,115,United States,2015,33.750631,-117.8722311
+Aedes aegypti,115,United States,2016,33.750631,-117.8722311
+Aedes aegypti,115,United States,2017,33.750631,-117.8722311
+Aedes aegypti,115,United States,2018,33.750631,-117.8722311
+Aedes aegypti,115,United States,2019,33.750631,-117.8722311
+Aedes aegypti,116,Mexico,2016,25.7871006,-100.1850769
+Aedes aegypti,116,Mexico,2016,22.278368,-97.8242861
+Aedes aegypti,116,Mexico,2016,14.8883246,-92.4920008
+Aedes aegypti,116,Mexico,2016,25.6802019,-100.315258
+Aedes aegypti,116,Mexico,2016,20.5320852,-97.4536355
+Aedes aegypti,116,Mexico,2016,20.6845957,-88.8755669
+Aedes aegypti,118,Brazil,2012,,
+Aedes aegypti,118,Brazil,2018,,
+Aedes aegypti,118,Italy,2018,43.9465433,12.630749
+Aedes aegypti,118,Singapore,2018,1.357107,103.8194992
+Aedes aegypti,118,Singapore,2020,1.357107,103.8194992
+Aedes aegypti,120,France,2014,-21.1307379,55.5364801
+Aedes aegypti,120,France,2019,-21.1307379,55.5364801
+Aedes aegypti,121,Brazil,2011,-5.805398,-35.2080905
+Aedes aegypti,121,Brazil,1994,-5.5836157,-36.9139541
+Aedes aegypti,122,Tanzania,1952,-6.5247123,35.7878438
+Aedes aegypti,122,Thailand,1958,14.8971921,100.83273
+Aedes aegypti,122,Senegal,1970,14.4750607,-14.4529612
+Aedes aegypti,122,Cambodia,1970,11.5717568,104.9288306
+Aedes aegypti,122,India,2004,-9.9999999,69.9999999
+Aedes aegypti,122,La Reunion,2006,-21.1307379,55.5364801
+Aedes aegypti,122,Brazil,2015,-10.3333333,-53.2
+Aedes aegypti,124,Mexico,2016,16.5000001,-92.5000001
+Aedes aegypti,125,Brazil,2017,-19.8638036,-43.9749287
+Aedes aegypti,126,French Polynesia,2010,,
+Aedes aegypti,126,Haiti,2010,19.1399952,-72.3570972
+Aedes aegypti,126,Brazil,2010,-10.3333333,-53.2
+Aedes aegypti,127,France,2016,43.6112422,3.8767337
+Aedes aegypti,127,Benin,2016,9.5293472,2.2584408
+Aedes aegypti,127,Vietnam,2016,11.286918,106.1290402
+Aedes aegypti,129,Nepal,2017,27.618086,84.4536201
+Aedes aegypti,130,Bolivia,2007,-17.7834217,-63.1820853
+Aedes aegypti,130,Réunion Island,2005,,
+Aedes aegypti,130,Réunion Island,2018,,
+Aedes aegypti,133,Australia,1996,-16.9206657,145.7721854
+Aedes aegypti,133,Australia,1996,-12.46044,130.8410469
+Aedes aegypti,133,Australia,1996,-23.3782137,150.5134227
+Aedes aegypti,133,Australia,1996,-10.5786459,142.2189206
+Aedes aegypti,133,Australia,1996,-27.4689623,153.0235009
+Aedes aegypti,134,Cameroon,1965,4.6125522,13.1535811
+Aedes aegypti,134,Cameroon,1990,4.6125522,13.1535811
+Aedes aegypti,134,Cameroon,2000,4.6125522,13.1535811
+Aedes aegypti,134,Cameroon,2007,4.6125522,13.1535811
+Aedes aegypti,134,Cameroon,2011,4.6125522,13.1535811
+Aedes aegypti,137,Mexico,2013,20.5320852,-97.4536355
+Aedes aegypti,139,United States,1952,28.5421109,-81.3790304
+Aedes aegypti,141,Gabon,2007,0.4086518,9.4418849
+Aedes aegypti,142,Nigeria,2011,,
+Aedes aegypti,142,Nigeria,2011,,
+Aedes aegypti,142,Nigeria,2011,,
+Aedes aegypti,142,Nigeria,2011,6.6076575,5.9722713
+Aedes aegypti,142,Nigeria,2011,7.3505747,8.7772877
+Aedes aegypti,144,Papua New Guinea,2018,-5.0,145.5
+Aedes aegypti,144,Papua New Guinea,2018,-9.4743301,147.1599504
+Aedes aegypti,146,Iran,1920,27.1793466,56.2781423
+Aedes aegypti,146,Iran,2009,28.1292481,60.8236848
+Aedes aegypti,146,Iran,2013,25.2935488,60.6469115
+Aedes aegypti,147,Thailand,2018,,
+Aedes aegypti,153,United States,1986,39.7837304,-100.445882
+Aedes aegypti,153,United States,1986,34.0065103,-96.3746452
+Aedes aegypti,153,United States,1986,27.7567667,-81.4639835
+Aedes aegypti,157,United States,1970,39.7837304,-100.445882
+Aedes aegypti,157,United States,2021,39.7837304,-100.445882
+Aedes aegypti,157,Indonesia,2021,-2.4833826,117.8902853
+Aedes aegypti,157,China,2021,35.0000663,104.999955
+Aedes aegypti,157,Japan,2021,36.5748441,139.2394179
+Aedes aegypti,157,Australia,2021,-24.7761086,134.755
+Aedes aegypti,158,Philippines,2021,14.5736108,121.0329706
+Aedes aegypti,159,Brazil,2005,-8.0110993,-34.9585766
+Aedes aegypti,159,Brazil,2005,-8.0110993,-34.9585766
+Aedes aegypti,159,Brazil,2013,-8.0110993,-34.9585766
+Aedes aegypti,159,Brazil,2013,-8.0110993,-34.9585766
+Aedes aegypti,166,Malaysia,2017,3.1426249,101.4793776
+Aedes aegypti,166,Malaysia,2017,5.3506953,100.2348979
+Aedes aegypti,166,Malaysia,2017,6.1184953,102.2932099
+Aedes aegypti,166,Malaysia,2017,5.4446895,100.4293574
+Aedes aegypti,166,Malaysia,2017,3.1434785,101.5357435
+Aedes aegypti,166,Malaysia,2017,6.1320562,102.2392019
+Aedes aegypti,166,Malaysia,2019,4.5693754,102.2656823
+Aedes aegypti,166,Malaysia,2011,4.5693754,102.2656823
+Aedes aegypti,166,Malaysia,2003,4.5693754,102.2656823
+Aedes aegypti,168,French Polynesia,1994,-17.6873439,-149.4451681
+Aedes aegypti,168,French Polynesia,2012,-17.6873439,-149.4451681
+Aedes aegypti,168,Martinique,2012,14.6113732,-60.9620777
+Aedes aegypti,168,New Caledonia,2012,-20.6378428,161.2117626
+Aedes aegypti,168,Bolivia,2012,-17.0568696,-64.9912286
+Aedes aegypti,168,Reunion,2009,-21.1309332,55.5265771
+Aedes aegypti,168,France,2012,46.603354,1.8883335
+Aedes aegypti,169,Ecuador,2016,-1.05282,-80.4534134
+Aedes aegypti,169,Ecuador,2017,-1.05282,-80.4534134
+Aedes aegypti,169,Ecuador,2017,-1.05282,-80.4534134
+Aedes aegypti,169,Ecuador,2017,-1.05282,-80.4534134
+Aedes aegypti,169,Ecuador,2016,0.3191807,-79.4972175
+Aedes aegypti,169,Ecuador,2017,0.3191807,-79.4972175
+Aedes aegypti,169,Ecuador,2017,0.3191807,-79.4972175
+Aedes aegypti,169,Ecuador,2017,0.3191807,-79.4972175
+Aedes aegypti,170,Vietnam,2016,10.7763897,106.7011391
+Aedes aegypti,170,Japan,2008,35.5242707,139.6905273
+Aedes aegypti,170,Japan,2022,,
+Aedes aegypti,173,Cameroon,2017,3.8689867,11.5213344
+Aedes aegypti,173,Cameroon,2017,4.0429389,9.7062018
+Aedes aegypti,173,Republic of Congo,2017,-4.272507,15.2830399
+Aedes aegypti,173,Cameroon,2017,8.3040021,13.892703
+Aedes aegypti,174,Mexico,2018,14.9258055,-92.3221957
+Aedes aegypti,174,Mexico,2018,14.8883246,-92.4920008
+Aedes aegypti,174,Mexico,2018,14.7157931,-92.4184006
+Aedes aegypti,175,Brazil,2019,-23.8027866,-45.4070527
+Aedes aegypti,175,Brazil,2020,-23.8027866,-45.4070527
+Aedes aegypti,176,Pakistan,2015,31.5656822,74.3141829
+Aedes aegypti,178,Colombia,2021,7.8849011,-76.6227461
+Aedes aegypti,178,Colombia,2021,8.0950848,-76.728545
+Aedes aegypti,178,Colombia,2022,8.0950848,-76.728545
+Aedes aegypti,178,Colombia,2021,7.8558452,-76.5181559
+Aedes aegypti,178,Colombia,2022,7.8558452,-76.5181559
+Aedes aegypti,178,Colombia,2022,8.0950848,-76.728545
+Aedes aegypti,178,Colombia,2022,8.0950848,-76.728545
+Aedes aegypti,178,Colombia,2021,7.9350756,-76.7164306
+Aedes aegypti,178,Colombia,2022,7.9350756,-76.7164306
+Aedes aegypti,179,Sudan,2014,19.619217,37.211709
+Aedes aegypti,179,Sudan,2014,18.8517852,37.898933
+Aedes aegypti,179,Sudan,2014,15.452011,36.3770699
+Aedes aegypti,179,Sudan,2014,13.612976,25.3268023
+Aedes aegypti,179,Sudan,2014,12.2809691,24.7741672
+Aedes aegypti,179,Sudan,2014,14.6671537,33.222361
+Aedes aegypti,179,Sudan,2014,10.9573767,30.0366156
+Aedes aegypti,179,Sudan,2014,,
+Aedes aegypti,180,Ghana,2015,5.5571096,-0.2012376
+Aedes aegypti,180,Ghana,2022,5.5571096,-0.2012376
+Aedes aegypti,180,Ghana,2022,5.8761016,0.5495682
+Aedes aegypti,180,Ghana,2022,5.5433937,-0.2354469
+Aedes aegypti,180,Ghana,2022,10.8928117,-1.0883729
+Aedes aegypti,180,Ghana,2022,5.6596423,-0.0096622
+Aedes aegypti,181,Australia,2019,-16.9206657,145.7721854
+Aedes aegypti,182,Australia,2006,-24.7761086,134.755
+Aedes aegypti,183,Australia,2011,,
+Aedes aegypti,183,Australia,2012,,
+Aedes aegypti,183,Australia,2013,,
+Aedes aegypti,183,Australia,2014,,
+Aedes aegypti,183,Australia,2015,,
+Aedes aegypti,183,Australia,2016,,
+Aedes aegypti,183,Australia,2017,,
+Aedes aegypti,183,Australia,2018,,
+Aedes aegypti,184,Australia,2012,-23.3782137,150.5134227
+Aedes aegypti,184,Australia,2012,-26.1902178,152.0617215
+Aedes aegypti,184,Australia,2012,-27.4689623,153.0235009
+Aedes aegypti,185,Australia,2018,,
+Aedes aegypti,185,Australia,2018,-17.5986805,145.9918885
+Aedes aegypti,185,Australia,2018,-17.520676,146.0097457
+Aedes aegypti,185,Australia,2019,-17.574515,146.0057501
+Aedes aegypti,185,Australia,2019,-17.5237275,145.989466
+Aedes aegypti,185,Australia,2019,-17.5456465,146.0463819
+Aedes aegypti,188,Philippines,2017,15.5504104,120.7434436
+Aedes aegypti,188,Philippines,2017,,
+Aedes aegypti,188,Philippines,2017,7.6897787,125.2365313
+Aedes aegypti,188,Philippines,2018,15.5504104,120.7434436
+Aedes aegypti,188,Philippines,2018,,
+Aedes aegypti,188,Philippines,2018,7.6897787,125.2365313
+Aedes aegypti,188,Philippines,2017,16.4119905,120.5933719
+Aedes aegypti,188,Philippines,2017,10.47,123.83
+Aedes aegypti,188,Philippines,2017,7.7610686,125.005158
+Aedes aegypti,189,Ghana,2017,5.781638,0.633197
+Aedes aegypti,189,Ghana,2017,5.6596423,-0.0096622
+Aedes aegypti,189,Ghana,2017,5.5571096,-0.2012376
+Aedes aegypti,189,Ghana,2017,6.6231481,-1.2148111
+Aedes aegypti,189,Ghana,2017,9.2193779,-1.858464
+Aedes aegypti,189,Ghana,2017,10.8928117,-1.0883729
+Aedes aegypti,189,Ghana,2017,10.970036,-1.101674
+Aedes aegypti,189,Ghana,2017,8.0300284,-1.0800271
+Aedes aegypti,190,Uganda,1947,49.9178465,17.9136292
+Aedes aegypti,190,Micronesia,2007,9.5161325,138.0970353
+Aedes aegypti,190,French Polynesia,2013,-17.0243749,-144.6434898
+Aedes aegypti,190,New Caledonia,2014,-20.6378428,161.2117626
+Aedes aegypti,190,Easter Island,2014,-27.1259317,-109.3495887
+Aedes aegypti,190,Cook Islands,2014,-19.9969716,-157.7858714
+Aedes aegypti,190,Brazil,2015,-10.3333333,-53.2
+Aedes aegypti,190,Martinique,2015,14.6113732,-60.9620777
+Aedes aegypti,190,French Guiana,2015,4.0039882,-52.999998
+Aedes aegypti,191,Sao Tome and Principe,2022,0.3264119,6.7300945
+Aedes aegypti,191,Sao Tome and Principe,2022,0.3264119,6.7300945
+Aedes aegypti,192,Cameroon,2000,4.6125522,13.1535811
+Aedes aegypti,192,Cameroon,2007,4.6125522,13.1535811
+Aedes aegypti,192,Cameroon,2016,4.6125522,13.1535811
+Aedes aegypti,192,Central African Republic,2016,7.0323598,19.9981227
+Aedes aegypti,192,Gabon,2007,-0.8999695,11.6899699
+Aedes aegypti,192,Cameroon,2016,3.8689867,11.5213344
+Aedes aegypti,193,Brazil,1980,-23.9335988,-46.3286399
+Aedes aegypti,193,Brazil,1987,-23.5506507,-46.6333824
+Aedes aegypti,193,Brazil,2015,-23.5506507,-46.6333824
+Aedes aegypti,194,India,1996,22.3511148,78.6677428
+Aedes aegypti,195,Panama,2016,8.209385,-80.6033332
+Aedes aegypti,195,Panama,2016,8.5204989,-80.359579
+Aedes aegypti,195,Panama,2016,8.8164669,-80.0425959
+Aedes aegypti,197,Mexico,2017,20.865749,-89.578652
+Aedes aegypti,197,Mexico,2017,,
+Aedes aegypti,197,Mexico,2017,20.9670759,-89.6237402
+Aedes aegypti,197,Mexico,2017,20.6845957,-88.8755669
+Aedes aegypti,197,Mexico,2017,23.6585116,-102.0077097
+Aedes aegypti,197,Mexico,2016,20.6845957,-88.8755669
+Aedes aegypti,197,Mexico,2016,23.6585116,-102.0077097
+Aedes aegypti,197,Mexico,2019,20.6845957,-88.8755669
+Aedes aegypti,197,Mexico,2019,23.6585116,-102.0077097
+Aedes aegypti,199,France,2010,43.7009358,7.2683912
+Aedes aegypti,200,Italy,2006,42.6384261,12.674297
+Aedes aegypti,202,France,2005,-21.1307379,55.5364801
+Aedes aegypti,202,France,2014,-21.1307379,55.5364801
+Aedes aegypti,202,Madagascar,2006,-18.9249604,46.4416422
+Aedes aegypti,202,Gabon,2007,-0.8999695,11.6899699
+Aedes aegypti,202,China,2004,35.0000663,104.999955
+Aedes aegypti,205,Brazil,2015,-22.9110137,-43.2093727
+Aedes aegypti,205,Brazil,2015,0.0401529,-51.0569588
+Aedes aegypti,205,United States,2015,24.5548262,-81.8020722
+Aedes aegypti,205,United States,2015,27.3923408,-80.8873655
+Aedes aegypti,206,Brazil,2018,,
+Aedes aegypti,206,Brazil,2018,,
+Aedes aegypti,207,Italy,2017,45.391408,11.8058487
+Aedes aegypti,209,Côte d’Ivoire,2017,43.1299519,5.8958829
+Aedes aegypti,209,Côte d’Ivoire,2019,43.1299519,5.8958829
+Aedes aegypti,209,Côte d’Ivoire,2022,43.1299519,5.8958829
+Aedes aegypti,209,Côte d’Ivoire,2023,43.1299519,5.8958829
+Aedes aegypti,209,Côte d’Ivoire,2024,43.1299519,5.8958829
+Aedes aegypti,209,Côte d’Ivoire,2024,5.3411653,-3.9741535
+Aedes aegypti,209,Côte d’Ivoire,2024,,
+Aedes aegypti,209,Côte d’Ivoire,2024,,
+Aedes aegypti,210,French Polynesia,2013,-17.0243749,-144.6434898
+Aedes aegypti,210,Gabon,2007,-0.8999695,11.6899699
+Aedes aegypti,211,Sri Lanka,2018,9.665093,80.0093029
+Aedes aegypti,211,Sri Lanka,2019,9.665093,80.0093029
+Aedes aegypti,211,Sri Lanka,1986,9.665093,80.0093029
+Aedes aegypti,211,Sri Lanka,2019,9.665093,80.0093029
+Aedes aegypti,212,US,2012,29.9665252,-85.2175889
+Aedes aegypti,215,Switzerland,2007,46.3351913,8.7525902
+Aedes aegypti,215,Germany,2011,50.1599442,7.7272243
+Aedes aegypti,215,Switzerland,2013,46.3351913,8.7525902
+Aedes aegypti,216,China,2022,24.0355422,97.7796971
+Aedes aegypti,216,China,2022,23.6411915,99.4836112
+Aedes aegypti,217,Thailand,2016,,
+Aedes aegypti,218,United States,2015,29.8119769,-95.3741247
+Aedes aegypti,218,United States,2017,29.8119769,-95.3741247
+Aedes aegypti,218,United States,2017,29.8119769,-95.3741247
+Aedes aegypti,221,Brazil,2015,-22.5757373,-43.3062791
+Aedes aegypti,221,Brazil,2015,-22.5757373,-43.3062791
+Aedes aegypti,221,Brazil,2015,-22.5757373,-43.3062791
+Aedes aegypti,221,Brazil,2015,-22.5757373,-43.3062791
+Aedes aegypti,221,Brazil,2016,-22.5757373,-43.3062791
+Aedes aegypti,221,Brazil,2016,-22.5757373,-43.3062791
+Aedes aegypti,222,Brazil,2016,,
+Aedes aegypti,222,Brazil,2016,,
+Aedes aegypti,222,Brazil,2016,,
+Aedes aegypti,222,Brazil,2016,,
+Aedes aegypti,222,Brazil,2016,,
+Aedes aegypti,222,Brazil,2016,,
+Aedes aegypti,222,Brazil,2017,,
+Aedes aegypti,222,Brazil,2018,,
+Aedes aegypti,223,Portugal,2017,32.6496497,-16.9086783
+Aedes aegypti,223,Haiti,2017,18.547327,-72.3395928
+Aedes aegypti,223,France,2017,42.6993979,9.4509187
+Aedes aegypti,223,France,2018,43.6112422,3.8767337
+Aedes aegypti,225,Sri Lanka,2015,7.1190247,79.9159876
+Aedes aegypti,228,United States,2016,27.7567667,-81.4639835
+Aedes aegypti,228,Philippines,2017,7.4931858,124.724704
+Aedes aegypti,228,United States,2016,37.5726028,-85.1551411
+Aedes aegypti,228,China,2018,23.0693127,113.3708864
+Aedes aegypti,228,Australia,2011,-24.7761086,134.755
+Aedes aegypti,231,China,2017,25.0,102.0
+Aedes aegypti,231,China,2018,25.0,102.0
+Aedes aegypti,231,China,2019,25.0,102.0
+Aedes aegypti,231,China,2020,25.0,102.0
+Aedes aegypti,232,Laos,2008,20.0171109,103.378253
+Aedes aegypti,232,India,1954,22.3511148,78.6677428
+Aedes aegypti,232,India,2015,22.3511148,78.6677428
+Aedes aegypti,232,Brazil,2015,-10.3333333,-53.2
+Aedes aegypti,232,Brazil,2016,-10.3333333,-53.2
+Aedes aegypti,233,Singapore,2010,1.357107,103.8194992
+Aedes aegypti,235,Brazil,2001,-10.3333333,-53.2
+Aedes aegypti,235,Brazil,2002,-10.3333333,-53.2
+Aedes aegypti,235,Brazil,2001,-10.3333333,-53.2
+Aedes aegypti,235,Brazil,2015,-10.3333333,-53.2
+Aedes aegypti,235,Brazil,2017,-10.3333333,-53.2
+Aedes aegypti,237,Brazil,2015,-19.9227318,-43.9450948
+Aedes aegypti,237,Brazil,2015,-22.9110137,-43.2093727
+Aedes aegypti,240,Thailand,2009,13.8030357,100.5502304
+Aedes aegypti,240,Thailand,2018,,
+Aedes aegypti,242,Brazil,2013,-22.954074,-43.1679727
+Aedes aegypti,244,Mexico,1998,26.0907673,-98.2788191
+Aedes aegypti,244,Italy,2020,41.8933203,12.4829321
+Aedes aegypti,244,Italy,2020,45.5050793,11.4084448
+Aedes aegypti,245,Colombia,2016,6.334997,-75.5582665
+Aedes aegypti,245,Colombia,2017,8.0776187,-72.4689002
+Aedes aegypti,248,Mexico,2020,18.6000251,-99.2299716
+Aedes aegypti,248,Mexico,2020,18.6000251,-99.2299716
+Aedes aegypti,248,China,2020,25.0,102.0
+Aedes aegypti,248,China,2020,19.2000001,109.5999999
+Aedes aegypti,249,Mexico,1995,26.0907673,-98.2788191
+Aedes aegypti,249,Mexico,1995,17.0,-96.5
+Aedes aegypti,249,Mexico,1995,16.8680495,-99.8940182
+Aedes aegypti,249,Mexico,1995,18.0874632,-96.1227767
+Aedes aegypti,249,Mexico,1995,16.5886309,-98.6820626
+Aedes aegypti,249,Mexico,1995,-33.5078689,-70.732138
+Aedes aegypti,249,Brazil,1993,-22.8533498,-43.2331703
+Aedes aegypti,249,Brazil,1993,-18.865186,-48.265278
+Aedes aegypti,251,Nigeria,2018,11.9939978,8.5219738
+Aedes aegypti,251,Nigeria,2019,11.9939978,8.5219738
+Aedes aegypti,251,Nigeria,2020,11.9939978,8.5219738
+Aedes aegypti,251,Nigeria,2018,11.9703215,8.4269711
+Aedes aegypti,251,Nigeria,2019,11.9703215,8.4269711
+Aedes aegypti,251,Nigeria,2020,11.9703215,8.4269711
+Aedes aegypti,251,Nigeria,2020,10.2808649,11.1659143
+Aedes aegypti,252,Brazil,1976,-12.9822499,-38.4812772
+Aedes aegypti,252,Brazil,1985,-23.3112878,-51.1595023
+Aedes aegypti,252,Brazil,2013,,
+Aedes aegypti,252,Brazil,2014,,
+Aedes aegypti,252,Brazil,2014,-25.4768503,-48.8322501
+Aedes aegypti,252,Brazil,2014,-25.4298854,-48.7125431
+Aedes aegypti,252,Brazil,2017,-25.4768503,-48.8322501
+Aedes aegypti,256,India,2022,10.9156489,79.8069488
+Aedes aegypti,258,Brazil,2001,-18.5264844,-44.1588654
+Aedes aegypti,258,Brazil,2015,-18.5264844,-44.1588654
+Aedes aegypti,258,Brazil,2018,-18.5264844,-44.1588654
+Aedes aegypti,260,Colombia,2020,4.099917,-72.9088133
+Aedes aegypti,261,Sri Lanka,2019,7.5554942,80.7137847
+Aedes aegypti,262,Malaysia,2012,5.4065013,100.2559077
+Aedes aegypti,263,Mexico,2019,16.5000001,-92.5000001
+Aedes aegypti,264,Brazil,2015,-22.9110137,-43.2093727
+Aedes aegypti,266,Malaysia,2016,4.5693754,102.2656823
+Aedes aegypti,269,Russia,1972,64.6863136,97.7453061
+Aedes aegypti,272,Dominican Republic,2014,19.0974031,-70.3028026
+Aedes aegypti,272,Brazil,2014,-22.9110137,-43.2093727
+Aedes aegypti,272,Brazil,2014,0.0401529,-51.0569588
+Aedes aegypti,272,Brazil,2014,-10.3333333,-53.2
+Aedes aegypti,272,Brazil,2007,-10.3333333,-53.2
+Aedes aegypti,272,Micronesia,2007,8.6062347,151.8327443
+Aedes aegypti,275,Thailand,2011,14.8971921,100.83273
+Aedes aegypti,279,Uganda,1937,1.5333554,32.2166578
+Aedes aegypti,279,Uganda,1952,1.5333554,32.2166578
+Aedes aegypti,279,Uganda,1999,1.5333554,32.2166578
+Aedes aegypti,279,Uganda,2007,1.5333554,32.2166578
+Aedes aegypti,279,Uganda,2013,1.5333554,32.2166578
+Aedes aegypti,279,Uganda,2014,1.5333554,32.2166578
+Aedes aegypti,279,Uganda,2015,1.5333554,32.2166578
+Aedes aegypti,282,United States,1995,40.4331631,-74.1995883
+Aedes aegypti,283,Brazil,2002,,
+Aedes aegypti,283,Brazil,2003,,
+Aedes aegypti,283,Brazil,2009,,
+Aedes aegypti,283,Brazil,2013,,
+Aedes aegypti,283,Brazil,2015,,
+Aedes aegypti,283,Brazil,2016,,
+Aedes aegypti,283,Brazil,2018,,
+Aedes aegypti,283,Brazil,2002,,
+Aedes aegypti,284,Malaysia,2014,4.5693754,102.2656823
+Aedes aegypti,284,Malaysia,2017,4.5693754,102.2656823
+Aedes aegypti,286,,2008,14.8971921,100.83273
+Aedes aegypti,286,,2008,4.5693754,102.2656823
+Aedes aegypti,286,,2008,-2.4833826,117.8902853
+Aedes aegypti,286,,2008,1.357107,103.8194992
+Aedes aegypti,286,,2008,15.9266657,107.9650855
+Aedes aegypti,286,,2008,12.5433216,104.8144914
+Aedes aegypti,286,,2008,20.0171109,103.378253
+Aedes aegypti,286,,2008,35.0000663,104.999955
+Aedes aegypti,286,,2008,22.3511148,78.6677428
+Aedes aegypti,286,,2008,30.3308401,71.247499
+Aedes aegypti,289,Malaysia,1970,5.4065013,100.2559077
+Aedes aegypti,289,Malaysia,2013,5.4065013,100.2559077
+Aedes aegypti,290,Republic of the Congo,2011,-4.272507,15.2830399
+Aedes aegypti,291,United States,2017,29.8119769,-95.3741247
+Aedes aegypti,291,United States,2018,29.8119769,-95.3741247
+Aedes aegypti,291,United States,2019,29.8119769,-95.3741247
+Aedes aegypti,302,Iran,2022,27.1793466,56.2781423
+Aedes aegypti,304,Thailand,2007,13.862225,100.5218885
+Aedes aegypti,304,Thailand,2014,14.8971921,100.83273
+Aedes aegypti,304,Senegal,2014,,
+Aedes aegypti,307,Taiwan,2015,22.630583,120.3438175
+Aedes aegypti,307,Taiwan,2016,22.630583,120.3438175
+Aedes aegypti,310,Cambodia,2019,11.5730391,104.857807
+Aedes aegypti,310,Lao PDR,2016,17.9751896,102.6223322
+Aedes aegypti,312,Cambodia,2018,11.5730391,104.857807
+Aedes aegypti,312,Cambodia,2018,12.9256791,103.2317136
+Aedes aegypti,312,Cambodia,2018,12.1174857,105.2080022
+Aedes aegypti,312,Cambodia,2018,13.3617562,103.8590321
+Aedes aegypti,312,Indonesia,2018,-7.2462836,112.7377674
+Aedes aegypti,312,Indonesia,2018,-7.8012646,110.3646857
+Aedes aegypti,312,Indonesia,2018,-8.6524973,115.2191175
+Aedes aegypti,312,Indonesia,2018,-5.1342962,119.4124282
+Aedes aegypti,312,Indonesia,2018,-3.8008084,102.271661
+Aedes aegypti,314,United States,2016,27.7567667,-81.4639835
+Aedes aegypti,316,Brazil,2011,-22.9110137,-43.2093727
+Aedes aegypti,316,Brazil,2011,-22.9110137,-43.2093727
+Aedes aegypti,316,Brazil,2012,-22.9110137,-43.2093727
+Aedes aegypti,319,Cambodia,2021,12.6687923,104.8879197
+Aedes aegypti,319,Cambodia,2022,12.6687923,104.8879197
+Aedes aegypti,319,Cambodia,2023,12.6687923,104.8879197
+Aedes aegypti,321,Thailand,2008,14.8971921,100.83273
+Aedes aegypti,321,Thailand,2009,14.8971921,100.83273
+Aedes aegypti,321,Thailand,2012,14.8971921,100.83273
+Aedes aegypti,328,Vietnam,2019,10.7793647,106.6922806
+Aedes aegypti,330,Fiji,2018,-18.1415884,178.4421662
+Aedes aegypti,330,Fiji,2018,-18.1132946,178.4067448
+Aedes aegypti,330,Fiji,2019,-17.7992725,177.4178549
+Aedes aegypti,330,Fiji,2019,-17.6043956,177.4530138
+Aedes aegypti,330,Vanuatu,2018,-17.7414972,168.3150163
+Aedes aegypti,330,Kiribati,2018,1.356854,172.9324171
+Aedes aegypti,330,Kiribati,2018,1.3296193,172.9777542
+Aedes aegypti,332,Sri Lanka,2015,7.2523113,80.4468038
+Aedes aegypti,334,Sri Lanka,2019,7.5554942,80.7137847
+Aedes aegypti,335,Zambia,2015,-14.5189121,27.5589884
+Aedes aegypti,336,France,2015,45.7578137,4.8320114
+Aedes aegypti,338,Mexico,1993,23.6585116,-102.0077097
+Aedes aegypti,338,Mexico,2012,23.6585116,-102.0077097
+Aedes aegypti,338,Mexico,2016,23.6585116,-102.0077097
+Aedes aegypti,338,Mexico,2016,23.6585116,-102.0077097
+Aedes aegypti,340,Ghana,2020,5.5571096,-0.2012376
+Aedes aegypti,340,Ghana,2020,5.5571096,-0.2012376
+Aedes aegypti,340,Ghana,2018,5.5571096,-0.2012376
+Aedes aegypti,340,Ghana,2017,5.5571096,-0.2012376
+Aedes aegypti,340,Ghana,2013,5.5571096,-0.2012376
+Aedes aegypti,340,Ghana,2011,5.5571096,-0.2012376
+Aedes aegypti,340,Ghana,2007,5.5571096,-0.2012376
+Aedes aegypti,344,Cameroon,1950,4.6125522,13.1535811
+Aedes aegypti,347,United States,2014,,
+Aedes aegypti,347,United States,2016,,
+Aedes aegypti,347,United States,2015,,
+Aedes aegypti,347,United States,2014,,
+Aedes aegypti,347,United States,2014,,
+Aedes aegypti,349,Singapore,2010,1.369842,103.8466086
+Aedes aegypti,350,Thailand,2010,16.4183581,99.6111616
+Aedes aegypti,350,Thailand,2013,16.4183581,99.6111616
+Aedes aegypti,352,China,2016,20.0462328,110.1956502
+Aedes aegypti,354,United States,1960,31.2638905,-98.5456116
+Aedes aegypti,354,United States,2016,31.2638905,-98.5456116
+Aedes aegypti,355,Brazil,2015,-22.9110137,-43.2093727
+Aedes aegypti,355,Brazil,2017,-22.9110137,-43.2093727
+Aedes aegypti,355,Brazil,2019,-22.9110137,-43.2093727
+Aedes aegypti,355,Brazil,2017,-22.8884,-43.1147
+Aedes aegypti,355,Brazil,2019,-22.8884,-43.1147
+Aedes aegypti,356,Spain,1839,28.2863989,-16.7960118
+Aedes aegypti,356,Portugal,2001,32.7517501,-16.9817487
+Aedes aegypti,356,Turkey,2001,43.8728239,33.9938077
+Aedes aegypti,356,Egypt,2001,26.2540493,29.2675469
+Aedes aegypti,359,Philippines,2013,10.47,123.83
+Aedes aegypti,363,United States,2017,34.3155072,-118.209681
+Aedes aegypti,363,United States,2014,34.3155072,-118.209681
+Aedes aegypti,363,United States,2017,34.0436892,-118.2097684
+Aedes aegypti,363,United States,2017,34.003218,-118.1541961
+Aedes aegypti,363,United States,2017,33.9404441,-118.1292846
+Aedes aegypti,363,United States,2017,34.0239015,-118.172015
+Aedes aegypti,363,United States,2017,33.9060971,-118.0107092
+Aedes aegypti,363,United States,2017,33.9749136,-118.0338664
+Aedes aegypti,364,Democratic Republic of Congo,2018,-4.3196982,15.3424196
+Aedes aegypti,365,Thailand,2016,14.8971921,100.83273
+Aedes aegypti,365,Thailand,2018,14.8971921,100.83273
+Aedes aegypti,365,France,2016,46.603354,1.8883335
+Aedes aegypti,365,France,2018,46.603354,1.8883335
+Aedes aegypti,365,Australia,2016,-25.2303005,121.0187246
+Aedes aegypti,366,Brazil,2012,-9.4336959,-40.5068201
+Aedes aegypti,369,Malaysia,2020,5.4065013,100.2559077
+Aedes aegypti,370,China,1978,19.2000001,109.5999999
+Aedes aegypti,372,Pakistan,2017,33.5914237,73.0535122
+Aedes aegypti,373,Vietnam,2006,15.9266657,107.9650855
+Aedes aegypti,373,Cambodia,2012,12.5433216,104.8144914
+Aedes aegypti,373,Cambodia,2012,11.5730391,104.857807
+Aedes aegypti,375,China,2010,23.1301964,113.2592945
+Aedes aegypti,375,Brazil,2010,-12.9822499,-38.4812772
+Aedes aegypti,375,Venezuela,2010,10.2375144,-67.5890216
+Aedes aegypti,377,India,2018,10.9156489,79.8069488
+Aedes aegypti,384,Australia,1959,-24.7761086,134.755
+Aedes aegypti,384,New Zealand,1959,-41.5000831,172.8344077
+Aedes aegypti,384,Pacific Islands,1979,21.3649544,-157.9633001
+Aedes aegypti,387,India,2020,22.3511148,78.6677428
+Aedes aegypti,387,Brazil,2020,-10.3333333,-53.2
+Aedes aegypti,387,India,2020,12.9881567,77.6226
+Aedes aegypti,387,India,2020,28.6273928,77.1716954
+Aedes aegypti,388,La Reunion,2020,-21.3789306,55.6190645
+Aedes aegypti,388,La Reunion,2005,-21.1309332,55.5265771
+Aedes aegypti,388,La Reunion,2006,-21.1309332,55.5265771
+Aedes aegypti,388,La Reunion,2007,-21.1309332,55.5265771
+Aedes aegypti,390,Brazil,2018,-3.1316333,-59.9825041
+Aedes aegypti,390,Brazil,2018,-12.2115009,-55.5716547
+Aedes aegypti,392,China,2014,23.1357694,113.1982688
+Aedes aegypti,393,Australia,2019,-16.9206657,145.7721854
+Aedes aegypti,393,Australia,2020,-16.9206657,145.7721854
+Aedes aegypti,395,Puerto Rico,2014,18.2247706,-66.4858295
+Aedes aegypti,397,Brazil,2015,-14.6448512,-39.0691959
+Aedes aegypti,398,Cameroon,2015,3.8689867,11.5213344
+Aedes aegypti,398,Cameroon,2016,3.8689867,11.5213344
+Aedes aegypti,411,China,1981,23.0239788,113.1159558
+Aedes aegypti,411,China,1993,23.1301964,113.2592945
+Aedes aegypti,411,China,2005,20.0462328,110.1956502
+Aedes aegypti,415,Portugal,2005,32.6496497,-16.9086783
+Aedes aegypti,415,Portugal,2013,,
+Aedes aegypti,415,Portugal,2014,32.6874768,-16.7912062
+Aedes aegypti,416,Indonesia,1979,-2.4833826,117.8902853
+Aedes aegypti,416,Albania,1979,41.000028,19.9999619
+Aedes aegypti,417,Mexico,2016,14.9258055,-92.3221957
+Aedes aegypti,418,Brazil,2019,-12.9227779,-38.4451715
+Aedes aegypti,418,Brazil,2019,-12.9822499,-38.4812772
+Aedes aegypti,419,Mexico,2016,20.6845957,-88.8755669
+Aedes aegypti,419,Mexico,2017,20.9670759,-89.6237402
+Aedes aegypti,420,Korea,1995,36.638392,127.6961188
+Aedes aegypti,420,Laos,2018,20.0171109,103.378253
+Aedes aegypti,421,Colombia,2015,6.3132576,-75.5808742
+Aedes aegypti,421,Colombia,2016,6.3132576,-75.5808742
+Aedes aegypti,421,Colombia,2017,6.3132576,-75.5808742
+Aedes aegypti,421,Colombia,2018,6.2826665,-75.5899287
+Aedes aegypti,421,Colombia,2019,6.2826665,-75.5899287
+Aedes aegypti,421,Colombia,2019,6.1724352,-75.6093254
+Aedes aegypti,421,Colombia,2021,6.334997,-75.5582665
+Aedes aegypti,421,Colombia,2022,6.334997,-75.5582665
+Aedes aegypti,424,Honduras,2016,15.2572432,-86.0755145
+Aedes aegypti,426,India,2021,,
+Aedes aegypti,426,India,2021,28.6117432,77.2982794
+Aedes aegypti,426,India,2021,,
+Aedes aegypti,426,India,2021,28.6117432,77.2982794
+Aedes aegypti,427,Malaysia,1960,3.2083304,101.304146
+Aedes aegypti,430,United States,2017,,
+Aedes aegypti,432,Indonesia,1929,-2.4833826,117.8902853
+Aedes aegypti,432,Cambodia,1929,12.5433216,104.8144914
+Aedes aegypti,432,Vietnam,1929,15.9266657,107.9650855
+Aedes aegypti,432,Laos,1929,20.0171109,103.378253
+Aedes aegypti,432,Thailand,1929,14.8971921,100.83273
+Aedes aegypti,432,Singapore,1929,1.357107,103.8194992
+Aedes aegypti,440,Tanzania,2019,-6.1664908,39.2074312
+Aedes aegypti,440,Tanzania,1958,-6.1664908,39.2074312
+Aedes aegypti,440,Tanzania,1988,-6.1664908,39.2074312
+Aedes aegypti,440,Tanzania,1989,-6.1664908,39.2074312
+Aedes aegypti,440,Tanzania,2019,-6.1664908,39.2074312
+Aedes aegypti,441,Colombia,2017,5.638081,-72.194668
+Aedes aegypti,441,Colombia,2018,4.1114594,-73.4967836
+Aedes aegypti,441,Colombia,2018,3.4108435,-76.5812127
+Aedes aegypti,443,Cayman Islands,2020,19.2953549,-81.3807776
+Aedes aegypti,445,Brazil,2017,-19.9227318,-43.9450948
+Aedes aegypti,447,United States,2015,34.0536909,-118.242766
+Aedes aegypti,449,,2011,-24.7761086,134.755
+Aedes aegypti,449,,1981,-10.3333333,-53.2
+Aedes aegypti,449,,2018,1.357107,103.8194992
+Aedes aegypti,453,China,2013,23.0239788,113.1159558
+Aedes aegypti,456,United States,2010,29.7589382,-95.3676974
+Aedes aegypti,460,Spain,2015,,
+Aedes aegypti,462,Singapore,2013,1.3181862,103.8870563
+Aedes aegypti,462,Singapore,2015,1.3181862,103.8870563
+Aedes aegypti,462,Singapore,2013,1.323674,103.8549269
+Aedes aegypti,462,Singapore,2015,1.323674,103.8549269
+Aedes aegypti,462,Singapore,2013,1.3373525,103.8396487
+Aedes aegypti,462,Singapore,2015,1.3373525,103.8396487
+Aedes aegypti,463,China,2014,35.0000663,104.999955
+Aedes aegypti,464,UK,2018,51.4893335,-0.1440551
+Aedes aegypti,466,Mexico,2019,14.8959929,-92.2446247
+Aedes aegypti,467,India,2018,26.1723257,91.7601635
+Aedes aegypti,467,India,2018,25.5125616,90.2171526
+Aedes aegypti,467,India,2018,28.0589676,95.3324944
+Aedes aegypti,467,India,2018,,
+Aedes aegypti,470,Morocco,1916,28.3347722,-10.3713379
+Aedes aegypti,472,China,2017,36.6519754,117.1138479
+Aedes aegypti,473,Sri Lanka,2013,9.6656214,80.0207926
+Aedes aegypti,476,Malaysia,2015,3.2083304,101.304146
+Aedes aegypti,478,Australia,2014,-16.9206657,145.7721854
+Aedes aegypti,478,Indonesia,2014,-7.8012646,110.3646857
+Aedes aegypti,478,Brazil,2014,-22.8884,-43.1147
+Aedes aegypti,478,Columbia,2014,4.099917,-72.9088133
+Aedes aegypti,478,Mexico,2014,23.6585116,-102.0077097
+Aedes aegypti,478,Fiji,2014,-18.1239696,179.0122737
+Aedes aegypti,478,Sri Lanka,2014,7.5554942,80.7137847
+Aedes aegypti,478,Vietnam,2014,10.1939605,103.9671139
+Aedes aegypti,479,Indonesia,2016,0.5004112,101.5475811
+Aedes aegypti,479,Indonesia,2016,-0.1547846,104.5803745
+Aedes aegypti,479,Indonesia,2016,-6.4453801,106.1375586
+Aedes aegypti,479,Indonesia,2016,-7.8012646,110.3646857
+Aedes aegypti,479,Indonesia,2016,-1.499583,113.2903307
+Aedes aegypti,479,Indonesia,2016,0.7884397,116.2419977
+Aedes aegypti,479,Indonesia,2016,-3.6446718,119.9471906
+Aedes aegypti,479,Indonesia,2016,-3.5491199,121.7279646
+Aedes aegypti,479,Indonesia,2016,-1.6937786,120.8088555
+Aedes aegypti,481,Brazil,2015,-3.1316333,-59.9825041
+Aedes aegypti,483,Colombia,2004,4.099917,-72.9088133
+Aedes aegypti,483,Colombia,2014,4.099917,-72.9088133
+Aedes aegypti,483,Colombia,2015,4.099917,-72.9088133
+Aedes aegypti,483,Colombia,2014,11.0101922,-74.8231794
+Aedes aegypti,483,Colombia,2015,11.0101922,-74.8231794
+Aedes aegypti,483,Colombia,2014,10.4265566,-75.5441671
+Aedes aegypti,483,Colombia,2015,10.4265566,-75.5441671
+Aedes aegypti,483,Colombia,2014,9.3636401,-73.6016974
+Aedes aegypti,483,Colombia,2015,9.3636401,-73.6016974
+Aedes aegypti,485,Brazil,2007,-10.3333333,-53.2
+Aedes aegypti,485,Brazil,2008,-10.3333333,-53.2
+Aedes aegypti,485,Brazil,2008,-10.3333333,-53.2
+Aedes aegypti,485,Brazil,2009,-10.3333333,-53.2
+Aedes aegypti,488,Gabon,2007,-0.8999695,11.6899699
+Aedes aegypti,489,China,1981,23.0239788,113.1159558
+Aedes aegypti,490,Brazil,2010,2.8208478,-60.6719582
+Aedes aegypti,490,Brazil,2011,2.8208478,-60.6719582
+Aedes aegypti,490,Brazil,2015,2.8208478,-60.6719582
+Aedes aegypti,490,Brazil,2016,2.8208478,-60.6719582
+Aedes aegypti,490,Brazil,2018,2.8208478,-60.6719582
+Aedes aegypti,490,Brazil,2016,3.3613818,-59.8427241
+Aedes aegypti,490,Brazil,2018,3.3613818,-59.8427241
+Aedes aegypti,490,Brazil,2011,4.4787884,-61.1389799
+Aedes aegypti,490,Brazil,2016,4.4787884,-61.1389799
+Aedes aegypti,491,Mexico,2019,20.9670759,-89.6237402
+Aedes aegypti,491,Mexico,2019,20.9670759,-89.6237402
+Aedes aegypti,491,Mexico,2019,20.9670759,-89.6237402
+Aedes aegypti,491,Mexico,2015,20.9670759,-89.6237402
+Aedes aegypti,491,Mexico,2016,20.9670759,-89.6237402
+Aedes aegypti,491,Mexico,2017,20.9670759,-89.6237402
+Aedes aegypti,491,Mexico,2018,20.9670759,-89.6237402
+Aedes aegypti,491,Mexico,2019,20.9670759,-89.6237402
+Aedes aegypti,492,Burkina Faso,2018,12.3835908,-1.5525906
+Aedes aegypti,492,Burkina Faso,2018,12.0092674,-1.5537072
+Aedes aegypti,492,Burkina Faso,2018,12.3789398,-1.51437
+Aedes aegypti,493,Colombia,2016,5.210419,-74.7361921
+Aedes aegypti,493,Colombia,2017,6.334997,-75.5582665
+Aedes aegypti,493,Colombia,2017,6.2697324,-75.6025597
+Aedes aegypti,493,Colombia,2017,4.5493011,-74.5359119
+Aedes aegypti,493,Colombia,2017,4.6480047,-74.489178
+Aedes aegypti,493,Colombia,2017,5.2084232,-74.7294473
+Aedes aegypti,496,Indonesia,1800,-2.4749149,138.08485
+Aedes aegypti,496,Indonesia,1880,-2.4749149,138.08485
+Aedes aegypti,496,Indonesia,2008,-2.4749149,138.08485
+Aedes aegypti,496,Indonesia,2008,-4.8272821,136.8412555
+Aedes aegypti,496,Indonesia,2008,-4.5481052,136.889884
+Aedes aegypti,496,Papua New Guinea,2008,-5.6816069,144.2489081
+Aedes aegypti,496,Papua New Guinea,2008,-9.4743301,147.1599504
+Aedes aegypti,496,Solomon Islands,2008,-9.4310769,159.9552552
+Aedes aegypti,501,Mexico,2016,20.6845957,-88.8755669
+Aedes aegypti,501,Mexico,2017,20.6845957,-88.8755669
+Aedes aegypti,502,Cape Verde,2007,15.1200758,-23.6348181
+Aedes aegypti,502,Cape Verde,2010,15.1200758,-23.6348181
+Aedes aegypti,502,Cape Verde,2009,15.1200758,-23.6348181
+Aedes aegypti,502,Cape Verde,2010,15.1200758,-23.6348181
+Aedes aegypti,502,Cape Verde,2012,15.1200758,-23.6348181
+Aedes aegypti,502,Cape Verde,2014,15.1200758,-23.6348181
+Aedes aegypti,504,Democratic Republic of the Congo,2012,,
+Aedes aegypti,504,Democratic Republic of the Congo,2016,,
+Aedes aegypti,505,Singapore,2003,1.357107,103.8194992
+Aedes aegypti,505,Singapore,2013,1.357107,103.8194992
+Aedes aegypti,508,Brazil,2001,-10.3333333,-53.2
+Aedes aegypti,508,Brazil,2002,-10.3333333,-53.2
+Aedes aegypti,508,Brazil,2007,-10.3333333,-53.2
+Aedes aegypti,508,Brazil,2012,-10.3333333,-53.2
+Aedes aegypti,508,Brazil,2015,-10.3333333,-53.2
+Aedes aegypti,508,Guyana,1995,4.8417097,-58.6416891
+Aedes aegypti,508,Guyana,1998,4.8417097,-58.6416891
+Aedes aegypti,508,Haiti,2015,19.1399952,-72.3570972
+Aedes aegypti,508,Martinique,1998,14.6113732,-60.9620777
+Aedes aegypti,510,Brazil,2016,-10.3333333,-53.2
+Aedes aegypti,510,Brazil,2011,-10.3333333,-53.2
+Aedes aegypti,511,Mexico,2016,20.5320852,-97.4536355
+Aedes aegypti,511,Thailand,2011,13.7524938,100.4935089
+Aedes aegypti,514,Italy,2013,45.362828,9.6874573
+Aedes aegypti,515,China,2017,30.5951051,114.2999353
+Aedes aegypti,516,Vietnam,2010,10.7763897,106.7011391
+Aedes aegypti,516,Vietnam,2014,10.7763897,106.7011391
+Aedes aegypti,516,Vietnam,2019,10.7763897,106.7011391
+Aedes aegypti,517,Thailand,2019,16.4429761,102.9637455
+Aedes aegypti,517,Thailand,2019,14.8971921,100.83273
+Aedes aegypti,518,India,2009,28.6273928,77.1716954
+Aedes aegypti,518,India,2021,28.6273928,77.1716954
+Aedes aegypti,518,India,2021,28.6758661,77.2985078
+Aedes aegypti,518,India,2021,28.5351561,77.2637936
+Aedes aegypti,518,India,2009,,
+Aedes aegypti,518,India,2021,,
+Aedes aegypti,520,Taiwan,2009,23.9739374,120.9820179
+Aedes aegypti,527,Colombia,2022,8.3116711,-75.1445022
+Aedes aegypti,527,Colombia,2010,8.3344713,-75.6666238
+Aedes aegypti,527,Colombia,2014,8.3344713,-75.6666238
+Aedes aegypti,527,Colombia,2015,8.3344713,-75.6666238
+Aedes aegypti,528,China,2016,23.1301964,113.2592945
+Aedes aegypti,528,China,2017,23.1301964,113.2592945
+Aedes aegypti,533,Turkey,2011,,
+Aedes aegypti,533,Turkey,2016,41.160506,41.8398627
+Aedes aegypti,533,Turkey,2017,41.160506,41.8398627
+Aedes aegypti,534,Kenya,2016,3.2285332,40.7056153
+Aedes aegypti,534,Pakistan,2016,30.3308401,71.247499
+Aedes aegypti,534,India,2010,22.3511148,78.6677428
+Aedes aegypti,534,India,2016,22.3511148,78.6677428
+Aedes aegypti,534,India,2010,28.6430858,77.2192671
+Aedes aegypti,534,India,2016,28.6430858,77.2192671
+Aedes aegypti,534,Bangladesh,2017,24.4769288,90.2934413
+Aedes aegypti,536,Brazil,2010,-19.9227318,-43.9450948
+Aedes aegypti,537,Senegal,2015,12.8856773,-12.2863632
+Aedes aegypti,537,Senegal,2017,13.9406041,-16.4024021
+Aedes aegypti,537,Senegal,2017,14.864559,-15.876047
+Aedes aegypti,537,Senegal,2017,15.3966884,-15.6779283
+Aedes aegypti,541,Laos,2014,17.9640988,102.6133707
+Aedes aegypti,541,Laos,2014,19.2494811,101.7228286
+Aedes aegypti,541,Laos,2014,14.79073,107.1008318
+Aedes aegypti,541,Laos,2014,15.87128,106.3389565
+Aedes aegypti,542,Brazil,2016,-22.7855214,-43.2265169
+Aedes aegypti,542,Brazil,2016,-22.851201,-43.3870315
+Aedes aegypti,542,Brazil,2016,-22.9110137,-43.2093727
+Aedes aegypti,544,Puerto Rico,2015,18.2247706,-66.4858295
+Aedes aegypti,544,Malaysia,1966,4.5693754,102.2656823
+Aedes aegypti,544,Brazil,2015,-10.3333333,-53.2
+Aedes aegypti,546,Peru,2018,-3.4818648,-80.2455802
+Aedes aegypti,546,Peru,2018,-3.666667,-80.25
+Aedes aegypti,546,Peru,2018,-3.5620513,-80.455671
+Aedes aegypti,546,Peru,2018,-3.585948,-80.4452795
+Aedes aegypti,546,Peru,2018,-3.5982942,-80.5144147
+Aedes aegypti,546,Peru,2018,-3.7159023,-80.4363027
+Aedes aegypti,546,Peru,2018,-3.6708625,-80.571425
+Aedes aegypti,546,Peru,2018,-4.1030531,-81.0481341
+Aedes aegypti,551,Mexico,2017,14.9258055,-92.3221957
+Aedes aegypti,551,Gabon,2017,-1.6343979,13.5894808
+Aedes aegypti,551,Ghana,2017,9.2193779,-1.858464
+Aedes aegypti,551,Kenya,2017,,
+Aedes aegypti,551,America Samoa,2017,,
+Aedes aegypti,552,Brazil,2023,-21.7886713,-48.1773096
+Aedes aegypti,552,Brazil,2023,-19.521667,-43.745277
+Aedes aegypti,552,Brazil,2023,-9.3817334,-40.4968875
+Aedes aegypti,552,Brazil,2023,-30.0324999,-51.2303767
+Aedes aegypti,552,Brazil,2018,-22.9158801,-43.2343414
+Aedes aegypti,553,Cabo Verde,2009,14.9121954,-23.528078
+Aedes aegypti,553,Cabo Verde,2015,14.9121954,-23.528078
+Aedes aegypti,553,Cabo Verde,2017,14.9121954,-23.528078
+Aedes aegypti,553,Cabo Verde,2018,14.9121954,-23.528078
+Aedes aegypti,553,Cabo Verde,2009,16.0000552,-24.0083947
+Aedes aegypti,553,Cabo Verde,2015,16.0000552,-24.0083947
+Aedes aegypti,553,Cabo Verde,2017,16.0000552,-24.0083947
+Aedes aegypti,553,Cabo Verde,2018,16.0000552,-24.0083947
+Aedes aegypti,554,Australia,2011,-16.9206657,145.7721854
+Aedes aegypti,554,Australia,2014,-16.9206657,145.7721854
+Aedes aegypti,554,Australia,2016,-16.9206657,145.7721854
+Aedes aegypti,554,Australia,2018,-16.9206657,145.7721854
+Aedes aegypti,554,Australia,2019,-16.9206657,145.7721854
+Aedes aegypti,554,Australia,2020,-16.9206657,145.7721854
+Aedes aegypti,554,Australia,2016,-16.823132,145.7196317
+Aedes aegypti,554,Australia,2018,-16.823132,145.7196317
+Aedes aegypti,554,Australia,2019,-16.823132,145.7196317
+Aedes aegypti,555,Peru,2013,-3.749365,-73.2444145
+Aedes aegypti,555,Peru,2014,-3.749365,-73.2444145
+Aedes aegypti,557,Saudi Arabia,2018,21.5504432,39.1742363
+Aedes aegypti,557,Australia,2018,-16.9206657,145.7721854
+Aedes aegypti,557,Saudi Arabia,2019,21.5504432,39.1742363
+Aedes aegypti,557,Australia,2019,-16.9206657,145.7721854
+Aedes aegypti,558,Ecuador,2017,-3.4756231,-80.184453
+Aedes aegypti,564,Guadeloupe,2018,16.2528827,-61.5686855
+Aedes aegypti,566,Brazil,1960,-10.3333333,-53.2
+Aedes aegypti,566,Uruguay,1960,-32.8755548,-56.0201525
+Aedes aegypti,566,Colombia,1960,4.099917,-72.9088133
+Aedes aegypti,566,Venezuela,1960,8.0018709,-66.1109318
+Aedes aegypti,568,Cambodia,1995,11.5730391,104.857807
+Aedes aegypti,568,Cambodia,2007,11.5730391,104.857807
+Aedes aegypti,568,Cambodia,2012,11.5730391,104.857807
+Aedes aegypti,568,Cambodia,2018,11.5730391,104.857807
+Aedes aegypti,568,Cambodia,2019,11.5730391,104.857807
+Aedes aegypti,568,Cambodia,2020,11.5730391,104.857807
+Aedes aegypti,568,Cambodia,2021,11.5730391,104.857807
+Aedes aegypti,571,French Guiana,2017,4.507698,-52.423861
+Aedes aegypti,571,French Guiana,2017,4.507698,-52.423861
+Aedes aegypti,572,Mexico,2013,25.6802019,-100.315258
+Aedes aegypti,572,Mexico,2018,25.6802019,-100.315258
+Aedes aegypti,575,Mozambique,1960,-19.302233,34.9144977
+Aedes aegypti,576,Timor-Leste,2009,-8.5536809,125.5784093
+Aedes aegypti,576,Australia,2015,-16.9206657,145.7721854
+Aedes aegypti,579,Venezuela,2019,10.2546107,-67.1930336
+Aedes aegypti,579,Venezuela,2019,,
+Aedes aegypti,579,Venezuela,2019,7.349794,-61.8107558
+Aedes aegypti,579,Venezuela,1992,10.2375144,-67.5890216
+Aedes aegypti,579,Venezuela,1992,,
+Aedes aegypti,579,Venezuela,1992,10.3619745,-67.590581
+Aedes aegypti,579,Venezuela,1992,10.3134191,-67.636583
+Aedes aegypti,579,Venezuela,2008,9.9897564,-67.0839257
+Aedes aegypti,580,Brazil,2017,-8.4116316,-37.5919699
+Aedes aegypti,580,Brazil,2017,-23.5506507,-46.6333824
+Aedes aegypti,580,Brazil,2017,1.3545442,-51.9161977
+Aedes aegypti,580,Brazil,2017,-22.9110137,-43.2093727
+Aedes aegypti,584,China,1991,23.1357694,113.1982688
+Aedes aegypti,584,China,1991,25.0,102.0
+Aedes aegypti,584,China,1991,24.0,109.0
+Aedes aegypti,584,China,1991,19.2000001,109.5999999
+Aedes aegypti,584,China,2000,25.0,102.0
+Aedes aegypti,584,China,2000,23.1357694,113.1982688
+Aedes aegypti,584,China,2000,24.0,109.0
+Aedes aegypti,584,China,2000,19.2000001,109.5999999
+Aedes aegypti,585,Bangladesh,2011,23.7643863,90.3890144
+Aedes aegypti,591,China,1972,23.1357694,113.1982688
+Aedes aegypti,592,Kenya,2001,-3.1507392,39.6750716
+Aedes aegypti,598,Cameroon,2017,10.6033083,14.3281625
+Aedes aegypti,598,Cameroon,2017,9.1775586,13.4378888
+Aedes aegypti,598,Cameroon,2017,9.3070698,13.3934527
+Aedes aegypti,598,Cameroon,2017,7.8587066,13.5937621
+Aedes aegypti,598,Cameroon,2017,6.748547,11.8045776
+Aedes aegypti,598,Cameroon,2017,6.4658575,12.6251249
+Aedes aegypti,598,Cameroon,2017,6.5172123,14.2947879
+Aedes aegypti,598,Cameroon,2017,7.3211536,13.5878214
+Aedes aegypti,600,Argentina,1998,-26.4048555,-54.6262079
+Aedes aegypti,600,Argentina,2015,-26.4048555,-54.6262079
+Aedes aegypti,600,Argentina,2015,-27.4729052,-54.5223512
+Aedes aegypti,602,India,2016,22.9964948,87.6855882
+Aedes aegypti,603,Cambodia,2018,11.5730391,104.857807
+Aedes aegypti,603,Vietnam,2018,10.5392057,105.2312822
+Aedes aegypti,603,Vietnam,2018,10.7806646,105.926405
+Aedes aegypti,603,Laos,2019,,
+Aedes aegypti,603,Thailand,2019,18.7882778,98.9858802
+Aedes aegypti,603,Singapore,2019,1.357107,103.8194992
+Aedes aegypti,603,Taiwan,2019,22.6203348,120.3120375
+Aedes aegypti,603,Taiwan,2019,22.9912348,120.184982
+Aedes aegypti,603,New Caledonia,2019,-22.2745264,166.442419
+Aedes aegypti,608,United States,2018,29.9032284,-81.4145468
+Aedes aegypti,608,United States,2018,26.087964,-81.3794941
+Aedes aegypti,608,United States,2016,27.5213933,-82.3801566
+Aedes aegypti,608,United States,2017,27.5213933,-82.3801566
+Aedes aegypti,608,United States,2016,25.6364246,-80.4989467
+Aedes aegypti,608,United States,2017,25.6364246,-80.4989467
+Aedes aegypti,608,United States,2018,28.5421109,-81.3790304
+Aedes aegypti,610,Pakistan,2022,34.0123846,71.5787458
+Aedes aegypti,613,French West Indies,2019,,
+Aedes aegypti,614,Taiwan,2016,,
+Aedes aegypti,614,Taiwan,2016,,
+Aedes aegypti,614,Taiwan,2016,,
+Aedes aegypti,614,Taiwan,2016,,
+Aedes aegypti,620,Mexico,2016,20.5320852,-97.4536355
+Aedes aegypti,621,United States,2020,29.8119769,-95.3741247
+Aedes aegypti,621,United States,2015,29.8119769,-95.3741247
+Aedes aegypti,621,United States,2017,29.8119769,-95.3741247
+Aedes aegypti,623,Thailand,2011,13.7524938,100.4935089
+Aedes aegypti,623,Thailand,2015,13.7524938,100.4935089
+Aedes aegypti,624,Tanzania,2019,,
+Aedes aegypti,624,Tanzania,2020,,
+Aedes aegypti,627,Sudan,2018,,
+Aedes aegypti,627,Sudan,2018,,
+Aedes aegypti,627,Sudan,2018,,
+Aedes aegypti,627,Sudan,2018,,
+Aedes aegypti,627,Sudan,1940,,
+Aedes aegypti,627,Sudan,1940,,
+Aedes aegypti,627,Sudan,1940,,
+Aedes aegypti,627,Sudan,1940,,
+Aedes aegypti,628,New Caledonia,2014,-20.6378428,161.2117626
+Aedes aegypti,628,New Caledonia,2015,-20.6378428,161.2117626
+Aedes aegypti,628,New Caledonia,2016,-20.6378428,161.2117626
+Aedes aegypti,629,UK,2014,51.5074456,-0.1277653
+Aedes aegypti,632,China,2018,23.9825559,97.8910028
+Aedes aegypti,632,China,2018,23.557221,99.080715
+Aedes aegypti,632,China,2016,23.9825559,97.8910028
+Aedes aegypti,632,China,2016,23.557221,99.080715
+Aedes aegypti,635,Ghana,2013,5.5571096,-0.2012376
+Aedes aegypti,635,Ghana,2014,5.5571096,-0.2012376
+Aedes aegypti,635,Ghana,2013,6.6985605,-1.6233086
+Aedes aegypti,635,Ghana,2014,6.6985605,-1.6233086
+Aedes aegypti,635,Ghana,2013,8.053714,-1.728919
+Aedes aegypti,635,Ghana,2014,8.053714,-1.728919
+Aedes aegypti,635,Ghana,2013,9.4051992,-0.8423986
+Aedes aegypti,635,Ghana,2014,9.4051992,-0.8423986
+Aedes aegypti,635,Ghana,2013,6.6985948,-1.7145056
+Aedes aegypti,638,Cuba,2009,23.1021357,-82.377809
+Aedes aegypti,638,Cuba,2009,23.0560833,-82.3680504
+Aedes aegypti,643,Panama,2016,8.559559,-81.1308434
+Aedes aegypti,644,Singapore,2019,1.357107,103.8194992
+Aedes aegypti,644,Singapore,2020,1.357107,103.8194992
+Aedes aegypti,645,Ghana,2020,5.107467,-1.2430793
+Aedes aegypti,645,Ghana,2020,5.10096,-1.2884447
+Aedes aegypti,645,Ghana,2017,5.107467,-1.2430793
+Aedes aegypti,645,Ghana,2017,5.10096,-1.2884447
+Aedes aegypti,646,Austria,2018,47.9587158,16.5192999
+Aedes aegypti,649,Indonesia,2006,-6.1754049,106.827168
+Aedes aegypti,649,Indonesia,2006,-7.4770747,110.2182164
+Aedes aegypti,649,Indonesia,2006,-6.9903988,110.4229104
+Aedes aegypti,649,Indonesia,2006,-7.8012646,110.3646857
+Aedes aegypti,649,Indonesia,2006,-8.6524973,115.2191175
+Aedes aegypti,649,Indonesia,2006,-5.1342962,119.4124282
+Aedes aegypti,649,Indonesia,2006,-3.3187496,114.5925828
+Aedes aegypti,649,Indonesia,2006,-9.175972,124.9163537
+Aedes aegypti,649,Indonesia,2006,-8.6728675,121.6929173
+Aedes aegypti,651,Sri Lanka,2017,7.5554942,80.7137847
+Aedes aegypti,651,Sri Lanka,2018,7.5554942,80.7137847
+Aedes aegypti,653,Nigeria,2014,9.4598443,12.0359283
+Aedes aegypti,653,Nigeria,2014,9.2089255,12.4802485
+Aedes aegypti,654,United States,2017,26.1748861,-98.1551277
+Aedes aegypti,654,Mexico,2017,26.0907673,-98.2788191
+Aedes aegypti,654,United States,2017,26.1514118,-97.3378811
+Aedes aegypti,654,Mexico,2017,,
+Aedes aegypti,654,United States,2017,,
+Aedes aegypti,655,Australia,2015,-16.9206657,145.7721854
+Aedes aegypti,655,Australia,2016,-17.5241605,146.0311385
+Aedes aegypti,655,Malaysia,2017,3.2083304,101.304146
+Aedes aegypti,657,Brazil,1996,-8.0584933,-34.8848193
+Aedes aegypti,658,Colombia,2018,4.4386033,-75.2108857
+Aedes aegypti,658,Colombia,2019,4.4386033,-75.2108857
+Aedes aegypti,662,China,2014,23.1301964,113.2592945
+Aedes aegypti,662,China,2016,23.1301964,113.2592945
+Aedes aegypti,663,Brazil,2014,-8.0584933,-34.8848193
+Aedes aegypti,663,Brazil,1996,,
+Aedes aegypti,667,Australia,2014,-16.9206657,145.7721854
+Aedes aegypti,667,Thailand,2015,13.7524938,100.4935089
+Aedes aegypti,668,Pakistan,2018,32.932827,72.8629763
+Aedes aegypti,668,Pakistan,2018,31.4220558,73.0923253
+Aedes aegypti,668,Pakistan,2018,30.0321374,70.6401114
+Aedes aegypti,669,Argentina,1995,-34.6083696,-58.4440583
+Aedes aegypti,669,Argentina,2016,-34.6083696,-58.4440583
+Aedes aegypti,669,Argentina,2017,-34.6083696,-58.4440583
+Aedes aegypti,669,Argentina,2018,-34.6083696,-58.4440583
+Aedes aegypti,669,Argentina,2017,-34.6083696,-58.4440583
+Aedes aegypti,669,Argentina,2017,-34.5855111,-58.4793049
+Aedes aegypti,669,Argentina,2018,-34.5855111,-58.4793049
+Aedes aegypti,669,Argentina,2017,-34.6741532,-58.4776892
+Aedes aegypti,669,Argentina,2017,-34.8192731,-58.4664257
+Aedes aegypti,670,UK,2020,51.5074456,-0.1277653
+Aedes aegypti,675,Singapore,2017,1.2962018,103.7768977
+Aedes aegypti,677,Uganda,1947,1.5333554,32.2166578
+Aedes aegypti,678,Mexico,2016,20.9670759,-89.6237402
+Aedes aegypti,678,Mexico,2016,20.9670759,-89.6237402
+Aedes aegypti,678,Mexico,2016,20.9670759,-89.6237402
+Aedes aegypti,678,Mexico,2017,20.9670759,-89.6237402
+Aedes aegypti,678,Mexico,2016,20.9670759,-89.6237402
+Aedes aegypti,678,Mexico,2016,20.9670759,-89.6237402
+Aedes aegypti,678,Mexico,2016,20.9670759,-89.6237402
+Aedes aegypti,678,Mexico,2017,20.9670759,-89.6237402
+Aedes aegypti,678,Mexico,2017,20.9670759,-89.6237402
+Aedes aegypti,679,Malaysia,2022,3.1526589,101.7022205
+Aedes aegypti,679,Malaysia,2022,3.2342055,101.4258355
+Aedes aegypti,680,Puerto Rico,2015,18.2247706,-66.4858295
+Aedes aegypti,681,Brazil,2015,-12.9483348,-38.3873458
+Aedes aegypti,681,Brazil,2015,-12.956494,-38.4635954
+Aedes aegypti,681,Brazil,2015,-12.9483348,-38.3873458
+Aedes aegypti,681,Brazil,2015,-12.9992595,-38.4554978
+Aedes aegypti,681,Brazil,2015,-12.9992595,-38.4554978
+Aedes aegypti,681,Brazil,2015,-12.9992595,-38.4554978
+Aedes aegypti,682,French Guiana,2015,5.2870249,-52.5895559
+Aedes aegypti,683,United Kingdom,2020,53.4071991,-2.99168
+Aedes aegypti,685,Sri Lanka,2018,6.9388614,79.8542005
+Aedes aegypti,685,Sri Lanka,2019,6.9388614,79.8542005
+Aedes aegypti,685,Sri Lanka,2018,7.1190247,79.9159876
+Aedes aegypti,685,Sri Lanka,2019,7.1190247,79.9159876
+Aedes aegypti,685,Sri Lanka,2018,7.2931208,80.6350358
+Aedes aegypti,685,Sri Lanka,2019,7.2931208,80.6350358
+Aedes aegypti,686,Ghana,2016,5.5571096,-0.2012376
+Aedes aegypti,686,Ghana,2018,5.5571096,-0.2012376
+Aedes aegypti,686,Ghana,2016,5.6864962,-0.1677052
+Aedes aegypti,686,Ghana,2018,5.6864962,-0.1677052
+Aedes aegypti,687,Thailand,2020,,
+Aedes aegypti,688,Honduras,2018,13.3714203,-87.0713958
+Aedes aegypti,688,Honduras,2018,14.4527976,-87.6379227
+Aedes aegypti,688,Honduras,2018,15.5062156,-88.0248937
+Aedes aegypti,688,Honduras,2018,14.1057433,-87.2040052
+Aedes aegypti,689,Brazil,2004,-5.9153334,-35.2679913
+Aedes aegypti,689,Brazil,2007,-5.805398,-35.2080905
+Aedes aegypti,689,Brazil,2003,-7.2153453,-39.3153336
+Aedes aegypti,689,Brazil,2003,-7.2369112,-39.4149236
+Aedes aegypti,689,Brazil,2003,-7.3121067,-39.3036427
+Aedes aegypti,689,Brazil,1985,18.4246914,-64.6217624
+Aedes aegypti,689,Brazil,2009,-22.9631979,-43.1621655
+Aedes aegypti,689,Brazil,2009,-20.4640173,-54.6162947
+Aedes aegypti,689,Brazil,2009,-2.438489,-54.699611
+Aedes aegypti,692,Gabon,2016,-0.1067508,11.6110615
+Aedes aegypti,692,Kenya,2017,-3.9147492,39.6051655
+Aedes aegypti,697,Colombia,2020,4.099917,-72.9088133
+Aedes aegypti,698,China,2012,23.1301964,113.2592945
+Aedes aegypti,699,China,2021,23.1301964,113.2592945
+Aedes aegypti,700,,2010,-10.3333333,-53.2
+Aedes aegypti,700,,2010,14.6113732,-60.9620777
+Aedes aegypti,700,,2010,4.0039882,-52.999998
+Aedes aegypti,700,,2010,14.8971921,100.83273
+Aedes aegypti,703,Vietnam,2015,21.0283334,105.854041
+Aedes aegypti,707,Taiwan,2017,22.630583,120.3438175
+Aedes aegypti,707,South China,1983,19.9597254,110.157997
+Aedes aegypti,707,South China,1993,19.9597254,110.157997
+Aedes aegypti,707,South China,2002,19.9597254,110.157997
+Aedes aegypti,709,Australia,2011,-16.9206657,145.7721854
+Aedes aegypti,709,Australia,2013,-16.9206657,145.7721854
+Aedes aegypti,709,Australia,2017,-16.9206657,145.7721854
+Aedes aegypti,716,Ghana,2021,9.2193779,-1.858464
+Aedes aegypti,716,Ghana,2021,,
+Aedes aegypti,716,Ghana,2021,9.5454006,-1.0357125
+Aedes aegypti,716,Ghana,2021,7.738011,-2.103519
+Aedes aegypti,717,Portugal,2012,32.7517501,-16.9817487
+Aedes aegypti,717,France,2010,43.7009358,7.2683912
+Aedes aegypti,717,France,2020,48.8588897,2.320041
+Aedes aegypti,722,Austria,2020,47.9587158,16.5192999
+Aedes aegypti,724,Taiwan,1982,23.9739374,120.9820179
+Aedes aegypti,724,Taiwan,1987,23.9739374,120.9820179
+Aedes aegypti,724,Taiwan,1988,23.9739374,120.9820179
+Aedes aegypti,724,Taiwan,2003,23.9739374,120.9820179
+Aedes aegypti,724,Taiwan,2009,23.9739374,120.9820179
+Aedes aegypti,728,India,2014,12.9881567,77.6226
+Aedes aegypti,728,India,2015,12.9881567,77.6226
+Aedes aegypti,728,India,2018,28.6273928,77.1716954
+Aedes aegypti,728,India,2014,26.4073841,93.2551303
+Aedes aegypti,729,Indonesia,2020,-2.4833826,117.8902853
+Aedes aegypti,729,Indonesia,2020,0.5004112,101.5475811
+Aedes aegypti,729,Indonesia,2015,-7.8012646,110.3646857
+Aedes aegypti,729,Indonesia,2003,-6.1754049,106.827168
+Aedes aegypti,729,Indonesia,2017,-8.6524973,115.2191175
+Aedes aegypti,729,Indonesia,2018,-3.3187496,114.5925828
+Aedes aegypti,729,Indonesia,2018,-5.1342962,119.4124282
+Aedes aegypti,729,Indonesia,2018,-6.2460008,107.091797
+Aedes aegypti,729,Indonesia,2018,-3.5186763,102.5359834
+Aedes aegypti,731,Bangladesh,2017,23.7643863,90.3890144
+Aedes aegypti,731,Bangladesh,2017,22.333778,91.8344348
+Aedes aegypti,731,Bangladesh,2017,24.6285432,89.0376862
+Aedes aegypti,731,Bangladesh,2017,21.787476,92.4124752
+Aedes aegypti,731,Bangladesh,2017,24.5998869,88.2850466
+Aedes aegypti,731,Bangladesh,2017,23.7252946,90.3834641
+Aedes aegypti,731,Bangladesh,2017,23.7554874,90.3759965
+Aedes aegypti,731,Bangladesh,2017,,
+Aedes aegypti,731,Bangladesh,2017,23.7464464,90.4159433
+Aedes aegypti,734,Cameroon,2014,4.6125522,13.1535811
+Aedes aegypti,734,French Guiana,2015,4.0039882,-52.999998
+Aedes aegypti,734,Thailand,2013,14.8971921,100.83273
+Aedes aegypti,734,Gabon,2014,-0.8999695,11.6899699
+Aedes aegypti,734,Vietnam,2011,15.9266657,107.9650855
+Aedes aegypti,736,Canada,2017,45.0147126,-72.9779915
+Aedes aegypti,738,Peru,2000,-3.749365,-73.2444145
+Aedes aegypti,738,Peru,2013,-3.749365,-73.2444145
+Aedes aegypti,738,Peru,2014,-3.749365,-73.2444145
+Aedes aegypti,739,India,2018,28.0589676,95.3324944
+Aedes aegypti,739,India,2018,25.9041378,93.7177609
+Aedes aegypti,739,India,2018,26.1805978,91.753943
+Aedes aegypti,739,India,2018,25.5125616,90.2171526
+Aedes aegypti,740,Mexico,2016,18.6000251,-99.2299716
+Aedes aegypti,740,Mexico,2016,18.6000251,-99.2299716
+Aedes aegypti,740,Mexico,2016,18.6000251,-99.2299716
+Aedes aegypti,743,United States,2017,30.9437841,-98.5853144
+Aedes aegypti,743,United States,2018,30.9437841,-98.5853144
+Aedes aegypti,743,United States,2019,30.9437841,-98.5853144
+Aedes aegypti,743,United States,2017,26.1208049,-98.0050427
+Aedes aegypti,743,United States,2018,26.1208049,-98.0050427
+Aedes aegypti,743,United States,2019,26.1208049,-98.0050427
+Aedes aegypti,743,United States,2017,,
+Aedes aegypti,743,United States,2018,,
+Aedes aegypti,743,United States,2019,,
+Aedes aegypti,744,Indonesia,2012,-7.8012646,110.3646857
+Aedes aegypti,744,Indonesia,2014,-7.8012646,110.3646857
+Aedes aegypti,744,Indonesia,2015,-7.8012646,110.3646857
+Aedes aegypti,746,Spain,2009,37.3399964,-4.5811614
+Aedes aegypti,747,,1960,-10.3333333,-53.2
+Aedes aegypti,747,,1960,-2.4833826,117.8902853
+Aedes aegypti,747,,1960,23.9739374,120.9820179
+Aedes aegypti,747,,1960,39.7837304,-100.445882
+Aedes aegypti,748,Saudi Arabia,2019,17.333333,42.666667
+Aedes aegypti,748,Saudi Arabia,2019,22.6087928,39.6393203
+Aedes aegypti,748,Saudi Arabia,2019,21.420847,39.826869
+Aedes aegypti,748,Saudi Arabia,2019,21.5504432,39.1742363
+Aedes aegypti,748,Saudi Arabia,2019,24.471153,39.6111216
+Aedes aegypti,748,Saudi Arabia,2019,18.0,45.666667
+Aedes aegypti,748,Saudi Arabia,2019,17.333333,42.666667
+Aedes aegypti,748,Saudi Arabia,2019,17.333333,42.666667
+Aedes aegypti,748,Saudi Arabia,2019,22.6087928,39.6393203
+Aedes aegypti,749,Taiwan,2014,22.6203348,120.3120375
+Aedes aegypti,750,China,2017,31.2312707,121.4700152
+Aedes aegypti,752,Greece,1927,38.9953683,21.9877132
+Aedes aegypti,752,Greece,1927,37.9755648,23.7348324
+Aedes aegypti,752,France,2014,46.603354,1.8883335
+Aedes aegypti,752,Georgia,2015,41.6934591,44.8014495
+Aedes aegypti,752,Turkey,2015,39.294076,35.2316631
+Aedes aegypti,752,Georgia,2015,41.6497963,41.6640523
+Aedes aegypti,752,Bulgaria,2015,41.6759327,26.5587225
+Aedes aegypti,752,Turkey,2015,39.294076,35.2316631
+Aedes aegypti,753,Australia,1950,-22.1646782,144.5844903
+Aedes aegypti,753,Australia,2008,-16.9206657,145.7721854
+Aedes aegypti,755,293T cells,2020,,
+Aedes aegypti,760,Mexico,2015,19.3207722,-99.1514678
+Aedes aegypti,760,Mexico,2016,19.3207722,-99.1514678
+Aedes aegypti,760,Mexico,2017,19.3207722,-99.1514678
+Aedes aegypti,760,Mexico,2016,,
+Aedes aegypti,760,Mexico,2017,,
+Aedes aegypti,761,Australia,2018,,
+Aedes aegypti,761,Australia,2013,,
+Aedes aegypti,761,Australia,2011,,
+Aedes aegypti,762,Mexico,2019,25.6802019,-100.315258
+Aedes aegypti,762,Mexico,2019,25.6751114,-100.2151753
+Aedes aegypti,762,Mexico,2019,28.704596,-100.5167137
+Aedes aegypti,762,Mexico,2019,28.3492667,-101.6740921
+Aedes aegypti,762,Mexico,2019,22.1516472,-100.9763993
+Aedes aegypti,762,Mexico,2019,21.880487,-102.2967195
+Aedes aegypti,762,Mexico,2019,21.121965,-101.6829766
+Aedes aegypti,762,Mexico,2019,18.1405019,-94.4344003
+Aedes aegypti,765,Singapore,2010,1.2962018,103.7768977
+Aedes aegypti,765,Singapore,2013,1.2962018,103.7768977
+Aedes aegypti,765,Singapore,2014,1.2962018,103.7768977
+Aedes aegypti,765,Singapore,2016,1.2962018,103.7768977
+Aedes aegypti,766,Brazil,1999,-22.9110137,-43.2093727
+Aedes aegypti,766,Brazil,2012,-22.9110137,-43.2093727
+Aedes aegypti,766,Brazil,2016,-22.9110137,-43.2093727
+Aedes aegypti,766,Brazil,2017,-22.9110137,-43.2093727
+Aedes aegypti,766,Brazil,2018,-22.9110137,-43.2093727
+Aedes aegypti,766,Brazil,2016,-22.8884,-43.1147
+Aedes aegypti,766,Brazil,2017,-22.8884,-43.1147
+Aedes aegypti,766,Brazil,2018,-22.8884,-43.1147
+Aedes aegypti,766,Brazil,2016,-7.1041208,-41.7030366
+Aedes aegypti,766,Brazil,2017,-7.1041208,-41.7030366
+Aedes aegypti,767,Netherlands,2021,,
+Aedes aegypti,767,Netherlands,2021,52.0619397,4.2822388
+Aedes aegypti,768,Kenya,2014,-4.05052,39.667169
+Aedes aegypti,768,Kenya,2014,-4.05052,39.667169
+Aedes aegypti,768,Kenya,2016,-4.05052,39.667169
+Aedes aegypti,768,Kenya,2014,-0.1029109,34.7541761
+Aedes aegypti,768,Kenya,2014,-0.1029109,34.7541761
+Aedes aegypti,769,Malaysia,2018,3.081614,101.6099884
+Aedes aegypti,769,Malaysia,2018,3.081614,101.6099884
+Aedes aegypti,770,Brazil,2004,-29.9766491,-50.1278714
+Aedes aegypti,770,Brazil,2004,-23.6672543,-51.3554556
+Aedes aegypti,770,Brazil,2004,-23.1263624,-48.9276966
+Aedes aegypti,770,Brazil,2004,-27.6526292,-52.2809611
+Aedes aegypti,770,Brazil,2004,-15.0205889,-49.8952971
+Aedes aegypti,770,Brazil,2004,-22.7467329,-43.4518851
+Aedes aegypti,770,Brazil,2004,-10.3333333,-53.2
+Aedes aegypti,771,Colombia,2016,6.334997,-75.5582665
+Aedes aegypti,771,Colombia,2016,5.2084232,-74.7294473
+Aedes aegypti,771,Colombia,2016,3.9887317,-73.767432
+Aedes aegypti,771,Colombia,2016,8.0776187,-72.4689002
+Aedes aegypti,771,Colombia,2016,3.0332554,-75.2794303
+Aedes aegypti,772,Americas,1950,24.7951304,-107.4123106
+Aedes aegypti,772,Americas,2007,24.7951304,-107.4123106
+Aedes aegypti,773,Benin,2021,6.3676953,2.4252507
+Aedes aegypti,773,Benin,2021,6.442351,2.3539163
+Aedes aegypti,775,Saint Lucia,2015,14.1012747,-60.9290093
+Aedes aegypti,776,France,2004,43.68459,7.2342154
+Aedes aegypti,778,Taiwan,2004,22.9921256,120.1852496
+Aedes aegypti,778,Taiwan,2014,22.9921256,120.1852496
+Aedes aegypti,778,Taiwan,2015,22.9921256,120.1852496
+Aedes aegypti,780,Brazil,2016,-9.4336959,-40.5068201
+Aedes aegypti,780,Thailand,2012,14.8971921,100.83273
+Aedes aegypti,780,Indonesia,2012,-2.4833826,117.8902853
+Aedes aegypti,780,Brazil,2012,-10.3333333,-53.2
+Aedes aegypti,780,Austria,2012,47.9587158,16.5192999
+Aedes aegypti,783,Ethiopia,2017,,
+Aedes aegypti,783,Ethiopia,2018,,
+Aedes aegypti,783,Ethiopia,2020,,
+Aedes aegypti,783,Ethiopia,2020,5.9526975,43.5522312
+Aedes aegypti,783,Ethiopia,2020,8.2202936,43.5584049
+Aedes aegypti,783,Ethiopia,2020,9.3508526,42.8003788
+Aedes aegypti,786,Sudan,2014,,
+Aedes aegypti,786,Sudan,2014,,
+Aedes aegypti,786,Sudan,2014,,
+Aedes aegypti,786,Sudan,2014,,
+Aedes aegypti,786,Sudan,2014,,
+Aedes aegypti,786,Sudan,2014,,
+Aedes aegypti,786,Sudan,2014,,
+Aedes aegypti,786,Sudan,2014,,
+Aedes aegypti,788,Vietnam,2011,11.1836551,106.7031737
+Aedes aegypti,790,Brazil,1996,-3.1316333,-59.9825041
+Aedes aegypti,791,Panama,2012,,
+Aedes aegypti,791,Panama,2014,,
+Aedes aegypti,791,Panama,2014,,
+Aedes aegypti,791,Panama,2014,,
+Aedes aegypti,792,Philippines,2014,14.5611859,121.0430972
+Aedes aegypti,792,Philippines,2017,14.5611859,121.0430972
+Aedes aegypti,793,Singapore,2010,1.357107,103.8194992
+Aedes aegypti,794,Cape Verde,2016,,
+Aedes aegypti,794,Cape Verde,1931,16.0000552,-24.0083947
+Aedes aegypti,794,Cape Verde,2007,16.0000552,-24.0083947
+Aedes aegypti,794,Cape Verde,2009,16.0000552,-24.0083947
+Aedes aegypti,794,Cape Verde,2012,16.0000552,-24.0083947
+Aedes aegypti,794,Cape Verde,2014,16.0000552,-24.0083947
+Aedes aegypti,794,Cape Verde,2015,16.0000552,-24.0083947
+Aedes aegypti,794,Cape Verde,2015,15.1200758,-23.6348181
+Aedes aegypti,794,Cape Verde,2015,14.9162811,-23.5095095
+Aedes aegypti,795,Fiji,2018,-17.6602176,177.4049561
+Aedes aegypti,795,Wallis & Futuna,2018,,
+Aedes aegypti,795,New Caledonia,2018,-21.3019905,165.4880773
+Aedes aegypti,795,Laos,2018,,
+Aedes aegypti,795,Cambodia,2018,11.5593857,104.871202
+Aedes aegypti,795,Madagascar,2016,-18.7901013,47.5825505
+Aedes aegypti,803,China,2002,24.0355422,97.7796971
+Aedes aegypti,803,China,2006,24.0355422,97.7796971
+Aedes aegypti,803,China,2008,24.0355422,97.7796971
+Aedes aegypti,803,China,2009,24.0355422,97.7796971
+Aedes aegypti,803,China,2011,24.0355422,97.7796971
+Aedes aegypti,803,China,2014,24.0355422,97.7796971
+Aedes aegypti,803,China,2011,22.0147814,100.7983916
+Aedes aegypti,803,China,2016,22.0147814,100.7983916
+Aedes aegypti,803,China,2016,21.6551382,101.4786177
+Aedes aegypti,807,Brazil,2019,-3.1316333,-59.9825041
+Aedes aegypti,809,Brazil,1928,-22.9110137,-43.2093727
+Aedes aegypti,809,Brazil,1929,-22.9110137,-43.2093727
+Aedes aegypti,809,Brazil,1957,-22.9110137,-43.2093727
+Aedes aegypti,809,Brazil,2001,-22.9110137,-43.2093727
+Aedes aegypti,809,Brazil,2001,-3.1316333,-59.9825041
+Aedes aegypti,809,Brazil,2016,-22.9110137,-43.2093727
+Aedes aegypti,809,Brazil,2017,-22.9110137,-43.2093727
+Aedes aegypti,810,Ecuador,2000,-1.3397668,-79.3666965
+Aedes aegypti,812,Sri Lanka,2010,7.214308,80.6400801
+Aedes aegypti,812,Sri Lanka,2010,7.36032,80.60062
+Aedes aegypti,812,Sri Lanka,2010,7.1636487,80.5702744
+Aedes aegypti,812,Sri Lanka,2010,,
+Aedes aegypti,816,Benin,2021,6.4538637,2.354245
+Aedes aegypti,817,Tanzania,2018,,
+Aedes aegypti,817,Tanzania,2018,,
+Aedes aegypti,817,Tanzania,2019,,
+Aedes aegypti,817,Tanzania,2010,-6.8160837,39.2803583
+Aedes aegypti,817,Tanzania,2012,-6.8160837,39.2803583
+Aedes aegypti,817,Tanzania,2013,-6.8160837,39.2803583
+Aedes aegypti,817,Tanzania,2014,-6.8160837,39.2803583
+Aedes aegypti,817,Tanzania,2018,-6.8160837,39.2803583
+Aedes aegypti,817,Tanzania,2019,-6.8160837,39.2803583
+Aedes aegypti,818,Saudi Arabia,1956,17.333333,42.666667
+Aedes aegypti,818,Saudi Arabia,2011,17.333333,42.666667
+Aedes aegypti,818,Saudi Arabia,2017,17.333333,42.666667
+Aedes aegypti,818,Saudi Arabia,2019,17.333333,42.666667
+Aedes aegypti,818,Saudi Arabia,2021,17.333333,42.666667
+Aedes aegypti,818,Saudi Arabia,2011,22.6087928,39.6393203
+Aedes aegypti,818,Saudi Arabia,2017,22.6087928,39.6393203
+Aedes aegypti,818,Saudi Arabia,2011,21.5504432,39.1742363
+Aedes aegypti,818,Saudi Arabia,2017,21.5504432,39.1742363
+Aedes aegypti,819,Brazil,2022,-16.680882,-49.2532691
+Aedes aegypti,819,Brazil,2022,-16.680882,-49.2532691
+Aedes aegypti,819,Brazil,2021,-16.680882,-49.2532691
+Aedes aegypti,820,Brazil,2012,-23.2782035,-51.2779583
+Aedes aegypti,820,Brazil,2019,-23.2782035,-51.2779583
+Aedes aegypti,821,Lao PDR,2017,17.9751896,102.6223322
+Aedes aegypti,821,Lao PDR,2018,17.9751896,102.6223322
+Aedes aegypti,821,Lao PDR,2019,17.9751896,102.6223322
+Aedes aegypti,822,Malaysia,2013,3.1526589,101.7022205
+Aedes aegypti,822,Malaysia,2017,3.1526589,101.7022205
+Aedes aegypti,824,Brazil,2016,-9.4336959,-40.5068201
+Aedes aegypti,829,China,2017,21.9173632,101.272758
+Aedes aegypti,829,China,2017,22.0147814,100.7983916
+Aedes aegypti,829,China,2017,21.9598828,100.4511886
+Aedes aegypti,829,China,2017,23.1504488,99.2485069
+Aedes aegypti,829,China,2017,23.557221,99.080715
+Aedes aegypti,829,China,2017,24.0355422,97.7796971
+Aedes aegypti,829,China,2017,24.3411057,97.9457869
+Aedes aegypti,831,Malaysia,2014,5.4065013,100.2559077
+Aedes aegypti,832,Canada,2007,43.7743325,-79.5002705
+Aedes aegypti,833,France,2018,43.2957521,5.4132062
+Aedes aegypti,835,Brazil,2021,-22.9111654,-43.2357832
+Aedes aegypti,839,Guadeloupe,2018,16.2475199,-61.5418692
+Aedes aegypti,839,Guadeloupe,2018,,
+Aedes aegypti,841,Thailand,2013,14.8971921,100.83273
+Aedes aegypti,841,Thailand,2014,14.8971921,100.83273
+Aedes aegypti,841,Thailand,2015,14.8971921,100.83273
+Aedes aegypti,841,Thailand,2016,14.8971921,100.83273
+Aedes aegypti,842,Singapore,2017,,
+Aedes aegypti,842,Singapore,2019,,
+Aedes aegypti,843,Colombia,2021,-4.2129211,-69.9425963
+Aedes aegypti,848,Cambodia,2018,11.4658912,104.5269663
+Aedes aegypti,850,United States,2017,,
+Aedes aegypti,850,United States,2017,25.109291,-80.424016
+Aedes aegypti,850,United States,2017,34.0536909,-118.242766
+Aedes aegypti,851,Sudan,2021,15.0,29.9999999
+Aedes aegypti,853,Sri Lanka,2015,6.9388614,79.8542005
+Aedes aegypti,853,Sri Lanka,2017,6.9388614,79.8542005
+Aedes aegypti,853,Sri Lanka,2015,6.0328139,80.214955
+Aedes aegypti,853,Sri Lanka,2017,6.0328139,80.214955
+Aedes aegypti,853,Sri Lanka,2015,6.1260751,81.1168468
+Aedes aegypti,853,Sri Lanka,2017,6.1260751,81.1168468
+Aedes aegypti,853,Sri Lanka,2015,,
+Aedes aegypti,853,Sri Lanka,2017,,
+Aedes aegypti,853,Sri Lanka,2015,8.576425,81.2344952
+Aedes aegypti,854,Trinidad and Tobago,2018,10.4430243,-61.2613054
+Aedes aegypti,856,Indonesia,2016,-7.8012646,110.3646857
+Aedes aegypti,856,Indonesia,2017,-7.8012646,110.3646857
+Aedes aegypti,859,Australia,1870,-27.4689623,153.0235009
+Aedes aegypti,859,Australia,1897,-22.1646782,144.5844903
+Aedes aegypti,859,Australia,1905,-27.4689623,153.0235009
+Aedes aegypti,859,Australia,1916,-24.7761086,134.755
+Aedes aegypti,859,Australia,1925,-24.7761086,134.755
+Aedes aegypti,859,Australia,1942,-24.7761086,134.755
+Aedes aegypti,859,Australia,1954,-22.1646782,144.5844903
+Aedes aegypti,859,Australia,1980,-22.1646782,144.5844903
+Aedes aegypti,859,Australia,1995,-16.8777892,145.7515495
+Aedes aegypti,860,Portugal,2005,32.6496497,-16.9086783
+Aedes aegypti,860,Portugal,2005,,
+Aedes aegypti,861,United States,2021,26.087964,-81.3794941
+Aedes aegypti,861,United States,2023,26.087964,-81.3794941
+Aedes aegypti,861,United States,2023,26.1834925,-81.7047391
+Aedes aegypti,862,Mexico,2018,26.0907673,-98.2788191
+Aedes aegypti,862,Mexico,2018,26.0907673,-98.2788191
+Aedes aegypti,867,Panama,1957,8.559559,-81.1308434
+Aedes aegypti,867,Panama,1969,8.559559,-81.1308434
+Aedes aegypti,868,Australia,2011,-16.9206657,145.7721854
+Aedes aegypti,868,Australia,2018,-16.9206657,145.7721854
+Aedes aegypti,870,Brazil,2017,-4.455623,-43.892354
+Aedes aegypti,870,Brazil,2017,-4.8654201,-43.353664
+Aedes aegypti,873,Mexico,2008,16.5000001,-92.5000001
+Aedes aegypti,884,India,2020,23.2584857,77.401989
+Aedes aegypti,884,India,2020,23.2579949,77.464708
+Aedes aegypti,884,India,2020,23.2177066,77.3936881
+Aedes aegypti,884,India,1966,23.1701522,79.9324505
+Aedes aegypti,884,India,1966,23.8083076,78.758254
+Aedes aegypti,884,India,1997,,
+Aedes aegypti,886,Americas,2016,24.7951304,-107.4123106
+Aedes aegypti,889,Sri Lanka,2016,6.9388614,79.8542005
+Aedes aegypti,889,Sri Lanka,2017,6.9388614,79.8542005
+Aedes aegypti,889,Sri Lanka,2020,6.9388614,79.8542005
+Aedes aegypti,889,Sri Lanka,2017,,
+Aedes aegypti,889,Sri Lanka,2020,,
+Aedes aegypti,889,Sri Lanka,2017,,
+Aedes aegypti,889,Sri Lanka,2020,,
+Aedes aegypti,889,Sri Lanka,2017,,
+Aedes aegypti,891,Brazil,2017,-10.3333333,-53.2
+Aedes aegypti,894,Brazil,2015,-10.3333333,-53.2
+Aedes aegypti,894,Brazil,2016,-10.3333333,-53.2
+Aedes aegypti,894,Brazil,2011,-10.3333333,-53.2
+Aedes aegypti,894,Brazil,2004,-10.3333333,-53.2
+Aedes aegypti,894,Brazil,1989,-10.3333333,-53.2
+Aedes aegypti,894,Brazil,1902,-10.3333333,-53.2
+Aedes aegypti,894,Brazil,1955,-10.3333333,-53.2
+Aedes aegypti,894,Brazil,2003,-10.3333333,-53.2
+Aedes aegypti,894,Brazil,2010,-10.3333333,-53.2
+Aedes aegypti,895,Lao PDR,2018,17.9751896,102.6223322
+Aedes aegypti,895,Lao PDR,2018,17.9751896,102.6223322
+Aedes aegypti,895,Lao PDR,2018,17.9751896,102.6223322
+Aedes aegypti,895,Lao PDR,2019,17.9751896,102.6223322
+Aedes aegypti,895,Lao PDR,2017,17.9751896,102.6223322
+Aedes aegypti,895,Lao PDR,2018,17.9751896,102.6223322
+Aedes aegypti,895,Lao PDR,2018,17.9751896,102.6223322
+Aedes aegypti,895,Lao PDR,2018,17.9751896,102.6223322
+Aedes aegypti,896,Brazil,2015,-22.954074,-43.1679727
+Aedes aegypti,897,India,2005,22.3511148,78.6677428
+Aedes aegypti,901,Australia,2018,-17.5456465,146.0463819
+Aedes aegypti,906,Brazil,1985,-23.5506507,-46.6333824
+Aedes aegypti,906,Brazil,1986,-23.5506507,-46.6333824
+Aedes aegypti,906,Brazil,1998,-23.5506507,-46.6333824
+Aedes aegypti,906,Brazil,2006,-23.9335988,-46.3286399
+Aedes aegypti,906,Brazil,2010,-23.9335988,-46.3286399
+Aedes aegypti,906,Brazil,2014,-23.9335988,-46.3286399
+Aedes aegypti,906,Brazil,2004,-21.1776315,-47.8100983
+Aedes aegypti,906,Brazil,2014,-21.1776315,-47.8100983
+Aedes aegypti,906,Brazil,1998,-21.207992,-50.4390225
+Aedes aegypti,907,United States,1952,28.2996183,-82.4522702
+Aedes aegypti,907,United States,2017,28.2996183,-82.4522702
+Aedes aegypti,908,Martinique,2019,14.6113732,-60.9620777
+Aedes aegypti,908,Haiti,2019,18.4,-75.0
+Aedes aegypti,908,Guadeloupe,2019,16.2528827,-61.5686855
+Aedes aegypti,908,Cuba,2019,23.1417338,-82.3590364
+Aedes aegypti,908,United States,2019,27.7567667,-81.4639835
+Aedes aegypti,908,Colombia,2019,15.9198715,-78.5638161
+Aedes aegypti,908,Argentina,1957,,
+Aedes aegypti,908,Colombia,1957,15.9198715,-78.5638161
+Aedes aegypti,908,Suriname,1957,5.8532427,-55.1244393
+Aedes aegypti,909,Micronesia,2007,,
+Aedes aegypti,909,Mexico,2015,19.5898438,-99.0193613
+Aedes aegypti,911,India,2009,28.6430858,77.2192671
+Aedes aegypti,912,Vietnam,2006,14.9953739,108.691729
+Aedes aegypti,912,Vietnam,2006,15.3112193,108.7283573
+Aedes aegypti,912,Vietnam,2007,15.3112193,108.7283573
+Aedes aegypti,912,Vietnam,2008,15.3112193,108.7283573
+Aedes aegypti,912,Vietnam,2006,10.4030368,106.361633
+Aedes aegypti,912,Vietnam,2007,10.4030368,106.361633
+Aedes aegypti,912,Vietnam,2006,9.9301465,105.6401402
+Aedes aegypti,912,Vietnam,2007,9.9301465,105.6401402
+Aedes aegypti,914,Philippines,2015,15.4861218,120.5893473
+Aedes aegypti,916,Brazil,1980,-10.3333333,-53.2
+Aedes aegypti,919,Cambodia,2013,12.1174857,105.2080022
+Aedes aegypti,919,Cambodia,2014,12.1174857,105.2080022
+Aedes aegypti,919,Cambodia,2015,11.5730391,104.857807
+Aedes aegypti,919,Uganda,2016,49.9178465,17.9136292
+Aedes aegypti,920,FL,2015,24.5548262,-81.8020722
+Aedes aegypti,920,FL,2015,24.7358288,-81.0227966
+Aedes aegypti,920,FL,2015,25.109291,-80.424016
+Aedes aegypti,920,FL,2015,24.6034565,-81.672594
+Aedes aegypti,920,FL,2015,25.7929198,-80.1353006
+Aedes aegypti,920,FL,2015,24.9142998,-80.6381183
+Aedes aegypti,920,FL,2015,24.5738825,-81.74314
+Aedes aegypti,921,Italy,2018,44.72057,11.149804
+Aedes aegypti,924,Sri Lanka,2014,8.334985,80.4106096
+Aedes aegypti,924,Sri Lanka,2022,6.9388614,79.8542005
+Aedes aegypti,924,Sri Lanka,2022,7.1190247,79.9159876
+Aedes aegypti,927,Mexico,2016,20.5320852,-97.4536355
+Aedes aegypti,928,Brazil,2016,-22.9110137,-43.2093727
+Aedes aegypti,931,Kenya,2017,,
+Aedes aegypti,931,Kenya,2017,,
+Aedes aegypti,931,Kenya,2018,,
+Aedes aegypti,933,Taiwan,2003,22.6203348,120.3120375
+Aedes aegypti,935,Panama,1988,8.559559,-81.1308434
+Aedes aegypti,935,Panama,2005,8.559559,-81.1308434
+Aedes aegypti,935,Panama,2009,8.559559,-81.1308434
+Aedes aegypti,935,Panama,2010,8.559559,-81.1308434
+Aedes aegypti,935,Panama,2014,8.559559,-81.1308434
+Aedes aegypti,935,Panama,2016,8.559559,-81.1308434
+Aedes aegypti,935,Panama,2017,8.559559,-81.1308434
+Aedes aegypti,936,Argentina,2009,-31.4166867,-64.1834193
+Aedes aegypti,936,Argentina,2016,-31.4166867,-64.1834193
+Aedes aegypti,938,Kenya,2016,-1.3026148,36.828842
+Aedes aegypti,938,Kenya,2016,-0.1029109,34.7541761
+Aedes aegypti,938,Kenya,2016,-4.05052,39.667169
+Aedes aegypti,940,Myanmar,2017,21.9596834,96.0948743
+Aedes aegypti,941,Mexico,2016,14.9258055,-92.3221957
+Aedes aegypti,941,Mexico,2018,14.9258055,-92.3221957
+Aedes aegypti,941,Mexico,2019,14.9258055,-92.3221957
+Aedes aegypti,941,Mexico,2020,14.9258055,-92.3221957
+Aedes aegypti,942,Taiwan,1987,23.9739374,120.9820179
+Aedes aegypti,943,Malaysia,2010,3.1526589,101.7022205
+Aedes aegypti,943,Malaysia,2010,5.4065013,100.2559077
+Aedes aegypti,943,Malaysia,2010,1.5122818,103.8305365
+Aedes aegypti,943,Malaysia,2010,6.1247911,102.2378065
+Aedes aegypti,947,Mexico,2017,14.9258055,-92.3221957
+Aedes aegypti,951,Mauritania,2014,18.0792379,-15.9780071
+Aedes aegypti,951,Mauritania,2017,18.0792379,-15.9780071
+Aedes aegypti,951,Mauritania,2018,18.0792379,-15.9780071
+Aedes aegypti,953,New Caledonia,2008,-20.6378428,161.2117626
+Aedes aegypti,953,New Caledonia,2012,-20.6378428,161.2117626
+Aedes aegypti,953,New Caledonia,2016,-20.6378428,161.2117626
+Aedes aegypti,953,New Caledonia,2016,-22.2745264,166.442419
+Aedes aegypti,954,Brazil,2016,-20.8471564,-49.3386004
+Aedes aegypti,954,Brazil,2016,-20.8329661,-49.3488663
+Aedes aegypti,956,Brazil,2017,-19.9227318,-43.9450948
+Aedes aegypti,956,Brazil,2017,-15.7939869,-47.8828
+Aedes aegypti,956,Brazil,2017,-15.5986686,-56.0991301
+Aedes aegypti,956,Brazil,2017,-22.2206145,-54.812208
+Aedes aegypti,956,Brazil,2017,-27.5973002,-48.5496098
+Aedes aegypti,956,Brazil,2017,-16.680882,-49.2532691
+Aedes aegypti,956,Brazil,2017,-18.8698882,-41.9459383
+Aedes aegypti,956,Brazil,2017,-21.7609533,-43.3501129
+Aedes aegypti,957,Indonesia,2005,-7.7933061,110.4268095
+Aedes aegypti,963,Tanzania,2015,-6.8160837,39.2803583
+Aedes aegypti,964,China,2002,25.0,102.0
+Aedes aegypti,964,China,2015,,
+Aedes aegypti,964,China,2019,,
+Aedes aegypti,964,China,2020,,
+Aedes aegypti,968,Singapore,1966,1.357107,103.8194992
+Aedes aegypti,971,Brazil,2015,,
+Aedes aegypti,971,Brazil,2019,,
+Aedes aegypti,973,Grenada,2018,12.0516302,-61.7522041
+Aedes aegypti,974,Brazil,1967,-10.3333333,-53.2
+Aedes aegypti,974,Brazil,2000,-10.3333333,-53.2
+Aedes aegypti,974,Brazil,2009,-10.3333333,-53.2
+Aedes aegypti,974,Brazil,2012,-10.9162061,-37.0774655
+Aedes aegypti,974,Brazil,2013,-7.2369112,-39.4149236
+Aedes aegypti,975,Caribbean,2013,18.0891174,-63.0222618
+Aedes aegypti,979,United States,2019,25.7741728,-80.19362
+Aedes aegypti,979,United States,2019,25.9024289,-97.4981698
+Aedes aegypti,982,Thailand,2018,,
+Aedes aegypti,982,Thailand,2018,13.8918425,100.0165659
+Aedes aegypti,982,Thailand,2018,14.1494474,101.2177459
+Aedes aegypti,982,Thailand,2018,13.6093192,101.5467201
+Aedes aegypti,982,Thailand,2018,14.8971921,100.83273
+Aedes aegypti,984,Brazil,2006,12.4482735,-69.9239036
+Aedes aegypti,984,French Guiana,2006,4.0039882,-52.999998
+Aedes aegypti,984,West Africa,2006,39.1733757,-94.4855796
+Aedes aegypti,984,Americas,2006,9.9415747,-84.099411
+Aedes aegypti,984,Brazil,2013,12.4482735,-69.9239036
+Aedes aegypti,984,French Guiana,2013,4.0039882,-52.999998
+Aedes aegypti,984,West Africa,2013,39.1733757,-94.4855796
+Aedes aegypti,986,Greece,1927,38.9953683,21.9877132
+Aedes aegypti,990,Puerto Rico,2017,18.0133295,-66.2674419
+Aedes aegypti,990,Puerto Rico,2017,17.9961993,-66.0531683
+Aedes aegypti,990,Puerto Rico,2017,18.0389001,-66.0180351
+Aedes aegypti,997,Vietnam,2012,11.7543232,106.9266473
+Aedes aegypti,1001,Cameroon,2020,4.0429389,9.7062018
+Aedes aegypti,1001,Cameroon,2020,,
+Aedes aegypti,1001,Cameroon,2020,3.8689867,11.5213344
+Aedes aegypti,1002,United States,2020,29.9759983,-90.0782127
+Aedes aegypti,1005,Australia,2014,-16.9206657,145.7721854
+Aedes aegypti,1009,Bolivia,2023,-10.9931002,-65.5788258
+Aedes aegypti,1011,United States,2022,29.9759983,-90.0782127
+Aedes aegypti,1019,China,2014,23.1357694,113.1982688
+Aedes aegypti,1020,Brazil,2015,-22.9110137,-43.2093727
+Aedes aegypti,1020,Brazil,2014,-22.9110137,-43.2093727
+Aedes aegypti,1021,Indonesia,2019,3.5896654,98.6738261
+Aedes aegypti,1021,Indonesia,2019,-2.1206733,106.1134604
+Aedes aegypti,1021,Indonesia,2019,1.1030815,104.0383696
+Aedes aegypti,1021,Indonesia,2019,-6.1726007,106.8785732
+Aedes aegypti,1021,Indonesia,2019,-6.9903988,110.4229104
+Aedes aegypti,1021,Indonesia,2019,-6.9247499,107.6462773
+Aedes aegypti,1021,Indonesia,2019,-3.0027081,114.3661587
+Aedes aegypti,1021,Indonesia,2019,-0.5017804,117.1393089
+Aedes aegypti,1023,Peru,2015,,
+Aedes aegypti,1023,Peru,2019,,
+Aedes aegypti,1025,Mexico,2018,14.8840123,-92.3602755
+Aedes aegypti,1025,Mexico,2018,19.5898438,-99.0193613
+Aedes aegypti,1025,Mexico,2018,14.8548145,-92.3415801
+Aedes aegypti,1025,Mexico,2018,23.6585116,-102.0077097
+Aedes aegypti,1025,Mexico,2018,23.6585116,-102.0077097
+Aedes aegypti,1026,Laos,2011,,
+Aedes aegypti,1026,Laos,2011,,
+Aedes aegypti,1026,Thailand,2011,16.2665119,102.6841546
+Aedes aegypti,1026,Thailand,2011,,
+Aedes aegypti,1027,Jamaica,2018,18.0471737,-77.0333852
+Aedes aegypti,1027,Jamaica,2018,18.0188345,-76.7571708
+Aedes aegypti,1027,Jamaica,2018,17.9716306,-76.4414306
+Aedes aegypti,1027,Jamaica,2018,18.1268206,-76.5374012
+Aedes aegypti,1027,Jamaica,2018,18.2789179,-76.9021868
+Aedes aegypti,1027,Jamaica,2018,18.32993,-77.2541816
+Aedes aegypti,1027,Jamaica,2018,18.1850507,-77.3947693
+Aedes aegypti,1029,Sao Tome and Principe,2015,0.3264119,6.7300945
+Aedes aegypti,1029,Sao Tome and Principe,2015,,
+Aedes aegypti,1029,Sao Tome and Principe,2015,0.3264119,6.7300945
+Aedes aegypti,1029,Sao Tome and Principe,2015,0.3414789,6.725945
+Aedes aegypti,1029,Sao Tome and Principe,2015,1.6652067,7.4131843
+Aedes aegypti,1029,Sao Tome and Principe,2022,0.3264119,6.7300945
+Aedes aegypti,1033,French West Indies,2019,16.2500695,-61.5639255
+Aedes aegypti,1036,Philippines,2014,14.5611859,121.0430972
+Aedes aegypti,1037,Brazil,2017,-5.1904332,-37.3443872
+Aedes aegypti,1038,UK,2014,53.4071991,-2.99168
+Aedes aegypti,1038,UK,2015,53.4071991,-2.99168
+Aedes aegypti,1038,Portugal,2016,32.7517501,-16.9817487
+Aedes aegypti,1038,Turkey,2016,,
+Aedes aegypti,1038,UK,1865,51.6195955,-3.9459248
+Aedes aegypti,1041,French Polynesia,2014,-17.0243749,-144.6434898
+Aedes aegypti,1041,French Polynesia,2011,-17.0243749,-144.6434898
+Aedes aegypti,1041,New Caledonia,2011,-20.6378428,161.2117626
+Aedes aegypti,1041,Yap State,2013,9.514915,138.1251469
+Aedes aegypti,1042,India,2014,10.9156489,79.8069488
+Aedes aegypti,1043,Lao PDR,2017,,
+Aedes aegypti,1043,Lao PDR,2017,,
+Aedes aegypti,1043,Lao PDR,2017,,
+Aedes aegypti,1043,Lao PDR,2017,,
+Aedes aegypti,1048,Thailand,2017,16.6022387,102.6352933
+Aedes aegypti,1048,Thailand,2017,15.7486448,103.7013017
+Aedes aegypti,1048,Thailand,2016,16.6022387,102.6352933
+Aedes aegypti,1048,Thailand,2018,16.6022387,102.6352933
+Aedes aegypti,1048,Thailand,2018,15.7486448,103.7013017
+Aedes aegypti,1051,Brazil,2014,-22.7855214,-43.2265169
+Aedes aegypti,1051,Australia,2016,-17.0981626,145.7759747
+Aedes aegypti,1054,United States,2010,40.7127281,-74.0060152
+Aedes aegypti,1054,United States,2013,40.8832318,-72.8578027
+Aedes aegypti,1055,Malaysia,2013,3.081614,101.6099884
+Aedes aegypti,1055,Malaysia,2013,3.1189121,101.6372094
+Aedes aegypti,1055,Malaysia,2013,,
+Aedes aegypti,1055,Malaysia,2013,,
+Aedes aegypti,1055,Malaysia,2013,3.2027242,101.545409
+Aedes aegypti,1055,Malaysia,2013,,
+Aedes aegypti,1056,United States,2016,27.5213933,-82.3801566
+Aedes aegypti,1056,United States,2017,27.5213933,-82.3801566
+Aedes aegypti,1056,United States,2016,27.529362,-82.7324345
+Aedes aegypti,1056,United States,2017,27.529362,-82.7324345
+Aedes aegypti,1056,United States,2016,27.4639835,-82.6683316
+Aedes aegypti,1056,United States,2017,27.4639835,-82.6683316
+Aedes aegypti,1056,United States,2016,27.4125417,-82.6589881
+Aedes aegypti,1056,United States,2017,27.4125417,-82.6589881
+Aedes aegypti,1056,United States,2016,27.5214269,-82.5723193
+Aedes aegypti,1058,Grenada,2018,12.0516302,-61.7522041
+Aedes aegypti,1059,Ecuador,2012,-1.3397668,-79.3666965
+Aedes aegypti,1059,Ecuador,2012,-2.2895167,-80.0983887
+Aedes aegypti,1059,Ecuador,2012,0.8690975,-78.4513884
+Aedes aegypti,1059,Ecuador,2012,-3.3148937,-79.9512804
+Aedes aegypti,1059,Ecuador,2012,-2.2108666,-79.103584
+Aedes aegypti,1059,Ecuador,2012,1.0883441,-78.9888985
+Aedes aegypti,1059,Ecuador,2012,0.0850591,-76.8834932
+Aedes aegypti,1059,Ecuador,2012,-0.6288151,-90.3638752
+Aedes aegypti,1059,Ecuador,2012,-2.0,-80.0
+Aedes aegypti,1060,Thailand,2013,16.4183581,99.6111616
+Aedes aegypti,1060,Thailand,2015,16.4183581,99.6111616
+Aedes aegypti,1060,Thailand,2013,14.8971921,100.83273
+Aedes aegypti,1060,Thailand,2015,14.8971921,100.83273
+Aedes aegypti,1062,Zambia,2015,-14.5189121,27.5589884
+Aedes aegypti,1065,Singapore,2011,1.2962018,103.7768977
+Aedes aegypti,1065,Singapore,2016,1.2962018,103.7768977
+Aedes aegypti,1065,Singapore,2018,1.2962018,103.7768977
+Aedes aegypti,1065,Singapore,2021,1.2962018,103.7768977
+Aedes aegypti,1069,Southeast Asia,1979,-8.7287308,115.2365646
+Aedes aegypti,1072,Dominican Republic,2014,18.4230137,-68.9661104
+Aedes aegypti,1074,Sri Lanka,1930,7.5554942,80.7137847
+Aedes aegypti,1074,Sri Lanka,2013,7.5554942,80.7137847
+Aedes aegypti,1075,Armenia,2015,41.689177,44.8088869
+Aedes aegypti,1077,Cambodia,1960,12.5433216,104.8144914
+Aedes aegypti,1077,Cambodia,2001,12.5433216,104.8144914
+Aedes aegypti,1077,Malaysia,1960,4.5693754,102.2656823
+Aedes aegypti,1077,Malaysia,2001,4.5693754,102.2656823
+Aedes aegypti,1078,Argentina,2017,-34.9206797,-57.9537638
+Aedes aegypti,1078,Argentina,2017,-26.3829647,-60.8816092
+Aedes aegypti,1079,Benin,2021,6.4538637,2.354245
+Aedes aegypti,1079,Benin,2021,7.7815402,2.183606
+Aedes aegypti,1079,Benin,2021,6.4990718,2.6253361
+Aedes aegypti,1079,Benin,2021,,
+Aedes aegypti,1083,Argentina,2019,-27.3664824,-55.894295
+Aedes aegypti,1085,Brazil,2015,-3.1316333,-59.9825041
+Aedes aegypti,1085,Brazil,1997,-3.1316333,-59.9825041
+Aedes aegypti,1086,Argentina,2018,-34.6083696,-58.4440583
+Aedes aegypti,1086,Argentina,2019,-34.6083696,-58.4440583
+Aedes aegypti,1086,Argentina,2018,-23.7620108,-64.8512037
+Aedes aegypti,1086,Argentina,2019,-23.7620108,-64.8512037
+Aedes aegypti,1086,Argentina,2018,-22.5194493,-63.7986328
+Aedes aegypti,1086,Argentina,2019,-22.5194493,-63.7986328
+Aedes aegypti,1086,Argentina,2018,-34.9068781,-57.9364625
+Aedes aegypti,1086,Argentina,2019,-34.9068781,-57.9364625
+Aedes aegypti,1086,Argentina,2018,-34.9579102,-57.9532512
+Aedes aegypti,1087,Sudan,2022,19.619217,37.211709
+Aedes aegypti,1087,Sudan,2022,18.8517852,37.898933
+Aedes aegypti,1087,Sudan,2022,15.452011,36.3770699
+Aedes aegypti,1087,Sudan,2022,14.3155971,33.5363696
+Aedes aegypti,1087,Sudan,2022,10.9573767,30.0366156
+Aedes aegypti,1087,Sudan,2022,12.0435289,24.8761535
+Aedes aegypti,1087,Sudan,2022,13.4420205,22.4459786
+Aedes aegypti,1087,Sudan,2022,13.309135,25.5176519
+Aedes aegypti,1088,United States,2018,41.6833813,-86.2500066
+Aedes aegypti,1091,the Americas,1600,24.7951304,-107.4123106
+Aedes aegypti,1095,Mexico,2017,20.9670759,-89.6237402
+Aedes aegypti,1095,Mexico,2018,20.9670759,-89.6237402
+Aedes aegypti,1098,Mexico,2016,14.9258055,-92.3221957
+Aedes aegypti,1098,Mexico,2018,14.8840123,-92.3602755
+Aedes aegypti,1098,Mexico,2021,14.9258055,-92.3221957
+Aedes aegypti,1102,Sri Lanka,2019,9.6656214,80.0207926
+Aedes aegypti,1102,Sri Lanka,2020,9.6541593,80.0170572
+Aedes aegypti,1102,Sri Lanka,2020,,
+Aedes aegypti,1102,Sri Lanka,2020,7.5554942,80.7137847
+Aedes aegypti,1105,Kenya,2018,-4.0481114,39.6692482
+Aedes aegypti,1105,Kenya,2018,-4.0020347,39.6264178
+Aedes aegypti,1105,Kenya,2018,-4.0126024,39.5809356
+Aedes aegypti,1105,Kenya,2018,-4.05052,39.667169
+Aedes aegypti,1105,Kenya,2018,-4.0481114,39.6692482
+Aedes aegypti,1105,Kenya,2018,-4.0020347,39.6264178
+Aedes aegypti,1105,Kenya,2018,-4.0126024,39.5809356
+Aedes aegypti,1105,Kenya,2018,-4.05052,39.667169
+Aedes aegypti,1109,Mexico,2016,14.9258055,-92.3221957
+Aedes aegypti,1109,Mexico,2013,14.9258055,-92.3221957
+Aedes aegypti,1109,Mexico,2010,14.9258055,-92.3221957
+Aedes aegypti,1109,Mexico,1999,14.9258055,-92.3221957
+Aedes aegypti,1109,Mexico,2016,20.9670759,-89.6237402
+Aedes aegypti,1109,Mexico,2013,20.9670759,-89.6237402
+Aedes aegypti,1109,Mexico,2010,20.9670759,-89.6237402
+Aedes aegypti,1109,Mexico,2009,20.9670759,-89.6237402
+Aedes aegypti,1109,Mexico,1999,20.9670759,-89.6237402
+Aedes aegypti,1111,Kingdom of Saudi Arabia,2018,,
+Aedes aegypti,1111,Kingdom of Saudi Arabia,2019,,
+Aedes aegypti,1111,Kingdom of Saudi Arabia,2020,,
+Aedes aegypti,1111,Kingdom of Saudi Arabia,2018,,
+Aedes aegypti,1111,Kingdom of Saudi Arabia,2019,,
+Aedes aegypti,1111,Kingdom of Saudi Arabia,2020,,
+Aedes aegypti,1111,Kingdom of Saudi Arabia,2018,,
+Aedes aegypti,1113,Vietnam,2013,,
+Aedes aegypti,1117,Thailand,1907,14.8971921,100.83273
+Aedes aegypti,1117,Thailand,1958,14.8971921,100.83273
+Aedes aegypti,1117,Thailand,2021,14.8971921,100.83273
+Aedes aegypti,1117,Thailand,2022,13.794652,100.3218583
+Aedes aegypti,1118,Brazil,2018,-10.3333333,-53.2
+Aedes aegypti,1119,Nepal,2011,,
+Aedes aegypti,1119,Nepal,2011,,
+Aedes aegypti,1119,Nepal,2011,,
+Aedes aegypti,1119,Nepal,2011,,
+Aedes aegypti,1120,Uganda,1947,0.1216896,32.5264337
+Aedes aegypti,1120,Malaysia,1969,4.5693754,102.2656823
+Aedes aegypti,1120,Senegal,2000,14.4750607,-14.4529612
+Aedes aegypti,1120,Central African Republic,2000,7.0323598,19.9981227
+Aedes aegypti,1120,Burkina Faso,2000,12.0753083,-1.6880314
+Aedes aegypti,1120,Ivory Coast,2000,7.9897371,-5.5679458
+Aedes aegypti,1120,Senegal,2014,14.4750607,-14.4529612
+Aedes aegypti,1120,Gabon,2007,-0.8999695,11.6899699
+Aedes aegypti,1120,Pacific Island,2007,,
+Aedes aegypti,1123,China,1981,23.0239788,113.1159558
+Aedes aegypti,1126,Austria,2012,47.9587158,16.5192999
+Aedes aegypti,1128,Republic of Korea,2011,36.638392,127.6961188
+Aedes aegypti,1132,Tahiti,1994,-17.5366464,-149.5561694
+Aedes aegypti,1132,Turkey,2016,41.1802584,40.8868482
+Aedes aegypti,1133,Netherlands,2016,52.3080392,4.7621975
+Aedes aegypti,1133,Netherlands,2016,52.3080392,4.7621975
+Aedes aegypti,1133,Netherlands,2016,52.3080392,4.7621975
+Aedes aegypti,1133,Netherlands,2016,52.3080392,4.7621975
+Aedes aegypti,1135,Brazil,2017,-10.3333333,-53.2
+Aedes aegypti,1139,China,2015,29.0000001,119.9999999
+Aedes aegypti,1139,China,2005,,
+Aedes aegypti,1139,China,2005,,
+Aedes aegypti,1142,Thailand,2007,13.862225,100.5218885
+Aedes aegypti,1142,Thailand,2017,14.8971921,100.83273
+Aedes aegypti,1142,Thailand,2018,14.8971921,100.83273
+Aedes aegypti,1142,Thailand,2019,14.8971921,100.83273
+Aedes aegypti,1142,Thailand,2020,14.8971921,100.83273
+Aedes aegypti,1142,Thailand,2021,14.8971921,100.83273
+Aedes aegypti,1142,Thailand,2022,14.8971921,100.83273
+Aedes aegypti,1144,Brazil,2015,-3.7304512,-38.5217989
+Aedes aegypti,1144,Brazil,2016,-3.7304512,-38.5217989
+Aedes aegypti,1144,Brazil,2017,-3.7304512,-38.5217989
+Aedes aegypti,1144,Brazil,2019,-3.7304512,-38.5217989
+Aedes aegypti,1144,Brazil,2000,-10.3333333,-53.2
+Aedes aegypti,1144,Brazil,2003,-10.3333333,-53.2
+Aedes aegypti,1144,Brazil,2008,-10.3333333,-53.2
+Aedes aegypti,1144,Brazil,2010,-10.3333333,-53.2
+Aedes aegypti,1145,China,1979,19.2000001,109.5999999
+Aedes aegypti,1145,China,1985,19.2000001,109.5999999
+Aedes aegypti,1145,China,2014,19.2000001,109.5999999
+Aedes aegypti,1146,Brazil,2015,-19.9132749,-44.0840953
+Aedes aegypti,1148,Argentina,2014,-27.3664824,-55.894295
+Aedes aegypti,1148,Argentina,1996,-34.9206797,-57.9537638
+Aedes aegypti,1149,Mexico,2018,20.3643822,-89.5543068
+Aedes aegypti,1150,Venezuela,1996,8.0018709,-66.1109318
+Aedes aegypti,1150,Venezuela,2017,,
+Aedes aegypti,1150,Venezuela,2019,,
+Aedes aegypti,1152,French West Indies,2013,,
+Aedes aegypti,1154,Thailand,2005,14.8971921,100.83273
+Aedes aegypti,1154,Mexico,2005,23.6585116,-102.0077097
+Aedes aegypti,1155,Philippines,2017,14.5736108,121.0329706
+Aedes aegypti,1155,Philippines,2017,21.066081,121.932813
+Aedes aegypti,1155,Philippines,2017,14.8691201,120.8023444
+Aedes aegypti,1157,Portugal,2004,32.7517501,-16.9817487
+Aedes aegypti,1157,Spain,2004,28.2863989,-16.7960118
+Aedes aegypti,1157,Netherlands,2004,52.2434979,5.6343227
+Aedes aegypti,1157,Cyprus,2004,34.9174159,32.8899027
+Aedes aegypti,1157,Ukraine,2004,45.2835044,34.2008188
+Aedes aegypti,1157,Spain,2004,41.8523094,1.5745043
+Aedes aegypti,1157,Spain,2005,39.6819591,-0.7654406
+Aedes aegypti,1157,Spain,2014,37.3399964,-4.5811614
+Aedes aegypti,1157,Spain,2016,41.3787291,-0.7639373
+Aedes aegypti,1158,Vietnam,2004,15.9266657,107.9650855
+Aedes aegypti,1159,India,2010,19.054999,72.8692035
+Aedes aegypti,1163,Brazil,2016,-12.9822499,-38.4812772
+Aedes aegypti,1163,Dominican Republic,2016,19.0974031,-70.3028026
+Aedes aegypti,1163,United States,2016,,
+Aedes aegypti,1164,Peru,2005,-11.9367735,-76.6969111
+Aedes aegypti,1164,Peru,2001,-5.1971376,-80.6267237
+Aedes aegypti,1164,Peru,2011,-3.749365,-73.2444145
+Aedes aegypti,1164,Peru,1995,-11.9367735,-76.6969111
+Aedes aegypti,1164,Peru,1995,-5.1971376,-80.6267237
+Aedes aegypti,1164,Peru,1995,-3.5107986,-73.4877773
+Aedes aegypti,1164,Peru,2011,-11.9367735,-76.6969111
+Aedes aegypti,1164,Peru,2011,-5.1971376,-80.6267237
+Aedes aegypti,1164,Peru,2011,-3.5107986,-73.4877773
+Aedes aegypti,1166,Gabon,2016,-0.1067508,11.6110615
+Aedes aegypti,1166,Kenya,2017,-3.9147492,39.6051655
+Aedes aegypti,1166,Kenya,2017,,
+Aedes aegypti,1166,Kenya,2017,,
+Aedes aegypti,1166,Kenya,2017,,
+Aedes aegypti,1166,Kenya,2017,,
+Aedes aegypti,1172,Australia,2019,-16.9206657,145.7721854
+Aedes aegypti,1172,Australia,2014,-27.4689623,153.0235009
+Aedes aegypti,1172,Australia,2020,-27.4689623,153.0235009
+Aedes aegypti,1175,Brazil,2009,-22.9110137,-43.2093727
+Aedes aegypti,1175,Brazil,2010,-22.9110137,-43.2093727
+Aedes aegypti,1175,Brazil,2014,-22.9110137,-43.2093727
+Aedes aegypti,1175,Brazil,2015,-22.9110137,-43.2093727
+Aedes aegypti,1176,global,1950,,
+Aedes aegypti,1177,Brazil,2021,-3.1316333,-59.9825041
+Aedes aegypti,1181,Mexico,1999,20.9987601,-89.7171574
+Aedes aegypti,1185,Sri Lanka,2017,6.9914777,79.9094295
+Aedes aegypti,1185,Sri Lanka,2017,6.978212,79.9191257
+Aedes aegypti,1185,Sri Lanka,2017,7.194552,79.8564854
+Aedes aegypti,1185,Sri Lanka,2017,7.0009458,79.9054476
+Aedes aegypti,1188,Sri Lanka,2018,7.0263493,79.9236484
+Aedes aegypti,1191,Australia,2016,-17.5241605,146.0311385
+Aedes aegypti,1191,Australia,2012,-16.9206657,145.7721854
+Aedes aegypti,1191,Australia,2016,-16.9206657,145.7721854
+Aedes aegypti,1191,Australia,2016,-16.900591,145.7444187
+Aedes aegypti,1192,Brazil,2012,-30.0324999,-51.2303767
+Aedes aegypti,1192,Brazil,2013,-30.0324999,-51.2303767
+Aedes aegypti,1192,Brazil,2014,-30.0324999,-51.2303767
+Aedes aegypti,1192,Brazil,2015,-30.0324999,-51.2303767
+Aedes aegypti,1194,Senegal,2019,12.8856773,-12.2863632
+Aedes aegypti,1194,Senegal,2019,5.8305575,36.6641332
+Aedes aegypti,1194,Senegal,2019,13.8686324,-13.3190328
+Aedes aegypti,1194,Senegal,2019,14.693425,-17.447938
+Aedes aegypti,1194,Senegal,2019,14.3858774,-16.8297976
+Aedes aegypti,1194,Senegal,2019,15.3966884,-15.6779283
+Aedes aegypti,1194,Senegal,2019,15.2800041,-14.867667
+Aedes aegypti,1196,Tanzania,2019,-6.4422075,38.9062189
+Aedes aegypti,1196,Tanzania,2019,-8.1321004,36.6848455
+Aedes aegypti,1196,Tanzania,2019,-6.6741316,39.1841582
+Aedes aegypti,1197,Australia,2014,-27.4689623,153.0235009
+Aedes aegypti,1198,Brazil,2017,-12.9822499,-38.4812772
+Aedes aegypti,1198,Brazil,2018,-12.9822499,-38.4812772
+Aedes aegypti,1205,China,2014,23.1301964,113.2592945
+Aedes aegypti,1206,Indonesia,2017,-3.3187496,114.5925828
+Aedes aegypti,1209,Brazil,2016,-22.9110137,-43.2093727
+Aedes aegypti,1209,Brazil,2000,-10.3333333,-53.2
+Aedes aegypti,1210,Malaysia,2017,5.4065013,100.2559077

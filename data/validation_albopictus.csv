@@ -1,0 +1,1440 @@
+vector,source_type,country,year,y,x
+Aedes albopictus,10681,Mexico,1995,26.08,-98.29
+Aedes albopictus,10701,Cuba,1996,23.01,-82.4
+Aedes albopictus,10729,United States of America,0,38.62,-90.16
+Aedes albopictus,10731,United States of America,1987,30.23,-93.22
+Aedes albopictus,10735,Brazil,1988,-22.12,-51.39
+Aedes albopictus,10735,Brazil,1988,-21.95,-51.42
+Aedes albopictus,10735,Brazil,1988,-21.78,-52.15
+Aedes albopictus,10754,Nigeria,2002,5.78,7.03
+Aedes albopictus,10754,Nigeria,2002,5.82,6.93
+Aedes albopictus,10766,United States of America,1987,34.04,-77.9
+Aedes albopictus,10817,United States of America,0,27.19,-80.25
+Aedes albopictus,10817,United States of America,0,27.64,-80.39
+Aedes albopictus,10851,Papua New Guinea,0,-9.48,147.19
+Aedes albopictus,10851,Timor-Leste,0,-9.0,125.22
+Aedes albopictus,10851,Timor-Leste,0,-8.97,125.05
+Aedes albopictus,10851,Timor-Leste,0,-8.57,125.58
+Aedes albopictus,10851,Papua New Guinea,0,-6.72,146.99
+Aedes albopictus,10851,Papua New Guinea,0,-6.12,141.3
+Aedes albopictus,10917,Brazil,2002,-22.08,-43.03
+Aedes albopictus,10917,Brazil,0,-22.76,-43.45
+Aedes albopictus,10918,Brazil,2001,-22.9,-43.2
+Aedes albopictus,10918,Brazil,2001,-22.76,-43.45
+Aedes albopictus,10918,United States of America,2001,26.35,-80.09
+Aedes albopictus,10918,United States of America,2001,26.71,-80.06
+Aedes albopictus,10956,Philippines,1977,12.82,124.0
+Aedes albopictus,10956,Philippines,1977,13.06,123.71
+Aedes albopictus,11040,Singapore,0,1.28,103.83
+Aedes albopictus,11040,Singapore,0,1.28,103.85
+Aedes albopictus,11040,Singapore,0,1.29,103.82
+Aedes albopictus,11040,Singapore,0,1.3,103.86
+Aedes albopictus,11040,Singapore,0,1.32,103.88
+Aedes albopictus,11041,Singapore,1968,1.28,103.84
+Aedes albopictus,11041,Singapore,1968,1.28,103.83
+Aedes albopictus,11041,Singapore,1968,1.28,103.85
+Aedes albopictus,11041,Singapore,1968,1.29,103.82
+Aedes albopictus,11041,Singapore,1968,1.3,103.86
+Aedes albopictus,11041,Singapore,1968,1.32,103.88
+Aedes albopictus,11041,Singapore,1968,1.32,103.86
+Aedes albopictus,11041,Singapore,1968,1.33,103.9
+Aedes albopictus,11041,Singapore,1968,1.33,103.93
+Aedes albopictus,11044,China,2002,25.08,121.38
+Aedes albopictus,11060,Malaysia,0,3.23,101.7
+Aedes albopictus,11062,Malaysia,0,3.14,101.73
+Aedes albopictus,11062,Malaysia,0,3.16,101.71
+Aedes albopictus,11062,Malaysia,0,3.23,101.7
+Aedes albopictus,11064,Malaysia,0,3.23,101.7
+Aedes albopictus,11119,United States of America,1994,29.96,-90.08
+Aedes albopictus,11123,Puerto Rico,0,18.02,-66.61
+Aedes albopictus,11123,Puerto Rico,0,18.18,-66.31
+Aedes albopictus,11123,Puerto Rico,0,18.24,-66.04
+Aedes albopictus,11136,United States of America,2003,38.62,-90.16
+Aedes albopictus,11147,Colombia,2006,3.45,-76.52
+Aedes albopictus,11157,Brazil,1994,-22.62,-43.71
+Aedes albopictus,11161,Brazil,2003,-22.9,-43.57
+Aedes albopictus,11187,Brazil,1995,-22.83,-47.05
+Aedes albopictus,11193,Brazil,2004,-22.91,-43.2
+Aedes albopictus,11193,Brazil,2004,-22.76,-43.45
+Aedes albopictus,11212,Brazil,1998,-20.38,-40.5
+Aedes albopictus,11258,India,1994,29.97,78.17
+Aedes albopictus,11262,United States of America,0,38.62,-90.16
+Aedes albopictus,11262,United States of America,0,38.91,-75.43
+Aedes albopictus,11262,United States of America,0,41.9,-87.64
+Aedes albopictus,11268,India,2000,25.77,93.9
+Aedes albopictus,11269,India,1997,25.43,92.2
+Aedes albopictus,11269,India,1997,25.51,90.65
+Aedes albopictus,11269,India,1997,25.52,90.23
+Aedes albopictus,11269,India,1997,25.92,93.74
+Aedes albopictus,11269,India,1997,26.02,89.98
+Aedes albopictus,11269,India,1997,26.03,91.87
+Aedes albopictus,11269,India,1997,26.18,91.75
+Aedes albopictus,11269,India,1997,26.48,90.55
+Aedes albopictus,11269,India,1997,26.6,93.02
+Aedes albopictus,11269,India,1997,26.76,94.21
+Aedes albopictus,11269,India,1997,27.02,95.57
+Aedes albopictus,11269,India,1997,27.16,95.48
+Aedes albopictus,11269,India,1997,27.18,95.33
+Aedes albopictus,11269,India,1997,27.24,94.11
+Aedes albopictus,11269,India,1997,27.28,95.68
+Aedes albopictus,11269,India,1997,27.28,95.33
+Aedes albopictus,11269,India,1997,27.37,95.32
+Aedes albopictus,11269,India,1997,27.39,95.62
+Aedes albopictus,11269,India,1997,27.48,94.91
+Aedes albopictus,11269,India,1997,27.49,95.36
+Aedes albopictus,11273,United States of America,1991,29.97,-90.07
+Aedes albopictus,11317,Brazil,0,-20.82,-49.52
+Aedes albopictus,11335,Mexico,1998,20.06,-97.04
+Aedes albopictus,11335,Mexico,1999,20.06,-97.04
+Aedes albopictus,11353,Madagascar,0,-13.36,48.2
+Aedes albopictus,11353,Madagascar,0,-13.32,48.27
+Aedes albopictus,11355,Madagascar,1978,-23.34,43.65
+Aedes albopictus,11355,Madagascar,1984,-25.04,46.38
+Aedes albopictus,11355,Madagascar,1986,-20.35,45.59
+Aedes albopictus,11355,Madagascar,1987,-23.34,43.65
+Aedes albopictus,11355,Madagascar,1987,-16.95,46.83
+Aedes albopictus,11355,Madagascar,0,-24.7,44.74
+Aedes albopictus,11355,Madagascar,0,-22.92,44.53
+Aedes albopictus,11355,Madagascar,0,-20.3,44.27
+Aedes albopictus,11355,Madagascar,0,-15.72,46.3
+Aedes albopictus,11355,Madagascar,0,-12.28,49.28
+Aedes albopictus,11411,Brazil,2003,-19.9,-43.93
+Aedes albopictus,11451,Brazil,1993,-22.97,-45.55
+Aedes albopictus,11514,Malaysia,0,3.18,101.7
+Aedes albopictus,11522,United States of America,1986,39.77,-86.16
+Aedes albopictus,11571,Singapore,1967,1.28,103.83
+Aedes albopictus,11571,Singapore,1967,1.32,103.87
+Aedes albopictus,11571,Singapore,1967,1.32,103.86
+Aedes albopictus,11584,Brazil,1998,-22.76,-43.45
+Aedes albopictus,11585,Brazil,1998,-22.71,-43.45
+Aedes albopictus,11586,Brazil,1999,-22.76,-43.45
+Aedes albopictus,11601,Viet Nam,1998,10.78,106.76
+Aedes albopictus,11610,Mexico,1995,26.01,-98.29
+Aedes albopictus,11622,Indonesia,1995,-4.42,119.62
+Aedes albopictus,11640,United States of America,1993,29.41,-82.12
+Aedes albopictus,11640,United States of America,1993,29.45,-82.64
+Aedes albopictus,11645,Thailand,2005,7.02,100.06
+Aedes albopictus,11671,United States of America,2000,26.65,-81.65
+Aedes albopictus,11671,United States of America,2000,26.74,-81.51
+Aedes albopictus,11671,United States of America,2000,27.21,-81.73
+Aedes albopictus,11671,United States of America,2000,27.9,-81.84
+Aedes albopictus,11672,United States of America,2000,27.52,-82.58
+Aedes albopictus,11672,United States of America,2000,27.95,-82.46
+Aedes albopictus,11675,Japan,0,35.68,139.77
+Aedes albopictus,11680,India,2001,13.08,80.27
+Aedes albopictus,11684,Sri Lanka,1986,6.92,79.86
+Aedes albopictus,11684,India,1986,26.12,91.98
+Aedes albopictus,11684,United States of America,1986,29.75,-95.35
+Aedes albopictus,11684,United States of America,1986,29.97,-90.65
+Aedes albopictus,11684,United States of America,1986,30.33,-81.65
+Aedes albopictus,11684,Japan,1986,33.25,130.3
+Aedes albopictus,11684,United States of America,1986,35.14,-90.05
+Aedes albopictus,11684,Japan,1986,35.49,139.41
+Aedes albopictus,11684,United States of America,1986,37.98,-87.57
+Aedes albopictus,11684,United States of America,1986,39.77,-86.16
+Aedes albopictus,11684,Brazil,1987,-23.54,-46.63
+Aedes albopictus,11684,Brazil,1987,-19.94,-40.58
+Aedes albopictus,11684,Malaysia,1987,3.15,101.71
+Aedes albopictus,11684,Malaysia,1987,5.13,103.1
+Aedes albopictus,11684,Malaysia,1987,5.97,116.07
+Aedes albopictus,11684,United States of America,1987,34.04,-77.9
+Aedes albopictus,11684,United States of America,1987,34.94,-79.78
+Aedes albopictus,11684,United States of America,1987,38.04,-84.51
+Aedes albopictus,11684,United States of America,1987,38.91,-75.43
+Aedes albopictus,11684,United States of America,1987,39.23,-85.01
+Aedes albopictus,11684,United States of America,1987,39.29,-76.62
+Aedes albopictus,11684,United States of America,1987,40.41,-82.24
+Aedes albopictus,11684,United States of America,1987,41.9,-87.64
+Aedes albopictus,11684,Singapore,1988,1.3,103.78
+Aedes albopictus,11684,India,1988,29.97,78.17
+Aedes albopictus,11684,Japan,1988,31.59,130.56
+Aedes albopictus,11684,United States of America,1988,32.06,-81.09
+Aedes albopictus,11684,Japan,1988,32.74,129.88
+Aedes albopictus,11684,Japan,1988,35.66,139.71
+Aedes albopictus,11684,United States of America,1988,38.62,-90.16
+Aedes albopictus,11692,Sri Lanka,1998,7.29,80.63
+Aedes albopictus,11699,Singapore,2000,1.3,103.85
+Aedes albopictus,11710,Viet Nam,1999,20.12,105.85
+Aedes albopictus,11710,Viet Nam,2000,20.87,106.7
+Aedes albopictus,11711,Fiji,1991,-18.15,178.43
+Aedes albopictus,11711,Fiji,1991,-17.61,177.46
+Aedes albopictus,11712,Fiji,1992,-17.8,178.0
+Aedes albopictus,11712,Fiji,1992,-16.82,-179.97
+Aedes albopictus,11712,Fiji,1992,-16.58,179.18
+Aedes albopictus,11789,Gabon,2006,0.29,9.51
+Aedes albopictus,11789,Gabon,2006,0.37,9.5
+Aedes albopictus,11830,United States of America,0,27.64,-80.39
+Aedes albopictus,11890,Brazil,1999,-23.3,-51.17
+Aedes albopictus,11901,Brazil,1998,-22.92,-43.3
+Aedes albopictus,11902,Brazil,2001,-22.76,-43.45
+Aedes albopictus,11913,Malaysia,1970,1.55,110.34
+Aedes albopictus,11913,Malaysia,1970,4.25,117.88
+Aedes albopictus,11913,Malaysia,1970,4.4,113.98
+Aedes albopictus,11913,Malaysia,1970,4.47,118.6
+Aedes albopictus,11913,Brunei Darussalam,1970,4.81,114.65
+Aedes albopictus,11913,Malaysia,1970,5.0,118.0
+Aedes albopictus,11913,Malaysia,1970,5.07,119.05
+Aedes albopictus,11913,Malaysia,1970,5.09,115.56
+Aedes albopictus,11913,Malaysia,1970,5.12,115.59
+Aedes albopictus,11913,Malaysia,1970,5.12,115.94
+Aedes albopictus,11913,Malaysia,1970,5.22,115.6
+Aedes albopictus,11913,Malaysia,1970,5.28,115.25
+Aedes albopictus,11913,Malaysia,1970,5.34,116.16
+Aedes albopictus,11913,Malaysia,1970,5.35,115.73
+Aedes albopictus,11913,Malaysia,1970,5.37,115.23
+Aedes albopictus,11913,Malaysia,1970,5.45,119.13
+Aedes albopictus,11913,Malaysia,1970,5.57,115.6
+Aedes albopictus,11913,Malaysia,1970,5.74,115.93
+Aedes albopictus,11913,Malaysia,1970,5.84,118.11
+Aedes albopictus,11913,Malaysia,1970,5.87,118.09
+Aedes albopictus,11913,Malaysia,1970,5.97,116.08
+Aedes albopictus,11913,Malaysia,1970,6.2,116.24
+Aedes albopictus,11913,Malaysia,1970,6.35,116.43
+Aedes albopictus,11913,Malaysia,1970,6.65,117.48
+Aedes albopictus,11924,Brazil,2005,-22.88,-43.25
+Aedes albopictus,11924,Brazil,2005,-22.79,-43.23
+Aedes albopictus,11998,Brazil,1995,-22.22,-49.95
+Aedes albopictus,12022,United States of America,1990,29.35,-98.44
+Aedes albopictus,12022,United States of America,1990,29.38,-98.58
+Aedes albopictus,12022,United States of America,1990,29.39,-98.62
+Aedes albopictus,12022,United States of America,1990,29.53,-98.28
+Aedes albopictus,12022,United States of America,1990,29.99,-85.47
+Aedes albopictus,12022,United States of America,1990,30.41,-88.92
+Aedes albopictus,12022,United States of America,1990,31.32,-92.53
+Aedes albopictus,12022,United States of America,1990,32.5,-93.56
+Aedes albopictus,12022,United States of America,1990,34.91,-92.13
+Aedes albopictus,12022,United States of America,1990,35.37,-86.06
+Aedes albopictus,12022,United States of America,1990,35.42,-97.39
+Aedes albopictus,12022,United States of America,1990,35.96,-89.95
+Aedes albopictus,12023,United States of America,1991,27.85,-82.5
+Aedes albopictus,12023,United States of America,1991,29.35,-98.44
+Aedes albopictus,12023,United States of America,1991,29.38,-98.58
+Aedes albopictus,12023,United States of America,1991,29.39,-98.62
+Aedes albopictus,12023,United States of America,1991,29.53,-98.28
+Aedes albopictus,12023,United States of America,1991,29.99,-85.47
+Aedes albopictus,12023,United States of America,1991,30.46,-86.56
+Aedes albopictus,12023,United States of America,1991,32.38,-86.36
+Aedes albopictus,12023,United States of America,1991,32.4,-86.25
+Aedes albopictus,12023,United States of America,1991,32.5,-93.56
+Aedes albopictus,12023,United States of America,1991,33.63,-88.45
+Aedes albopictus,12023,United States of America,1991,33.97,-80.48
+Aedes albopictus,12023,United States of America,1991,34.91,-92.13
+Aedes albopictus,12023,United States of America,1991,35.37,-86.06
+Aedes albopictus,12023,United States of America,1991,35.42,-97.39
+Aedes albopictus,12023,United States of America,1991,35.96,-89.95
+Aedes albopictus,12024,United States of America,1992,27.59,-81.45
+Aedes albopictus,12024,United States of America,1992,27.85,-82.5
+Aedes albopictus,12024,United States of America,1992,29.35,-98.44
+Aedes albopictus,12024,United States of America,1992,29.38,-98.58
+Aedes albopictus,12024,United States of America,1992,29.39,-98.62
+Aedes albopictus,12024,United States of America,1992,29.53,-98.28
+Aedes albopictus,12024,United States of America,1992,29.99,-85.47
+Aedes albopictus,12024,United States of America,1992,30.41,-88.92
+Aedes albopictus,12024,United States of America,1992,30.97,-83.18
+Aedes albopictus,12024,United States of America,1992,31.43,-100.42
+Aedes albopictus,12024,United States of America,1992,32.38,-86.36
+Aedes albopictus,12024,United States of America,1992,32.4,-86.25
+Aedes albopictus,12024,United States of America,1992,32.5,-93.56
+Aedes albopictus,12024,United States of America,1992,32.9,-80.05
+Aedes albopictus,12024,United States of America,1992,33.63,-88.45
+Aedes albopictus,12024,United States of America,1992,33.97,-80.48
+Aedes albopictus,12024,United States of America,1992,34.91,-92.13
+Aedes albopictus,12024,United States of America,1992,35.37,-86.06
+Aedes albopictus,12024,United States of America,1992,35.42,-97.39
+Aedes albopictus,12025,United States of America,1989,29.35,-98.44
+Aedes albopictus,12025,United States of America,1989,29.38,-98.58
+Aedes albopictus,12025,United States of America,1989,29.39,-98.62
+Aedes albopictus,12025,United States of America,1989,29.43,-98.5
+Aedes albopictus,12025,United States of America,1989,29.47,-98.48
+Aedes albopictus,12025,United States of America,1989,29.53,-98.28
+Aedes albopictus,12025,United States of America,1989,31.32,-92.53
+Aedes albopictus,12025,United States of America,1989,32.5,-93.56
+Aedes albopictus,12025,United States of America,1989,32.77,-97.43
+Aedes albopictus,12025,United States of America,1989,34.91,-92.13
+Aedes albopictus,12025,United States of America,1989,35.37,-86.06
+Aedes albopictus,12026,United States of America,1988,29.35,-98.44
+Aedes albopictus,12026,United States of America,1988,29.38,-98.58
+Aedes albopictus,12026,United States of America,1988,29.43,-98.5
+Aedes albopictus,12026,United States of America,1988,29.47,-98.48
+Aedes albopictus,12026,United States of America,1988,30.41,-88.92
+Aedes albopictus,12026,United States of America,1988,32.38,-86.36
+Aedes albopictus,12026,United States of America,1988,32.5,-93.56
+Aedes albopictus,12026,United States of America,1988,34.91,-92.13
+Aedes albopictus,12026,United States of America,1988,38.54,-89.85
+Aedes albopictus,12047,Colombia,2004,3.88,-77.04
+Aedes albopictus,12048,Mexico,1999,25.3,-100.04
+Aedes albopictus,12145,Madagascar,1999,-12.28,49.29
+Aedes albopictus,12145,R?union,2000,-20.92,55.34
+Aedes albopictus,12145,R?union,2000,-20.88,55.45
+Aedes albopictus,12145,Thailand,2000,18.79,99.0
+Aedes albopictus,12145,Viet Nam,2000,21.03,105.85
+Aedes albopictus,12145,Cambodia,2001,13.37,103.86
+Aedes albopictus,12146,Thailand,0,18.92,99.2
+Aedes albopictus,12158,United States of America,1988,38.4,-89.93
+Aedes albopictus,12158,United States of America,1988,38.69,-90.16
+Aedes albopictus,12206,Brazil,0,-22.88,-48.45
+Aedes albopictus,12226,Guatemala,1995,15.68,-88.61
+Aedes albopictus,12226,Guatemala,1995,15.68,-88.58
+Aedes albopictus,12226,Guatemala,1995,15.68,-88.63
+Aedes albopictus,12226,Guatemala,1995,15.69,-88.62
+Aedes albopictus,12226,Guatemala,1995,15.69,-88.61
+Aedes albopictus,12226,Guatemala,1995,15.7,-88.58
+Aedes albopictus,12226,Guatemala,1995,15.71,-88.57
+Aedes albopictus,12226,Guatemala,1995,15.72,-88.55
+Aedes albopictus,12226,Guatemala,1995,15.72,-88.64
+Aedes albopictus,12226,Guatemala,1995,15.72,-88.57
+Aedes albopictus,12226,Guatemala,1995,15.73,-88.59
+Aedes albopictus,12226,Guatemala,1995,15.73,-88.68
+Aedes albopictus,12236,United States of America,1999,25.68,-80.27
+Aedes albopictus,12240,United States of America,1995,33.66,-83.61
+Aedes albopictus,12240,United States of America,1995,34.73,-83.38
+Aedes albopictus,12240,United States of America,1996,34.73,-83.38
+Aedes albopictus,12240,United States of America,1996,35.01,-81.21
+Aedes albopictus,12241,United States of America,1990,29.9,-81.34
+Aedes albopictus,12241,United States of America,1991,29.26,-81.04
+Aedes albopictus,12241,United States of America,1991,29.64,-81.66
+Aedes albopictus,12241,United States of America,1991,29.9,-81.34
+Aedes albopictus,12250,Mexico,2001,24.86,-99.56
+Aedes albopictus,12250,Mexico,2003,25.18,-99.84
+Aedes albopictus,12250,Mexico,2003,25.26,-99.68
+Aedes albopictus,12250,Mexico,2003,25.29,-100.04
+Aedes albopictus,12250,Mexico,2003,25.78,-100.19
+Aedes albopictus,12250,Mexico,2003,26.5,-100.18
+Aedes albopictus,12250,Mexico,2004,25.4,-100.13
+Aedes albopictus,12250,Mexico,2004,25.59,-100.0
+Aedes albopictus,12250,Mexico,2004,25.82,-100.33
+Aedes albopictus,12250,Mexico,2004,26.12,-100.87
+Aedes albopictus,12296,R?union,1999,-21.35,55.58
+Aedes albopictus,12296,R?union,1999,-21.28,55.42
+Aedes albopictus,12296,R?union,1999,-21.27,55.52
+Aedes albopictus,12296,R?union,1999,-21.22,55.48
+Aedes albopictus,12296,R?union,1999,-21.16,55.3
+Aedes albopictus,12296,R?union,1999,-21.12,55.76
+Aedes albopictus,12296,R?union,1999,-21.12,55.8
+Aedes albopictus,12296,R?union,1999,-21.12,55.78
+Aedes albopictus,12296,R?union,1999,-21.03,55.72
+Aedes albopictus,12296,R?union,1999,-21.0,55.27
+Aedes albopictus,12296,R?union,1999,-20.99,55.3
+Aedes albopictus,12296,R?union,1999,-20.95,55.65
+Aedes albopictus,12296,R?union,1999,-20.93,55.3
+Aedes albopictus,12296,R?union,1999,-20.92,55.34
+Aedes albopictus,12296,R?union,1999,-20.9,55.61
+Aedes albopictus,12296,R?union,1999,-20.89,55.55
+Aedes albopictus,12296,R?union,1999,-20.88,55.45
+Aedes albopictus,12309,Dominican Republic,1994,18.52,-69.93
+Aedes albopictus,12319,Mexico,2006,14.9,-92.27
+Aedes albopictus,12325,Brazil,0,-22.8,-43.42
+Aedes albopictus,12325,Brazil,0,-22.75,-43.4
+Aedes albopictus,12332,Mexico,1997,25.26,-100.0
+Aedes albopictus,12332,Mexico,1997,25.26,-100.01
+Aedes albopictus,12332,Mexico,1997,25.27,-100.0
+Aedes albopictus,12332,Mexico,1997,25.27,-100.03
+Aedes albopictus,12332,Mexico,1997,25.28,-100.02
+Aedes albopictus,12332,Mexico,1997,25.3,-100.04
+Aedes albopictus,12338,Thailand,2005,6.99,100.46
+Aedes albopictus,12368,Thailand,2005,7.5,100.05
+Aedes albopictus,12368,Thailand,2005,15.08,101.9
+Aedes albopictus,12368,Thailand,2005,16.75,98.58
+Aedes albopictus,12392,Sri Lanka,1987,9.66,80.02
+Aedes albopictus,12397,India,1969,12.77,79.78
+Aedes albopictus,12397,India,1969,12.9,79.33
+Aedes albopictus,12397,India,1969,12.92,79.14
+Aedes albopictus,12397,India,1969,12.93,79.33
+Aedes albopictus,12397,India,1969,13.08,80.27
+Aedes albopictus,12397,India,1969,13.21,79.11
+Aedes albopictus,12423,United States of America,2000,35.82,-83.25
+Aedes albopictus,12423,United States of America,2001,35.49,-83.32
+Aedes albopictus,12423,United States of America,2001,35.51,-83.3
+Aedes albopictus,12423,United States of America,2003,35.62,-83.8
+Aedes albopictus,12430,United States of America,1983,35.14,-90.04
+Aedes albopictus,12451,United States of America,2005,27.64,-80.4
+Aedes albopictus,12452,United States of America,2004,26.46,-80.08
+Aedes albopictus,12466,United States of America,1993,34.69,-82.83
+Aedes albopictus,12474,Brazil,2004,-3.12,-60.02
+Aedes albopictus,12484,Papua New Guinea,1992,-9.08,143.21
+Aedes albopictus,12484,Papua New Guinea,1992,-6.12,141.3
+Aedes albopictus,12484,Australia,2005,-9.95,142.18
+Aedes albopictus,12484,Australia,2005,-9.92,144.06
+Aedes albopictus,12484,Australia,2005,-9.76,143.42
+Aedes albopictus,12484,Australia,2005,-9.6,143.77
+Aedes albopictus,12484,Australia,2005,-9.42,142.54
+Aedes albopictus,12513,Mexico,1993,27.88,-101.52
+Aedes albopictus,12536,Malaysia,0,3.17,101.71
+Aedes albopictus,12537,Malaysia,2004,5.42,100.34
+Aedes albopictus,12537,Malaysia,2004,5.56,100.37
+Aedes albopictus,12579,Mexico,1995,25.87,-97.51
+Aedes albopictus,12579,United States of America,1995,25.91,-97.5
+Aedes albopictus,12579,Mexico,1995,26.08,-98.29
+Aedes albopictus,12579,United States of America,1995,26.15,-97.98
+Aedes albopictus,12579,United States of America,1995,26.21,-98.23
+Aedes albopictus,12579,United States of America,1995,26.22,-98.32
+Aedes albopictus,12595,United States of America,1999,38.92,-76.92
+Aedes albopictus,12602,Nigeria,1991,6.12,6.35
+Aedes albopictus,12602,Nigeria,1991,6.3,6.38
+Aedes albopictus,12630,Philippines,1987,14.49,120.99
+Aedes albopictus,12630,Philippines,1987,14.55,121.0
+Aedes albopictus,12630,Philippines,1987,14.57,121.02
+Aedes albopictus,12630,Philippines,1987,14.63,120.99
+Aedes albopictus,12630,Philippines,1987,14.64,120.99
+Aedes albopictus,12657,Malaysia,1993,2.29,111.83
+Aedes albopictus,12661,Brazil,2003,-22.84,-45.25
+Aedes albopictus,12706,Cameroon,2002,2.92,11.15
+Aedes albopictus,12706,Cameroon,2002,2.93,11.98
+Aedes albopictus,12706,Cameroon,2002,3.52,11.5
+Aedes albopictus,12706,Cameroon,2002,3.87,11.52
+Aedes albopictus,12706,Cameroon,2002,3.9,12.53
+Aedes albopictus,12706,Cameroon,2002,4.02,9.19
+Aedes albopictus,12706,Cameroon,2002,4.05,9.71
+Aedes albopictus,12706,Cameroon,2002,4.07,9.37
+Aedes albopictus,12706,Cameroon,2002,4.16,9.23
+Aedes albopictus,12706,Cameroon,2002,4.43,14.36
+Aedes albopictus,12706,Cameroon,2002,4.5,9.57
+Aedes albopictus,12706,Cameroon,2002,4.58,13.68
+Aedes albopictus,12706,Cameroon,2002,5.3,9.9
+Aedes albopictus,12706,Cameroon,2002,5.45,10.05
+Aedes albopictus,12706,Cameroon,2002,5.49,10.41
+Aedes albopictus,12706,Cameroon,2002,5.89,14.55
+Aedes albopictus,12706,Cameroon,2002,5.96,10.15
+Aedes albopictus,12706,Cameroon,2002,6.09,11.49
+Aedes albopictus,12706,Cameroon,2002,6.47,12.62
+Aedes albopictus,12745,Malaysia,1986,1.55,110.34
+Aedes albopictus,12745,Japan,1988,26.26,127.73
+Aedes albopictus,12745,Japan,1988,31.09,130.69
+Aedes albopictus,12745,Japan,1988,33.37,130.32
+Aedes albopictus,12745,Japan,1988,33.55,129.88
+Aedes albopictus,12745,Japan,1989,26.58,127.22
+Aedes albopictus,12771,Thailand,1991,13.64,101.29
+Aedes albopictus,12795,Malaysia,1994,3.08,101.62
+Aedes albopictus,12795,Malaysia,1994,3.11,101.73
+Aedes albopictus,12795,Malaysia,1994,3.15,101.72
+Aedes albopictus,12795,Malaysia,1994,3.16,101.66
+Aedes albopictus,12795,Malaysia,1994,3.18,101.7
+Aedes albopictus,12795,Malaysia,1994,3.21,101.64
+Aedes albopictus,12799,Malaysia,0,3.09,101.72
+Aedes albopictus,12804,Japan,0,33.25,130.2
+Aedes albopictus,12808,Sri Lanka,2006,9.67,80.02
+Aedes albopictus,12815,United States of America,1987,39.14,-77.2
+Aedes albopictus,12844,China,2002,22.66,120.47
+Aedes albopictus,12849,India,1999,12.25,79.33
+Aedes albopictus,12849,India,1999,12.82,79.15
+Aedes albopictus,12860,Thailand,1995,9.45,100.03
+Aedes albopictus,12860,Thailand,1995,9.46,99.99
+Aedes albopictus,12860,Thailand,1995,9.54,99.95
+Aedes albopictus,12903,United States of America,1977,35.79,-78.65
+Aedes albopictus,12905,United States of America,1995,35.79,-78.65
+Aedes albopictus,12962,Brazil,1999,-20.32,-40.35
+Aedes albopictus,13010,Bangladesh,2001,23.71,90.41
+Aedes albopictus,13075,United States of America,1992,26.02,-97.54
+Aedes albopictus,13075,United States of America,1992,26.13,-97.63
+Aedes albopictus,13075,United States of America,1992,26.3,-98.16
+Aedes albopictus,13075,United States of America,1992,27.22,-98.15
+Aedes albopictus,13075,United States of America,1992,27.31,-98.68
+Aedes albopictus,13075,United States of America,1992,27.52,-97.86
+Aedes albopictus,13075,United States of America,1992,27.74,-98.07
+Aedes albopictus,13075,United States of America,1992,28.03,-97.5
+Aedes albopictus,13075,United States of America,1992,28.3,-97.27
+Aedes albopictus,13075,United States of America,1992,28.33,-98.13
+Aedes albopictus,13075,United States of America,1992,28.4,-97.75
+Aedes albopictus,13075,United States of America,1992,28.44,-99.23
+Aedes albopictus,13075,United States of America,1992,28.52,-99.86
+Aedes albopictus,13075,United States of America,1992,28.66,-97.39
+Aedes albopictus,13075,United States of America,1992,28.81,-96.99
+Aedes albopictus,13075,United States of America,1992,28.88,-99.1
+Aedes albopictus,13075,United States of America,1992,28.88,-97.9
+Aedes albopictus,13075,United States of America,1992,28.95,-100.63
+Aedes albopictus,13075,United States of America,1992,28.96,-99.62
+Aedes albopictus,13075,United States of America,1992,28.96,-98.48
+Aedes albopictus,13075,United States of America,1992,28.98,-97.5
+Aedes albopictus,13075,United States of America,1992,28.98,-96.65
+Aedes albopictus,13075,United States of America,1992,29.13,-98.16
+Aedes albopictus,13075,United States of America,1992,29.19,-98.86
+Aedes albopictus,13075,United States of America,1992,29.21,-99.79
+Aedes albopictus,13075,United States of America,1992,29.28,-97.15
+Aedes albopictus,13075,United States of America,1992,29.31,-100.41
+Aedes albopictus,13075,United States of America,1992,29.33,-98.45
+Aedes albopictus,13075,United States of America,1992,29.34,-98.47
+Aedes albopictus,13075,United States of America,1992,29.36,-100.9
+Aedes albopictus,13075,United States of America,1992,29.39,-98.36
+Aedes albopictus,13075,United States of America,1992,29.4,-98.42
+Aedes albopictus,13075,United States of America,1992,29.46,-98.47
+Aedes albopictus,13075,United States of America,1992,29.46,-98.55
+Aedes albopictus,13075,United States of America,1992,29.54,-98.64
+Aedes albopictus,13075,United States of America,1992,29.56,-98.4
+Aedes albopictus,13075,United States of America,1992,29.57,-97.97
+Aedes albopictus,13075,United States of America,1992,29.68,-96.91
+Aedes albopictus,13075,United States of America,1992,29.68,-97.65
+Aedes albopictus,13075,United States of America,1992,29.7,-97.3
+Aedes albopictus,13075,United States of America,1992,29.7,-98.11
+Aedes albopictus,13075,United States of America,1992,29.79,-98.73
+Aedes albopictus,13075,United States of America,1992,29.8,-99.25
+Aedes albopictus,13075,United States of America,1992,30.0,-98.1
+Aedes albopictus,13075,United States of America,1992,30.05,-99.14
+Aedes albopictus,13075,United States of America,1992,30.27,-98.87
+Aedes albopictus,13075,United States of America,1992,30.28,-98.41
+Aedes albopictus,13093,United States of America,0,29.66,-82.34
+Aedes albopictus,13113,United States of America,0,38.63,-90.21
+Aedes albopictus,13128,Brazil,1996,-23.32,-51.21
+Aedes albopictus,13141,China,0,25.33,107.43
+Aedes albopictus,13193,Japan,1968,32.75,129.88
+Aedes albopictus,13193,Japan,1975,34.64,129.33
+Aedes albopictus,13195,Japan,1979,26.2,127.7
+Aedes albopictus,13196,Malaysia,1980,3.13,101.66
+Aedes albopictus,13196,Malaysia,1980,3.13,101.63
+Aedes albopictus,13196,Malaysia,1980,3.18,101.7
+Aedes albopictus,13198,Malaysia,1982,3.13,101.66
+Aedes albopictus,13198,Malaysia,1982,3.13,101.63
+Aedes albopictus,13198,Malaysia,1982,3.18,101.7
+Aedes albopictus,13199,Sri Lanka,1983,7.26,80.6
+Aedes albopictus,13213,Brazil,1986,-22.58,-44.69
+Aedes albopictus,13223,United States of America,1985,29.83,-95.4
+Aedes albopictus,13225,Malaysia,1985,5.29,100.19
+Aedes albopictus,13225,Malaysia,1985,5.36,100.3
+Aedes albopictus,13225,Malaysia,1985,5.41,100.44
+Aedes albopictus,13225,Malaysia,1985,5.46,100.21
+Aedes albopictus,13228,Thailand,1968,9.14,99.33
+Aedes albopictus,13228,Madagascar,1974,-18.91,47.53
+Aedes albopictus,13228,India,1984,11.35,76.79
+Aedes albopictus,13235,United States of America,0,29.83,-95.4
+Aedes albopictus,13235,United States of America,0,37.98,-87.57
+Aedes albopictus,13236,Malaysia,1987,1.17,110.56
+Aedes albopictus,13236,Malaysia,1987,1.55,110.35
+Aedes albopictus,13236,Malaysia,1987,3.18,101.72
+Aedes albopictus,13236,Malaysia,1987,3.2,101.76
+Aedes albopictus,13236,Malaysia,1987,3.21,101.61
+Aedes albopictus,13236,Malaysia,1987,5.06,102.86
+Aedes albopictus,13236,Malaysia,1987,5.13,103.1
+Aedes albopictus,13236,Malaysia,1987,5.27,103.17
+Aedes albopictus,13236,Malaysia,1987,5.32,103.15
+Aedes albopictus,13236,Malaysia,1987,5.36,103.0
+Aedes albopictus,13236,Malaysia,1987,5.42,103.07
+Aedes albopictus,13236,Malaysia,1987,5.97,116.08
+Aedes albopictus,13251,United States of America,1987,37.98,-87.56
+Aedes albopictus,13251,United States of America,1988,37.98,-87.56
+Aedes albopictus,13257,United States of America,1986,29.75,-95.35
+Aedes albopictus,13263,United States of America,1989,37.98,-90.75
+Aedes albopictus,13266,United States of America,1989,29.75,-95.35
+Aedes albopictus,13271,United States of America,1989,30.07,-89.9
+Aedes albopictus,13274,United States of America,1987,29.73,-94.97
+Aedes albopictus,13274,United States of America,1987,30.21,-92.02
+Aedes albopictus,13274,United States of America,1987,30.33,-81.65
+Aedes albopictus,13274,United States of America,1987,30.46,-91.15
+Aedes albopictus,13274,United States of America,1987,32.48,-93.77
+Aedes albopictus,13274,United States of America,1987,37.98,-87.57
+Aedes albopictus,13274,United States of America,1987,39.1,-94.58
+Aedes albopictus,13285,Nigeria,1991,6.12,6.35
+Aedes albopictus,13285,Nigeria,1991,6.22,6.22
+Aedes albopictus,13285,Nigeria,1991,6.3,6.38
+Aedes albopictus,13290,South Africa,1989,-33.93,18.44
+Aedes albopictus,13290,South Africa,1990,-33.93,18.44
+Aedes albopictus,13291,United States of America,1990,39.23,-85.01
+Aedes albopictus,13293,United States of America,1988,30.02,-89.98
+Aedes albopictus,13293,United States of America,1989,30.03,-89.91
+Aedes albopictus,13306,United States of America,0,40.11,-88.2
+Aedes albopictus,13319,China,0,20.04,110.34
+Aedes albopictus,13319,China,0,21.48,109.11
+Aedes albopictus,13319,China,0,22.83,108.31
+Aedes albopictus,13319,China,0,23.13,113.24
+Aedes albopictus,13319,China,0,23.17,108.26
+Aedes albopictus,13319,China,0,23.69,102.48
+Aedes albopictus,13319,China,0,23.85,116.86
+Aedes albopictus,13319,China,0,25.81,113.02
+Aedes albopictus,13319,China,0,26.07,119.3
+Aedes albopictus,13319,China,0,26.57,106.7
+Aedes albopictus,13319,China,0,30.67,104.07
+Aedes albopictus,13319,China,0,31.24,121.48
+Aedes albopictus,13319,China,0,34.26,108.88
+Aedes albopictus,13319,China,0,34.77,113.65
+Aedes albopictus,13328,United States of America,0,21.44,-158.0
+Aedes albopictus,13334,United States of America,1991,38.62,-90.16
+Aedes albopictus,13346,Brazil,1993,-19.68,-46.17
+Aedes albopictus,13350,United States of America,1988,39.29,-76.62
+Aedes albopictus,13360,Papua New Guinea,1992,-9.09,143.21
+Aedes albopictus,13360,Papua New Guinea,1992,-6.12,141.3
+Aedes albopictus,13362,Macau,1991,22.16,113.56
+Aedes albopictus,13364,Mexico,1993,28.71,-100.52
+Aedes albopictus,13364,Mexico,1993,29.32,-100.93
+Aedes albopictus,13367,New Zealand,1992,-36.96,174.9
+Aedes albopictus,13369,India,0,11.93,79.81
+Aedes albopictus,13372,United States of America,1989,39.23,-85.01
+Aedes albopictus,13372,United States of America,1991,29.97,-90.07
+Aedes albopictus,13372,United States of America,1991,37.11,-89.2
+Aedes albopictus,13372,United States of America,1991,37.94,-90.78
+Aedes albopictus,13372,United States of America,1991,38.62,-90.16
+Aedes albopictus,13372,United States of America,1991,39.13,-89.82
+Aedes albopictus,13375,United States of America,1993,34.23,-92.02
+Aedes albopictus,13376,Japan,1992,33.55,129.88
+Aedes albopictus,13376,Japan,1992,33.56,129.89
+Aedes albopictus,13384,United States of America,1993,27.59,-80.37
+Aedes albopictus,13401,Malaysia,1992,3.57,101.07
+Aedes albopictus,13409,United States of America,1995,40.43,-74.2
+Aedes albopictus,13413,United States of America,1989,37.94,-90.78
+Aedes albopictus,13418,Brazil,1996,-25.45,-49.23
+Aedes albopictus,13419,Brazil,0,-22.8,-47.07
+Aedes albopictus,13431,United States of America,1995,38.87,-88.15
+Aedes albopictus,13437,Brazil,1997,-23.49,-46.51
+Aedes albopictus,13442,Japan,1996,33.27,130.21
+Aedes albopictus,13444,United States of America,1995,29.66,-82.34
+Aedes albopictus,13450,Brazil,1998,-24.89,-47.8
+Aedes albopictus,13450,Brazil,1998,-23.84,-45.35
+Aedes albopictus,13451,United States of America,1997,40.7,-89.62
+Aedes albopictus,13452,Brazil,1996,-22.97,-43.03
+Aedes albopictus,13457,China,1987,30.67,104.07
+Aedes albopictus,13457,China,1990,29.6,103.48
+Aedes albopictus,13457,China,1994,25.28,110.28
+Aedes albopictus,13461,Brazil,1997,-2.48,-44.23
+Aedes albopictus,13465,Nepal,1991,27.05,86.03
+Aedes albopictus,13471,Argentina,1998,-26.06,-53.74
+Aedes albopictus,13474,Indonesia,1997,-8.86,121.66
+Aedes albopictus,13475,China,1997,25.0,121.5
+Aedes albopictus,13480,Brazil,1999,-8.0,-34.94
+Aedes albopictus,13481,Brazil,2000,-24.89,-47.8
+Aedes albopictus,13488,United States of America,1998,38.26,-76.97
+Aedes albopictus,13497,United States of America,1999,35.65,-84.51
+Aedes albopictus,13497,United States of America,1999,35.68,-83.75
+Aedes albopictus,13497,United States of America,1999,35.91,-84.88
+Aedes albopictus,13497,United States of America,1999,36.02,-84.28
+Aedes albopictus,13497,United States of America,1999,36.1,-84.13
+Aedes albopictus,13500,China,1998,24.14,120.67
+Aedes albopictus,13502,Brazil,1999,-24.89,-47.8
+Aedes albopictus,13504,United States of America,2000,40.81,-96.78
+Aedes albopictus,13505,United States of America,1998,27.59,-80.37
+Aedes albopictus,13511,Japan,1999,26.74,128.17
+Aedes albopictus,13515,Brazil,2001,-8.1,-34.97
+Aedes albopictus,13515,Brazil,2001,-8.07,-34.95
+Aedes albopictus,13515,Brazil,2001,-8.03,-34.92
+Aedes albopictus,13516,Brazil,0,-26.32,-48.86
+Aedes albopictus,13516,Brazil,0,-22.93,-43.35
+Aedes albopictus,13516,Brazil,0,-20.31,-40.31
+Aedes albopictus,13516,Indonesia,0,-5.15,119.41
+Aedes albopictus,13516,United States of America,0,27.65,-80.39
+Aedes albopictus,13518,Brazil,1999,-24.5,-47.84
+Aedes albopictus,13524,United States of America,1998,35.87,-83.22
+Aedes albopictus,13524,United States of America,1998,35.98,-84.13
+Aedes albopictus,13525,United States of America,1998,36.63,-76.45
+Aedes albopictus,13526,United States of America,2000,39.95,-75.16
+Aedes albopictus,13526,United States of America,2000,40.02,-75.21
+Aedes albopictus,13527,China,0,30.25,120.17
+Aedes albopictus,13529,Thailand,2000,13.65,101.28
+Aedes albopictus,13531,Thailand,2000,13.62,101.27
+Aedes albopictus,13531,Thailand,2000,14.44,98.85
+Aedes albopictus,13532,Japan,2000,37.49,139.93
+Aedes albopictus,13532,Japan,2000,37.75,140.48
+Aedes albopictus,13532,Japan,2000,38.25,140.34
+Aedes albopictus,13532,Japan,2000,38.28,140.88
+Aedes albopictus,13532,Japan,2000,38.43,141.29
+Aedes albopictus,13532,Japan,2000,38.57,140.96
+Aedes albopictus,13532,Japan,2000,38.91,139.84
+Aedes albopictus,13532,Japan,2000,38.93,141.14
+Aedes albopictus,13532,Japan,2000,38.98,141.24
+Aedes albopictus,13532,Japan,2000,39.13,141.13
+Aedes albopictus,13532,Japan,2000,39.27,141.89
+Aedes albopictus,13532,Japan,2000,39.29,141.12
+Aedes albopictus,13532,Japan,2000,39.39,140.05
+Aedes albopictus,13532,Japan,2000,39.7,141.15
+Aedes albopictus,13532,Japan,2000,39.71,140.12
+Aedes albopictus,13532,Japan,2000,40.2,140.03
+Aedes albopictus,13533,Brazil,2001,-26.21,-48.53
+Aedes albopictus,13535,Japan,0,35.37,136.62
+Aedes albopictus,13537,Japan,1999,33.25,130.3
+Aedes albopictus,13539,United States of America,1999,36.62,-82.61
+Aedes albopictus,13539,United States of America,1999,36.63,-82.55
+Aedes albopictus,13539,United States of America,1999,36.64,-82.68
+Aedes albopictus,13539,United States of America,1999,36.65,-82.47
+Aedes albopictus,13539,United States of America,1999,36.69,-83.11
+Aedes albopictus,13539,United States of America,1999,36.7,-82.75
+Aedes albopictus,13539,United States of America,1999,36.72,-82.8
+Aedes albopictus,13539,United States of America,1999,36.73,-83.0
+Aedes albopictus,13539,United States of America,1999,36.78,-82.47
+Aedes albopictus,13539,United States of America,1999,36.86,-82.91
+Aedes albopictus,13539,United States of America,1999,36.87,-82.75
+Aedes albopictus,13539,United States of America,1999,36.89,-82.38
+Aedes albopictus,13539,United States of America,1999,36.89,-82.63
+Aedes albopictus,13539,United States of America,1999,36.92,-82.63
+Aedes albopictus,13539,United States of America,1999,36.94,-82.62
+Aedes albopictus,13539,United States of America,1999,36.97,-82.75
+Aedes albopictus,13539,United States of America,1999,37.01,-82.61
+Aedes albopictus,13539,United States of America,1999,37.04,-82.52
+Aedes albopictus,13539,United States of America,1999,37.12,-82.6
+Aedes albopictus,13539,United States of America,1999,37.24,-77.5
+Aedes albopictus,13539,United States of America,1999,37.88,-78.94
+Aedes albopictus,13541,Mexico,2002,14.92,-92.25
+Aedes albopictus,13544,United States of America,1998,34.22,-77.95
+Aedes albopictus,13545,Brazil,2002,-9.66,-35.74
+Aedes albopictus,13545,Brazil,2002,-3.42,-52.7
+Aedes albopictus,13546,Brazil,2002,-3.09,-60.05
+Aedes albopictus,13547,Brazil,0,-24.89,-47.8
+Aedes albopictus,13547,Brazil,0,-22.93,-45.46
+Aedes albopictus,13554,United States of America,2001,33.2,-117.24
+Aedes albopictus,13554,United States of America,2001,33.63,-117.92
+Aedes albopictus,13554,United States of America,2001,33.76,-117.98
+Aedes albopictus,13554,United States of America,2001,33.77,-118.2
+Aedes albopictus,13554,United States of America,2001,33.78,-118.29
+Aedes albopictus,13554,United States of America,2001,33.92,-117.89
+Aedes albopictus,13554,United States of America,2001,33.98,-117.91
+Aedes albopictus,13554,United States of America,2001,34.01,-117.7
+Aedes albopictus,13554,United States of America,2001,34.06,-118.13
+Aedes albopictus,13554,United States of America,2001,34.06,-118.01
+Aedes albopictus,13554,United States of America,2001,34.09,-118.07
+Aedes albopictus,13554,United States of America,2001,34.09,-118.13
+Aedes albopictus,13554,United States of America,2001,37.09,-121.6
+Aedes albopictus,13554,United States of America,2001,37.66,-122.42
+Aedes albopictus,13554,United States of America,2001,38.13,-121.28
+Aedes albopictus,13554,United States of America,2002,33.98,-117.91
+Aedes albopictus,13554,United States of America,2002,34.01,-117.7
+Aedes albopictus,13554,United States of America,2002,34.06,-118.13
+Aedes albopictus,13556,Brazil,0,-27.6,-48.54
+Aedes albopictus,13556,Brazil,0,-27.46,-53.93
+Aedes albopictus,13556,Brazil,0,-26.92,-49.1
+Aedes albopictus,13556,Brazil,0,-25.52,-48.53
+Aedes albopictus,13556,Brazil,0,-23.62,-45.43
+Aedes albopictus,13556,Brazil,0,-23.04,-45.56
+Aedes albopictus,13556,Brazil,0,-22.93,-45.46
+Aedes albopictus,13556,Brazil,0,-12.97,-38.5
+Aedes albopictus,13556,Brazil,0,-2.51,-44.3
+Aedes albopictus,13556,United States of America,0,25.34,-80.34
+Aedes albopictus,13556,United States of America,0,27.65,-80.39
+Aedes albopictus,13556,United States of America,0,30.52,-87.28
+Aedes albopictus,13556,United States of America,0,30.8,-85.38
+Aedes albopictus,13556,United States of America,0,33.94,-84.2
+Aedes albopictus,13556,United States of America,0,34.95,-83.76
+Aedes albopictus,13556,United States of America,0,38.62,-90.16
+Aedes albopictus,13563,United States of America,1994,30.28,-89.78
+Aedes albopictus,13563,United States of America,1994,30.44,-90.08
+Aedes albopictus,13563,United States of America,1994,30.63,-90.19
+Aedes albopictus,13565,Brazil,2002,-3.45,-52.89
+Aedes albopictus,13577,United States of America,1996,31.31,-85.85
+Aedes albopictus,13580,United States of America,0,27.65,-80.39
+Aedes albopictus,13584,Brazil,0,-24.5,-47.84
+Aedes albopictus,13588,Argentina,1998,-26.41,-54.58
+Aedes albopictus,13598,Fiji,2001,-18.12,178.43
+Aedes albopictus,13600,Brazil,2002,-21.31,-51.85
+Aedes albopictus,13600,Brazil,2002,-20.88,-51.49
+Aedes albopictus,13600,Brazil,2002,-20.48,-48.95
+Aedes albopictus,13600,Brazil,2002,-20.38,-51.33
+Aedes albopictus,13600,Brazil,2002,-20.34,-49.2
+Aedes albopictus,13600,Brazil,2002,-20.21,-50.99
+Aedes albopictus,13600,Brazil,2002,-20.2,-49.37
+Aedes albopictus,13600,Brazil,2002,-20.2,-48.05
+Aedes albopictus,13600,Brazil,2002,-20.18,-48.69
+Aedes albopictus,13600,Brazil,2002,-20.15,-50.84
+Aedes albopictus,13600,Brazil,2002,-20.06,-49.9
+Aedes albopictus,13600,Brazil,2002,-20.04,-50.73
+Aedes albopictus,13600,Brazil,2002,-20.03,-49.4
+Aedes albopictus,13600,Brazil,2002,-19.99,-50.37
+Aedes albopictus,13600,Brazil,2002,-19.98,-49.67
+Aedes albopictus,13600,Brazil,2002,-19.98,-50.17
+Aedes albopictus,13600,Brazil,2002,-19.98,-50.3
+Aedes albopictus,13600,Brazil,2002,-19.97,-50.53
+Aedes albopictus,13608,Brazil,1994,-22.63,-47.2
+Aedes albopictus,13611,United States of America,0,19.81,-155.09
+Aedes albopictus,13611,United States of America,0,21.36,-157.81
+Aedes albopictus,13614,Brazil,1999,-23.88,-45.42
+Aedes albopictus,13614,Brazil,1999,-23.84,-45.31
+Aedes albopictus,13614,Brazil,1999,-23.78,-45.35
+Aedes albopictus,13619,Thailand,2004,16.75,98.57
+Aedes albopictus,13619,Thailand,2004,16.75,98.55
+Aedes albopictus,13620,United States of America,0,29.3,-94.81
+Aedes albopictus,13629,Malaysia,1999,1.49,109.92
+Aedes albopictus,13629,Malaysia,1999,1.62,109.67
+Aedes albopictus,13629,Malaysia,1999,1.63,109.7
+Aedes albopictus,13629,Malaysia,1999,1.64,109.73
+Aedes albopictus,13629,Malaysia,1999,1.67,109.85
+Aedes albopictus,13631,Brazil,2003,-22.2,-55.06
+Aedes albopictus,13641,Brazil,2005,-3.76,-38.55
+Aedes albopictus,13659,United States of America,2005,32.61,-85.48
+Aedes albopictus,13663,Lebanon,2003,33.98,35.62
+Aedes albopictus,13663,Lebanon,2003,34.27,35.67
+Aedes albopictus,13663,Lebanon,2003,34.39,36.4
+Aedes albopictus,13663,Lebanon,2005,33.98,35.62
+Aedes albopictus,13665,United States of America,0,27.52,-80.36
+Aedes albopictus,13667,United States of America,2004,32.48,-85.01
+Aedes albopictus,13667,United States of America,2004,32.61,-85.48
+Aedes albopictus,13684,United States of America,0,27.52,-80.36
+Aedes albopictus,13685,United States of America,0,38.62,-90.16
+Aedes albopictus,13774,Brazil,2006,-15.54,-56.29
+Aedes albopictus,13780,Brazil,0,-22.94,-45.44
+Aedes albopictus,13780,Brazil,0,-22.94,-45.65
+Aedes albopictus,13812,United States of America,2003,35.79,-78.65
+Aedes albopictus,13819,Brazil,2005,-8.08,-34.88
+Aedes albopictus,13819,Brazil,2005,-8.06,-34.94
+Aedes albopictus,13819,Brazil,2005,-8.03,-34.92
+Aedes albopictus,13819,Brazil,2005,-8.02,-34.91
+Aedes albopictus,13819,Brazil,2005,-8.02,-34.96
+Aedes albopictus,13819,Brazil,2005,-8.01,-34.95
+Aedes albopictus,13820,Madagascar,2006,-18.15,49.4
+Aedes albopictus,13870,India,2006,9.54,78.59
+Aedes albopictus,13878,United States of America,0,27.52,-80.46
+Aedes albopictus,13946,United States of America,2003,27.59,-80.37
+Aedes albopictus,13953,Gabon,0,0.39,9.45
+Aedes albopictus,13955,United States of America,2005,26.7,-81.8
+Aedes albopictus,13955,United States of America,2005,28.0,-82.4
+Aedes albopictus,13955,United States of America,2005,38.75,-77.47
+Aedes albopictus,13955,United States of America,2005,39.17,-86.53
+Aedes albopictus,13956,United States of America,2006,27.98,-82.46
+Aedes albopictus,13956,United States of America,2006,27.99,-82.41
+Aedes albopictus,13956,United States of America,2006,28.22,-82.72
+Aedes albopictus,13967,India,2006,9.49,76.33
+Aedes albopictus,13967,India,2006,9.59,76.52
+Aedes albopictus,13970,India,2004,15.49,73.82
+Aedes albopictus,13979,United States of America,2002,29.66,-82.34
+Aedes albopictus,13988,United States of America,0,28.96,-81.89
+Aedes albopictus,13988,United States of America,0,38.62,-90.16
+Aedes albopictus,13989,United States of America,0,27.52,-80.46
+Aedes albopictus,14026,Papua New Guinea,0,-9.27,142.73
+Aedes albopictus,14026,Papua New Guinea,0,-9.15,142.72
+Aedes albopictus,14026,Indonesia,0,-4.76,136.56
+Aedes albopictus,14028,Malaysia,0,5.36,100.3
+Aedes albopictus,14058,Brazil,2004,-20.82,-49.52
+Aedes albopictus,14059,Brazil,2005,-23.28,-51.27
+Aedes albopictus,14059,Brazil,2005,-23.08,-52.46
+Aedes albopictus,14059,Brazil,2006,-23.42,-51.94
+Aedes albopictus,14059,Brazil,2006,-23.16,-49.98
+Aedes albopictus,14062,Thailand,2005,16.37,99.63
+Aedes albopictus,14062,Thailand,2005,16.5,99.5
+Aedes albopictus,14073,Brazil,2005,-3.23,-60.14
+Aedes albopictus,14073,Brazil,2005,-3.12,-59.93
+Aedes albopictus,14073,Brazil,2005,-3.11,-59.98
+Aedes albopictus,14073,Brazil,2005,-3.11,-59.99
+Aedes albopictus,14073,Brazil,2005,-3.07,-59.96
+Aedes albopictus,14073,Brazil,2005,-3.02,-59.97
+Aedes albopictus,14085,Madagascar,0,-23.36,43.66
+Aedes albopictus,14085,Madagascar,0,-15.72,46.3
+Aedes albopictus,14086,R?union,0,-21.32,55.48
+Aedes albopictus,14087,R?union,2006,-21.27,55.53
+Aedes albopictus,14087,R?union,2006,-21.12,55.47
+Aedes albopictus,14087,R?union,2006,-21.12,55.63
+Aedes albopictus,14087,R?union,2006,-21.05,55.42
+Aedes albopictus,14087,R?union,2006,-21.02,55.55
+Aedes albopictus,14103,Gabon,2006,-1.65,11.98
+Aedes albopictus,14103,Gabon,2006,0.39,9.45
+Aedes albopictus,14103,Gabon,2007,0.39,9.45
+Aedes albopictus,14123,Malaysia,2006,3.17,101.7
+Aedes albopictus,14183,Brazil,2006,-10.58,-46.42
+Aedes albopictus,14206,India,2007,26.28,73.02
+Aedes albopictus,14207,India,2007,25.18,75.84
+Aedes albopictus,14207,India,2007,26.91,75.81
+Aedes albopictus,1046,Singapore,1998,1.29,103.85
+Aedes albopictus,14571,Brazil,2003,-19.85,-43.98
+Aedes albopictus,14644,Cayman Islands,2000,19.29,-81.39
+Aedes albopictus,14644,United States of America,2000,28.64,-82.48
+Aedes albopictus,14644,United States of America,2000,32.65,-83.45
+Aedes albopictus,14644,United States of America,2000,34.92,-83.74
+Aedes albopictus,14644,United States of America,2000,40.07,-89.2
+Aedes albopictus,14644,Brazil,2001,-27.58,-48.49
+Aedes albopictus,14644,Brazil,2001,-27.44,-53.93
+Aedes albopictus,14644,Brazil,2001,-25.54,-48.55
+Aedes albopictus,14644,Brazil,2001,-22.92,-43.3
+Aedes albopictus,14644,Brazil,2001,-22.78,-42.73
+Aedes albopictus,14644,Brazil,2001,-20.29,-40.45
+Aedes albopictus,14644,Brazil,2001,-12.9,-38.44
+Aedes albopictus,14644,Brazil,2001,-2.63,-44.28
+Aedes albopictus,14644,United States of America,2001,28.64,-82.48
+Aedes albopictus,14644,China,2001,43.68,126.21
+Aedes albopictus,14689,Brazil,2003,-16.64,-49.28
+Aedes albopictus,14763,Brazil,2003,-22.88,-43.25
+Aedes albopictus,14864,Viet Nam,2002,10.17,106.0
+Aedes albopictus,14864,Viet Nam,2002,10.76,106.68
+Aedes albopictus,14892,Brazil,2005,-16.64,-49.28
+Aedes albopictus,15067,United States of America,2005,25.91,-97.5
+Aedes albopictus,15161,United States of America,2002,20.75,-155.99
+Aedes albopictus,15161,United States of America,2002,20.86,-156.56
+Aedes albopictus,15161,United States of America,2002,21.44,-158.0
+Aedes albopictus,15161,United States of America,2002,22.04,-159.6
+Aedes albopictus,15232,China,2002,23.87,120.8
+Aedes albopictus,15246,Nigeria,1968,7.41,3.9
+Aedes albopictus,15249,Cuba,2002,23.14,-82.36
+Aedes albopictus,15259,Brazil,2003,-9.15,-64.3
+Aedes albopictus,1556,China,1978,23.0,113.08
+Aedes albopictus,1556,China,1979,22.94,113.44
+Aedes albopictus,1556,China,1986,23.11,113.25
+Aedes albopictus,1857,Malaysia,1994,3.05,101.76
+Aedes albopictus,1857,Malaysia,1994,3.13,101.63
+Aedes albopictus,1857,Malaysia,1994,3.16,101.7
+Aedes albopictus,1857,Malaysia,1994,3.18,101.7
+Aedes albopictus,1857,Malaysia,1994,3.21,101.63
+Aedes albopictus,1902,Thailand,1995,8.55,99.28
+Aedes albopictus,1902,Thailand,1995,9.42,100.0
+Aedes albopictus,1902,Thailand,1995,9.45,100.03
+Aedes albopictus,1902,Thailand,1995,9.5,100.01
+Aedes albopictus,2005,Bangladesh,2001,23.72,90.4
+Aedes albopictus,2778,India,1996,28.6,77.2
+Aedes albopictus,304,Philippines,1995,14.6,120.98
+Aedes albopictus,367,China,1988,22.63,120.35
+Aedes albopictus,382,Singapore,1996,1.29,103.85
+Aedes albopictus,4785,Brazil,2002,-22.88,-43.09
+Aedes albopictus,5008,Brazil,1998,-22.07,-42.92
+Aedes albopictus,70,Malaysia,1995,2.05,103.51
+Aedes albopictus,70,Malaysia,1995,3.14,101.69
+Aedes albopictus,70,Malaysia,1995,4.8,101.06
+Aedes albopictus,70,Malaysia,1995,4.91,103.04
+Aedes albopictus,70,Malaysia,1995,5.35,100.45
+Aedes albopictus,2385,Brazil,1997,-21.74,-52.26
+Aedes albopictus,6006,Brazil,2001,-18.58,-45.45
+Aedes albopictus,18446,China,2011,23.04,113.37
+Aedes albopictus,18446,China,2011,23.08,113.43
+Aedes albopictus,18446,China,2011,23.09,113.29
+Aedes albopictus,18446,China,2011,23.12,113.23
+Aedes albopictus,18446,China,2011,23.12,113.29
+Aedes albopictus,18446,China,2011,23.15,113.29
+Aedes albopictus,18446,China,2011,23.16,113.45
+Aedes albopictus,18446,China,2011,23.16,113.35
+Aedes albopictus,18446,China,2011,23.42,113.82
+Aedes albopictus,18446,China,2011,23.43,113.33
+Aedes albopictus,18447,India,2011,26.49,92.59
+Aedes albopictus,18447,India,2011,26.66,93.17
+Aedes albopictus,18447,India,2011,26.71,92.54
+Aedes albopictus,18447,India,2011,26.86,93.31
+Aedes albopictus,18447,India,2011,26.89,93.46
+Aedes albopictus,18447,India,2011,26.9,93.68
+Aedes albopictus,18447,India,2011,26.94,93.73
+Aedes albopictus,18448,Malaysia,0,2.66,101.59
+Aedes albopictus,18450,Nigeria,2011,7.77,4.57
+Aedes albopictus,18451,Congo,2011,-4.33,15.11
+Aedes albopictus,18451,Congo,2011,-4.28,15.24
+Aedes albopictus,18451,Congo,2011,-4.27,15.22
+Aedes albopictus,18451,Congo,2011,-4.26,15.2
+Aedes albopictus,18452,Malaysia,0,3.23,101.7
+Aedes albopictus,18452,Malaysia,0,3.24,101.7
+Aedes albopictus,18453,"Korea, Republic of",2010,33.25,126.57
+Aedes albopictus,18453,"Korea, Republic of",2011,33.24,126.56
+Aedes albopictus,18453,"Korea, Republic of",2011,33.25,126.6
+Aedes albopictus,18453,"Korea, Republic of",2011,33.25,126.57
+Aedes albopictus,18453,"Korea, Republic of",2011,33.25,126.56
+Aedes albopictus,18453,"Korea, Republic of",2011,33.27,126.59
+Aedes albopictus,18454,Turkey,2011,40.89,26.65
+Aedes albopictus,18454,Turkey,2011,40.92,26.32
+Aedes albopictus,18455,Brunei Darussalam,2012,4.58,114.19
+Aedes albopictus,18455,Brunei Darussalam,2012,4.89,114.97
+Aedes albopictus,18455,Brunei Darussalam,2012,4.97,114.87
+Aedes albopictus,18455,Brunei Darussalam,2012,5.04,115.04
+Aedes albopictus,18456,Malaysia,2007,3.03,101.25
+Aedes albopictus,18456,Malaysia,2008,3.03,101.25
+Aedes albopictus,18457,India,2008,22.57,88.36
+Aedes albopictus,18458,Malaysia,2010,5.27,100.28
+Aedes albopictus,18459,C?te d'Ivoire,2010,5.27,-4.01
+Aedes albopictus,18461,Madagascar,2010,-18.93,47.53
+Aedes albopictus,18461,Madagascar,2010,-18.82,47.44
+Aedes albopictus,18461,Madagascar,2010,-18.32,47.12
+Aedes albopictus,18461,Madagascar,2010,-18.15,49.4
+Aedes albopictus,18462,United States of America,0,29.89,-81.34
+Aedes albopictus,18463,Brazil,2008,-3.05,-59.94
+Aedes albopictus,18463,Brazil,2009,-3.05,-59.94
+Aedes albopictus,18463,Brazil,2010,-3.05,-59.94
+Aedes albopictus,18463,Brazil,2011,-3.05,-59.94
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.1,104.95
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.33,105.24
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.41,105.2
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.61,105.16
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.63,105.32
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.64,105.16
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.67,105.26
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.68,105.22
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.72,105.14
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.75,105.11
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.82,105.05
+Aedes albopictus,18464,Lao People's Democratic Republic,2009,17.84,105.05
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.4,104.8
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.43,104.86
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.44,105.03
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.44,105.13
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.45,104.96
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.48,105.17
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.54,105.16
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.6,105.17
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.64,105.17
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.68,105.22
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.72,105.14
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.72,105.15
+Aedes albopictus,18464,Lao People's Democratic Republic,2010,17.84,105.05
+Aedes albopictus,18465,Japan,2007,24.32,124.09
+Aedes albopictus,18466,Philippines,2008,10.42,123.89
+Aedes albopictus,18466,Philippines,2008,10.42,123.9
+Aedes albopictus,18466,Philippines,2008,10.43,123.87
+Aedes albopictus,18466,Philippines,2008,10.43,123.89
+Aedes albopictus,18466,Philippines,2008,10.43,123.88
+Aedes albopictus,18467,R?union,0,-20.9,55.46
+Aedes albopictus,18468,Malaysia,0,3.14,101.69
+Aedes albopictus,18469,R?union,0,-21.12,55.54
+Aedes albopictus,18469,R?union,0,-21.1,55.68
+Aedes albopictus,18470,Haiti,2010,18.56,-72.25
+Aedes albopictus,18471,Sri Lanka,2012,9.68,80.17
+Aedes albopictus,18472,Lebanon,2010,33.53,35.38
+Aedes albopictus,18472,Lebanon,2010,33.66,35.62
+Aedes albopictus,18472,Lebanon,2010,33.79,35.54
+Aedes albopictus,18472,Lebanon,2010,33.86,35.57
+Aedes albopictus,18472,Lebanon,2010,33.87,35.7
+Aedes albopictus,18472,Lebanon,2010,33.88,35.57
+Aedes albopictus,18472,Lebanon,2010,33.89,35.63
+Aedes albopictus,18472,Lebanon,2010,33.89,35.5
+Aedes albopictus,18472,Lebanon,2010,33.98,35.62
+Aedes albopictus,18472,Lebanon,2010,34.21,35.72
+Aedes albopictus,18472,Lebanon,2010,34.4,36.39
+Aedes albopictus,18473,Tonga,2011,-21.15,-175.22
+Aedes albopictus,18476,Gabon,2010,0.39,9.45
+Aedes albopictus,18479,India,2006,9.7,76.3
+Aedes albopictus,18479,India,2009,11.72,75.67
+Aedes albopictus,18480,R?union,2011,-20.92,55.51
+Aedes albopictus,18481,Central African Republic,2010,4.37,18.55
+Aedes albopictus,18483,India,2010,11.49,75.84
+Aedes albopictus,18483,India,2010,11.69,76.13
+Aedes albopictus,18483,India,2010,11.97,75.62
+Aedes albopictus,18484,Mexico,2007,14.84,-92.19
+Aedes albopictus,18485,Israel,2007,31.82,34.92
+Aedes albopictus,18485,Israel,2007,31.96,34.94
+Aedes albopictus,18485,Israel,2007,32.02,34.91
+Aedes albopictus,18485,Israel,2007,32.27,34.85
+Aedes albopictus,18485,Israel,2007,32.33,35.0
+Aedes albopictus,18485,Israel,2007,32.35,34.92
+Aedes albopictus,18485,Israel,2007,32.36,34.87
+Aedes albopictus,18485,West Bank,2007,32.38,35.06
+Aedes albopictus,18485,Israel,2007,32.48,35.03
+Aedes albopictus,18485,Israel,2007,32.59,34.95
+Aedes albopictus,18485,Israel,2007,32.69,35.05
+Aedes albopictus,18485,Israel,2007,32.77,35.1
+Aedes albopictus,18485,Israel,2007,32.95,35.09
+Aedes albopictus,18485,Israel,2007,33.02,35.17
+Aedes albopictus,18485,Israel,2007,33.08,35.14
+Aedes albopictus,18486,Cameroon,2009,3.84,11.5
+Aedes albopictus,18486,Cameroon,2009,3.9,11.5
+Aedes albopictus,18487,Madagascar,2007,-21.45,47.09
+Aedes albopictus,18487,Madagascar,2007,-21.22,48.35
+Aedes albopictus,18487,Madagascar,2007,-20.53,47.24
+Aedes albopictus,18487,Madagascar,2007,-20.3,44.3
+Aedes albopictus,18487,Madagascar,2007,-18.91,47.53
+Aedes albopictus,18487,Madagascar,2007,-18.14,49.39
+Aedes albopictus,18487,Madagascar,2007,-15.7,46.33
+Aedes albopictus,18487,Madagascar,2008,-21.45,47.09
+Aedes albopictus,18487,Madagascar,2008,-21.22,48.35
+Aedes albopictus,18487,Madagascar,2008,-20.53,47.24
+Aedes albopictus,18487,Madagascar,2008,-20.3,44.3
+Aedes albopictus,18487,Madagascar,2008,-18.91,47.53
+Aedes albopictus,18487,Madagascar,2008,-18.14,49.39
+Aedes albopictus,18487,Madagascar,2008,-15.7,46.33
+Aedes albopictus,18487,Madagascar,2009,-21.45,47.09
+Aedes albopictus,18487,Madagascar,2009,-21.24,47.38
+Aedes albopictus,18487,Madagascar,2009,-21.22,48.35
+Aedes albopictus,18487,Madagascar,2009,-20.53,47.24
+Aedes albopictus,18487,Madagascar,2009,-20.3,44.3
+Aedes albopictus,18487,Madagascar,2009,-18.91,47.53
+Aedes albopictus,18487,Madagascar,2009,-18.41,47.94
+Aedes albopictus,18487,Madagascar,2009,-18.32,47.11
+Aedes albopictus,18487,Madagascar,2009,-18.14,49.39
+Aedes albopictus,18487,Madagascar,2009,-15.7,46.33
+Aedes albopictus,18487,Madagascar,2009,-13.68,48.45
+Aedes albopictus,18487,Madagascar,2009,-12.62,49.15
+Aedes albopictus,18487,Madagascar,2009,-12.29,49.3
+Aedes albopictus,18488,Haiti,2010,18.09,-73.93
+Aedes albopictus,18488,Haiti,2010,18.2,-73.75
+Aedes albopictus,18488,Haiti,2010,18.23,-72.4
+Aedes albopictus,18488,Haiti,2010,18.33,-73.86
+Aedes albopictus,18488,Haiti,2010,18.49,-74.45
+Aedes albopictus,18488,Haiti,2010,18.53,-72.33
+Aedes albopictus,18488,Haiti,2010,18.54,-72.41
+Aedes albopictus,18488,Haiti,2010,18.57,-73.89
+Aedes albopictus,18488,Haiti,2010,18.65,-74.12
+Aedes albopictus,18488,Haiti,2010,18.65,-72.09
+Aedes albopictus,18488,Haiti,2010,18.77,-72.51
+Aedes albopictus,18488,Haiti,2010,18.83,-72.1
+Aedes albopictus,18488,Haiti,2010,19.05,-72.47
+Aedes albopictus,18489,India,2005,15.4,74.02
+Aedes albopictus,18490,Mexico,2011,21.15,-86.89
+Aedes albopictus,18491,India,0,11.26,75.78
+Aedes albopictus,18492,Gabon,2010,-0.5,13.1
+Aedes albopictus,18493,Sri Lanka,2008,7.73,81.7
+Aedes albopictus,18493,Sri Lanka,2008,9.68,80.02
+Aedes albopictus,18493,Sri Lanka,2010,7.77,81.61
+Aedes albopictus,18493,Sri Lanka,2010,9.68,80.02
+Aedes albopictus,18494,Malaysia,0,5.36,100.3
+Aedes albopictus,18495,Malaysia,0,5.32,100.28
+Aedes albopictus,18495,Malaysia,0,5.35,100.3
+Aedes albopictus,18496,Marshall Islands,2010,8.72,167.74
+Aedes albopictus,18496,Guam,2010,13.44,144.79
+Aedes albopictus,18497,India,2010,24.47,85.6
+Aedes albopictus,18498,India,2008,10.06,76.21
+Aedes albopictus,18501,Malaysia,2009,5.7,101.84
+Aedes albopictus,18501,Malaysia,2009,5.81,102.15
+Aedes albopictus,18501,Malaysia,2009,6.04,102.14
+Aedes albopictus,18501,Malaysia,2009,6.2,102.17
+Aedes albopictus,18502,Malaysia,2007,4.26,101.55
+Aedes albopictus,18502,Malaysia,2008,4.26,101.55
+Aedes albopictus,18503,India,2008,28.7,77.22
+Aedes albopictus,18503,India,2008,28.7,77.1
+Aedes albopictus,18503,India,2009,28.51,77.22
+Aedes albopictus,18503,India,2009,28.6,77.16
+Aedes albopictus,18503,India,2009,28.6,77.25
+Aedes albopictus,18503,India,2009,28.61,77.18
+Aedes albopictus,18503,India,2009,28.62,77.3
+Aedes albopictus,18503,India,2009,28.65,77.19
+Aedes albopictus,18503,India,2009,28.66,77.2
+Aedes albopictus,18503,India,2009,28.67,77.21
+Aedes albopictus,18503,India,2009,28.68,77.22
+Aedes albopictus,18503,India,2009,28.68,77.27
+Aedes albopictus,18503,India,2009,28.68,77.21
+Aedes albopictus,18503,India,2009,28.7,77.1
+Aedes albopictus,18503,India,2009,28.72,77.17
+Aedes albopictus,18504,United States of America,2009,36.15,-95.99
+Aedes albopictus,18505,Cameroon,2007,3.83,10.55
+Aedes albopictus,18505,Cameroon,2007,3.87,11.52
+Aedes albopictus,18505,Cameroon,2007,4.03,9.68
+Aedes albopictus,18505,Cameroon,2007,4.15,9.22
+Aedes albopictus,18505,Cameroon,2007,5.48,10.43
+Aedes albopictus,18505,Cameroon,2007,5.88,14.55
+Aedes albopictus,18506,Malaysia,2008,3.57,101.89
+Aedes albopictus,18506,Malaysia,2009,3.57,101.89
+Aedes albopictus,18506,Malaysia,2009,3.57,101.88
+Aedes albopictus,18507,Gabon,2007,0.39,9.45
+Aedes albopictus,18507,Cameroon,2007,4.17,9.23
+Aedes albopictus,18507,Cameroon,2007,9.3,13.4
+Aedes albopictus,18508,India,0,12.86,74.83
+Aedes albopictus,18509,Algeria,2010,36.64,4.21
+Aedes albopictus,18510,Malaysia,0,2.94,101.68
+Aedes albopictus,18511,Singapore,2008,1.43,103.76
+Aedes albopictus,18512,Singapore,2009,1.35,103.82
+Aedes albopictus,18512,Singapore,2009,1.42,103.76
+Aedes albopictus,18514,India,2007,8.53,77.1
+Aedes albopictus,18514,India,2007,9.26,76.96
+Aedes albopictus,18514,India,2007,9.6,76.69
+Aedes albopictus,18514,India,2007,10.07,76.55
+Aedes albopictus,18514,India,2007,10.95,76.55
+Aedes albopictus,18515,R?union,2010,-21.12,55.54
+Aedes albopictus,18517,Mexico,2006,14.87,-92.43
+Aedes albopictus,18517,Mexico,2006,14.88,-92.23
+Aedes albopictus,18519,Mexico,2009,18.62,-99.18
+Aedes albopictus,18519,Mexico,2009,18.68,-99.1
+Aedes albopictus,18519,Mexico,2009,18.81,-98.95
+Aedes albopictus,18520,Thailand,0,6.62,100.07
+Aedes albopictus,18520,Thailand,0,7.2,100.6
+Aedes albopictus,18520,Thailand,0,7.74,98.78
+Aedes albopictus,18520,Thailand,0,8.06,98.92
+Aedes albopictus,18520,Thailand,0,8.44,98.52
+Aedes albopictus,18520,Thailand,0,9.13,99.33
+Aedes albopictus,18520,Thailand,0,9.53,99.94
+Aedes albopictus,18520,Thailand,0,10.09,99.84
+Aedes albopictus,18520,Thailand,0,12.61,102.11
+Aedes albopictus,18520,Thailand,0,14.0,99.55
+Aedes albopictus,18520,Thailand,0,14.88,103.5
+Aedes albopictus,18520,Thailand,0,15.23,104.86
+Aedes albopictus,18520,Thailand,0,16.44,102.84
+Aedes albopictus,18520,Thailand,0,18.14,100.14
+Aedes albopictus,18520,Thailand,0,18.26,99.55
+Aedes albopictus,18520,Thailand,0,18.58,99.01
+Aedes albopictus,18520,Thailand,0,18.84,98.97
+Aedes albopictus,18520,Thailand,0,19.91,99.83
+Aedes albopictus,18521,Malaysia,2007,3.02,101.25
+Aedes albopictus,18521,Malaysia,2007,3.04,101.28
+Aedes albopictus,18521,Malaysia,2008,3.02,101.25
+Aedes albopictus,18521,Malaysia,2008,3.04,101.28
+Aedes albopictus,18522,India,2006,11.24,75.88
+Aedes albopictus,18522,India,2007,11.24,75.88
+Aedes albopictus,18522,India,2008,11.24,75.88
+Aedes albopictus,18522,India,2009,11.24,75.88
+Aedes albopictus,18523,Israel,2009,32.61,34.93
+Aedes albopictus,18523,Israel,2009,32.75,34.98
+Aedes albopictus,18524,Central African Republic,2009,2.7,16.1
+Aedes albopictus,18524,Central African Republic,2009,2.9,16.27
+Aedes albopictus,18524,Central African Republic,2009,3.19,16.12
+Aedes albopictus,18524,Central African Republic,2009,3.52,16.05
+Aedes albopictus,18524,Central African Republic,2009,4.37,18.58
+Aedes albopictus,18525,India,2009,11.16,75.81
+Aedes albopictus,18525,India,2009,11.17,75.8
+Aedes albopictus,18525,India,2009,11.22,75.84
+Aedes albopictus,18526,Malaysia,2009,5.28,100.29
+Aedes albopictus,18526,Malaysia,2009,5.29,100.26
+Aedes albopictus,18526,Malaysia,2009,5.34,100.2
+Aedes albopictus,18526,Malaysia,2009,5.35,100.2
+Aedes albopictus,18526,Malaysia,2009,5.39,100.21
+Aedes albopictus,18526,Malaysia,2009,5.4,100.29
+Aedes albopictus,18527,India,2006,11.49,75.85
+Aedes albopictus,18527,India,2007,11.49,75.85
+Aedes albopictus,18527,India,2008,11.49,75.85
+Aedes albopictus,18527,India,2009,11.49,75.85
+Aedes albopictus,18528,Malaysia,2001,1.75,104.07
+Aedes albopictus,18529,India,0,8.45,77.0
+Aedes albopictus,18531,Colombia,2003,-4.22,-69.94
+Aedes albopictus,18533,Nigeria,2005,7.15,3.36
+Aedes albopictus,18533,Nigeria,2006,7.15,3.36
+Aedes albopictus,18536,India,2003,20.97,82.04
+Aedes albopictus,18537,Malaysia,0,3.12,101.66
+Aedes albopictus,18537,Malaysia,0,3.13,101.65
+Aedes albopictus,18538,India,0,20.58,86.66
+Aedes albopictus,18539,Cayman Islands,1997,19.29,-81.37
+Aedes albopictus,18539,Cayman Islands,1998,19.29,-81.37
+Aedes albopictus,18539,Cayman Islands,1999,19.28,-81.33
+Aedes albopictus,18539,Cayman Islands,1999,19.29,-81.37
+Aedes albopictus,18539,Cayman Islands,1999,19.33,-81.38
+Aedes albopictus,18539,Cayman Islands,2000,19.28,-81.33
+Aedes albopictus,18539,Cayman Islands,2000,19.29,-81.37
+Aedes albopictus,18539,Cayman Islands,2000,19.33,-81.38
+Aedes albopictus,18539,Cayman Islands,2001,19.28,-81.33
+Aedes albopictus,18539,Cayman Islands,2001,19.29,-81.37
+Aedes albopictus,18540,Thailand,2009,7.18,100.61
+Aedes albopictus,18543,Singapore,2008,1.3,103.85
+Aedes albopictus,18543,Singapore,2008,1.31,103.85
+Aedes albopictus,18543,Singapore,2008,1.38,103.83
+Aedes albopictus,18543,Singapore,2008,1.41,103.76
+Aedes albopictus,18543,Singapore,2008,1.41,103.82
+Aedes albopictus,18543,Singapore,2008,1.42,103.75
+Aedes albopictus,18544,Gabon,2007,-0.83,12.72
+Aedes albopictus,18544,Gabon,2007,0.31,9.51
+Aedes albopictus,18544,Gabon,2007,0.37,9.46
+Aedes albopictus,18544,Gabon,2007,0.37,9.48
+Aedes albopictus,18544,Gabon,2007,0.38,9.46
+Aedes albopictus,18544,Gabon,2007,0.39,9.48
+Aedes albopictus,18544,Gabon,2007,0.4,9.48
+Aedes albopictus,18544,Gabon,2007,0.41,9.52
+Aedes albopictus,18544,Gabon,2007,0.41,9.46
+Aedes albopictus,18544,Gabon,2007,0.41,9.44
+Aedes albopictus,18544,Gabon,2007,0.43,9.47
+Aedes albopictus,18544,Gabon,2007,0.43,9.49
+Aedes albopictus,18544,Gabon,2007,0.44,9.44
+Aedes albopictus,18544,Gabon,2007,0.44,9.5
+Aedes albopictus,18544,Gabon,2007,0.47,9.41
+Aedes albopictus,18544,Gabon,2007,0.49,9.4
+Aedes albopictus,18544,Gabon,2007,0.99,9.59
+Aedes albopictus,18544,Gabon,2007,1.6,11.58
+Aedes albopictus,18544,Cameroon,2007,3.8,10.13
+Aedes albopictus,18544,Cameroon,2007,3.85,10.52
+Aedes albopictus,18544,Cameroon,2007,3.87,11.52
+Aedes albopictus,18544,Cameroon,2007,3.91,12.53
+Aedes albopictus,18544,Cameroon,2007,3.98,13.17
+Aedes albopictus,18544,Cameroon,2007,4.05,9.7
+Aedes albopictus,18544,Cameroon,2007,4.58,13.68
+Aedes albopictus,18544,Cameroon,2007,4.75,11.22
+Aedes albopictus,18544,Cameroon,2007,5.14,10.52
+Aedes albopictus,18544,Cameroon,2007,5.47,10.42
+Aedes albopictus,18544,Cameroon,2007,5.89,14.55
+Aedes albopictus,18544,Cameroon,2007,5.96,10.16
+Aedes albopictus,18545,R?union,2007,-21.12,55.54
+Aedes albopictus,18546,R?union,0,-21.32,55.5
+Aedes albopictus,18548,India,2006,10.07,73.64
+Aedes albopictus,18549,China,2004,30.18,121.32
+Aedes albopictus,18550,Gabon,2007,0.44,9.43
+Aedes albopictus,18551,Thailand,2005,16.37,99.63
+Aedes albopictus,18551,Thailand,2005,16.52,99.5
+Aedes albopictus,18552,Mexico,0,25.28,-100.02
+Aedes albopictus,18552,Mexico,0,26.02,-98.12
+Aedes albopictus,18552,Mexico,0,26.06,-98.24
+Aedes albopictus,18552,Mexico,0,28.7,-100.52
+Aedes albopictus,18553,Cayman Islands,2002,19.28,-81.27
+Aedes albopictus,18553,Cayman Islands,2002,19.28,-81.33
+Aedes albopictus,18553,Cayman Islands,2002,19.29,-81.38
+Aedes albopictus,18555,India,2009,29.08,79.52
+Aedes albopictus,18556,India,0,22.89,88.42
+Aedes albopictus,18557,Belize,2009,17.07,-89.14
+Aedes albopictus,18558,Brazil,2008,-27.53,-48.51
+Aedes albopictus,18560,China,2010,29.15,120.04
+Aedes albopictus,18560,China,2010,29.2,120.02
+Aedes albopictus,18560,China,2010,29.23,119.96
+Aedes albopictus,18560,China,2010,29.28,119.94
+Aedes albopictus,18560,China,2010,29.29,120.06
+Aedes albopictus,18560,China,2010,29.3,120.09
+Aedes albopictus,18560,China,2010,29.33,120.06
+Aedes albopictus,18560,China,2010,29.37,120.06
+Aedes albopictus,18560,China,2010,29.41,120.13
+Aedes albopictus,18560,China,2010,29.45,120.13
+Aedes albopictus,18561,Mayotte,2007,-12.96,45.17
+Aedes albopictus,18561,Mayotte,2007,-12.83,45.11
+Aedes albopictus,18561,Mayotte,2007,-12.79,45.27
+Aedes albopictus,18561,Mayotte,2007,-12.72,45.11
+Aedes albopictus,18561,Mayotte,2010,-12.96,45.17
+Aedes albopictus,18561,Mayotte,2010,-12.83,45.11
+Aedes albopictus,18561,Mayotte,2010,-12.79,45.27
+Aedes albopictus,18561,Mayotte,2010,-12.72,45.11
+Aedes albopictus,18563,Mexico,2009,20.95,-97.39
+Aedes albopictus,18563,Mexico,2009,20.95,-97.46
+Aedes albopictus,18563,Mexico,2009,20.97,-97.33
+Aedes albopictus,18563,Mexico,2009,20.97,-97.4
+Aedes albopictus,18564,Sri Lanka,2008,7.17,80.12
+Aedes albopictus,18564,Sri Lanka,2008,7.25,80.6
+Aedes albopictus,18564,Sri Lanka,2008,7.47,80.38
+Aedes albopictus,18564,Sri Lanka,2008,7.58,79.8
+Aedes albopictus,18565,China,2010,22.62,120.3
+Aedes albopictus,18566,Sri Lanka,2009,7.07,80.01
+Aedes albopictus,18568,Thailand,2004,16.4,102.79
+Aedes albopictus,18568,Thailand,2004,18.79,98.99
+Aedes albopictus,18569,India,2010,27.47,94.91
+Aedes albopictus,18570,Thailand,0,6.75,100.4
+Aedes albopictus,18570,Thailand,0,6.9,100.53
+Aedes albopictus,18570,Thailand,0,9.03,99.37
+Aedes albopictus,18570,Thailand,0,10.5,99.12
+Aedes albopictus,18570,Thailand,0,12.55,99.88
+Aedes albopictus,18571,Philippines,2011,14.43,121.03
+Aedes albopictus,18572,India,0,25.67,94.11
+Aedes albopictus,18572,India,0,25.76,93.87
+Aedes albopictus,18572,India,0,25.8,93.78
+Aedes albopictus,18572,India,0,26.32,94.51
+Aedes albopictus,18572,India,0,26.66,94.64
+Aedes albopictus,18573,India,2007,20.17,85.02
+Aedes albopictus,18573,India,2007,20.58,86.66
+Aedes albopictus,18575,Mexico,2009,25.29,-100.01
+Aedes albopictus,18576,Japan,2000,24.41,124.2
+Aedes albopictus,18576,Japan,2000,39.72,140.1
+Aedes albopictus,18577,Lao People's Democratic Republic,2008,17.72,105.21
+Aedes albopictus,18578,Bermuda,2007,32.3,-64.75
+Aedes albopictus,18579,Japan,2007,32.7,129.85
+Aedes albopictus,18579,Japan,2007,32.74,129.88
+Aedes albopictus,18579,Japan,2007,32.75,129.88
+Aedes albopictus,18579,Japan,2007,32.76,129.88
+Aedes albopictus,18579,Japan,2007,32.77,129.86
+Aedes albopictus,18579,Japan,2007,32.77,129.85
+Aedes albopictus,18579,Japan,2007,32.77,129.87
+Aedes albopictus,18579,Japan,2007,32.78,129.85
+Aedes albopictus,18579,Japan,2007,32.78,129.87
+Aedes albopictus,18579,Japan,2007,32.78,129.86
+Aedes albopictus,18579,Japan,2007,32.79,129.86
+Aedes albopictus,18579,Japan,2007,32.8,129.85
+Aedes albopictus,18579,Japan,2007,32.81,129.85
+Aedes albopictus,18580,Viet Nam,2007,20.29,106.39
+Aedes albopictus,18580,Viet Nam,2007,20.3,106.27
+Aedes albopictus,18580,Viet Nam,2007,20.33,106.36
+Aedes albopictus,18581,Malaysia,2010,3.57,101.89
+Aedes albopictus,18581,Malaysia,2011,3.57,101.88
+Aedes albopictus,18581,Malaysia,2011,3.57,101.89
+Aedes albopictus,18582,Malaysia,0,3.09,101.62
+Aedes albopictus,18582,Malaysia,0,3.11,101.66
+Aedes albopictus,18582,Malaysia,0,3.12,101.66
+Aedes albopictus,18582,Malaysia,0,3.13,101.7
+Aedes albopictus,18584,Singapore,2010,1.27,103.81
+Aedes albopictus,18584,Singapore,2010,1.3,103.76
+Aedes albopictus,18584,Singapore,2010,1.31,103.84
+Aedes albopictus,18584,Singapore,2010,1.31,103.8
+Aedes albopictus,18584,Singapore,2010,1.35,103.87
+Aedes albopictus,18584,Singapore,2010,1.36,103.84
+Aedes albopictus,18584,Singapore,2010,1.37,103.85
+Aedes albopictus,18584,Singapore,2010,1.37,103.95
+Aedes albopictus,18584,Singapore,2010,1.37,103.88
+Aedes albopictus,18585,Thailand,2008,8.37,98.43
+Aedes albopictus,18586,China,0,33.87,116.48
+Aedes albopictus,18587,Malaysia,0,1.73,103.9
+Aedes albopictus,18588,Nepal,2010,27.67,85.32
+Aedes albopictus,18588,Nepal,2010,27.7,85.33
+Aedes albopictus,18588,Nepal,2010,27.94,84.23
+Aedes albopictus,18588,Nepal,2010,27.96,84.9
+Aedes albopictus,18589,Malaysia,2009,5.29,100.29
+Aedes albopictus,18589,Malaysia,2009,5.35,100.31
+Aedes albopictus,18589,Malaysia,2009,5.37,100.31
+Aedes albopictus,18589,Malaysia,2009,5.41,100.31
+Aedes albopictus,18590,Japan,2012,35.75,140.38
+Aedes albopictus,18591,Thailand,2008,12.67,101.26
+Aedes albopictus,18592,Thailand,2008,14.2,101.21
+Aedes albopictus,18592,Thailand,2008,14.2,101.12
+Aedes albopictus,18592,Thailand,2008,14.2,101.23
+Aedes albopictus,18592,Thailand,2008,14.26,101.13
+Aedes albopictus,18592,Thailand,2008,14.26,101.21
+Aedes albopictus,18592,Thailand,2008,14.34,101.21
+Aedes albopictus,18593,Viet Nam,2006,12.24,109.19
+Aedes albopictus,18594,Sri Lanka,2008,7.07,80.01
+Aedes albopictus,18594,Philippines,2008,14.41,121.04
+Aedes albopictus,18595,Mexico,2010,14.91,-92.26
+Aedes albopictus,18596,Mexico,2008,14.91,-92.26
+Aedes albopictus,18597,Malaysia,2009,5.3,103.14
+Aedes albopictus,18597,Malaysia,2009,5.97,116.07
+Aedes albopictus,18597,Malaysia,2009,6.12,102.26
+Aedes albopictus,18598,Japan,2007,35.63,139.7
+Aedes albopictus,18598,Japan,2007,35.63,139.62
+Aedes albopictus,18598,Japan,2007,35.67,139.69
+Aedes albopictus,18598,Japan,2007,35.72,139.74
+Aedes albopictus,13487,France,1999,48.81,-0.68
+Aedes albopictus,12145,France,2000,48.8,-0.68
+Aedes albopictus,12145,France,1999,46.76,0.48
+Aedes albopictus,13361,Italy,1993,45.85,12.25
+Aedes albopictus,13636,Croatia,2004,45.79,15.9
+Aedes albopictus,13361,Italy,1993,45.79,12.49
+Aedes albopictus,13361,Italy,1993,45.78,12.05
+Aedes albopictus,13361,Italy,1993,45.78,12.83
+Aedes albopictus,13490,Italy,1996,45.78,12.83
+Aedes albopictus,13490,Italy,0,45.78,12.05
+Aedes albopictus,13490,Italy,1996,45.75,8.43
+Aedes albopictus,13361,Italy,1993,45.7,11.56
+Aedes albopictus,13490,Italy,1996,45.7,11.56
+Aedes albopictus,12524,Italy,0,45.69,13.15
+Aedes albopictus,13490,Italy,1996,45.69,11.61
+Aedes albopictus,13490,Italy,1996,45.69,11.43
+Aedes albopictus,13490,Italy,1996,45.52,10.32
+Aedes albopictus,10980,Italy,1997,45.47,10.53
+Aedes albopictus,13408,Italy,0,45.47,10.53
+Aedes albopictus,13424,Italy,1993,45.47,10.53
+Aedes albopictus,13490,Italy,1996,45.47,10.53
+Aedes albopictus,13490,Italy,1996,45.45,10.48
+Aedes albopictus,13361,Italy,1993,45.41,11.88
+Aedes albopictus,13540,Italy,2001,45.41,11.88
+Aedes albopictus,12524,Italy,0,45.35,11.78
+Aedes albopictus,13490,Italy,1996,45.35,11.87
+Aedes albopictus,13490,Italy,1996,45.21,10.79
+Aedes albopictus,13897,Croatia,2005,45.09,13.64
+Aedes albopictus,13490,Italy,1996,44.64,11.19
+Aedes albopictus,13490,Italy,1996,44.57,11.27
+Aedes albopictus,13490,Italy,1996,44.57,10.85
+Aedes albopictus,12524,Italy,0,44.5,11.08
+Aedes albopictus,13408,Italy,0,44.5,11.34
+Aedes albopictus,12524,Italy,0,44.48,11.27
+Aedes albopictus,12524,Italy,0,44.47,11.42
+Aedes albopictus,13490,Italy,1996,44.42,8.93
+Aedes albopictus,14155,Italy,2007,44.26,12.26
+Aedes albopictus,14155,Italy,2007,44.26,12.25
+Aedes albopictus,13490,Italy,1996,44.14,12.25
+Aedes albopictus,12524,Italy,0,44.09,12.4
+Aedes albopictus,13490,Italy,1996,44.09,12.4
+Aedes albopictus,13586,Italy,2002,43.74,10.8
+Aedes albopictus,13490,Italy,1996,43.71,10.61
+Aedes albopictus,13586,Italy,2002,43.68,11.12
+Aedes albopictus,13493,Italy,2000,42.09,11.79
+Aedes albopictus,10693,Albania,1979,42.07,19.52
+Aedes albopictus,13493,Italy,2000,42.03,11.95
+Aedes albopictus,13493,Italy,2000,42.03,11.84
+Aedes albopictus,13493,Italy,2000,42.02,12.68
+Aedes albopictus,13493,Italy,2000,41.98,12.05
+Aedes albopictus,13493,Italy,2000,41.93,12.12
+Aedes albopictus,11298,Italy,2004,41.92,12.49
+Aedes albopictus,13562,Italy,2000,41.92,12.49
+Aedes albopictus,11298,Italy,2003,41.89,12.5
+Aedes albopictus,13493,Italy,2000,41.89,12.5
+Aedes albopictus,13493,Italy,2000,41.85,12.2
+Aedes albopictus,13493,Italy,2000,41.84,12.83
+Aedes albopictus,14147,Italy,2003,41.81,12.21
+Aedes albopictus,13493,Italy,2000,41.77,12.24
+Aedes albopictus,14147,Italy,2003,41.76,12.29
+Aedes albopictus,13493,Italy,2000,41.74,12.28
+Aedes albopictus,13493,Italy,2000,41.72,12.67
+Aedes albopictus,10693,Albania,1979,41.68,19.73
+Aedes albopictus,10693,Albania,1979,41.63,19.72
+Aedes albopictus,13493,Italy,2000,41.63,12.45
+Aedes albopictus,13493,Italy,2000,41.61,12.54
+Aedes albopictus,13493,Italy,2000,41.57,13.33
+Aedes albopictus,10693,Albania,1979,41.52,19.8
+Aedes albopictus,13493,Italy,2000,41.5,12.58
+Aedes albopictus,13493,Italy,2000,41.47,12.9
+Aedes albopictus,13493,Italy,2000,41.46,13.67
+Aedes albopictus,13493,Italy,2000,41.45,12.62
+Aedes albopictus,10693,Albania,1979,41.33,19.45
+Aedes albopictus,10693,Albania,1979,41.33,19.83
+Aedes albopictus,10693,Albania,1992,41.33,19.83
+Aedes albopictus,10693,Albania,1979,41.0,19.79
+Aedes albopictus,10693,Albania,1979,40.9,20.68
+Aedes albopictus,10693,Albania,1979,40.62,20.79
+Aedes albopictus,18599,China,2014,23.191694,113.324815
+Aedes albopictus,18599,China,2014,23.356786,113.378339
+Aedes albopictus,18599,China,2014,23.493278,113.547571
+Aedes albopictus,18600,China,0,29.78097984,102.9118365
+Aedes albopictus,18600,China,0,30.42558153,104.1671134
+Aedes albopictus,18600,China,0,30.69699276,106.2366241
+Aedes albopictus,18600,China,0,32.15582816,105.9652129
+Aedes albopictus,18600,China,0,34.25946136,109.3872203
+Aedes albopictus,18600,China,0,34.90318057,109.355353
+Aedes albopictus,18600,China,0,34.06188417,107.0672817
+Aedes albopictus,18600,China,0,34.8075787,106.6785008
+Aedes albopictus,18600,China,0,33.90892119,106.2960934
+Aedes albopictus,18600,China,0,33.72409093,106.1176366
+Aedes albopictus,18600,China,0,33.62211561,105.7925902
+Aedes albopictus,18600,China,0,35.38756334,110.3623593
+Aedes albopictus,18600,China,0,35.7381035,111.0634396
+Aedes albopictus,18600,China,0,35.53848007,113.1103063
+Aedes albopictus,18600,China,0,36.27611298,113.4315335
+Aedes albopictus,18600,China,0,36.46646986,113.4196362
+Aedes albopictus,18600,China,0,37.59671384,113.6218904
+Aedes albopictus,18600,China,0,37.62050845,113.8241446
+Aedes albopictus,18600,China,0,38.19157909,113.3125605
+Aedes albopictus,18600,China,0,37.78707072,114.4428044
+Aedes albopictus,18600,China,0,39.70253683,116.1560164
+Aedes albopictus,18600,China,0,41.66559216,120.3438677
+Aedes albopictus,18600,China,0,42.29614932,123.684631

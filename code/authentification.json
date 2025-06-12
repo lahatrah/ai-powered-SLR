@@ -1,0 +1,5 @@
+{
+    "hf_token": "hugging_face_token",
+    "ncbi_api_key":"ncbi_api_key",
+    "email":"email"
+}
